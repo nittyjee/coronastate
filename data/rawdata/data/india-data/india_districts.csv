@@ -231,7 +231,7 @@ Andaman and Nicobar Islands,Unknown,33,45,0,12,20200630
 Andaman and Nicobar Islands,Unknown,36,48,0,12,20200701
 Andaman and Nicobar Islands,Unknown,39,57,0,18,20200702
 Andaman and Nicobar Islands,Unknown,43,64,0,21,20200703
-Andaman and Nicobar Islands,Unknown,44,67,0,23,20200704
+Andaman and Nicobar Islands,Unknown,34,67,0,33,20200704
 Andhra Pradesh,Anantapur,31,36,3,2,20200421
 Andhra Pradesh,Anantapur,31,36,3,2,20200422
 Andhra Pradesh,Anantapur,32,42,3,7,20200423
@@ -7976,7 +7976,7 @@ Chhattisgarh,Bilaspur,5,182,2,175,20200630
 Chhattisgarh,Bilaspur,8,185,2,175,20200701
 Chhattisgarh,Bilaspur,17,194,2,175,20200702
 Chhattisgarh,Bilaspur,23,200,2,175,20200703
-Chhattisgarh,Bilaspur,28,205,2,175,20200704
+Chhattisgarh,Bilaspur,47,224,2,175,20200704
 Chhattisgarh,Dakshin Bastar Dantewada,0,0,0,0,20200513
 Chhattisgarh,Dakshin Bastar Dantewada,0,0,0,0,20200514
 Chhattisgarh,Dakshin Bastar Dantewada,0,0,0,0,20200515
@@ -8914,7 +8914,7 @@ Chhattisgarh,Raipur,127,324,1,196,20200630
 Chhattisgarh,Raipur,154,355,2,199,20200701
 Chhattisgarh,Raipur,167,373,2,204,20200702
 Chhattisgarh,Raipur,167,380,2,211,20200703
-Chhattisgarh,Raipur,177,404,2,225,20200704
+Chhattisgarh,Raipur,185,412,2,225,20200704
 Chhattisgarh,Rajnandgaon,1,1,0,0,20200421
 Chhattisgarh,Rajnandgaon,0,1,0,1,20200422
 Chhattisgarh,Rajnandgaon,0,1,0,1,20200423
@@ -8989,7 +8989,7 @@ Chhattisgarh,Rajnandgaon,63,274,2,209,20200630
 Chhattisgarh,Rajnandgaon,79,292,2,211,20200701
 Chhattisgarh,Rajnandgaon,73,291,2,216,20200702
 Chhattisgarh,Rajnandgaon,74,298,2,222,20200703
-Chhattisgarh,Rajnandgaon,34,298,2,262,20200704
+Chhattisgarh,Rajnandgaon,35,299,2,262,20200704
 Chhattisgarh,Sukma,0,0,0,0,20200513
 Chhattisgarh,Sukma,0,0,0,0,20200514
 Chhattisgarh,Sukma,0,0,0,0,20200515
@@ -14949,7 +14949,7 @@ Himachal Pradesh,Hamirpur,104,245,2,139,20200630
 Himachal Pradesh,Hamirpur,87,250,2,161,20200701
 Himachal Pradesh,Hamirpur,85,253,2,166,20200702
 Himachal Pradesh,Hamirpur,79,256,2,175,20200703
-Himachal Pradesh,Hamirpur,86,263,2,175,20200704
+Himachal Pradesh,Hamirpur,85,265,2,178,20200704
 Himachal Pradesh,Kangra,1,5,1,3,20200421
 Himachal Pradesh,Kangra,1,5,1,3,20200422
 Himachal Pradesh,Kangra,1,5,1,3,20200423
@@ -15024,7 +15024,7 @@ Himachal Pradesh,Kangra,111,272,3,158,20200630
 Himachal Pradesh,Kangra,108,278,3,167,20200701
 Himachal Pradesh,Kangra,109,280,3,168,20200702
 Himachal Pradesh,Kangra,94,282,3,185,20200703
-Himachal Pradesh,Kangra,93,283,3,187,20200704
+Himachal Pradesh,Kangra,87,283,3,193,20200704
 Himachal Pradesh,Kinnaur,0,0,0,0,20200513
 Himachal Pradesh,Kinnaur,0,0,0,0,20200514
 Himachal Pradesh,Kinnaur,0,0,0,0,20200515
@@ -15455,7 +15455,7 @@ Himachal Pradesh,Solan,50,109,0,55,20200630
 Himachal Pradesh,Solan,50,110,0,56,20200701
 Himachal Pradesh,Solan,47,110,0,59,20200702
 Himachal Pradesh,Solan,46,111,0,61,20200703
-Himachal Pradesh,Solan,41,111,0,66,20200704
+Himachal Pradesh,Solan,44,114,0,66,20200704
 Himachal Pradesh,Una,14,16,0,2,20200421
 Himachal Pradesh,Una,14,16,0,2,20200422
 Himachal Pradesh,Una,14,16,0,2,20200423
@@ -15530,7 +15530,7 @@ Himachal Pradesh,Una,30,108,0,78,20200630
 Himachal Pradesh,Una,25,110,0,85,20200701
 Himachal Pradesh,Una,23,113,0,90,20200702
 Himachal Pradesh,Una,25,119,0,94,20200703
-Himachal Pradesh,Una,25,119,0,94,20200704
+Himachal Pradesh,Una,24,119,0,95,20200704
 Himachal Pradesh,Unknown,1,1,0,0,20200423
 Himachal Pradesh,Unknown,0,1,1,0,20200424
 Himachal Pradesh,Unknown,-5,1,1,5,20200425
@@ -43498,7 +43498,7 @@ Tripura,Dhalai,12,213,0,201,20200630
 Tripura,Dhalai,12,213,0,201,20200701
 Tripura,Dhalai,17,218,0,201,20200702
 Tripura,Dhalai,41,242,0,201,20200703
-Tripura,Dhalai,41,242,0,201,20200704
+Tripura,Dhalai,43,244,0,201,20200704
 Tripura,Gomati,1,1,0,0,20200421
 Tripura,Gomati,1,1,0,0,20200422
 Tripura,Gomati,1,1,0,0,20200423
@@ -43626,7 +43626,7 @@ Tripura,Khowai,37,67,0,30,20200630
 Tripura,Khowai,38,68,0,30,20200701
 Tripura,Khowai,38,70,0,32,20200702
 Tripura,Khowai,47,79,0,32,20200703
-Tripura,Khowai,47,79,0,32,20200704
+Tripura,Khowai,48,80,0,32,20200704
 Tripura,North Tripura,1,1,0,0,20200421
 Tripura,North Tripura,1,1,0,0,20200422
 Tripura,North Tripura,1,1,0,0,20200423
@@ -43701,7 +43701,7 @@ Tripura,North Tripura,14,27,0,13,20200630
 Tripura,North Tripura,15,28,0,13,20200701
 Tripura,North Tripura,18,34,0,16,20200702
 Tripura,North Tripura,31,47,0,16,20200703
-Tripura,North Tripura,31,47,0,16,20200704
+Tripura,North Tripura,35,51,0,16,20200704
 Tripura,Sipahijala,0,0,0,0,20200513
 Tripura,Sipahijala,0,0,0,0,20200514
 Tripura,Sipahijala,0,0,0,0,20200515
@@ -43754,7 +43754,7 @@ Tripura,Sipahijala,45,562,0,517,20200630
 Tripura,Sipahijala,46,563,0,517,20200701
 Tripura,Sipahijala,46,568,0,522,20200702
 Tripura,Sipahijala,57,579,0,522,20200703
-Tripura,Sipahijala,57,579,0,522,20200704
+Tripura,Sipahijala,66,588,0,522,20200704
 Tripura,South Tripura,0,0,0,0,20200513
 Tripura,South Tripura,0,0,0,0,20200514
 Tripura,South Tripura,0,0,0,0,20200515
@@ -43807,7 +43807,7 @@ Tripura,South Tripura,58,134,0,76,20200630
 Tripura,South Tripura,59,135,0,76,20200701
 Tripura,South Tripura,57,136,0,79,20200702
 Tripura,South Tripura,59,138,0,79,20200703
-Tripura,South Tripura,59,138,0,79,20200704
+Tripura,South Tripura,60,139,0,79,20200704
 Tripura,Unknown,0,24,0,0,20200507
 Tripura,Unknown,-2,-2,0,0,20200518
 Tripura,Unknown,2,2,0,0,20200519
@@ -43945,7 +43945,7 @@ Tripura,West Tripura,69,158,1,88,20200630
 Tripura,West Tripura,72,161,1,88,20200701
 Tripura,West Tripura,57,179,1,121,20200702
 Tripura,West Tripura,74,196,1,121,20200703
-Tripura,West Tripura,74,196,1,121,20200704
+Tripura,West Tripura,82,204,1,121,20200704
 Uttar Pradesh,Agra,282,306,6,18,20200421
 Uttar Pradesh,Agra,300,324,6,18,20200422
 Uttar Pradesh,Agra,311,336,7,18,20200423
