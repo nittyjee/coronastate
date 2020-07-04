@@ -12,5 +12,5 @@ filestructure.txt
 *.geojson
 data/latestdata.csv
 data/layers/*_nl
-data/layers
+data/layers/
 .DS_Store
