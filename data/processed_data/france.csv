@@ -1,0 +1,2081 @@
+adm0,adm1,adm2,adm3,date,confirmedCount,curedCount,deadCount
+France,Metropolitan France,,,2020-01-24,3.0,0.0,0.0
+France,Metropolitan France,,,2020-01-25,3.0,0.0,0.0
+France,Metropolitan France,,,2020-01-26,3.0,0.0,0.0
+France,Metropolitan France,,,2020-01-27,3.0,0.0,0.0
+France,Metropolitan France,,,2020-01-28,4.0,0.0,0.0
+France,Metropolitan France,,,2020-01-29,5.0,0.0,0.0
+France,Metropolitan France,,,2020-01-30,6.0,0.0,0.0
+France,Metropolitan France,,,2020-01-31,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-01,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-02,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-03,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-04,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-05,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-06,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-07,6.0,0.0,0.0
+France,Metropolitan France,,,2020-02-08,11.0,0.0,0.0
+France,Metropolitan France,,,2020-02-09,11.0,0.0,0.0
+France,Metropolitan France,,,2020-02-10,11.0,0.0,0.0
+France,Metropolitan France,,,2020-02-11,11.0,0.0,0.0
+France,Metropolitan France,,,2020-02-12,11.0,2.0,0.0
+France,Metropolitan France,,,2020-02-13,11.0,3.0,0.0
+France,Metropolitan France,,,2020-02-14,11.0,3.0,1.0
+France,Metropolitan France,,,2020-02-15,12.0,4.0,1.0
+France,Metropolitan France,,,2020-02-16,12.0,4.0,1.0
+France,Metropolitan France,,,2020-02-17,12.0,4.0,1.0
+France,Metropolitan France,,,2020-02-18,12.0,4.0,1.0
+France,Metropolitan France,,,2020-02-19,12.0,7.0,1.0
+France,Metropolitan France,,,2020-02-20,12.0,7.0,1.0
+France,Metropolitan France,,,2020-02-21,12.0,11.0,1.0
+France,Metropolitan France,,,2020-02-22,12.0,11.0,1.0
+France,Metropolitan France,,,2020-02-23,12.0,11.0,1.0
+France,Metropolitan France,,,2020-02-24,12.0,11.0,1.0
+France,Metropolitan France,,,2020-02-25,14.0,12.0,1.0
+France,Metropolitan France,,,2020-02-26,18.0,12.0,2.0
+France,Metropolitan France,,,2020-02-27,38.0,12.0,2.0
+France,Metropolitan France,,,2020-02-28,46.0,12.0,2.0
+France,Metropolitan France,,,2020-02-29,100.0,12.0,2.0
+France,Metropolitan France,,,2020-03-01,130.0,12.0,2.0
+France,Metropolitan France,,,2020-03-02,191.0,12.0,3.0
+France,Metropolitan France,,,2020-03-03,212.0,12.0,4.0
+France,Metropolitan France,,,2020-03-04,285.0,12.0,4.0
+France,Metropolitan France,,,2020-03-05,423.0,12.0,7.0
+France,Metropolitan France,,,2020-03-06,613.0,12.0,9.0
+France,Metropolitan France,,,2020-03-07,949.0,12.0,16.0
+France,Metropolitan France,,,2020-03-08,1126.0,12.0,19.0
+France,Metropolitan France,,,2020-03-09,1412.0,12.0,30.0
+France,Metropolitan France,,,2020-03-10,1784.0,12.0,33.0
+France,Metropolitan France,,,2020-03-11,2281.0,12.0,48.0
+France,Metropolitan France,,,2020-03-12,2876.0,22.0,61.0
+France,Metropolitan France,,,2020-03-13,3661.0,22.0,79.0
+France,Metropolitan France,,,2020-03-14,4499.0,22.0,91.0
+France,Metropolitan France,,,2020-03-15,5423.0,28.0,127.0
+France,Metropolitan France,,,2020-03-16,6633.0,28.0,148.0
+France,Metropolitan France,,,2020-03-17,7730.0,28.0,175.0
+France,Metropolitan France,,,2020-03-18,9134.0,1100.0,244.0
+France,Metropolitan France,,,2020-03-19,10995.0,1300.0,372.0
+France,Metropolitan France,,,2020-03-20,12612.0,1587.0,450.0
+France,Metropolitan France,,,2020-03-21,14459.0,1811.0,562.0
+France,Metropolitan France,,,2020-03-22,16018.0,2200.0,674.0
+France,Metropolitan France,,,2020-03-23,19856.0,2567.0,860.0
+France,Metropolitan France,,,2020-03-24,22302.0,3281.0,1100.0
+France,Metropolitan France,,,2020-03-25,25233.0,3900.0,1331.0
+France,Metropolitan France,,,2020-03-26,29155.0,4948.0,1696.0
+France,Metropolitan France,,,2020-03-27,32964.0,5700.0,1995.0
+France,Metropolitan France,,,2020-03-28,37575.0,6624.0,2314.0
+France,Metropolitan France,,,2020-03-29,40174.0,7132.0,2606.0
+France,Metropolitan France,,,2020-03-30,44550.0,7923.0,3024.0
+France,Metropolitan France,,,2020-03-31,52128.0,9444.0,3523.0
+France,Metropolitan France,,,2020-04-01,56989.0,10934.0,4032.0
+France,Metropolitan France,,,2020-04-02,59105.0,12427.0,4503.0
+France,Metropolitan France,,,2020-04-03,64338.0,14008.0,6507.0
+France,Metropolitan France,,,2020-04-04,68605.0,15438.0,6838.0
+France,Metropolitan France,,,2020-04-05,70478.0,16182.0,8078.0
+France,Metropolitan France,,,2020-04-06,74390.0,17249.0,8911.0
+France,Metropolitan France,,,2020-04-07,78167.0,19337.0,10328.0
+France,Metropolitan France,,,2020-04-08,82048.0,21254.0,10869.0
+France,Metropolitan France,,,2020-04-09,86334.0,23206.0,12210.0
+France,Metropolitan France,,,2020-04-10,90676.0,24932.0,13197.0
+France,Metropolitan France,,,2020-04-11,93790.0,26391.0,13832.0
+France,Metropolitan France,,,2020-04-12,95403.0,27186.0,14393.0
+France,Metropolitan France,,,2020-04-13,98076.0,27718.0,14967.0
+France,Metropolitan France,,,2020-04-14,103573.0,28805.0,15729.0
+France,Metropolitan France,,,2020-04-15,106206.0,30995.0,17167.0
+France,Metropolitan France,,,2020-04-16,108847.0,32812.0,17920.0
+France,Metropolitan France,,,2020-04-17,109252.0,34420.0,18681.0
+France,Metropolitan France,,,2020-04-18,111821.0,35983.0,19323.0
+France,Metropolitan France,,,2020-04-19,112606.0,36578.0,19718.0
+France,Metropolitan France,,,2020-04-20,114657.0,37409.0,20265.0
+France,Metropolitan France,,,2020-04-21,117324.0,39181.0,20796.0
+France,Metropolitan France,,,2020-04-22,119151.0,40651.0,21340.0
+France,Metropolitan France,,,2020-04-23,120804.0,42082.0,21856.0
+France,Metropolitan France,,,2020-04-24,122577.0,43493.0,22245.0
+France,Metropolitan France,,,2020-04-25,124114.0,44587.0,22603.0
+France,Metropolitan France,,,2020-04-26,124575.0,44903.0,22856.0
+France,Metropolitan France,,,2020-04-27,125770.0,45513.0,23293.0
+France,Metropolitan France,,,2020-04-28,126835.0,46886.0,23660.0
+France,Metropolitan France,,,2020-04-29,128442.0,48228.0,24087.0
+France,Metropolitan France,,,2020-04-30,129581.0,49476.0,24376.0
+France,Metropolitan France,,,2020-05-01,130185.0,50212.0,24594.0
+France,Metropolitan France,,,2020-05-02,130979.0,50562.0,24760.0
+France,Metropolitan France,,,2020-05-03,131287.0,50784.0,24895.0
+France,Metropolitan France,,,2020-05-04,131863.0,51371.0,25201.0
+France,Metropolitan France,,,2020-05-05,132967.0,52736.0,25531.0
+France,Metropolitan France,,,2020-05-06,137150.0,53972.0,25809.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-08,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-09,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-10,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-11,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-12,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-13,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-14,5.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-15,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-16,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-17,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-18,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-19,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-20,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-21,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-22,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-23,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-24,6.0,0.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-25,7.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-26,8.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-27,11.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-28,11.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-02-29,11.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-01,11.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-02,37.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-03,40.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-04,49.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-05,64.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-06,75.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-07,102.0,6.0,0.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-08,146.0,8.0,1.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-09,182.0,8.0,3.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-10,227.0,8.0,3.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-11,262.0,8.0,3.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-12,333.0,8.0,7.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-13,449.0,8.0,10.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-14,449.0,8.0,12.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-15,523.0,8.0,18.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-16,618.0,8.0,20.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-17,710.0,8.0,24.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-18,858.0,8.0,27.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-19,1014.0,8.0,39.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-20,1101.0,8.0,39.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-21,1266.0,8.0,57.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-22,1431.0,8.0,72.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-23,1730.0,8.0,85.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-24,1857.0,324.0,86.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-25,2093.0,404.0,104.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-26,2093.0,496.0,134.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-27,2093.0,606.0,165.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-28,2093.0,700.0,195.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-29,2093.0,755.0,227.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-30,2093.0,842.0,264.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-03-31,2093.0,982.0,295.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-01,2093.0,1193.0,349.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-02,2093.0,1374.0,404.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-03,2093.0,1537.0,448.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-04,2093.0,1694.0,478.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-05,2093.0,1756.0,508.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-06,2093.0,1866.0,555.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-07,2093.0,2125.0,600.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-08,2093.0,2330.0,654.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-09,2093.0,2508.0,685.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-10,2093.0,2691.0,721.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-11,2093.0,2857.0,755.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-12,2093.0,2936.0,773.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-13,2093.0,2970.0,794.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-14,2093.0,3081.0,836.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-15,2093.0,3317.0,885.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-16,2093.0,3460.0,927.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-17,2093.0,3637.0,954.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-18,2093.0,3797.0,992.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-19,2093.0,3833.0,1011.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-20,2093.0,3904.0,1062.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-21,2093.0,4089.0,1103.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-22,2093.0,4253.0,1133.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-23,2093.0,4391.0,1167.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-24,2093.0,4526.0,1192.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-25,2093.0,4643.0,1212.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-26,2093.0,4671.0,1226.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-27,2093.0,4662.0,1255.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-28,2093.0,4748.0,1275.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-29,2093.0,4909.0,1311.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-04-30,2093.0,5042.0,1331.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-05-01,2093.0,5129.0,1346.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-05-02,2093.0,5154.0,1355.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-05-03,2093.0,5162.0,1364.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-05-04,2093.0,5216.0,1386.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-05-05,2093.0,5326.0,1419.0
+France,Metropolitan France,Auvergne-Rhône-Alpes,,2020-05-06,2093.0,5460.0,1437.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-27,4.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-28,5.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-02-29,5.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-01,5.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-02,8.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-03,13.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-04,16.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-05,39.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-06,78.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-07,129.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-08,129.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-09,129.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-10,146.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-11,155.0,0.0,0.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-12,219.0,2.0,5.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-13,272.0,2.0,5.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-14,339.0,2.0,6.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-15,412.0,8.0,6.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-16,507.0,25.0,6.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-17,549.0,25.0,10.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-18,593.0,25.0,20.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-19,696.0,25.0,23.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-20,770.0,25.0,28.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-21,903.0,25.0,36.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-22,1178.0,25.0,51.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-23,1347.0,25.0,62.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-24,1510.0,25.0,86.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-25,1569.0,348.0,102.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-26,1569.0,402.0,123.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-27,1569.0,432.0,139.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-28,1569.0,493.0,148.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-29,1569.0,549.0,164.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-30,1569.0,604.0,187.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-03-31,1569.0,675.0,214.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-01,1569.0,642.0,230.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-02,1569.0,746.0,271.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-03,1569.0,835.0,303.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-04,1569.0,910.0,323.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-05,1569.0,942.0,341.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-06,1569.0,986.0,367.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-07,1569.0,1077.0,396.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-08,1569.0,1160.0,412.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-09,1569.0,1237.0,427.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-10,1569.0,1309.0,459.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-11,1569.0,1411.0,478.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-12,1569.0,1441.0,500.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-13,1569.0,1463.0,512.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-14,1569.0,1488.0,551.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-15,1569.0,1594.0,581.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-16,1569.0,1659.0,607.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-17,1569.0,1728.0,623.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-18,1569.0,1788.0,644.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-19,1569.0,1839.0,657.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-20,1569.0,1864.0,677.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-21,1569.0,1941.0,705.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-22,1569.0,2018.0,721.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-23,1569.0,2088.0,753.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-24,1569.0,2175.0,770.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-25,1569.0,2227.0,786.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-26,1569.0,2237.0,797.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-27,1569.0,2269.0,814.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-28,1569.0,2306.0,819.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-29,1569.0,2375.0,832.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-04-30,1569.0,2431.0,838.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-05-01,1569.0,2484.0,843.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-05-02,1569.0,2492.0,850.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-05-03,1569.0,2495.0,856.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-05-04,1569.0,2512.0,869.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-05-05,1569.0,2582.0,884.0
+France,Metropolitan France,Bourgogne-Franche-Comté,,2020-05-06,1569.0,2618.0,896.0
+France,Metropolitan France,Bretagne,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-27,1.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-28,1.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-02-29,2.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-03-01,9.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-03-02,19.0,0.0,0.0
+France,Metropolitan France,Bretagne,,2020-03-03,19.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-04,23.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-05,29.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-06,32.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-07,40.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-08,47.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-09,71.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-10,81.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-11,94.0,0.0,1.0
+France,Metropolitan France,Bretagne,,2020-03-12,117.0,0.0,3.0
+France,Metropolitan France,Bretagne,,2020-03-13,155.0,0.0,3.0
+France,Metropolitan France,Bretagne,,2020-03-14,182.0,0.0,3.0
+France,Metropolitan France,Bretagne,,2020-03-15,207.0,0.0,3.0
+France,Metropolitan France,Bretagne,,2020-03-16,233.0,0.0,3.0
+France,Metropolitan France,Bretagne,,2020-03-17,247.0,0.0,3.0
+France,Metropolitan France,Bretagne,,2020-03-18,273.0,0.0,7.0
+France,Metropolitan France,Bretagne,,2020-03-19,297.0,0.0,10.0
+France,Metropolitan France,Bretagne,,2020-03-20,346.0,0.0,12.0
+France,Metropolitan France,Bretagne,,2020-03-21,359.0,0.0,15.0
+France,Metropolitan France,Bretagne,,2020-03-22,397.0,0.0,17.0
+France,Metropolitan France,Bretagne,,2020-03-23,490.0,0.0,22.0
+France,Metropolitan France,Bretagne,,2020-03-24,526.0,84.0,25.0
+France,Metropolitan France,Bretagne,,2020-03-25,603.0,99.0,28.0
+France,Metropolitan France,Bretagne,,2020-03-26,707.0,114.0,29.0
+France,Metropolitan France,Bretagne,,2020-03-27,707.0,131.0,34.0
+France,Metropolitan France,Bretagne,,2020-03-28,707.0,145.0,37.0
+France,Metropolitan France,Bretagne,,2020-03-29,707.0,166.0,41.0
+France,Metropolitan France,Bretagne,,2020-03-30,707.0,170.0,45.0
+France,Metropolitan France,Bretagne,,2020-03-31,707.0,187.0,50.0
+France,Metropolitan France,Bretagne,,2020-04-01,707.0,202.0,55.0
+France,Metropolitan France,Bretagne,,2020-04-02,707.0,227.0,63.0
+France,Metropolitan France,Bretagne,,2020-04-03,707.0,245.0,69.0
+France,Metropolitan France,Bretagne,,2020-04-04,707.0,273.0,75.0
+France,Metropolitan France,Bretagne,,2020-04-05,707.0,280.0,81.0
+France,Metropolitan France,Bretagne,,2020-04-06,707.0,296.0,88.0
+France,Metropolitan France,Bretagne,,2020-04-07,707.0,335.0,97.0
+France,Metropolitan France,Bretagne,,2020-04-08,707.0,373.0,107.0
+France,Metropolitan France,Bretagne,,2020-04-09,707.0,397.0,109.0
+France,Metropolitan France,Bretagne,,2020-04-10,707.0,431.0,121.0
+France,Metropolitan France,Bretagne,,2020-04-11,707.0,470.0,129.0
+France,Metropolitan France,Bretagne,,2020-04-12,707.0,481.0,132.0
+France,Metropolitan France,Bretagne,,2020-04-13,707.0,490.0,136.0
+France,Metropolitan France,Bretagne,,2020-04-14,707.0,511.0,149.0
+France,Metropolitan France,Bretagne,,2020-04-15,707.0,540.0,159.0
+France,Metropolitan France,Bretagne,,2020-04-16,707.0,576.0,166.0
+France,Metropolitan France,Bretagne,,2020-04-17,707.0,596.0,171.0
+France,Metropolitan France,Bretagne,,2020-04-18,707.0,627.0,181.0
+France,Metropolitan France,Bretagne,,2020-04-19,707.0,639.0,185.0
+France,Metropolitan France,Bretagne,,2020-04-20,707.0,650.0,189.0
+France,Metropolitan France,Bretagne,,2020-04-21,707.0,678.0,193.0
+France,Metropolitan France,Bretagne,,2020-04-22,707.0,702.0,193.0
+France,Metropolitan France,Bretagne,,2020-04-23,707.0,723.0,199.0
+France,Metropolitan France,Bretagne,,2020-04-24,707.0,743.0,199.0
+France,Metropolitan France,Bretagne,,2020-04-25,707.0,766.0,202.0
+France,Metropolitan France,Bretagne,,2020-04-26,707.0,772.0,203.0
+France,Metropolitan France,Bretagne,,2020-04-27,707.0,774.0,204.0
+France,Metropolitan France,Bretagne,,2020-04-28,707.0,793.0,207.0
+France,Metropolitan France,Bretagne,,2020-04-29,707.0,809.0,210.0
+France,Metropolitan France,Bretagne,,2020-04-30,707.0,823.0,212.0
+France,Metropolitan France,Bretagne,,2020-05-01,707.0,846.0,212.0
+France,Metropolitan France,Bretagne,,2020-05-02,707.0,855.0,216.0
+France,Metropolitan France,Bretagne,,2020-05-03,707.0,862.0,219.0
+France,Metropolitan France,Bretagne,,2020-05-04,707.0,871.0,222.0
+France,Metropolitan France,Bretagne,,2020-05-05,707.0,883.0,222.0
+France,Metropolitan France,Bretagne,,2020-05-06,707.0,897.0,223.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-27,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-28,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-02-29,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-01,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-02,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-03,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-04,0.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-05,2.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-06,11.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-07,16.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-08,16.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-09,17.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-10,18.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-11,20.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-12,30.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-13,33.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-14,54.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-15,71.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-16,90.0,0.0,0.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-17,103.0,0.0,1.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-18,128.0,0.0,1.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-19,157.0,0.0,1.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-20,219.0,0.0,1.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-21,254.0,0.0,2.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-22,291.0,0.0,3.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-23,361.0,0.0,8.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-24,450.0,0.0,8.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-25,561.0,36.0,13.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-26,645.0,50.0,20.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-27,830.0,64.0,26.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-28,830.0,77.0,35.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-29,1157.0,83.0,39.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-30,1157.0,100.0,53.0
+France,Metropolitan France,Centre-Val de Loire,,2020-03-31,1157.0,113.0,71.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-01,1157.0,138.0,77.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-02,1157.0,179.0,84.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-03,1157.0,225.0,98.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-04,1157.0,271.0,106.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-05,1157.0,298.0,115.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-06,1157.0,329.0,132.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-07,1157.0,380.0,140.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-08,1157.0,435.0,154.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-09,1157.0,474.0,164.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-10,1157.0,528.0,179.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-11,1157.0,568.0,193.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-12,1157.0,581.0,201.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-13,1157.0,595.0,214.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-14,1157.0,629.0,227.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-15,1157.0,687.0,245.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-16,1157.0,770.0,252.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-17,1157.0,821.0,264.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-18,1157.0,853.0,276.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-19,1157.0,867.0,284.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-20,1157.0,896.0,298.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-21,1157.0,943.0,308.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-22,1157.0,977.0,328.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-23,1157.0,1023.0,334.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-24,1157.0,1038.0,343.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-25,1157.0,1056.0,348.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-26,1157.0,1069.0,355.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-27,1157.0,1086.0,367.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-28,1157.0,1109.0,370.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-29,1157.0,1170.0,383.0
+France,Metropolitan France,Centre-Val de Loire,,2020-04-30,1157.0,1206.0,388.0
+France,Metropolitan France,Centre-Val de Loire,,2020-05-01,1157.0,1221.0,395.0
+France,Metropolitan France,Centre-Val de Loire,,2020-05-02,1157.0,1229.0,397.0
+France,Metropolitan France,Centre-Val de Loire,,2020-05-03,1157.0,1232.0,401.0
+France,Metropolitan France,Centre-Val de Loire,,2020-05-04,1157.0,1248.0,411.0
+France,Metropolitan France,Centre-Val de Loire,,2020-05-05,1157.0,1304.0,421.0
+France,Metropolitan France,Centre-Val de Loire,,2020-05-06,1157.0,1361.0,429.0
+France,Metropolitan France,Corse,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-27,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-28,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-02-29,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-01,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-02,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-03,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-04,0.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-05,3.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-06,3.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-07,5.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-08,33.0,0.0,0.0
+France,Metropolitan France,Corse,,2020-03-09,38.0,0.0,1.0
+France,Metropolitan France,Corse,,2020-03-10,42.0,0.0,1.0
+France,Metropolitan France,Corse,,2020-03-11,51.0,0.0,1.0
+France,Metropolitan France,Corse,,2020-03-12,64.0,0.0,3.0
+France,Metropolitan France,Corse,,2020-03-13,85.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-14,106.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-15,115.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-16,126.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-17,145.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-18,152.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-19,162.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-20,168.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-21,173.0,0.0,5.0
+France,Metropolitan France,Corse,,2020-03-22,183.0,0.0,6.0
+France,Metropolitan France,Corse,,2020-03-23,194.0,0.0,11.0
+France,Metropolitan France,Corse,,2020-03-24,217.0,0.0,12.0
+France,Metropolitan France,Corse,,2020-03-25,225.0,54.0,15.0
+France,Metropolitan France,Corse,,2020-03-26,250.0,63.0,19.0
+France,Metropolitan France,Corse,,2020-03-27,250.0,70.0,19.0
+France,Metropolitan France,Corse,,2020-03-28,250.0,71.0,19.0
+France,Metropolitan France,Corse,,2020-03-29,250.0,79.0,19.0
+France,Metropolitan France,Corse,,2020-03-30,250.0,91.0,19.0
+France,Metropolitan France,Corse,,2020-03-31,250.0,100.0,20.0
+France,Metropolitan France,Corse,,2020-04-01,250.0,102.0,21.0
+France,Metropolitan France,Corse,,2020-04-02,250.0,110.0,23.0
+France,Metropolitan France,Corse,,2020-04-03,250.0,116.0,26.0
+France,Metropolitan France,Corse,,2020-04-04,250.0,116.0,26.0
+France,Metropolitan France,Corse,,2020-04-05,250.0,117.0,26.0
+France,Metropolitan France,Corse,,2020-04-06,250.0,115.0,30.0
+France,Metropolitan France,Corse,,2020-04-07,250.0,113.0,32.0
+France,Metropolitan France,Corse,,2020-04-08,250.0,110.0,32.0
+France,Metropolitan France,Corse,,2020-04-09,250.0,112.0,34.0
+France,Metropolitan France,Corse,,2020-04-10,250.0,120.0,35.0
+France,Metropolitan France,Corse,,2020-04-11,250.0,122.0,36.0
+France,Metropolitan France,Corse,,2020-04-12,250.0,126.0,36.0
+France,Metropolitan France,Corse,,2020-04-13,250.0,126.0,38.0
+France,Metropolitan France,Corse,,2020-04-14,250.0,129.0,38.0
+France,Metropolitan France,Corse,,2020-04-15,250.0,131.0,41.0
+France,Metropolitan France,Corse,,2020-04-16,250.0,134.0,41.0
+France,Metropolitan France,Corse,,2020-04-17,250.0,135.0,42.0
+France,Metropolitan France,Corse,,2020-04-18,250.0,146.0,42.0
+France,Metropolitan France,Corse,,2020-04-19,250.0,150.0,44.0
+France,Metropolitan France,Corse,,2020-04-20,250.0,152.0,47.0
+France,Metropolitan France,Corse,,2020-04-21,250.0,157.0,48.0
+France,Metropolitan France,Corse,,2020-04-22,250.0,162.0,49.0
+France,Metropolitan France,Corse,,2020-04-23,250.0,166.0,49.0
+France,Metropolitan France,Corse,,2020-04-24,250.0,168.0,49.0
+France,Metropolitan France,Corse,,2020-04-25,250.0,172.0,50.0
+France,Metropolitan France,Corse,,2020-04-26,250.0,172.0,50.0
+France,Metropolitan France,Corse,,2020-04-27,250.0,172.0,50.0
+France,Metropolitan France,Corse,,2020-04-28,250.0,175.0,50.0
+France,Metropolitan France,Corse,,2020-04-29,250.0,186.0,50.0
+France,Metropolitan France,Corse,,2020-04-30,250.0,188.0,50.0
+France,Metropolitan France,Corse,,2020-05-01,250.0,189.0,50.0
+France,Metropolitan France,Corse,,2020-05-02,250.0,191.0,50.0
+France,Metropolitan France,Corse,,2020-05-03,250.0,191.0,51.0
+France,Metropolitan France,Corse,,2020-05-04,250.0,192.0,51.0
+France,Metropolitan France,Corse,,2020-05-05,250.0,194.0,51.0
+France,Metropolitan France,Corse,,2020-05-06,250.0,195.0,52.0
+France,Metropolitan France,Grand Est,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-26,1.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-27,1.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-28,1.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-02-29,2.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-01,7.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-02,12.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-03,13.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-04,38.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-05,77.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-06,136.0,0.0,0.0
+France,Metropolitan France,Grand Est,,2020-03-07,250.0,0.0,2.0
+France,Metropolitan France,Grand Est,,2020-03-08,262.0,0.0,3.0
+France,Metropolitan France,Grand Est,,2020-03-09,262.0,0.0,4.0
+France,Metropolitan France,Grand Est,,2020-03-10,464.0,0.0,5.0
+France,Metropolitan France,Grand Est,,2020-03-11,578.0,0.0,9.0
+France,Metropolitan France,Grand Est,,2020-03-12,699.0,0.0,9.0
+France,Metropolitan France,Grand Est,,2020-03-13,911.0,0.0,21.0
+France,Metropolitan France,Grand Est,,2020-03-14,1085.0,0.0,24.0
+France,Metropolitan France,Grand Est,,2020-03-15,1378.0,0.0,45.0
+France,Metropolitan France,Grand Est,,2020-03-16,1543.0,0.0,51.0
+France,Metropolitan France,Grand Est,,2020-03-17,1820.0,0.0,61.0
+France,Metropolitan France,Grand Est,,2020-03-18,2163.0,0.0,120.0
+France,Metropolitan France,Grand Est,,2020-03-19,2643.0,213.0,148.0
+France,Metropolitan France,Grand Est,,2020-03-20,3006.0,284.0,183.0
+France,Metropolitan France,Grand Est,,2020-03-21,3089.0,357.0,209.0
+France,Metropolitan France,Grand Est,,2020-03-22,3395.0,357.0,252.0
+France,Metropolitan France,Grand Est,,2020-03-23,4256.0,491.0,335.0
+France,Metropolitan France,Grand Est,,2020-03-24,4922.0,625.0,407.0
+France,Metropolitan France,Grand Est,,2020-03-25,5479.0,769.0,506.0
+France,Metropolitan France,Grand Est,,2020-03-26,5479.0,960.0,584.0
+France,Metropolitan France,Grand Est,,2020-03-27,5479.0,1074.0,657.0
+France,Metropolitan France,Grand Est,,2020-03-28,5479.0,1264.0,753.0
+France,Metropolitan France,Grand Est,,2020-03-29,5479.0,1348.0,815.0
+France,Metropolitan France,Grand Est,,2020-03-30,5479.0,1487.0,919.0
+France,Metropolitan France,Grand Est,,2020-03-31,5479.0,1704.0,1015.0
+France,Metropolitan France,Grand Est,,2020-04-01,5479.0,1975.0,1126.0
+France,Metropolitan France,Grand Est,,2020-04-02,5479.0,2227.0,1178.0
+France,Metropolitan France,Grand Est,,2020-04-03,5479.0,2546.0,1311.0
+France,Metropolitan France,Grand Est,,2020-04-04,5479.0,2801.0,1402.0
+France,Metropolitan France,Grand Est,,2020-04-05,5479.0,2953.0,1471.0
+France,Metropolitan France,Grand Est,,2020-04-06,5479.0,3115.0,1574.0
+France,Metropolitan France,Grand Est,,2020-04-07,5479.0,3461.0,1674.0
+France,Metropolitan France,Grand Est,,2020-04-08,5479.0,3797.0,1781.0
+France,Metropolitan France,Grand Est,,2020-04-09,5479.0,4160.0,1854.0
+France,Metropolitan France,Grand Est,,2020-04-10,5479.0,4445.0,1952.0
+France,Metropolitan France,Grand Est,,2020-04-11,5479.0,4581.0,2008.0
+France,Metropolitan France,Grand Est,,2020-04-12,5479.0,4725.0,2064.0
+France,Metropolitan France,Grand Est,,2020-04-13,5479.0,4788.0,2105.0
+France,Metropolitan France,Grand Est,,2020-04-14,5479.0,4928.0,2166.0
+France,Metropolitan France,Grand Est,,2020-04-15,5479.0,5324.0,2249.0
+France,Metropolitan France,Grand Est,,2020-04-16,5479.0,5618.0,2306.0
+France,Metropolitan France,Grand Est,,2020-04-17,5479.0,5828.0,2358.0
+France,Metropolitan France,Grand Est,,2020-04-18,5479.0,6058.0,2422.0
+France,Metropolitan France,Grand Est,,2020-04-19,5479.0,6139.0,2463.0
+France,Metropolitan France,Grand Est,,2020-04-20,5479.0,6219.0,2515.0
+France,Metropolitan France,Grand Est,,2020-04-21,5479.0,6476.0,2564.0
+France,Metropolitan France,Grand Est,,2020-04-22,5479.0,6672.0,2612.0
+France,Metropolitan France,Grand Est,,2020-04-23,5479.0,6883.0,2646.0
+France,Metropolitan France,Grand Est,,2020-04-24,5479.0,7056.0,2679.0
+France,Metropolitan France,Grand Est,,2020-04-25,5479.0,7232.0,2714.0
+France,Metropolitan France,Grand Est,,2020-04-26,5479.0,7274.0,2737.0
+France,Metropolitan France,Grand Est,,2020-04-27,5479.0,7376.0,2779.0
+France,Metropolitan France,Grand Est,,2020-04-28,5479.0,7491.0,2799.0
+France,Metropolitan France,Grand Est,,2020-04-29,5479.0,7844.0,2863.0
+France,Metropolitan France,Grand Est,,2020-04-30,5479.0,8047.0,2885.0
+France,Metropolitan France,Grand Est,,2020-05-01,5479.0,8184.0,2915.0
+France,Metropolitan France,Grand Est,,2020-05-02,5479.0,8253.0,2937.0
+France,Metropolitan France,Grand Est,,2020-05-03,5479.0,8313.0,2953.0
+France,Metropolitan France,Grand Est,,2020-05-04,5479.0,8384.0,2983.0
+France,Metropolitan France,Grand Est,,2020-05-05,5479.0,8553.0,3011.0
+France,Metropolitan France,Grand Est,,2020-05-06,5479.0,8720.0,3037.0
+France,Metropolitan France,Hauts-de-France,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Hauts-de-France,,2020-02-26,2.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-02-27,9.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-02-28,9.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-02-29,36.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-03-01,47.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-03-02,49.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-03-03,59.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-03-04,65.0,0.0,1.0
+France,Metropolitan France,Hauts-de-France,,2020-03-05,74.0,0.0,4.0
+France,Metropolitan France,Hauts-de-France,,2020-03-06,97.0,0.0,4.0
+France,Metropolitan France,Hauts-de-France,,2020-03-07,173.0,0.0,6.0
+France,Metropolitan France,Hauts-de-France,,2020-03-08,173.0,0.0,6.0
+France,Metropolitan France,Hauts-de-France,,2020-03-09,173.0,0.0,15.0
+France,Metropolitan France,Hauts-de-France,,2020-03-10,209.0,0.0,16.0
+France,Metropolitan France,Hauts-de-France,,2020-03-11,263.0,0.0,16.0
+France,Metropolitan France,Hauts-de-France,,2020-03-12,349.0,0.0,20.0
+France,Metropolitan France,Hauts-de-France,,2020-03-13,397.0,0.0,26.0
+France,Metropolitan France,Hauts-de-France,,2020-03-14,466.0,0.0,29.0
+France,Metropolitan France,Hauts-de-France,,2020-03-15,507.0,0.0,29.0
+France,Metropolitan France,Hauts-de-France,,2020-03-16,585.0,0.0,39.0
+France,Metropolitan France,Hauts-de-France,,2020-03-17,612.0,0.0,46.0
+France,Metropolitan France,Hauts-de-France,,2020-03-18,665.0,0.0,55.0
+France,Metropolitan France,Hauts-de-France,,2020-03-19,700.0,0.0,69.0
+France,Metropolitan France,Hauts-de-France,,2020-03-20,759.0,0.0,81.0
+France,Metropolitan France,Hauts-de-France,,2020-03-21,791.0,0.0,91.0
+France,Metropolitan France,Hauts-de-France,,2020-03-22,936.0,0.0,97.0
+France,Metropolitan France,Hauts-de-France,,2020-03-23,1269.0,0.0,108.0
+France,Metropolitan France,Hauts-de-France,,2020-03-24,1532.0,0.0,123.0
+France,Metropolitan France,Hauts-de-France,,2020-03-25,1753.0,287.0,137.0
+France,Metropolitan France,Hauts-de-France,,2020-03-26,1910.0,360.0,150.0
+France,Metropolitan France,Hauts-de-France,,2020-03-27,1910.0,401.0,169.0
+France,Metropolitan France,Hauts-de-France,,2020-03-28,1910.0,452.0,196.0
+France,Metropolitan France,Hauts-de-France,,2020-03-29,1910.0,476.0,211.0
+France,Metropolitan France,Hauts-de-France,,2020-03-30,1910.0,497.0,242.0
+France,Metropolitan France,Hauts-de-France,,2020-03-31,1910.0,628.0,280.0
+France,Metropolitan France,Hauts-de-France,,2020-04-01,1910.0,723.0,330.0
+France,Metropolitan France,Hauts-de-France,,2020-04-02,1910.0,857.0,370.0
+France,Metropolitan France,Hauts-de-France,,2020-04-03,1910.0,984.0,438.0
+France,Metropolitan France,Hauts-de-France,,2020-04-04,1910.0,1122.0,488.0
+France,Metropolitan France,Hauts-de-France,,2020-04-05,1910.0,1153.0,520.0
+France,Metropolitan France,Hauts-de-France,,2020-04-06,1910.0,1219.0,577.0
+France,Metropolitan France,Hauts-de-France,,2020-04-07,1910.0,1393.0,635.0
+France,Metropolitan France,Hauts-de-France,,2020-04-08,1910.0,1575.0,679.0
+France,Metropolitan France,Hauts-de-France,,2020-04-09,1910.0,1703.0,715.0
+France,Metropolitan France,Hauts-de-France,,2020-04-10,1910.0,1873.0,762.0
+France,Metropolitan France,Hauts-de-France,,2020-04-11,1910.0,2017.0,806.0
+France,Metropolitan France,Hauts-de-France,,2020-04-12,1910.0,2075.0,840.0
+France,Metropolitan France,Hauts-de-France,,2020-04-13,1910.0,2102.0,873.0
+France,Metropolitan France,Hauts-de-France,,2020-04-14,1910.0,2184.0,920.0
+France,Metropolitan France,Hauts-de-France,,2020-04-15,1910.0,2371.0,975.0
+France,Metropolitan France,Hauts-de-France,,2020-04-16,1910.0,2515.0,1006.0
+France,Metropolitan France,Hauts-de-France,,2020-04-17,1910.0,2662.0,1054.0
+France,Metropolitan France,Hauts-de-France,,2020-04-18,1910.0,2744.0,1077.0
+France,Metropolitan France,Hauts-de-France,,2020-04-19,1910.0,2789.0,1094.0
+France,Metropolitan France,Hauts-de-France,,2020-04-20,1910.0,2909.0,1127.0
+France,Metropolitan France,Hauts-de-France,,2020-04-21,1910.0,3191.0,1163.0
+France,Metropolitan France,Hauts-de-France,,2020-04-22,1910.0,3338.0,1198.0
+France,Metropolitan France,Hauts-de-France,,2020-04-23,1910.0,3475.0,1233.0
+France,Metropolitan France,Hauts-de-France,,2020-04-24,1910.0,3597.0,1257.0
+France,Metropolitan France,Hauts-de-France,,2020-04-25,1910.0,3672.0,1281.0
+France,Metropolitan France,Hauts-de-France,,2020-04-26,1910.0,3685.0,1291.0
+France,Metropolitan France,Hauts-de-France,,2020-04-27,1910.0,3732.0,1315.0
+France,Metropolitan France,Hauts-de-France,,2020-04-28,1910.0,3800.0,1330.0
+France,Metropolitan France,Hauts-de-France,,2020-04-29,1910.0,3955.0,1355.0
+France,Metropolitan France,Hauts-de-France,,2020-04-30,1910.0,4075.0,1374.0
+France,Metropolitan France,Hauts-de-France,,2020-05-01,1910.0,4137.0,1390.0
+France,Metropolitan France,Hauts-de-France,,2020-05-02,1910.0,4152.0,1396.0
+France,Metropolitan France,Hauts-de-France,,2020-05-03,1910.0,4171.0,1410.0
+France,Metropolitan France,Hauts-de-France,,2020-05-04,1910.0,4211.0,1428.0
+France,Metropolitan France,Hauts-de-France,,2020-05-05,1910.0,4338.0,1461.0
+France,Metropolitan France,Hauts-de-France,,2020-05-06,1910.0,4452.0,1480.0
+France,Metropolitan France,Normandie,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-27,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-28,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-02-29,1.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-01,0.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-02,2.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-03,2.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-04,2.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-05,6.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-06,11.0,0.0,0.0
+France,Metropolitan France,Normandie,,2020-03-07,11.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-08,22.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-09,22.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-10,37.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-11,54.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-12,68.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-13,97.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-14,127.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-15,143.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-16,156.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-17,174.0,0.0,1.0
+France,Metropolitan France,Normandie,,2020-03-18,208.0,0.0,3.0
+France,Metropolitan France,Normandie,,2020-03-19,241.0,0.0,5.0
+France,Metropolitan France,Normandie,,2020-03-20,287.0,0.0,7.0
+France,Metropolitan France,Normandie,,2020-03-21,345.0,0.0,7.0
+France,Metropolitan France,Normandie,,2020-03-22,462.0,0.0,9.0
+France,Metropolitan France,Normandie,,2020-03-23,511.0,0.0,10.0
+France,Metropolitan France,Normandie,,2020-03-24,586.0,32.0,16.0
+France,Metropolitan France,Normandie,,2020-03-25,688.0,49.0,19.0
+France,Metropolitan France,Normandie,,2020-03-26,789.0,62.0,20.0
+France,Metropolitan France,Normandie,,2020-03-27,912.0,73.0,24.0
+France,Metropolitan France,Normandie,,2020-03-28,912.0,95.0,26.0
+France,Metropolitan France,Normandie,,2020-03-29,912.0,103.0,32.0
+France,Metropolitan France,Normandie,,2020-03-30,912.0,113.0,42.0
+France,Metropolitan France,Normandie,,2020-03-31,912.0,151.0,62.0
+France,Metropolitan France,Normandie,,2020-04-01,912.0,201.0,69.0
+France,Metropolitan France,Normandie,,2020-04-02,912.0,224.0,81.0
+France,Metropolitan France,Normandie,,2020-04-03,912.0,258.0,93.0
+France,Metropolitan France,Normandie,,2020-04-04,912.0,296.0,99.0
+France,Metropolitan France,Normandie,,2020-04-05,912.0,308.0,111.0
+France,Metropolitan France,Normandie,,2020-04-06,912.0,338.0,127.0
+France,Metropolitan France,Normandie,,2020-04-07,912.0,392.0,147.0
+France,Metropolitan France,Normandie,,2020-04-08,912.0,453.0,165.0
+France,Metropolitan France,Normandie,,2020-04-09,912.0,478.0,179.0
+France,Metropolitan France,Normandie,,2020-04-10,912.0,512.0,188.0
+France,Metropolitan France,Normandie,,2020-04-11,912.0,554.0,196.0
+France,Metropolitan France,Normandie,,2020-04-12,912.0,586.0,201.0
+France,Metropolitan France,Normandie,,2020-04-13,912.0,597.0,211.0
+France,Metropolitan France,Normandie,,2020-04-14,912.0,626.0,230.0
+France,Metropolitan France,Normandie,,2020-04-15,912.0,667.0,242.0
+France,Metropolitan France,Normandie,,2020-04-16,912.0,706.0,252.0
+France,Metropolitan France,Normandie,,2020-04-17,912.0,743.0,262.0
+France,Metropolitan France,Normandie,,2020-04-18,912.0,789.0,267.0
+France,Metropolitan France,Normandie,,2020-04-19,912.0,805.0,274.0
+France,Metropolitan France,Normandie,,2020-04-20,912.0,821.0,283.0
+France,Metropolitan France,Normandie,,2020-04-21,912.0,866.0,292.0
+France,Metropolitan France,Normandie,,2020-04-22,912.0,896.0,299.0
+France,Metropolitan France,Normandie,,2020-04-23,912.0,931.0,307.0
+France,Metropolitan France,Normandie,,2020-04-24,912.0,965.0,312.0
+France,Metropolitan France,Normandie,,2020-04-25,912.0,974.0,314.0
+France,Metropolitan France,Normandie,,2020-04-26,912.0,984.0,319.0
+France,Metropolitan France,Normandie,,2020-04-27,912.0,993.0,324.0
+France,Metropolitan France,Normandie,,2020-04-28,912.0,1008.0,331.0
+France,Metropolitan France,Normandie,,2020-04-29,912.0,1054.0,343.0
+France,Metropolitan France,Normandie,,2020-04-30,912.0,1068.0,346.0
+France,Metropolitan France,Normandie,,2020-05-01,912.0,1089.0,347.0
+France,Metropolitan France,Normandie,,2020-05-02,912.0,1094.0,350.0
+France,Metropolitan France,Normandie,,2020-05-03,912.0,1096.0,351.0
+France,Metropolitan France,Normandie,,2020-05-04,912.0,1117.0,359.0
+France,Metropolitan France,Normandie,,2020-05-05,912.0,1137.0,363.0
+France,Metropolitan France,Normandie,,2020-05-06,912.0,1155.0,365.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-24,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-25,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-26,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-27,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-28,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-29,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-30,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-01-31,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-01,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-02,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-03,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-04,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-05,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-06,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-07,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-08,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-09,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-10,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-11,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-12,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-13,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-14,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-15,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-16,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-17,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-18,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-19,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-20,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-21,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-22,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-23,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-24,1.0,0.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-25,1.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-26,1.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-27,1.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-28,2.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-02-29,4.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-01,4.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-02,4.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-03,4.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-04,5.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-05,8.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-06,11.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-07,17.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-08,29.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-09,40.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-10,54.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-11,66.0,1.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-12,87.0,2.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-13,114.0,2.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-14,130.0,2.0,0.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-15,152.0,2.0,2.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-16,179.0,2.0,2.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-17,207.0,2.0,2.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-18,237.0,2.0,2.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-19,280.0,2.0,3.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-20,432.0,2.0,3.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-21,521.0,2.0,7.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-22,612.0,2.0,8.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-23,676.0,2.0,13.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-24,789.0,2.0,14.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-25,912.0,115.0,25.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-26,1007.0,163.0,34.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-27,1172.0,191.0,42.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-28,1357.0,211.0,50.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-29,1520.0,226.0,58.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-30,1608.0,277.0,72.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-03-31,1720.0,348.0,78.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-01,1845.0,414.0,82.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-02,1991.0,495.0,94.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-03,2097.0,521.0,100.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-04,2236.0,553.0,111.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-05,2369.0,579.0,120.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-06,2426.0,610.0,138.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-07,2539.0,669.0,152.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-08,2663.0,739.0,165.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-09,2804.0,789.0,173.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-10,2909.0,742.0,174.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-11,3086.0,794.0,180.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-12,3301.0,815.0,190.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-13,3356.0,828.0,194.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-14,3419.0,866.0,207.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-15,3505.0,924.0,214.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-16,3666.0,976.0,220.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-17,3817.0,1002.0,233.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-18,3898.0,1047.0,241.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-19,3973.0,1061.0,247.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-20,4028.0,1083.0,259.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-21,4263.0,1106.0,266.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-22,4356.0,1144.0,267.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-23,4387.0,1199.0,277.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-24,4461.0,1243.0,285.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-25,4503.0,1276.0,289.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-26,4537.0,1284.0,294.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-27,4553.0,1302.0,301.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-28,4582.0,1315.0,302.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-29,4615.0,1385.0,313.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-04-30,4647.0,1446.0,324.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-05-01,4672.0,1469.0,324.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-05-02,4683.0,1474.0,327.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-05-03,4707.0,1485.0,329.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-05-04,4707.0,1500.0,336.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-05-05,4707.0,1529.0,336.0
+France,Metropolitan France,Nouvelle-Aquitaine,,2020-05-06,4707.0,1562.0,342.0
+France,Metropolitan France,Occitanie,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-27,1.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-28,2.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-02-29,2.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-01,2.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-02,6.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-03,7.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-04,9.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-05,11.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-06,18.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-07,36.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-08,36.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-09,60.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-10,61.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-11,87.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-12,133.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-13,172.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-14,214.0,0.0,0.0
+France,Metropolitan France,Occitanie,,2020-03-15,254.0,3.0,1.0
+France,Metropolitan France,Occitanie,,2020-03-16,284.0,3.0,3.0
+France,Metropolitan France,Occitanie,,2020-03-17,311.0,3.0,5.0
+France,Metropolitan France,Occitanie,,2020-03-18,371.0,3.0,10.0
+France,Metropolitan France,Occitanie,,2020-03-19,444.0,3.0,17.0
+France,Metropolitan France,Occitanie,,2020-03-20,537.0,3.0,23.0
+France,Metropolitan France,Occitanie,,2020-03-21,611.0,3.0,27.0
+France,Metropolitan France,Occitanie,,2020-03-22,671.0,123.0,30.0
+France,Metropolitan France,Occitanie,,2020-03-23,781.0,131.0,32.0
+France,Metropolitan France,Occitanie,,2020-03-24,900.0,161.0,40.0
+France,Metropolitan France,Occitanie,,2020-03-25,1082.0,195.0,45.0
+France,Metropolitan France,Occitanie,,2020-03-26,1285.0,233.0,54.0
+France,Metropolitan France,Occitanie,,2020-03-27,1285.0,256.0,61.0
+France,Metropolitan France,Occitanie,,2020-03-28,1285.0,301.0,68.0
+France,Metropolitan France,Occitanie,,2020-03-29,1285.0,314.0,76.0
+France,Metropolitan France,Occitanie,,2020-03-30,1285.0,353.0,82.0
+France,Metropolitan France,Occitanie,,2020-03-31,1285.0,446.0,91.0
+France,Metropolitan France,Occitanie,,2020-04-01,1285.0,524.0,108.0
+France,Metropolitan France,Occitanie,,2020-04-02,1285.0,597.0,119.0
+France,Metropolitan France,Occitanie,,2020-04-03,1285.0,657.0,131.0
+France,Metropolitan France,Occitanie,,2020-04-04,1285.0,709.0,148.0
+France,Metropolitan France,Occitanie,,2020-04-05,1285.0,757.0,158.0
+France,Metropolitan France,Occitanie,,2020-04-06,1285.0,803.0,172.0
+France,Metropolitan France,Occitanie,,2020-04-07,1285.0,914.0,180.0
+France,Metropolitan France,Occitanie,,2020-04-08,1285.0,993.0,195.0
+France,Metropolitan France,Occitanie,,2020-04-09,1285.0,1081.0,203.0
+France,Metropolitan France,Occitanie,,2020-04-10,1285.0,1187.0,222.0
+France,Metropolitan France,Occitanie,,2020-04-11,1285.0,1271.0,233.0
+France,Metropolitan France,Occitanie,,2020-04-12,1285.0,1287.0,239.0
+France,Metropolitan France,Occitanie,,2020-04-13,1285.0,1313.0,248.0
+France,Metropolitan France,Occitanie,,2020-04-14,1285.0,1360.0,266.0
+France,Metropolitan France,Occitanie,,2020-04-15,1285.0,1454.0,278.0
+France,Metropolitan France,Occitanie,,2020-04-16,1285.0,1526.0,281.0
+France,Metropolitan France,Occitanie,,2020-04-17,1285.0,1583.0,290.0
+France,Metropolitan France,Occitanie,,2020-04-18,1285.0,1676.0,292.0
+France,Metropolitan France,Occitanie,,2020-04-19,1285.0,1687.0,295.0
+France,Metropolitan France,Occitanie,,2020-04-20,1285.0,1728.0,312.0
+France,Metropolitan France,Occitanie,,2020-04-21,1285.0,1783.0,322.0
+France,Metropolitan France,Occitanie,,2020-04-22,1285.0,1826.0,328.0
+France,Metropolitan France,Occitanie,,2020-04-23,1285.0,1889.0,342.0
+France,Metropolitan France,Occitanie,,2020-04-24,1285.0,1974.0,356.0
+France,Metropolitan France,Occitanie,,2020-04-25,1285.0,2006.0,361.0
+France,Metropolitan France,Occitanie,,2020-04-26,1285.0,2015.0,362.0
+France,Metropolitan France,Occitanie,,2020-04-27,1285.0,2031.0,373.0
+France,Metropolitan France,Occitanie,,2020-04-28,1285.0,2072.0,380.0
+France,Metropolitan France,Occitanie,,2020-04-29,1285.0,2122.0,390.0
+France,Metropolitan France,Occitanie,,2020-04-30,1285.0,2142.0,401.0
+France,Metropolitan France,Occitanie,,2020-05-01,1285.0,2118.0,394.0
+France,Metropolitan France,Occitanie,,2020-05-02,1285.0,2123.0,409.0
+France,Metropolitan France,Occitanie,,2020-05-03,1285.0,2125.0,410.0
+France,Metropolitan France,Occitanie,,2020-05-04,1285.0,2154.0,424.0
+France,Metropolitan France,Occitanie,,2020-05-05,1285.0,2215.0,436.0
+France,Metropolitan France,Occitanie,,2020-05-06,1285.0,2257.0,441.0
+France,Metropolitan France,Pays de la Loire,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-27,0.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-28,2.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-02-29,2.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-01,2.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-02,5.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-03,5.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-04,7.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-05,8.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-06,16.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-07,18.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-08,18.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-09,18.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-10,27.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-11,34.0,0.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-12,41.0,4.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-13,55.0,4.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-14,82.0,4.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-15,98.0,4.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-16,108.0,4.0,0.0
+France,Metropolitan France,Pays de la Loire,,2020-03-17,126.0,4.0,1.0
+France,Metropolitan France,Pays de la Loire,,2020-03-18,128.0,4.0,2.0
+France,Metropolitan France,Pays de la Loire,,2020-03-19,160.0,4.0,3.0
+France,Metropolitan France,Pays de la Loire,,2020-03-20,190.0,4.0,3.0
+France,Metropolitan France,Pays de la Loire,,2020-03-21,234.0,4.0,3.0
+France,Metropolitan France,Pays de la Loire,,2020-03-22,270.0,4.0,4.0
+France,Metropolitan France,Pays de la Loire,,2020-03-23,293.0,74.0,10.0
+France,Metropolitan France,Pays de la Loire,,2020-03-24,343.0,95.0,14.0
+France,Metropolitan France,Pays de la Loire,,2020-03-25,379.0,106.0,17.0
+France,Metropolitan France,Pays de la Loire,,2020-03-26,459.0,127.0,31.0
+France,Metropolitan France,Pays de la Loire,,2020-03-27,459.0,141.0,31.0
+France,Metropolitan France,Pays de la Loire,,2020-03-28,459.0,163.0,42.0
+France,Metropolitan France,Pays de la Loire,,2020-03-29,459.0,182.0,47.0
+France,Metropolitan France,Pays de la Loire,,2020-03-30,459.0,195.0,58.0
+France,Metropolitan France,Pays de la Loire,,2020-03-31,459.0,256.0,71.0
+France,Metropolitan France,Pays de la Loire,,2020-04-01,459.0,296.0,82.0
+France,Metropolitan France,Pays de la Loire,,2020-04-02,459.0,338.0,92.0
+France,Metropolitan France,Pays de la Loire,,2020-04-03,459.0,387.0,109.0
+France,Metropolitan France,Pays de la Loire,,2020-04-04,459.0,417.0,118.0
+France,Metropolitan France,Pays de la Loire,,2020-04-05,459.0,441.0,123.0
+France,Metropolitan France,Pays de la Loire,,2020-04-06,459.0,456.0,134.0
+France,Metropolitan France,Pays de la Loire,,2020-04-07,459.0,517.0,144.0
+France,Metropolitan France,Pays de la Loire,,2020-04-08,459.0,570.0,153.0
+France,Metropolitan France,Pays de la Loire,,2020-04-09,459.0,615.0,158.0
+France,Metropolitan France,Pays de la Loire,,2020-04-10,459.0,641.0,169.0
+France,Metropolitan France,Pays de la Loire,,2020-04-11,459.0,688.0,178.0
+France,Metropolitan France,Pays de la Loire,,2020-04-12,459.0,703.0,182.0
+France,Metropolitan France,Pays de la Loire,,2020-04-13,459.0,719.0,192.0
+France,Metropolitan France,Pays de la Loire,,2020-04-14,459.0,749.0,209.0
+France,Metropolitan France,Pays de la Loire,,2020-04-15,459.0,817.0,222.0
+France,Metropolitan France,Pays de la Loire,,2020-04-16,459.0,876.0,235.0
+France,Metropolitan France,Pays de la Loire,,2020-04-17,459.0,910.0,242.0
+France,Metropolitan France,Pays de la Loire,,2020-04-18,459.0,939.0,251.0
+France,Metropolitan France,Pays de la Loire,,2020-04-19,459.0,947.0,258.0
+France,Metropolitan France,Pays de la Loire,,2020-04-20,459.0,957.0,268.0
+France,Metropolitan France,Pays de la Loire,,2020-04-21,459.0,986.0,276.0
+France,Metropolitan France,Pays de la Loire,,2020-04-22,459.0,1026.0,285.0
+France,Metropolitan France,Pays de la Loire,,2020-04-23,459.0,1061.0,291.0
+France,Metropolitan France,Pays de la Loire,,2020-04-24,459.0,1090.0,303.0
+France,Metropolitan France,Pays de la Loire,,2020-04-25,459.0,1113.0,307.0
+France,Metropolitan France,Pays de la Loire,,2020-04-26,459.0,1121.0,314.0
+France,Metropolitan France,Pays de la Loire,,2020-04-27,459.0,1152.0,323.0
+France,Metropolitan France,Pays de la Loire,,2020-04-28,459.0,1154.0,326.0
+France,Metropolitan France,Pays de la Loire,,2020-04-29,459.0,1227.0,336.0
+France,Metropolitan France,Pays de la Loire,,2020-04-30,459.0,1256.0,341.0
+France,Metropolitan France,Pays de la Loire,,2020-05-01,459.0,1283.0,343.0
+France,Metropolitan France,Pays de la Loire,,2020-05-02,459.0,1286.0,348.0
+France,Metropolitan France,Pays de la Loire,,2020-05-03,459.0,1291.0,351.0
+France,Metropolitan France,Pays de la Loire,,2020-05-04,459.0,1300.0,357.0
+France,Metropolitan France,Pays de la Loire,,2020-05-05,459.0,1334.0,362.0
+France,Metropolitan France,Pays de la Loire,,2020-05-06,459.0,1360.0,368.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-24,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-25,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-26,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-27,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-28,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-29,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-30,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-01-31,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-01,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-02,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-03,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-04,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-05,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-06,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-07,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-08,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-09,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-10,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-11,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-12,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-13,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-14,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-15,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-16,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-17,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-18,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-19,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-20,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-21,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-22,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-23,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-24,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-25,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-26,0.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-27,1.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-28,4.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-02-29,4.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-01,4.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-02,9.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-03,10.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-04,13.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-05,18.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-06,26.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-07,38.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-08,38.0,0.0,0.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-09,52.0,0.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-10,89.0,0.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-11,111.0,0.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-12,147.0,1.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-13,212.0,1.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-14,281.0,1.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-15,330.0,1.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-16,405.0,1.0,1.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-17,478.0,1.0,4.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-18,574.0,1.0,7.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-19,693.0,1.0,9.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-20,826.0,1.0,11.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-21,1041.0,1.0,13.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-22,1372.0,1.0,15.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-23,1510.0,1.0,20.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-24,1595.0,1.0,26.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-25,1927.0,535.0,33.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-26,1927.0,599.0,44.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-27,1927.0,642.0,48.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-28,1927.0,691.0,55.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-29,1927.0,710.0,65.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-30,1927.0,759.0,80.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-03-31,1927.0,897.0,103.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-01,1927.0,1016.0,124.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-02,1927.0,1075.0,141.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-03,1927.0,1177.0,161.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-04,1927.0,1272.0,178.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-05,1927.0,1304.0,195.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-06,1927.0,1383.0,231.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-07,1927.0,1574.0,253.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-08,1927.0,1684.0,269.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-09,1927.0,1841.0,286.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-10,1927.0,1946.0,299.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-11,1927.0,2053.0,317.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-12,1927.0,2097.0,328.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-13,1927.0,2126.0,348.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-14,1927.0,2240.0,374.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-15,1927.0,2345.0,393.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-16,1927.0,2454.0,421.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-17,1927.0,2572.0,447.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-18,1927.0,2682.0,463.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-19,1927.0,2767.0,470.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-20,1927.0,2834.0,499.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-21,1927.0,2945.0,526.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-22,1927.0,3046.0,561.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-23,1927.0,3136.0,575.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-24,1927.0,3239.0,610.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-25,1927.0,3366.0,625.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-26,1927.0,3376.0,631.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-27,1927.0,3456.0,656.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-28,1927.0,3525.0,665.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-29,1927.0,3686.0,682.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-04-30,1927.0,3793.0,696.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-05-01,1927.0,3848.0,704.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-05-02,1927.0,3890.0,708.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-05-03,1927.0,3904.0,713.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-05-04,1927.0,3973.0,732.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-05-05,1927.0,4061.0,746.0
+France,Metropolitan France,Provence-Alpes-Côte d'Azur,,2020-05-06,1927.0,4127.0,756.0
+France,Metropolitan France,Île-de-France,,2020-01-24,2.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-25,2.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-26,2.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-27,2.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-28,3.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-29,4.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-30,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-01-31,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-01,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-02,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-03,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-04,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-05,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-06,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-07,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-08,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-09,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-10,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-11,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-12,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-13,5.0,0.0,0.0
+France,Metropolitan France,Île-de-France,,2020-02-14,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-15,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-16,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-17,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-18,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-19,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-20,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-21,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-22,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-23,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-24,5.0,0.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-25,6.0,5.0,1.0
+France,Metropolitan France,Île-de-France,,2020-02-26,6.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-02-27,9.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-02-28,9.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-02-29,9.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-01,9.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-02,37.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-03,37.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-04,55.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-05,76.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-06,89.0,5.0,2.0
+France,Metropolitan France,Île-de-France,,2020-03-07,104.0,5.0,4.0
+France,Metropolitan France,Île-de-France,,2020-03-08,243.0,5.0,4.0
+France,Metropolitan France,Île-de-France,,2020-03-09,300.0,5.0,4.0
+France,Metropolitan France,Île-de-France,,2020-03-10,334.0,5.0,4.0
+France,Metropolitan France,Île-de-France,,2020-03-11,492.0,5.0,4.0
+France,Metropolitan France,Île-de-France,,2020-03-12,577.0,5.0,4.0
+France,Metropolitan France,Île-de-France,,2020-03-13,721.0,5.0,7.0
+France,Metropolitan France,Île-de-France,,2020-03-14,949.0,5.0,7.0
+France,Metropolitan France,Île-de-France,,2020-03-15,1209.0,5.0,7.0
+France,Metropolitan France,Île-de-France,,2020-03-16,1762.0,5.0,7.0
+France,Metropolitan France,Île-de-France,,2020-03-17,2177.0,5.0,7.0
+France,Metropolitan France,Île-de-France,,2020-03-18,2693.0,5.0,36.0
+France,Metropolitan France,Île-de-France,,2020-03-19,3384.0,5.0,56.0
+France,Metropolitan France,Île-de-France,,2020-03-20,3818.0,5.0,99.0
+France,Metropolitan France,Île-de-France,,2020-03-21,4695.0,5.0,122.0
+France,Metropolitan France,Île-de-France,,2020-03-22,5283.0,5.0,140.0
+France,Metropolitan France,Île-de-France,,2020-03-23,6211.0,5.0,193.0
+France,Metropolitan France,Île-de-France,,2020-03-24,6798.0,5.0,262.0
+France,Metropolitan France,Île-de-France,,2020-03-25,7660.0,1084.0,357.0
+France,Metropolitan France,Île-de-France,,2020-03-26,7660.0,1310.0,460.0
+France,Metropolitan France,Île-de-France,,2020-03-27,7660.0,1598.0,578.0
+France,Metropolitan France,Île-de-France,,2020-03-28,7660.0,1937.0,688.0
+France,Metropolitan France,Île-de-France,,2020-03-29,7660.0,2109.0,807.0
+France,Metropolitan France,Île-de-France,,2020-03-30,7660.0,2394.0,954.0
+France,Metropolitan France,Île-de-France,,2020-03-31,7660.0,2907.0,1176.0
+France,Metropolitan France,Île-de-France,,2020-04-01,7660.0,3432.0,1369.0
+France,Metropolitan France,Île-de-France,,2020-04-02,7660.0,3887.0,1571.0
+France,Metropolitan France,Île-de-France,,2020-04-03,7660.0,4417.0,1791.0
+France,Metropolitan France,Île-de-France,,2020-04-04,7660.0,4881.0,1967.0
+France,Metropolitan France,Île-de-France,,2020-04-05,7660.0,5166.0,2107.0
+France,Metropolitan France,Île-de-France,,2020-04-06,7660.0,5597.0,2355.0
+France,Metropolitan France,Île-de-France,,2020-04-07,7660.0,6225.0,2627.0
+France,Metropolitan France,Île-de-France,,2020-04-08,7660.0,6857.0,2850.0
+France,Metropolitan France,Île-de-France,,2020-04-09,7660.0,7620.0,3040.0
+France,Metropolitan France,Île-de-France,,2020-04-10,7660.0,8313.0,3300.0
+France,Metropolitan France,Île-de-France,,2020-04-11,7660.0,8796.0,3416.0
+France,Metropolitan France,Île-de-France,,2020-04-12,7660.0,9119.0,3548.0
+France,Metropolitan France,Île-de-France,,2020-04-13,7660.0,9387.0,3704.0
+France,Metropolitan France,Île-de-France,,2020-04-14,7660.0,9790.0,3937.0
+France,Metropolitan France,Île-de-France,,2020-04-15,7660.0,10544.0,4140.0
+France,Metropolitan France,Île-de-France,,2020-04-16,7660.0,11279.0,4319.0
+France,Metropolitan France,Île-de-France,,2020-04-17,7660.0,11927.0,4510.0
+France,Metropolitan France,Île-de-France,,2020-04-18,7660.0,12555.0,4664.0
+France,Metropolitan France,Île-de-France,,2020-04-19,7660.0,12766.0,4756.0
+France,Metropolitan France,Île-de-France,,2020-04-20,7660.0,13095.0,4942.0
+France,Metropolitan France,Île-de-France,,2020-04-21,7660.0,13709.0,5094.0
+France,Metropolitan France,Île-de-France,,2020-04-22,7660.0,14278.0,5219.0
+France,Metropolitan France,Île-de-France,,2020-04-23,7660.0,14795.0,5330.0
+France,Metropolitan France,Île-de-France,,2020-04-24,7660.0,15345.0,5452.0
+France,Metropolitan France,Île-de-France,,2020-04-25,7660.0,15754.0,5516.0
+France,Metropolitan France,Île-de-France,,2020-04-26,7660.0,15899.0,5578.0
+France,Metropolitan France,Île-de-France,,2020-04-27,7660.0,16160.0,5690.0
+France,Metropolitan France,Île-de-France,,2020-04-28,7660.0,16480.0,5787.0
+France,Metropolitan France,Île-de-France,,2020-04-29,7660.0,17140.0,5938.0
+France,Metropolitan France,Île-de-France,,2020-04-30,7660.0,17570.0,6008.0
+France,Metropolitan France,Île-de-France,,2020-05-01,7660.0,17817.0,6047.0
+France,Metropolitan France,Île-de-France,,2020-05-02,7660.0,17970.0,6085.0
+France,Metropolitan France,Île-de-France,,2020-05-03,7660.0,18056.0,6116.0
+France,Metropolitan France,Île-de-France,,2020-05-04,7660.0,18287.0,6208.0
+France,Metropolitan France,Île-de-France,,2020-05-05,7660.0,18870.0,6285.0
+France,Metropolitan France,Île-de-France,,2020-05-06,7660.0,19392.0,6347.0
+France,Overseas France,,,2020-01-24,0.0,0.0,0.0
+France,Overseas France,,,2020-01-25,0.0,0.0,0.0
+France,Overseas France,,,2020-01-26,0.0,0.0,0.0
+France,Overseas France,,,2020-01-27,0.0,0.0,0.0
+France,Overseas France,,,2020-01-28,0.0,0.0,0.0
+France,Overseas France,,,2020-01-29,0.0,0.0,0.0
+France,Overseas France,,,2020-01-30,0.0,0.0,0.0
+France,Overseas France,,,2020-01-31,0.0,0.0,0.0
+France,Overseas France,,,2020-02-01,0.0,0.0,0.0
+France,Overseas France,,,2020-02-02,0.0,0.0,0.0
+France,Overseas France,,,2020-02-03,0.0,0.0,0.0
+France,Overseas France,,,2020-02-04,0.0,0.0,0.0
+France,Overseas France,,,2020-02-05,0.0,0.0,0.0
+France,Overseas France,,,2020-02-06,0.0,0.0,0.0
+France,Overseas France,,,2020-02-07,0.0,0.0,0.0
+France,Overseas France,,,2020-02-08,0.0,0.0,0.0
+France,Overseas France,,,2020-02-09,0.0,0.0,0.0
+France,Overseas France,,,2020-02-10,0.0,0.0,0.0
+France,Overseas France,,,2020-02-11,0.0,0.0,0.0
+France,Overseas France,,,2020-02-12,0.0,0.0,0.0
+France,Overseas France,,,2020-02-13,0.0,0.0,0.0
+France,Overseas France,,,2020-02-14,0.0,0.0,0.0
+France,Overseas France,,,2020-02-15,0.0,0.0,0.0
+France,Overseas France,,,2020-02-16,0.0,0.0,0.0
+France,Overseas France,,,2020-02-17,0.0,0.0,0.0
+France,Overseas France,,,2020-02-18,0.0,0.0,0.0
+France,Overseas France,,,2020-02-19,0.0,0.0,0.0
+France,Overseas France,,,2020-02-20,0.0,0.0,0.0
+France,Overseas France,,,2020-02-21,0.0,0.0,0.0
+France,Overseas France,,,2020-02-22,0.0,0.0,0.0
+France,Overseas France,,,2020-02-23,0.0,0.0,0.0
+France,Overseas France,,,2020-02-24,0.0,0.0,0.0
+France,Overseas France,,,2020-02-25,0.0,0.0,0.0
+France,Overseas France,,,2020-02-26,0.0,0.0,0.0
+France,Overseas France,,,2020-02-27,0.0,0.0,0.0
+France,Overseas France,,,2020-02-28,0.0,0.0,0.0
+France,Overseas France,,,2020-02-29,0.0,0.0,0.0
+France,Overseas France,,,2020-03-01,3.0,0.0,0.0
+France,Overseas France,,,2020-03-02,3.0,0.0,0.0
+France,Overseas France,,,2020-03-03,3.0,0.0,0.0
+France,Overseas France,,,2020-03-04,3.0,0.0,0.0
+France,Overseas France,,,2020-03-05,8.0,0.0,0.0
+France,Overseas France,,,2020-03-06,10.0,0.0,0.0
+France,Overseas France,,,2020-03-07,10.0,0.0,0.0
+France,Overseas France,,,2020-03-08,10.0,0.0,0.0
+France,Overseas France,,,2020-03-09,10.0,0.0,0.0
+France,Overseas France,,,2020-03-10,11.0,0.0,0.0
+France,Overseas France,,,2020-03-11,13.0,0.0,0.0
+France,Overseas France,,,2020-03-12,16.0,1.0,0.0
+France,Overseas France,,,2020-03-13,20.0,1.0,0.0
+France,Overseas France,,,2020-03-14,24.0,2.0,0.0
+France,Overseas France,,,2020-03-15,34.0,3.0,0.0
+France,Overseas France,,,2020-03-16,55.0,3.0,0.0
+France,Overseas France,,,2020-03-17,69.0,3.0,0.0
+France,Overseas France,,,2020-03-18,81.0,3.0,1.0
+France,Overseas France,,,2020-03-19,117.0,3.0,1.0
+France,Overseas France,,,2020-03-20,149.0,3.0,2.0
+France,Overseas France,,,2020-03-21,170.0,4.0,2.0
+France,Overseas France,,,2020-03-22,201.0,10.0,2.0
+France,Overseas France,,,2020-03-23,237.0,10.0,2.0
+France,Overseas France,,,2020-03-24,281.0,10.0,2.0
+France,Overseas France,,,2020-03-25,322.0,22.0,2.0
+France,Overseas France,,,2020-03-26,364.0,28.0,2.0
+France,Overseas France,,,2020-03-27,388.0,28.0,2.0
+France,Overseas France,,,2020-03-28,425.0,33.0,2.0
+France,Overseas France,,,2020-03-29,429.0,39.0,5.0
+France,Overseas France,,,2020-03-30,429.0,52.0,7.0
+France,Overseas France,,,2020-03-31,429.0,56.0,8.0
+France,Overseas France,,,2020-04-01,429.0,76.0,10.0
+France,Overseas France,,,2020-04-02,429.0,92.0,12.0
+France,Overseas France,,,2020-04-03,429.0,109.0,13.0
+France,Overseas France,,,2020-04-04,429.0,126.0,13.0
+France,Overseas France,,,2020-04-05,429.0,132.0,13.0
+France,Overseas France,,,2020-04-06,429.0,140.0,14.0
+France,Overseas France,,,2020-04-07,429.0,163.0,14.0
+France,Overseas France,,,2020-04-08,429.0,179.0,16.0
+France,Overseas France,,,2020-04-09,429.0,190.0,17.0
+France,Overseas France,,,2020-04-10,429.0,193.0,17.0
+France,Overseas France,,,2020-04-11,429.0,209.0,18.0
+France,Overseas France,,,2020-04-12,429.0,213.0,19.0
+France,Overseas France,,,2020-04-13,429.0,213.0,19.0
+France,Overseas France,,,2020-04-14,429.0,223.0,19.0
+France,Overseas France,,,2020-04-15,429.0,237.0,19.0
+France,Overseas France,,,2020-04-16,429.0,259.0,20.0
+France,Overseas France,,,2020-04-17,429.0,270.0,20.0
+France,Overseas France,,,2020-04-18,429.0,276.0,22.0
+France,Overseas France,,,2020-04-19,429.0,280.0,23.0
+France,Overseas France,,,2020-04-20,429.0,291.0,27.0
+France,Overseas France,,,2020-04-21,429.0,305.0,32.0
+France,Overseas France,,,2020-04-22,429.0,313.0,32.0
+France,Overseas France,,,2020-04-23,429.0,322.0,33.0
+France,Overseas France,,,2020-04-24,429.0,327.0,34.0
+France,Overseas France,,,2020-04-25,429.0,330.0,34.0
+France,Overseas France,,,2020-04-26,429.0,337.0,34.0
+France,Overseas France,,,2020-04-27,429.0,341.0,35.0
+France,Overseas France,,,2020-04-28,429.0,346.0,35.0
+France,Overseas France,,,2020-04-29,429.0,359.0,35.0
+France,Overseas France,,,2020-04-30,429.0,382.0,37.0
+France,Overseas France,,,2020-05-01,429.0,390.0,40.0
+France,Overseas France,,,2020-05-02,429.0,391.0,40.0
+France,Overseas France,,,2020-05-03,429.0,393.0,40.0
+France,Overseas France,,,2020-05-04,429.0,398.0,41.0
+France,Overseas France,,,2020-05-05,429.0,402.0,44.0
+France,Overseas France,,,2020-05-06,429.0,407.0,46.0
+France,Overseas France,French Guiana,,2020-01-24,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-25,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-26,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-27,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-28,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-29,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-30,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-01-31,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-01,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-02,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-03,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-04,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-05,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-06,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-07,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-08,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-09,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-10,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-11,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-12,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-13,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-14,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-15,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-16,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-17,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-18,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-19,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-20,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-21,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-22,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-23,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-24,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-25,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-26,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-27,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-28,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-02-29,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-01,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-02,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-03,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-04,0.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-05,5.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-06,5.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-07,5.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-08,5.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-09,5.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-10,5.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-11,6.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-12,6.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-13,6.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-14,7.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-15,11.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-16,11.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-17,11.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-18,15.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-19,15.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-20,18.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-21,19.0,0.0,0.0
+France,Overseas France,French Guiana,,2020-03-22,20.0,6.0,0.0
+France,Overseas France,French Guiana,,2020-03-23,23.0,6.0,0.0
+France,Overseas France,French Guiana,,2020-03-24,27.0,6.0,0.0
+France,Overseas France,French Guiana,,2020-03-25,30.0,6.0,0.0
+France,Overseas France,French Guiana,,2020-03-26,31.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-03-27,34.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-03-28,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-03-29,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-03-30,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-03-31,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-01,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-02,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-03,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-04,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-05,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-06,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-07,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-08,37.0,10.0,0.0
+France,Overseas France,French Guiana,,2020-04-09,37.0,12.0,0.0
+France,Overseas France,French Guiana,,2020-04-10,37.0,13.0,0.0
+France,Overseas France,French Guiana,,2020-04-11,37.0,13.0,0.0
+France,Overseas France,French Guiana,,2020-04-12,37.0,13.0,0.0
+France,Overseas France,French Guiana,,2020-04-13,37.0,13.0,0.0
+France,Overseas France,French Guiana,,2020-04-14,37.0,13.0,0.0
+France,Overseas France,French Guiana,,2020-04-15,37.0,14.0,0.0
+France,Overseas France,French Guiana,,2020-04-16,37.0,24.0,0.0
+France,Overseas France,French Guiana,,2020-04-17,37.0,25.0,0.0
+France,Overseas France,French Guiana,,2020-04-18,37.0,25.0,0.0
+France,Overseas France,French Guiana,,2020-04-19,37.0,25.0,0.0
+France,Overseas France,French Guiana,,2020-04-20,37.0,29.0,0.0
+France,Overseas France,French Guiana,,2020-04-21,37.0,31.0,1.0
+France,Overseas France,French Guiana,,2020-04-22,37.0,32.0,1.0
+France,Overseas France,French Guiana,,2020-04-23,37.0,34.0,1.0
+France,Overseas France,French Guiana,,2020-04-24,37.0,34.0,1.0
+France,Overseas France,French Guiana,,2020-04-25,37.0,35.0,1.0
+France,Overseas France,French Guiana,,2020-04-26,37.0,35.0,1.0
+France,Overseas France,French Guiana,,2020-04-27,37.0,35.0,1.0
+France,Overseas France,French Guiana,,2020-04-28,37.0,35.0,1.0
+France,Overseas France,French Guiana,,2020-04-29,37.0,35.0,1.0
+France,Overseas France,French Guiana,,2020-04-30,37.0,36.0,1.0
+France,Overseas France,French Guiana,,2020-05-01,37.0,36.0,1.0
+France,Overseas France,French Guiana,,2020-05-02,37.0,36.0,1.0
+France,Overseas France,French Guiana,,2020-05-03,37.0,36.0,1.0
+France,Overseas France,French Guiana,,2020-05-04,37.0,36.0,1.0
+France,Overseas France,French Guiana,,2020-05-05,37.0,36.0,1.0
+France,Overseas France,French Guiana,,2020-05-06,37.0,36.0,1.0
+France,Overseas France,Guadeloupe,,2020-01-24,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-25,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-26,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-27,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-28,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-29,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-30,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-01-31,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-01,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-02,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-03,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-04,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-05,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-06,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-07,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-08,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-09,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-10,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-11,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-12,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-13,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-14,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-15,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-16,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-17,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-18,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-19,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-20,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-21,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-22,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-23,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-24,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-25,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-26,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-27,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-28,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-02-29,0.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-01,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-02,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-03,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-04,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-05,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-06,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-07,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-08,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-09,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-10,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-11,3.0,0.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-12,3.0,1.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-13,3.0,1.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-14,3.0,2.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-15,6.0,3.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-16,18.0,3.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-17,27.0,3.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-18,33.0,3.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-19,45.0,3.0,0.0
+France,Overseas France,Guadeloupe,,2020-03-20,51.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-21,56.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-22,58.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-23,62.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-24,73.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-25,76.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-26,76.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-27,76.0,3.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-28,102.0,6.0,1.0
+France,Overseas France,Guadeloupe,,2020-03-29,106.0,6.0,2.0
+France,Overseas France,Guadeloupe,,2020-03-30,106.0,18.0,4.0
+France,Overseas France,Guadeloupe,,2020-03-31,106.0,19.0,5.0
+France,Overseas France,Guadeloupe,,2020-04-01,106.0,25.0,7.0
+France,Overseas France,Guadeloupe,,2020-04-02,106.0,25.0,7.0
+France,Overseas France,Guadeloupe,,2020-04-03,106.0,34.0,8.0
+France,Overseas France,Guadeloupe,,2020-04-04,106.0,35.0,8.0
+France,Overseas France,Guadeloupe,,2020-04-05,106.0,36.0,8.0
+France,Overseas France,Guadeloupe,,2020-04-06,106.0,37.0,8.0
+France,Overseas France,Guadeloupe,,2020-04-07,106.0,43.0,8.0
+France,Overseas France,Guadeloupe,,2020-04-08,106.0,46.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-09,106.0,49.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-10,106.0,50.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-11,106.0,50.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-12,106.0,51.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-13,106.0,51.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-14,106.0,51.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-15,106.0,57.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-16,106.0,58.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-17,106.0,59.0,10.0
+France,Overseas France,Guadeloupe,,2020-04-18,106.0,61.0,11.0
+France,Overseas France,Guadeloupe,,2020-04-19,106.0,61.0,11.0
+France,Overseas France,Guadeloupe,,2020-04-20,106.0,62.0,12.0
+France,Overseas France,Guadeloupe,,2020-04-21,106.0,68.0,12.0
+France,Overseas France,Guadeloupe,,2020-04-22,106.0,69.0,12.0
+France,Overseas France,Guadeloupe,,2020-04-23,106.0,70.0,12.0
+France,Overseas France,Guadeloupe,,2020-04-24,106.0,70.0,13.0
+France,Overseas France,Guadeloupe,,2020-04-25,106.0,70.0,13.0
+France,Overseas France,Guadeloupe,,2020-04-26,106.0,70.0,13.0
+France,Overseas France,Guadeloupe,,2020-04-27,106.0,70.0,14.0
+France,Overseas France,Guadeloupe,,2020-04-28,106.0,70.0,14.0
+France,Overseas France,Guadeloupe,,2020-04-29,106.0,72.0,14.0
+France,Overseas France,Guadeloupe,,2020-04-30,106.0,72.0,16.0
+France,Overseas France,Guadeloupe,,2020-05-01,106.0,72.0,17.0
+France,Overseas France,Guadeloupe,,2020-05-02,106.0,72.0,17.0
+France,Overseas France,Guadeloupe,,2020-05-03,106.0,72.0,17.0
+France,Overseas France,Guadeloupe,,2020-05-04,106.0,72.0,17.0
+France,Overseas France,Guadeloupe,,2020-05-05,106.0,71.0,18.0
+France,Overseas France,Guadeloupe,,2020-05-06,106.0,71.0,18.0
+France,Overseas France,Martinique,,2020-01-24,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-25,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-26,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-27,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-28,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-29,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-30,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-01-31,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-01,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-02,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-03,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-04,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-05,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-06,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-07,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-08,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-09,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-10,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-11,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-12,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-13,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-14,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-15,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-16,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-17,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-18,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-19,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-20,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-21,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-22,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-23,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-24,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-25,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-26,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-27,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-28,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-02-29,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-01,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-02,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-03,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-04,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-05,0.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-06,2.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-07,2.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-08,2.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-09,2.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-10,3.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-11,3.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-12,4.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-13,6.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-14,7.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-15,7.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-16,16.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-17,16.0,0.0,0.0
+France,Overseas France,Martinique,,2020-03-18,16.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-19,32.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-20,35.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-21,37.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-22,44.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-23,53.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-24,57.0,0.0,1.0
+France,Overseas France,Martinique,,2020-03-25,66.0,12.0,1.0
+France,Overseas France,Martinique,,2020-03-26,80.0,13.0,1.0
+France,Overseas France,Martinique,,2020-03-27,93.0,13.0,1.0
+France,Overseas France,Martinique,,2020-03-28,93.0,15.0,1.0
+France,Overseas France,Martinique,,2020-03-29,93.0,17.0,3.0
+France,Overseas France,Martinique,,2020-03-30,93.0,17.0,3.0
+France,Overseas France,Martinique,,2020-03-31,93.0,20.0,3.0
+France,Overseas France,Martinique,,2020-04-01,93.0,20.0,3.0
+France,Overseas France,Martinique,,2020-04-02,93.0,31.0,3.0
+France,Overseas France,Martinique,,2020-04-03,93.0,34.0,3.0
+France,Overseas France,Martinique,,2020-04-04,93.0,35.0,3.0
+France,Overseas France,Martinique,,2020-04-05,93.0,37.0,3.0
+France,Overseas France,Martinique,,2020-04-06,93.0,37.0,4.0
+France,Overseas France,Martinique,,2020-04-07,93.0,41.0,4.0
+France,Overseas France,Martinique,,2020-04-08,93.0,43.0,4.0
+France,Overseas France,Martinique,,2020-04-09,93.0,45.0,5.0
+France,Overseas France,Martinique,,2020-04-10,93.0,48.0,5.0
+France,Overseas France,Martinique,,2020-04-11,93.0,50.0,5.0
+France,Overseas France,Martinique,,2020-04-12,93.0,52.0,6.0
+France,Overseas France,Martinique,,2020-04-13,93.0,52.0,6.0
+France,Overseas France,Martinique,,2020-04-14,93.0,52.0,6.0
+France,Overseas France,Martinique,,2020-04-15,93.0,53.0,6.0
+France,Overseas France,Martinique,,2020-04-16,93.0,55.0,6.0
+France,Overseas France,Martinique,,2020-04-17,93.0,59.0,6.0
+France,Overseas France,Martinique,,2020-04-18,93.0,60.0,7.0
+France,Overseas France,Martinique,,2020-04-19,93.0,60.0,7.0
+France,Overseas France,Martinique,,2020-04-20,93.0,60.0,9.0
+France,Overseas France,Martinique,,2020-04-21,93.0,60.0,13.0
+France,Overseas France,Martinique,,2020-04-22,93.0,62.0,13.0
+France,Overseas France,Martinique,,2020-04-23,93.0,62.0,14.0
+France,Overseas France,Martinique,,2020-04-24,93.0,63.0,14.0
+France,Overseas France,Martinique,,2020-04-25,93.0,63.0,14.0
+France,Overseas France,Martinique,,2020-04-26,93.0,63.0,14.0
+France,Overseas France,Martinique,,2020-04-27,93.0,63.0,14.0
+France,Overseas France,Martinique,,2020-04-28,93.0,64.0,14.0
+France,Overseas France,Martinique,,2020-04-29,93.0,64.0,14.0
+France,Overseas France,Martinique,,2020-04-30,93.0,77.0,14.0
+France,Overseas France,Martinique,,2020-05-01,93.0,77.0,14.0
+France,Overseas France,Martinique,,2020-05-02,93.0,77.0,14.0
+France,Overseas France,Martinique,,2020-05-03,93.0,77.0,14.0
+France,Overseas France,Martinique,,2020-05-04,93.0,77.0,14.0
+France,Overseas France,Martinique,,2020-05-05,93.0,78.0,14.0
+France,Overseas France,Martinique,,2020-05-06,93.0,78.0,14.0
+France,Overseas France,Mayotte,,2020-01-24,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-25,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-26,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-27,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-28,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-29,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-30,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-01-31,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-01,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-02,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-03,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-04,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-05,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-06,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-07,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-08,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-09,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-10,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-11,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-12,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-13,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-14,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-15,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-16,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-17,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-18,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-19,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-20,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-21,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-22,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-23,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-24,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-25,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-26,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-27,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-28,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-02-29,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-01,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-02,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-03,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-04,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-05,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-06,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-07,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-08,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-09,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-10,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-11,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-12,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-13,0.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-14,1.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-15,1.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-16,1.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-17,3.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-18,3.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-19,6.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-20,7.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-21,11.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-22,14.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-23,24.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-24,30.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-25,35.0,0.0,0.0
+France,Overseas France,Mayotte,,2020-03-26,42.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-03-27,50.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-03-28,50.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-03-29,50.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-03-30,50.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-03-31,50.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-04-01,50.0,1.0,0.0
+France,Overseas France,Mayotte,,2020-04-02,50.0,2.0,2.0
+France,Overseas France,Mayotte,,2020-04-03,50.0,2.0,2.0
+France,Overseas France,Mayotte,,2020-04-04,50.0,7.0,2.0
+France,Overseas France,Mayotte,,2020-04-05,50.0,8.0,2.0
+France,Overseas France,Mayotte,,2020-04-06,50.0,13.0,2.0
+France,Overseas France,Mayotte,,2020-04-07,50.0,17.0,2.0
+France,Overseas France,Mayotte,,2020-04-08,50.0,25.0,2.0
+France,Overseas France,Mayotte,,2020-04-09,50.0,26.0,2.0
+France,Overseas France,Mayotte,,2020-04-10,50.0,24.0,2.0
+France,Overseas France,Mayotte,,2020-04-11,50.0,26.0,3.0
+France,Overseas France,Mayotte,,2020-04-12,50.0,25.0,3.0
+France,Overseas France,Mayotte,,2020-04-13,50.0,25.0,3.0
+France,Overseas France,Mayotte,,2020-04-14,50.0,35.0,3.0
+France,Overseas France,Mayotte,,2020-04-15,50.0,37.0,3.0
+France,Overseas France,Mayotte,,2020-04-16,50.0,39.0,4.0
+France,Overseas France,Mayotte,,2020-04-17,50.0,41.0,4.0
+France,Overseas France,Mayotte,,2020-04-18,50.0,41.0,4.0
+France,Overseas France,Mayotte,,2020-04-19,50.0,44.0,5.0
+France,Overseas France,Mayotte,,2020-04-20,50.0,47.0,6.0
+France,Overseas France,Mayotte,,2020-04-21,50.0,52.0,6.0
+France,Overseas France,Mayotte,,2020-04-22,50.0,54.0,6.0
+France,Overseas France,Mayotte,,2020-04-23,50.0,58.0,6.0
+France,Overseas France,Mayotte,,2020-04-24,50.0,60.0,6.0
+France,Overseas France,Mayotte,,2020-04-25,50.0,60.0,6.0
+France,Overseas France,Mayotte,,2020-04-26,50.0,66.0,6.0
+France,Overseas France,Mayotte,,2020-04-27,50.0,70.0,6.0
+France,Overseas France,Mayotte,,2020-04-28,50.0,73.0,6.0
+France,Overseas France,Mayotte,,2020-04-29,50.0,79.0,6.0
+France,Overseas France,Mayotte,,2020-04-30,50.0,88.0,6.0
+France,Overseas France,Mayotte,,2020-05-01,50.0,96.0,8.0
+France,Overseas France,Mayotte,,2020-05-02,50.0,96.0,8.0
+France,Overseas France,Mayotte,,2020-05-03,50.0,97.0,8.0
+France,Overseas France,Mayotte,,2020-05-04,50.0,102.0,9.0
+France,Overseas France,Mayotte,,2020-05-05,50.0,105.0,11.0
+France,Overseas France,Mayotte,,2020-05-06,50.0,111.0,13.0
+France,Overseas France,Reunion,,2020-01-24,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-25,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-26,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-27,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-28,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-29,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-30,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-01-31,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-01,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-02,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-03,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-04,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-05,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-06,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-07,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-08,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-09,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-10,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-11,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-12,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-13,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-14,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-15,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-16,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-17,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-18,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-19,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-20,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-21,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-22,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-23,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-24,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-25,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-26,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-27,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-28,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-02-29,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-01,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-02,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-03,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-04,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-05,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-06,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-07,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-08,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-09,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-10,0.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-11,1.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-12,3.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-13,5.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-14,6.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-15,9.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-16,9.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-17,12.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-18,14.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-19,19.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-20,38.0,0.0,0.0
+France,Overseas France,Reunion,,2020-03-21,47.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-22,65.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-23,75.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-24,94.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-25,115.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-26,135.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-27,135.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-28,143.0,1.0,0.0
+France,Overseas France,Reunion,,2020-03-29,143.0,5.0,0.0
+France,Overseas France,Reunion,,2020-03-30,143.0,6.0,0.0
+France,Overseas France,Reunion,,2020-03-31,143.0,6.0,0.0
+France,Overseas France,Reunion,,2020-04-01,143.0,20.0,0.0
+France,Overseas France,Reunion,,2020-04-02,143.0,24.0,0.0
+France,Overseas France,Reunion,,2020-04-03,143.0,29.0,0.0
+France,Overseas France,Reunion,,2020-04-04,143.0,39.0,0.0
+France,Overseas France,Reunion,,2020-04-05,143.0,41.0,0.0
+France,Overseas France,Reunion,,2020-04-06,143.0,43.0,0.0
+France,Overseas France,Reunion,,2020-04-07,143.0,52.0,0.0
+France,Overseas France,Reunion,,2020-04-08,143.0,55.0,0.0
+France,Overseas France,Reunion,,2020-04-09,143.0,58.0,0.0
+France,Overseas France,Reunion,,2020-04-10,143.0,58.0,0.0
+France,Overseas France,Reunion,,2020-04-11,143.0,70.0,0.0
+France,Overseas France,Reunion,,2020-04-12,143.0,72.0,0.0
+France,Overseas France,Reunion,,2020-04-13,143.0,72.0,0.0
+France,Overseas France,Reunion,,2020-04-14,143.0,72.0,0.0
+France,Overseas France,Reunion,,2020-04-15,143.0,76.0,0.0
+France,Overseas France,Reunion,,2020-04-16,143.0,83.0,0.0
+France,Overseas France,Reunion,,2020-04-17,143.0,86.0,0.0
+France,Overseas France,Reunion,,2020-04-18,143.0,89.0,0.0
+France,Overseas France,Reunion,,2020-04-19,143.0,90.0,0.0
+France,Overseas France,Reunion,,2020-04-20,143.0,93.0,0.0
+France,Overseas France,Reunion,,2020-04-21,143.0,94.0,0.0
+France,Overseas France,Reunion,,2020-04-22,143.0,96.0,0.0
+France,Overseas France,Reunion,,2020-04-23,143.0,98.0,0.0
+France,Overseas France,Reunion,,2020-04-24,143.0,100.0,0.0
+France,Overseas France,Reunion,,2020-04-25,143.0,102.0,0.0
+France,Overseas France,Reunion,,2020-04-26,143.0,103.0,0.0
+France,Overseas France,Reunion,,2020-04-27,143.0,103.0,0.0
+France,Overseas France,Reunion,,2020-04-28,143.0,104.0,0.0
+France,Overseas France,Reunion,,2020-04-29,143.0,109.0,0.0
+France,Overseas France,Reunion,,2020-04-30,143.0,109.0,0.0
+France,Overseas France,Reunion,,2020-05-01,143.0,109.0,0.0
+France,Overseas France,Reunion,,2020-05-02,143.0,110.0,0.0
+France,Overseas France,Reunion,,2020-05-03,143.0,111.0,0.0
+France,Overseas France,Reunion,,2020-05-04,143.0,111.0,0.0
+France,Overseas France,Reunion,,2020-05-05,143.0,112.0,0.0
+France,Overseas France,Reunion,,2020-05-06,143.0,111.0,0.0

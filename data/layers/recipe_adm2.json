@@ -1,0 +1,13 @@
+{"recipe":
+  {
+    "version": 1,
+    "layers": {
+      "adm2_test": {
+        "source": "mapbox://tileset-source/coronastate/adm2-test",
+        "minzoom": 0,
+        "maxzoom": 10
+      }
+    }
+  },
+  "name": "adm2 autoupdate"
+}
