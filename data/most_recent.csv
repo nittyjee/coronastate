@@ -10099,7 +10099,7 @@ adm2,India,Bihar,,Purnia,20200703,3,310,0.0,277.0,data/rawdata/data/india-data,h
 adm2,India,Meghalaya,,West Garo Hills,20200703,3,7,0.0,4.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
 adm0,Burkina Faso,,,,20200703,1,980,53.0,852.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm0,Bulgaria,,,,20200703,1,5497,239.0,2892.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
-adm0,Brazil,,,,20200703,1,1539081,61884.0,984615.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,data/brazil-data,https://github.com/elhenrico/covid19-Brazil-timeseries
+adm0,Brazil,,,,20200703,1,1539081,63174.0,984615.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,data/brazil-data,https://github.com/elhenrico/covid19-Brazil-timeseries
 adm0,Botswana,,,,20200703,1,277,1.0,29.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm0,Bosnia and Herzegovina,,,,20200703,1,4962,191.0,2550.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,India,Bihar,,Begusarai,20200703,3,476,4.0,364.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
