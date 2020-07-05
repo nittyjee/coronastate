@@ -10397,7 +10397,7 @@ Delhi,Unknown,26220,89014,2802,59992,20200701
 Delhi,Unknown,25517,91387,2863,63007,20200702
 Delhi,Unknown,25361,93907,2922,65624,20200703
 Delhi,Unknown,25153,96412,3003,68256,20200704
-Delhi,Unknown,25153,96412,3003,68256,20200705
+Delhi,Unknown,24251,98656,3066,71339,20200705
 Delhi,West Delhi,2,2,0,0,20200421
 Delhi,West Delhi,2,2,0,0,20200422
 Delhi,West Delhi,122,122,0,0,20200423
@@ -21142,7 +21142,7 @@ Kerala,Alappuzha,172,308,1,135,20200701
 Kerala,Alappuzha,180,324,1,143,20200702
 Kerala,Alappuzha,199,345,1,145,20200703
 Kerala,Alappuzha,183,365,1,181,20200704
-Kerala,Alappuzha,183,365,1,181,20200705
+Kerala,Alappuzha,196,378,1,181,20200705
 Kerala,Ernakulam,3,24,1,20,20200421
 Kerala,Ernakulam,3,24,1,20,20200422
 Kerala,Ernakulam,3,24,1,20,20200423
@@ -21218,7 +21218,7 @@ Kerala,Ernakulam,180,265,1,83,20200701
 Kerala,Ernakulam,179,274,1,93,20200702
 Kerala,Ernakulam,176,291,1,113,20200703
 Kerala,Ernakulam,182,304,1,120,20200704
-Kerala,Ernakulam,182,304,1,120,20200705
+Kerala,Ernakulam,184,316,1,130,20200705
 Kerala,Idukki,0,10,0,10,20200421
 Kerala,Idukki,0,10,0,10,20200422
 Kerala,Idukki,4,14,0,10,20200423
@@ -21294,7 +21294,7 @@ Kerala,Idukki,50,109,0,59,20200701
 Kerala,Idukki,45,117,0,72,20200702
 Kerala,Idukki,47,119,0,72,20200703
 Kerala,Idukki,47,121,0,74,20200704
-Kerala,Idukki,47,121,0,74,20200705
+Kerala,Idukki,53,127,0,74,20200705
 Kerala,Kannur,54,102,0,48,20200421
 Kerala,Kannur,61,109,0,48,20200422
 Kerala,Kannur,60,109,0,49,20200423
@@ -21370,7 +21370,7 @@ Kerala,Kannur,208,502,5,289,20200701
 Kerala,Kannur,211,511,5,295,20200702
 Kerala,Kannur,216,529,5,308,20200703
 Kerala,Kannur,236,564,5,323,20200704
-Kerala,Kannur,236,564,5,323,20200705
+Kerala,Kannur,258,589,5,326,20200705
 Kerala,Kasaragod,26,172,0,146,20200421
 Kerala,Kasaragod,26,172,0,146,20200422
 Kerala,Kasaragod,20,172,0,152,20200423
@@ -21446,7 +21446,7 @@ Kerala,Kasaragod,121,462,0,341,20200701
 Kerala,Kasaragod,95,467,0,372,20200702
 Kerala,Kasaragod,90,474,0,384,20200703
 Kerala,Kasaragod,98,488,0,390,20200704
-Kerala,Kasaragod,98,488,0,390,20200705
+Kerala,Kasaragod,126,516,0,390,20200705
 Kerala,Kollam,6,10,0,4,20200421
 Kerala,Kollam,6,10,0,4,20200422
 Kerala,Kollam,7,11,0,4,20200423
@@ -21522,7 +21522,7 @@ Kerala,Kollam,185,347,2,160,20200701
 Kerala,Kollam,194,356,2,160,20200702
 Kerala,Kollam,217,379,2,160,20200703
 Kerala,Kollam,195,395,2,198,20200704
-Kerala,Kollam,195,395,2,198,20200705
+Kerala,Kollam,174,405,2,229,20200705
 Kerala,Kottayam,0,3,0,3,20200421
 Kerala,Kottayam,1,4,0,3,20200422
 Kerala,Kottayam,3,6,0,3,20200423
@@ -21598,7 +21598,7 @@ Kerala,Kottayam,107,225,1,117,20200701
 Kerala,Kottayam,115,234,1,118,20200702
 Kerala,Kottayam,113,248,1,134,20200703
 Kerala,Kottayam,110,254,1,143,20200704
-Kerala,Kottayam,110,254,1,143,20200705
+Kerala,Kottayam,115,262,1,146,20200705
 Kerala,Kozhikode,9,20,0,11,20200421
 Kerala,Kozhikode,9,22,0,13,20200422
 Kerala,Kozhikode,11,24,0,13,20200423
@@ -21674,7 +21674,7 @@ Kerala,Kozhikode,81,268,2,185,20200701
 Kerala,Kozhikode,88,275,2,185,20200702
 Kerala,Kozhikode,91,289,2,196,20200703
 Kerala,Kozhikode,98,297,2,197,20200704
-Kerala,Kozhikode,98,297,2,197,20200705
+Kerala,Kozhikode,113,317,2,202,20200705
 Kerala,Malappuram,7,21,0,14,20200421
 Kerala,Malappuram,8,22,0,14,20200422
 Kerala,Malappuram,7,22,0,15,20200423
@@ -21750,7 +21750,7 @@ Kerala,Malappuram,251,535,4,280,20200701
 Kerala,Malappuram,219,559,4,336,20200702
 Kerala,Malappuram,244,594,4,346,20200703
 Kerala,Malappuram,275,631,4,352,20200704
-Kerala,Malappuram,275,631,4,352,20200705
+Kerala,Malappuram,273,657,4,380,20200705
 Kerala,Other State,2,2,0,0,20200530
 Kerala,Other State,2,2,0,0,20200531
 Kerala,Other State,2,2,0,0,20200601
@@ -21863,7 +21863,7 @@ Kerala,Palakkad,288,546,1,256,20200701
 Kerala,Palakkad,252,564,1,310,20200702
 Kerala,Palakkad,198,578,1,378,20200703
 Kerala,Palakkad,183,607,1,422,20200704
-Kerala,Palakkad,183,607,1,422,20200705
+Kerala,Palakkad,205,636,1,429,20200705
 Kerala,Pathanamthitta,6,17,0,11,20200421
 Kerala,Pathanamthitta,6,17,0,11,20200422
 Kerala,Pathanamthitta,6,17,0,11,20200423
@@ -21939,7 +21939,7 @@ Kerala,Pathanamthitta,187,295,0,108,20200701
 Kerala,Pathanamthitta,214,322,0,108,20200702
 Kerala,Pathanamthitta,192,329,0,137,20200703
 Kerala,Pathanamthitta,194,351,0,157,20200704
-Kerala,Pathanamthitta,194,351,0,157,20200705
+Kerala,Pathanamthitta,187,354,0,167,20200705
 Kerala,Thiruvananthapuram,-1,14,1,14,20200421
 Kerala,Thiruvananthapuram,1,14,1,12,20200422
 Kerala,Thiruvananthapuram,2,15,1,12,20200423
@@ -22015,7 +22015,7 @@ Kerala,Thiruvananthapuram,84,215,5,126,20200701
 Kerala,Thiruvananthapuram,78,224,5,141,20200702
 Kerala,Thiruvananthapuram,90,241,5,146,20200703
 Kerala,Thiruvananthapuram,91,257,5,161,20200704
-Kerala,Thiruvananthapuram,91,257,5,161,20200705
+Kerala,Thiruvananthapuram,107,284,5,172,20200705
 Kerala,Thrissur,0,13,0,13,20200421
 Kerala,Thrissur,0,13,0,13,20200422
 Kerala,Thrissur,0,13,0,13,20200423
@@ -22091,7 +22091,7 @@ Kerala,Thrissur,173,419,3,243,20200701
 Kerala,Thrissur,174,428,3,251,20200702
 Kerala,Thrissur,190,449,3,256,20200703
 Kerala,Thrissur,200,469,3,266,20200704
-Kerala,Thrissur,200,469,3,266,20200705
+Kerala,Thrissur,200,481,3,278,20200705
 Kerala,Unknown,0,-3,0,-4,20200430
 Kerala,Unknown,1,1,0,0,20200524
 Kerala,Unknown,-1,0,1,0,20200528
@@ -22178,7 +22178,7 @@ Kerala,Wayanad,43,98,1,54,20200701
 Kerala,Wayanad,44,99,1,54,20200702
 Kerala,Wayanad,35,100,1,64,20200703
 Kerala,Wayanad,37,102,1,64,20200704
-Kerala,Wayanad,37,102,1,64,20200705
+Kerala,Wayanad,37,108,1,70,20200705
 Ladakh,Kargil,4,4,0,0,20200421
 Ladakh,Kargil,1,4,0,3,20200422
 Ladakh,Kargil,1,4,0,3,20200423
