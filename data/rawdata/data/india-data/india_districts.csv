@@ -10549,7 +10549,7 @@ Goa,North Goa,64,93,1,28,20200701
 Goa,North Goa,80,110,2,28,20200702
 Goa,North Goa,87,127,2,38,20200703
 Goa,North Goa,87,127,2,38,20200704
-Goa,North Goa,168,216,2,46,20200705
+Goa,North Goa,169,217,2,46,20200705
 Goa,Other State,4,4,0,0,20200613
 Goa,Other State,4,4,0,0,20200614
 Goa,Other State,4,4,0,0,20200615
@@ -10647,7 +10647,7 @@ Goa,South Goa,592,807,2,213,20200701
 Goa,South Goa,563,811,2,246,20200702
 Goa,South Goa,565,827,2,260,20200703
 Goa,South Goa,565,827,2,260,20200704
-Goa,South Goa,596,877,4,277,20200705
+Goa,South Goa,591,879,4,284,20200705
 Goa,Unknown,3,3,0,0,20200421
 Goa,Unknown,5,5,0,0,20200516
 Goa,Unknown,5,5,0,0,20200517
@@ -10697,7 +10697,7 @@ Goa,Unknown,53,483,1,429,20200701
 Goa,Unknown,97,557,0,460,20200702
 Goa,Unknown,32,497,0,465,20200703
 Goa,Unknown,85,605,2,518,20200704
-Goa,Unknown,-19,466,0,485,20200705
+Goa,Unknown,-15,463,0,478,20200705
 Gujarat,Ahmadabad,1373,1373,0,0,20200421
 Gujarat,Ahmadabad,1353,1501,62,86,20200422
 Gujarat,Ahmadabad,1470,1652,69,113,20200423
@@ -32098,7 +32098,7 @@ Odisha,Cuttack,123,606,5,478,20200701
 Odisha,Cuttack,122,618,5,491,20200702
 Odisha,Cuttack,188,702,5,509,20200703
 Odisha,Cuttack,196,715,6,513,20200704
-Odisha,Cuttack,290,809,6,513,20200705
+Odisha,Cuttack,294,813,6,513,20200705
 Odisha,Debagarh,1,1,0,0,20200429
 Odisha,Debagarh,1,1,0,0,20200430
 Odisha,Debagarh,1,1,0,0,20200501
@@ -32497,7 +32497,7 @@ Odisha,Jajpur,135,515,0,380,20200701
 Odisha,Jajpur,154,537,0,383,20200702
 Odisha,Jajpur,149,540,0,391,20200703
 Odisha,Jajpur,150,541,0,391,20200704
-Odisha,Jajpur,175,566,0,391,20200705
+Odisha,Jajpur,167,566,0,399,20200705
 Odisha,Jharsuguda,1,1,0,0,20200429
 Odisha,Jharsuguda,1,1,0,0,20200430
 Odisha,Jharsuguda,1,1,0,0,20200501
@@ -33292,7 +33292,7 @@ Odisha,Others,2,2,0,0,20200701
 Odisha,Others,2,2,0,0,20200702
 Odisha,Others,0,0,0,0,20200703
 Odisha,Others,0,0,0,0,20200704
-Odisha,Others,4,4,0,0,20200705
+Odisha,Others,0,0,0,0,20200705
 Odisha,Puri,0,1,0,1,20200421
 Odisha,Puri,0,1,0,1,20200422
 Odisha,Puri,0,1,0,1,20200423
@@ -33611,7 +33611,6 @@ Odisha,Unknown,13,13,0,0,20200514
 Odisha,Unknown,75,75,0,0,20200613
 Odisha,Unknown,88,88,0,0,20200614
 Odisha,Unknown,-8,0,0,8,20200704
-Odisha,Unknown,-8,0,0,8,20200705
 Puducherry,Karaikal,1,1,0,0,20200510
 Puducherry,Karaikal,1,1,0,0,20200511
 Puducherry,Karaikal,1,1,0,0,20200512
