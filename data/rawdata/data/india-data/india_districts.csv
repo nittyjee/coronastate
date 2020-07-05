@@ -10549,7 +10549,7 @@ Goa,North Goa,64,93,1,28,20200701
 Goa,North Goa,80,110,2,28,20200702
 Goa,North Goa,87,127,2,38,20200703
 Goa,North Goa,87,127,2,38,20200704
-Goa,North Goa,87,127,2,38,20200705
+Goa,North Goa,119,160,2,39,20200705
 Goa,Other State,4,4,0,0,20200613
 Goa,Other State,4,4,0,0,20200614
 Goa,Other State,4,4,0,0,20200615
@@ -10647,7 +10647,7 @@ Goa,South Goa,592,807,2,213,20200701
 Goa,South Goa,563,811,2,246,20200702
 Goa,South Goa,565,827,2,260,20200703
 Goa,South Goa,565,827,2,260,20200704
-Goa,South Goa,565,827,2,260,20200705
+Goa,South Goa,589,856,2,265,20200705
 Goa,Unknown,3,3,0,0,20200421
 Goa,Unknown,5,5,0,0,20200516
 Goa,Unknown,5,5,0,0,20200517
@@ -10697,7 +10697,7 @@ Goa,Unknown,53,483,1,429,20200701
 Goa,Unknown,97,557,0,460,20200702
 Goa,Unknown,32,497,0,465,20200703
 Goa,Unknown,85,605,2,518,20200704
-Goa,Unknown,85,605,2,518,20200705
+Goa,Unknown,29,543,2,512,20200705
 Gujarat,Ahmadabad,1373,1373,0,0,20200421
 Gujarat,Ahmadabad,1353,1501,62,86,20200422
 Gujarat,Ahmadabad,1470,1652,69,113,20200423
@@ -15778,6 +15778,7 @@ Himachal Pradesh,Unknown,1,1,0,0,20200513
 Himachal Pradesh,Unknown,1,1,0,0,20200514
 Himachal Pradesh,Unknown,1,1,0,0,20200516
 Himachal Pradesh,Unknown,8,8,0,0,20200524
+Himachal Pradesh,Unknown,-1,0,1,0,20200705
 Jammu and Kashmir,Anantnag,7,7,0,0,20200421
 Jammu and Kashmir,Anantnag,8,8,0,0,20200422
 Jammu and Kashmir,Anantnag,9,9,0,0,20200423
