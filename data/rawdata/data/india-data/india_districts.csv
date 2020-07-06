@@ -10560,7 +10560,7 @@ Delhi,Unknown,25517,91387,2863,63007,20200702
 Delhi,Unknown,25361,93907,2922,65624,20200703
 Delhi,Unknown,25153,96412,3003,68256,20200704
 Delhi,Unknown,24251,98656,3066,71339,20200705
-Delhi,Unknown,24251,98656,3066,71339,20200706
+Delhi,Unknown,24833,100035,3114,72088,20200706
 Delhi,West Delhi,2,2,0,0,20200421
 Delhi,West Delhi,2,2,0,0,20200422
 Delhi,West Delhi,122,122,0,0,20200423
@@ -10865,7 +10865,7 @@ Goa,Unknown,97,557,0,460,20200702
 Goa,Unknown,32,497,0,465,20200703
 Goa,Unknown,85,605,2,518,20200704
 Goa,Unknown,0,420,0,420,20200705
-Goa,Unknown,0,420,0,420,20200706
+Goa,Unknown,-73,472,0,545,20200706
 Gujarat,Ahmadabad,1373,1373,0,0,20200421
 Gujarat,Ahmadabad,1353,1501,62,86,20200422
 Gujarat,Ahmadabad,1470,1652,69,113,20200423
@@ -10942,7 +10942,7 @@ Gujarat,Ahmedabad,3629,21339,1456,16254,20200702
 Gujarat,Ahmedabad,3692,21543,1466,16385,20200703
 Gujarat,Ahmedabad,3627,21715,1475,16613,20200704
 Gujarat,Ahmedabad,3579,21892,1484,16829,20200705
-Gujarat,Ahmedabad,3579,21892,1484,16829,20200706
+Gujarat,Ahmedabad,3515,22075,1491,17069,20200706
 Gujarat,Amreli,1,1,0,0,20200513
 Gujarat,Amreli,1,1,0,0,20200514
 Gujarat,Amreli,1,1,0,0,20200515
@@ -10997,7 +10997,7 @@ Gujarat,Amreli,45,95,8,42,20200702
 Gujarat,Amreli,45,95,8,42,20200703
 Gujarat,Amreli,43,97,8,46,20200704
 Gujarat,Amreli,44,98,8,46,20200705
-Gujarat,Amreli,44,98,8,46,20200706
+Gujarat,Amreli,49,105,8,48,20200706
 Gujarat,Anand,28,28,0,0,20200421
 Gujarat,Anand,24,30,2,4,20200422
 Gujarat,Anand,22,33,2,9,20200423
@@ -11074,7 +11074,7 @@ Gujarat,Anand,27,232,13,192,20200702
 Gujarat,Anand,26,241,13,202,20200703
 Gujarat,Anand,22,245,13,210,20200704
 Gujarat,Anand,22,245,13,210,20200705
-Gujarat,Anand,22,245,13,210,20200706
+Gujarat,Anand,22,246,13,211,20200706
 Gujarat,Aravalli,12,12,0,0,20200421
 Gujarat,Aravalli,16,17,1,0,20200422
 Gujarat,Aravalli,17,18,1,0,20200423
@@ -11151,7 +11151,7 @@ Gujarat,Aravalli,25,216,19,172,20200702
 Gujarat,Aravalli,26,217,19,172,20200703
 Gujarat,Aravalli,25,224,20,179,20200704
 Gujarat,Aravalli,30,229,20,179,20200705
-Gujarat,Aravalli,30,229,20,179,20200706
+Gujarat,Aravalli,26,231,22,183,20200706
 Gujarat,Banas Kantha,15,15,0,0,20200421
 Gujarat,Banas Kantha,15,16,0,1,20200422
 Gujarat,Banas Kantha,15,16,0,1,20200423
@@ -11228,7 +11228,7 @@ Gujarat,Banaskantha,35,202,12,155,20200702
 Gujarat,Banaskantha,43,210,12,155,20200703
 Gujarat,Banaskantha,53,220,12,155,20200704
 Gujarat,Banaskantha,54,228,12,162,20200705
-Gujarat,Banaskantha,54,228,12,162,20200706
+Gujarat,Banaskantha,76,252,13,163,20200706
 Gujarat,Bharuch,24,24,0,0,20200421
 Gujarat,Bharuch,19,24,2,3,20200422
 Gujarat,Bharuch,24,29,2,3,20200423
@@ -11305,7 +11305,7 @@ Gujarat,Bharuch,112,253,10,131,20200702
 Gujarat,Bharuch,125,266,10,131,20200703
 Gujarat,Bharuch,133,281,10,138,20200704
 Gujarat,Bharuch,148,296,10,138,20200705
-Gujarat,Bharuch,148,296,10,138,20200706
+Gujarat,Bharuch,145,314,10,159,20200706
 Gujarat,Bhavnagar,32,32,0,0,20200421
 Gujarat,Bhavnagar,9,32,5,18,20200422
 Gujarat,Bhavnagar,10,33,5,18,20200423
@@ -11382,7 +11382,7 @@ Gujarat,Bhavnagar,116,281,13,152,20200702
 Gujarat,Bhavnagar,137,302,13,152,20200703
 Gujarat,Bhavnagar,154,322,13,155,20200704
 Gujarat,Bhavnagar,169,338,13,156,20200705
-Gujarat,Bhavnagar,169,338,13,156,20200706
+Gujarat,Bhavnagar,204,373,13,156,20200706
 Gujarat,Botad,7,7,0,0,20200421
 Gujarat,Botad,8,9,1,0,20200422
 Gujarat,Botad,10,11,1,0,20200423
@@ -11459,7 +11459,7 @@ Gujarat,Botad,27,95,3,65,20200702
 Gujarat,Botad,29,97,3,65,20200703
 Gujarat,Botad,27,99,3,69,20200704
 Gujarat,Botad,30,102,3,69,20200705
-Gujarat,Botad,30,102,3,69,20200706
+Gujarat,Botad,32,104,3,69,20200706
 Gujarat,Chhota Udaipur,8,14,0,6,20200502
 Gujarat,Chhota Udaipur,4,14,0,10,20200503
 Gujarat,Chhota Udaipur,3,14,0,11,20200504
@@ -11525,7 +11525,7 @@ Gujarat,Chhota Udaipur,19,60,2,39,20200702
 Gujarat,Chhota Udaipur,15,60,2,43,20200703
 Gujarat,Chhota Udaipur,15,60,2,43,20200704
 Gujarat,Chhota Udaipur,16,61,2,43,20200705
-Gujarat,Chhota Udaipur,16,61,2,43,20200706
+Gujarat,Chhota Udaipur,19,64,2,43,20200706
 Gujarat,Chota Udaipur,7,7,0,0,20200421
 Gujarat,Chota Udaipur,9,11,0,2,20200422
 Gujarat,Chota Udaipur,8,11,0,3,20200423
@@ -11613,7 +11613,7 @@ Gujarat,Dahod,16,64,1,47,20200702
 Gujarat,Dahod,17,65,1,47,20200703
 Gujarat,Dahod,16,66,1,49,20200704
 Gujarat,Dahod,24,74,1,49,20200705
-Gujarat,Dahod,24,74,1,49,20200706
+Gujarat,Dahod,29,79,1,49,20200706
 Gujarat,Dang,1,1,0,0,20200423
 Gujarat,Dang,1,1,0,0,20200424
 Gujarat,Dang,1,1,0,0,20200425
@@ -11830,7 +11830,7 @@ Gujarat,Gandhinagar,146,677,29,502,20200702
 Gujarat,Gandhinagar,146,693,29,518,20200703
 Gujarat,Gandhinagar,159,708,29,520,20200704
 Gujarat,Gandhinagar,156,719,30,533,20200705
-Gujarat,Gandhinagar,156,719,30,533,20200706
+Gujarat,Gandhinagar,160,736,30,546,20200706
 Gujarat,Gir Somnath,3,3,0,0,20200421
 Gujarat,Gir Somnath,1,3,0,2,20200422
 Gujarat,Gir Somnath,1,3,0,2,20200423
@@ -11907,7 +11907,7 @@ Gujarat,Gir Somnath,30,80,1,49,20200702
 Gujarat,Gir Somnath,31,81,1,49,20200703
 Gujarat,Gir Somnath,35,85,1,49,20200704
 Gujarat,Gir Somnath,37,89,1,51,20200705
-Gujarat,Gir Somnath,37,89,1,51,20200706
+Gujarat,Gir Somnath,39,91,1,51,20200706
 Gujarat,Jamnagar,1,1,0,0,20200421
 Gujarat,Jamnagar,0,1,1,0,20200422
 Gujarat,Jamnagar,0,1,1,0,20200423
@@ -11984,7 +11984,7 @@ Gujarat,Jamnagar,123,245,4,118,20200702
 Gujarat,Jamnagar,136,258,4,118,20200703
 Gujarat,Jamnagar,141,266,4,121,20200704
 Gujarat,Jamnagar,120,272,5,147,20200705
-Gujarat,Jamnagar,120,272,5,147,20200706
+Gujarat,Jamnagar,126,279,5,148,20200706
 Gujarat,Junagadh,2,2,0,0,20200505
 Gujarat,Junagadh,2,2,0,0,20200506
 Gujarat,Junagadh,2,2,0,0,20200507
@@ -12047,7 +12047,7 @@ Gujarat,Junagadh,63,121,3,55,20200702
 Gujarat,Junagadh,87,147,3,57,20200703
 Gujarat,Junagadh,97,157,3,57,20200704
 Gujarat,Junagadh,105,170,3,62,20200705
-Gujarat,Junagadh,105,170,3,62,20200706
+Gujarat,Junagadh,119,185,3,63,20200706
 Gujarat,Kachchh,6,6,0,0,20200421
 Gujarat,Kachchh,4,6,1,1,20200422
 Gujarat,Kachchh,4,6,1,1,20200423
@@ -12135,7 +12135,7 @@ Gujarat,Kheda,44,172,9,119,20200702
 Gujarat,Kheda,56,186,11,119,20200703
 Gujarat,Kheda,60,196,11,125,20200704
 Gujarat,Kheda,68,208,12,128,20200705
-Gujarat,Kheda,68,208,12,128,20200706
+Gujarat,Kheda,69,217,13,135,20200706
 Gujarat,Kutch,1,7,1,5,20200502
 Gujarat,Kutch,1,7,1,5,20200503
 Gujarat,Kutch,1,7,1,5,20200504
@@ -12201,7 +12201,7 @@ Gujarat,Kutch,69,170,5,96,20200702
 Gujarat,Kutch,74,175,5,96,20200703
 Gujarat,Kutch,77,182,6,99,20200704
 Gujarat,Kutch,72,184,6,106,20200705
-Gujarat,Kutch,72,184,6,106,20200706
+Gujarat,Kutch,80,195,6,109,20200706
 Gujarat,Mahesana,7,7,0,0,20200421
 Gujarat,Mahesana,5,7,0,2,20200422
 Gujarat,Mahesana,5,7,0,2,20200423
@@ -12289,7 +12289,7 @@ Gujarat,Mahisagar,23,140,2,115,20200702
 Gujarat,Mahisagar,27,147,2,118,20200703
 Gujarat,Mahisagar,29,149,2,118,20200704
 Gujarat,Mahisagar,32,152,2,118,20200705
-Gujarat,Mahisagar,32,152,2,118,20200706
+Gujarat,Mahisagar,34,154,2,118,20200706
 Gujarat,Mehsana,4,11,0,7,20200502
 Gujarat,Mehsana,25,32,0,7,20200503
 Gujarat,Mehsana,25,32,0,7,20200504
@@ -12355,7 +12355,7 @@ Gujarat,Mehsana,135,295,13,147,20200702
 Gujarat,Mehsana,131,300,13,156,20200703
 Gujarat,Mehsana,138,308,14,156,20200704
 Gujarat,Mehsana,141,317,14,162,20200705
-Gujarat,Mehsana,141,317,14,162,20200706
+Gujarat,Mehsana,153,329,14,162,20200706
 Gujarat,Morbi,1,1,0,0,20200421
 Gujarat,Morbi,1,1,0,0,20200422
 Gujarat,Morbi,1,1,0,0,20200423
@@ -12432,7 +12432,7 @@ Gujarat,Morbi,15,29,1,13,20200702
 Gujarat,Morbi,13,31,1,17,20200703
 Gujarat,Morbi,16,34,1,17,20200704
 Gujarat,Morbi,21,39,1,17,20200705
-Gujarat,Morbi,21,39,1,17,20200706
+Gujarat,Morbi,24,43,1,18,20200706
 Gujarat,Narmada,12,12,0,0,20200421
 Gujarat,Narmada,12,12,0,0,20200422
 Gujarat,Narmada,12,12,0,0,20200423
@@ -12509,7 +12509,7 @@ Gujarat,Narmada,38,91,0,53,20200702
 Gujarat,Narmada,35,94,0,59,20200703
 Gujarat,Narmada,26,94,0,68,20200704
 Gujarat,Narmada,16,95,0,79,20200705
-Gujarat,Narmada,16,95,0,79,20200706
+Gujarat,Narmada,10,95,0,85,20200706
 Gujarat,Navsari,1,1,0,0,20200421
 Gujarat,Navsari,1,1,0,0,20200422
 Gujarat,Navsari,1,1,0,0,20200423
@@ -12586,7 +12586,7 @@ Gujarat,Navsari,73,125,1,51,20200702
 Gujarat,Navsari,69,131,1,61,20200703
 Gujarat,Navsari,79,142,1,62,20200704
 Gujarat,Navsari,71,145,1,73,20200705
-Gujarat,Navsari,71,145,1,73,20200706
+Gujarat,Navsari,77,153,1,75,20200706
 Gujarat,Other State,1,1,0,0,20200507
 Gujarat,Other State,1,1,0,0,20200508
 Gujarat,Other State,1,1,0,0,20200509
@@ -12724,7 +12724,7 @@ Gujarat,Panchmahal,31,187,14,142,20200702
 Gujarat,Panchmahal,40,200,15,145,20200703
 Gujarat,Panchmahal,38,202,15,149,20200704
 Gujarat,Panchmahal,39,208,15,154,20200705
-Gujarat,Panchmahal,39,208,15,154,20200706
+Gujarat,Panchmahal,47,216,15,154,20200706
 Gujarat,Patan,15,15,0,0,20200421
 Gujarat,Patan,3,15,1,11,20200422
 Gujarat,Patan,3,15,1,11,20200423
@@ -12801,7 +12801,7 @@ Gujarat,Patan,83,218,16,119,20200702
 Gujarat,Patan,94,229,16,119,20200703
 Gujarat,Patan,93,235,16,126,20200704
 Gujarat,Patan,100,246,16,130,20200705
-Gujarat,Patan,100,246,16,130,20200706
+Gujarat,Patan,103,249,16,130,20200706
 Gujarat,Porbandar,3,3,0,0,20200421
 Gujarat,Porbandar,0,3,0,3,20200422
 Gujarat,Porbandar,0,3,0,3,20200423
@@ -12955,7 +12955,7 @@ Gujarat,Rajkot,173,310,9,128,20200702
 Gujarat,Rajkot,183,320,9,128,20200703
 Gujarat,Rajkot,203,367,13,151,20200704
 Gujarat,Rajkot,239,409,13,157,20200705
-Gujarat,Rajkot,239,409,13,157,20200706
+Gujarat,Rajkot,260,430,13,157,20200706
 Gujarat,Sabar Kantha,3,3,0,0,20200421
 Gujarat,Sabar Kantha,1,3,0,2,20200422
 Gujarat,Sabar Kantha,1,3,0,2,20200423
@@ -13032,7 +13032,7 @@ Gujarat,Sabarkantha,57,182,8,117,20200702
 Gujarat,Sabarkantha,62,187,8,117,20200703
 Gujarat,Sabarkantha,67,193,8,118,20200704
 Gujarat,Sabarkantha,75,201,8,118,20200705
-Gujarat,Sabarkantha,75,201,8,118,20200706
+Gujarat,Sabarkantha,72,209,8,129,20200706
 Gujarat,Surat,347,347,0,0,20200421
 Gujarat,Surat,390,415,12,13,20200422
 Gujarat,Surat,430,456,13,13,20200423
@@ -13109,7 +13109,7 @@ Gujarat,Surat,1456,5257,167,3634,20200702
 Gujarat,Surat,1583,5461,172,3706,20200703
 Gujarat,Surat,1723,5714,176,3815,20200704
 Gujarat,Surat,1865,5968,182,3921,20200705
-Gujarat,Surat,1865,5968,182,3921,20200706
+Gujarat,Surat,2014,6209,188,4007,20200706
 Gujarat,Surendranagar,1,1,0,0,20200425
 Gujarat,Surendranagar,1,1,0,0,20200426
 Gujarat,Surendranagar,1,1,0,0,20200427
@@ -13182,7 +13182,7 @@ Gujarat,Surendranagar,77,166,10,79,20200702
 Gujarat,Surendranagar,86,180,10,84,20200703
 Gujarat,Surendranagar,80,186,10,96,20200704
 Gujarat,Surendranagar,89,195,10,96,20200705
-Gujarat,Surendranagar,89,195,10,96,20200706
+Gujarat,Surendranagar,81,200,10,109,20200706
 Gujarat,Tapi,1,1,0,0,20200421
 Gujarat,Tapi,1,1,0,0,20200422
 Gujarat,Tapi,1,1,0,0,20200423
@@ -13259,7 +13259,7 @@ Gujarat,Tapi,1,9,0,8,20200702
 Gujarat,Tapi,4,12,0,8,20200703
 Gujarat,Tapi,4,12,0,8,20200704
 Gujarat,Tapi,13,21,0,8,20200705
-Gujarat,Tapi,13,21,0,8,20200706
+Gujarat,Tapi,17,25,0,8,20200706
 Gujarat,Unknown,0,0,0,1,20200501
 Gujarat,Unknown,-2,-2,0,0,20200624
 Gujarat,Unknown,-2,-2,0,0,20200625
@@ -13340,7 +13340,7 @@ Gujarat,Vadodara,621,2381,49,1711,20200702
 Gujarat,Vadodara,626,2443,49,1768,20200703
 Gujarat,Vadodara,658,2504,49,1797,20200704
 Gujarat,Vadodara,669,2568,49,1850,20200705
-Gujarat,Vadodara,669,2568,49,1850,20200706
+Gujarat,Vadodara,729,2633,49,1855,20200706
 Gujarat,Valsad,3,3,0,0,20200421
 Gujarat,Valsad,2,3,1,0,20200422
 Gujarat,Valsad,3,4,1,0,20200423
@@ -13417,7 +13417,7 @@ Gujarat,Valsad,111,173,4,58,20200702
 Gujarat,Valsad,112,179,4,63,20200703
 Gujarat,Valsad,129,198,5,64,20200704
 Gujarat,Valsad,145,216,5,66,20200705
-Gujarat,Valsad,145,216,5,66,20200706
+Gujarat,Valsad,153,229,5,71,20200706
 Haryana,Ambala,11,11,0,0,20200421
 Haryana,Ambala,1,12,1,10,20200422
 Haryana,Ambala,1,12,1,10,20200423
@@ -13494,7 +13494,7 @@ Haryana,Ambala,32,344,3,309,20200702
 Haryana,Ambala,34,348,3,311,20200703
 Haryana,Ambala,40,358,3,315,20200704
 Haryana,Ambala,52,371,4,315,20200705
-Haryana,Ambala,52,371,4,315,20200706
+Haryana,Ambala,56,375,4,315,20200706
 Haryana,Bhiwani,3,3,0,0,20200421
 Haryana,Bhiwani,1,3,0,2,20200422
 Haryana,Bhiwani,1,3,0,2,20200423
@@ -13571,7 +13571,7 @@ Haryana,Bhiwani,253,441,3,185,20200702
 Haryana,Bhiwani,253,441,3,185,20200703
 Haryana,Bhiwani,294,482,3,185,20200704
 Haryana,Bhiwani,146,498,3,349,20200705
-Haryana,Bhiwani,146,498,3,349,20200706
+Haryana,Bhiwani,118,498,3,377,20200706
 Haryana,Charkhi Dadri,0,1,0,1,20200502
 Haryana,Charkhi Dadri,0,1,0,1,20200503
 Haryana,Charkhi Dadri,0,1,0,1,20200504
@@ -13725,7 +13725,7 @@ Haryana,Faridabad,1164,4028,83,2781,20200702
 Haryana,Faridabad,923,4184,87,3174,20200703
 Haryana,Faridabad,756,4364,89,3519,20200704
 Haryana,Faridabad,824,4525,92,3609,20200705
-Haryana,Faridabad,844,4545,92,3609,20200706
+Haryana,Faridabad,839,4648,95,3714,20200706
 Haryana,Fatehabad,1,1,0,0,20200421
 Haryana,Fatehabad,0,1,0,1,20200422
 Haryana,Fatehabad,0,1,0,1,20200423
@@ -13802,7 +13802,7 @@ Haryana,Fatehabad,30,122,0,92,20200702
 Haryana,Fatehabad,28,122,0,94,20200703
 Haryana,Fatehabad,28,122,0,94,20200704
 Haryana,Fatehabad,28,127,0,99,20200705
-Haryana,Fatehabad,28,127,0,99,20200706
+Haryana,Fatehabad,27,129,0,102,20200706
 Haryana,Foreign Evacuees,21,21,0,0,20200524
 Haryana,Foreign Evacuees,21,21,0,0,20200525
 Haryana,Foreign Evacuees,21,21,0,0,20200526
@@ -13923,7 +13923,7 @@ Haryana,Gurugram,1182,5569,96,4291,20200702
 Haryana,Gurugram,1177,5699,96,4426,20200703
 Haryana,Gurugram,1233,5829,99,4497,20200704
 Haryana,Gurugram,1020,5949,100,4829,20200705
-Haryana,Gurugram,1007,6009,100,4902,20200706
+Haryana,Gurugram,946,6058,101,5011,20200706
 Haryana,Hisar,2,2,0,0,20200421
 Haryana,Hisar,1,2,0,1,20200422
 Haryana,Hisar,1,2,0,1,20200423
@@ -14302,7 +14302,7 @@ Haryana,Kaithal,52,106,0,54,20200702
 Haryana,Kaithal,56,110,0,54,20200703
 Haryana,Kaithal,56,110,0,54,20200704
 Haryana,Kaithal,56,110,0,54,20200705
-Haryana,Kaithal,63,118,0,55,20200706
+Haryana,Kaithal,64,119,0,55,20200706
 Haryana,Karnal,6,6,0,0,20200421
 Haryana,Karnal,0,6,1,5,20200422
 Haryana,Karnal,0,6,1,5,20200423
@@ -14379,7 +14379,7 @@ Haryana,Karnal,135,359,8,216,20200702
 Haryana,Karnal,115,367,8,244,20200703
 Haryana,Karnal,133,390,8,249,20200704
 Haryana,Karnal,148,405,8,249,20200705
-Haryana,Karnal,148,405,8,249,20200706
+Haryana,Karnal,164,421,8,249,20200706
 Haryana,Kurukshetra,2,2,0,0,20200421
 Haryana,Kurukshetra,2,2,0,0,20200422
 Haryana,Kurukshetra,1,2,0,1,20200423
@@ -14594,7 +14594,7 @@ Haryana,Nuh,41,207,0,166,20200702
 Haryana,Nuh,56,227,0,171,20200703
 Haryana,Nuh,66,241,0,175,20200704
 Haryana,Nuh,66,241,0,175,20200705
-Haryana,Nuh,65,247,0,182,20200706
+Haryana,Nuh,67,254,1,186,20200706
 Haryana,Palwal,34,34,0,0,20200421
 Haryana,Palwal,8,34,0,26,20200422
 Haryana,Palwal,7,34,0,27,20200423
@@ -14748,7 +14748,7 @@ Haryana,Panchkula,28,119,0,91,20200702
 Haryana,Panchkula,28,120,0,92,20200703
 Haryana,Panchkula,25,120,0,95,20200704
 Haryana,Panchkula,17,120,0,103,20200705
-Haryana,Panchkula,17,121,0,104,20200706
+Haryana,Panchkula,19,123,0,104,20200706
 Haryana,Panipat,5,5,0,0,20200421
 Haryana,Panipat,1,5,0,4,20200422
 Haryana,Panipat,0,5,0,5,20200423
@@ -14884,7 +14884,7 @@ Haryana,Rewari,213,314,5,96,20200702
 Haryana,Rewari,233,352,5,114,20200703
 Haryana,Rewari,233,352,5,114,20200704
 Haryana,Rewari,267,386,5,114,20200705
-Haryana,Rewari,267,386,5,114,20200706
+Haryana,Rewari,240,386,5,141,20200706
 Haryana,Rohtak,1,1,0,0,20200421
 Haryana,Rohtak,0,1,1,0,20200422
 Haryana,Rohtak,2,3,1,0,20200423
@@ -14961,7 +14961,7 @@ Haryana,Rohtak,85,626,8,533,20200702
 Haryana,Rohtak,100,641,8,533,20200703
 Haryana,Rohtak,115,656,8,533,20200704
 Haryana,Rohtak,115,656,8,533,20200705
-Haryana,Rohtak,216,757,8,533,20200706
+Haryana,Rohtak,215,760,12,533,20200706
 Haryana,Sirsa,4,4,0,0,20200421
 Haryana,Sirsa,0,4,0,4,20200422
 Haryana,Sirsa,0,4,0,4,20200423
@@ -15038,7 +15038,7 @@ Haryana,Sirsa,23,109,0,86,20200702
 Haryana,Sirsa,29,119,0,90,20200703
 Haryana,Sirsa,27,119,0,92,20200704
 Haryana,Sirsa,35,131,0,96,20200705
-Haryana,Sirsa,40,137,0,97,20200706
+Haryana,Sirsa,41,138,0,97,20200706
 Haryana,Sonipat,9,9,0,0,20200421
 Haryana,Sonipat,11,13,0,2,20200422
 Haryana,Sonipat,11,13,0,2,20200423
@@ -15115,7 +15115,7 @@ Haryana,Sonipat,477,1339,18,844,20200702
 Haryana,Sonipat,507,1385,18,860,20200703
 Haryana,Sonipat,477,1466,18,971,20200704
 Haryana,Sonipat,444,1466,18,1004,20200705
-Haryana,Sonipat,513,1548,18,1017,20200706
+Haryana,Sonipat,503,1548,20,1025,20200706
 Haryana,Unknown,-7,0,0,7,20200519
 Haryana,Unknown,-7,0,0,7,20200520
 Haryana,Unknown,21,21,0,0,20200523
@@ -28973,6 +28973,7 @@ Maharashtra,Unknown,1980,3752,100,1672,20200618
 Maharashtra,Unknown,1750,3827,142,1935,20200619
 Maharashtra,Unknown,2334,3874,160,1380,20200620
 Maharashtra,Unknown,1771,6368,167,4430,20200627
+Maharashtra,Unknown,1642,5368,204,3522,20200706
 Maharashtra,Wardha,0,1,1,0,20200511
 Maharashtra,Wardha,0,1,1,0,20200512
 Maharashtra,Wardha,0,1,1,0,20200513
@@ -29425,7 +29426,7 @@ Manipur,Imphal East,23,39,0,16,20200702
 Manipur,Imphal East,23,39,0,16,20200703
 Manipur,Imphal East,25,41,0,16,20200704
 Manipur,Imphal East,26,42,0,16,20200705
-Manipur,Imphal East,26,42,0,16,20200706
+Manipur,Imphal East,29,45,0,16,20200706
 Manipur,Imphal West,1,1,0,0,20200421
 Manipur,Imphal West,1,1,0,0,20200422
 Manipur,Imphal West,1,1,0,0,20200423
@@ -29557,7 +29558,7 @@ Manipur,Jiribam,2,4,0,2,20200702
 Manipur,Jiribam,30,32,0,2,20200703
 Manipur,Jiribam,30,32,0,2,20200704
 Manipur,Jiribam,30,32,0,2,20200705
-Manipur,Jiribam,30,32,0,2,20200706
+Manipur,Jiribam,39,41,0,2,20200706
 Manipur,Kakching,0,0,0,0,20200513
 Manipur,Kakching,0,0,0,0,20200514
 Manipur,Kakching,0,0,0,0,20200515
@@ -29887,7 +29888,7 @@ Manipur,Senapati,93,114,0,21,20200702
 Manipur,Senapati,93,114,0,21,20200703
 Manipur,Senapati,91,120,0,29,20200704
 Manipur,Senapati,91,120,0,29,20200705
-Manipur,Senapati,110,120,0,10,20200706
+Manipur,Senapati,122,132,0,10,20200706
 Manipur,Tamenglong,0,0,0,0,20200513
 Manipur,Tamenglong,0,0,0,0,20200514
 Manipur,Tamenglong,0,0,0,0,20200515
@@ -30150,7 +30151,7 @@ Manipur,Unknown,-186,0,0,186,20200702
 Manipur,Unknown,-189,0,0,189,20200703
 Manipur,Unknown,-189,0,0,189,20200704
 Manipur,Unknown,-230,0,0,230,20200705
-Manipur,Unknown,-335,0,0,335,20200706
+Manipur,Unknown,-380,0,0,380,20200706
 Meghalaya,East Garo Hills,0,0,0,0,20200513
 Meghalaya,East Garo Hills,0,0,0,0,20200514
 Meghalaya,East Garo Hills,0,0,0,0,20200515
@@ -32003,7 +32004,7 @@ Nagaland,Unknown,-168,0,0,168,20200702
 Nagaland,Unknown,-168,0,0,168,20200703
 Nagaland,Unknown,-167,1,0,168,20200704
 Nagaland,Unknown,-168,0,0,168,20200705
-Nagaland,Unknown,-171,0,0,171,20200706
+Nagaland,Unknown,-183,0,0,183,20200706
 Nagaland,Wokha,0,0,0,0,20200513
 Nagaland,Wokha,0,0,0,0,20200514
 Nagaland,Wokha,0,0,0,0,20200515
@@ -34469,7 +34470,7 @@ Punjab,Amritsar,144,928,44,740,20200702
 Punjab,Amritsar,151,938,47,740,20200703
 Punjab,Amritsar,159,947,48,740,20200704
 Punjab,Amritsar,169,957,48,740,20200705
-Punjab,Amritsar,169,957,48,740,20200706
+Punjab,Amritsar,180,968,48,740,20200706
 Punjab,Barnala,2,2,0,0,20200421
 Punjab,Barnala,0,2,1,1,20200422
 Punjab,Barnala,0,2,1,1,20200423
@@ -34546,7 +34547,7 @@ Punjab,Barnala,21,63,2,40,20200702
 Punjab,Barnala,21,64,2,41,20200703
 Punjab,Barnala,26,69,2,41,20200704
 Punjab,Barnala,28,71,2,41,20200705
-Punjab,Barnala,28,71,2,41,20200706
+Punjab,Barnala,25,71,2,44,20200706
 Punjab,Bathinda,2,2,0,0,20200429
 Punjab,Bathinda,2,2,0,0,20200430
 Punjab,Bathinda,2,2,0,0,20200501
@@ -34615,7 +34616,7 @@ Punjab,Bathinda,22,99,3,74,20200702
 Punjab,Bathinda,21,100,3,76,20200703
 Punjab,Bathinda,27,106,3,76,20200704
 Punjab,Bathinda,31,110,3,76,20200705
-Punjab,Bathinda,31,110,3,76,20200706
+Punjab,Bathinda,31,115,3,81,20200706
 Punjab,Faridkot,3,3,0,0,20200421
 Punjab,Faridkot,2,3,0,1,20200422
 Punjab,Faridkot,2,3,0,1,20200423
@@ -34692,7 +34693,7 @@ Punjab,Faridkot,11,110,0,99,20200702
 Punjab,Faridkot,12,111,0,99,20200703
 Punjab,Faridkot,12,111,0,99,20200704
 Punjab,Faridkot,19,119,0,100,20200705
-Punjab,Faridkot,19,119,0,100,20200706
+Punjab,Faridkot,27,127,0,100,20200706
 Punjab,Fatehgarh Sahib,2,2,0,0,20200421
 Punjab,Fatehgarh Sahib,1,2,0,1,20200422
 Punjab,Fatehgarh Sahib,1,2,0,1,20200423
@@ -34769,7 +34770,7 @@ Punjab,Fatehgarh Sahib,26,121,0,95,20200702
 Punjab,Fatehgarh Sahib,20,121,0,101,20200703
 Punjab,Fatehgarh Sahib,21,122,0,101,20200704
 Punjab,Fatehgarh Sahib,19,123,0,104,20200705
-Punjab,Fatehgarh Sahib,19,123,0,104,20200706
+Punjab,Fatehgarh Sahib,23,127,0,104,20200706
 Punjab,Fazilka,4,4,0,0,20200501
 Punjab,Fazilka,4,4,0,0,20200502
 Punjab,Fazilka,4,4,0,0,20200503
@@ -34990,7 +34991,7 @@ Punjab,Gurdaspur,38,229,5,186,20200702
 Punjab,Gurdaspur,44,240,5,191,20200703
 Punjab,Gurdaspur,44,242,5,193,20200704
 Punjab,Gurdaspur,51,249,5,193,20200705
-Punjab,Gurdaspur,51,249,5,193,20200706
+Punjab,Gurdaspur,63,261,5,193,20200706
 Punjab,Hoshiarpur,7,7,0,0,20200421
 Punjab,Hoshiarpur,2,7,1,4,20200422
 Punjab,Hoshiarpur,2,7,1,4,20200423
@@ -35067,7 +35068,7 @@ Punjab,Hoshiarpur,20,184,6,158,20200702
 Punjab,Hoshiarpur,19,185,6,160,20200703
 Punjab,Hoshiarpur,18,186,7,161,20200704
 Punjab,Hoshiarpur,18,186,7,161,20200705
-Punjab,Hoshiarpur,18,186,7,161,20200706
+Punjab,Hoshiarpur,11,186,7,168,20200706
 Punjab,Jalandhar,48,48,0,0,20200421
 Punjab,Jalandhar,45,53,2,6,20200422
 Punjab,Jalandhar,51,59,2,6,20200423
@@ -35144,7 +35145,7 @@ Punjab,Jalandhar,223,755,21,511,20200702
 Punjab,Jalandhar,216,774,21,537,20200703
 Punjab,Jalandhar,276,834,21,537,20200704
 Punjab,Jalandhar,255,841,21,565,20200705
-Punjab,Jalandhar,255,841,21,565,20200706
+Punjab,Jalandhar,339,925,21,565,20200706
 Punjab,Kapurthala,2,2,0,0,20200421
 Punjab,Kapurthala,2,3,0,1,20200422
 Punjab,Kapurthala,2,3,0,1,20200423
@@ -35221,7 +35222,7 @@ Punjab,Kapurthala,31,105,5,69,20200702
 Punjab,Kapurthala,23,106,5,78,20200703
 Punjab,Kapurthala,26,109,5,78,20200704
 Punjab,Kapurthala,25,109,5,79,20200705
-Punjab,Kapurthala,25,109,5,79,20200706
+Punjab,Kapurthala,27,114,5,82,20200706
 Punjab,Ludhiana,15,15,0,0,20200421
 Punjab,Ludhiana,9,16,4,3,20200422
 Punjab,Ludhiana,9,16,4,3,20200423
@@ -35298,7 +35299,7 @@ Punjab,Ludhiana,325,917,22,570,20200702
 Punjab,Ludhiana,377,971,24,570,20200703
 Punjab,Ludhiana,423,1017,24,570,20200704
 Punjab,Ludhiana,485,1079,24,570,20200705
-Punjab,Ludhiana,485,1079,24,570,20200706
+Punjab,Ludhiana,507,1104,27,570,20200706
 Punjab,Mansa,11,11,0,0,20200421
 Punjab,Mansa,10,11,0,1,20200422
 Punjab,Mansa,10,11,0,1,20200423
@@ -35375,7 +35376,7 @@ Punjab,Mansa,8,48,0,40,20200702
 Punjab,Mansa,8,48,0,40,20200703
 Punjab,Mansa,5,49,0,44,20200704
 Punjab,Mansa,6,50,0,44,20200705
-Punjab,Mansa,6,50,0,44,20200706
+Punjab,Mansa,7,51,0,44,20200706
 Punjab,Moga,4,4,0,0,20200421
 Punjab,Moga,4,4,0,0,20200422
 Punjab,Moga,4,4,0,0,20200423
@@ -35529,7 +35530,7 @@ Punjab,Pathankot,34,221,6,181,20200702
 Punjab,Pathankot,33,222,6,183,20200703
 Punjab,Pathankot,28,224,6,190,20200704
 Punjab,Pathankot,28,228,6,194,20200705
-Punjab,Pathankot,28,228,6,194,20200706
+Punjab,Pathankot,29,231,6,196,20200706
 Punjab,Patiala,31,31,0,0,20200421
 Punjab,Patiala,48,49,0,1,20200422
 Punjab,Patiala,48,49,0,1,20200423
@@ -35606,7 +35607,7 @@ Punjab,Patiala,162,339,9,168,20200702
 Punjab,Patiala,174,351,9,168,20200703
 Punjab,Patiala,177,354,9,168,20200704
 Punjab,Patiala,184,379,10,185,20200705
-Punjab,Patiala,184,379,10,185,20200706
+Punjab,Patiala,203,398,10,185,20200706
 Punjab,Rupnagar,3,3,0,0,20200421
 Punjab,Rupnagar,1,3,1,1,20200422
 Punjab,Rupnagar,1,3,1,1,20200423
@@ -35683,7 +35684,7 @@ Punjab,Rupnagar,27,113,1,85,20200702
 Punjab,Rupnagar,17,113,1,95,20200703
 Punjab,Rupnagar,13,114,1,100,20200704
 Punjab,Rupnagar,13,114,1,100,20200705
-Punjab,Rupnagar,13,114,1,100,20200706
+Punjab,Rupnagar,10,114,1,103,20200706
 Punjab,S.A.S. Nagar,62,62,0,0,20200421
 Punjab,S.A.S. Nagar,46,62,2,14,20200422
 Punjab,S.A.S. Nagar,46,62,2,14,20200423
@@ -35760,7 +35761,7 @@ Punjab,S.A.S. Nagar,71,277,4,202,20200702
 Punjab,S.A.S. Nagar,67,281,4,210,20200703
 Punjab,S.A.S. Nagar,61,286,5,220,20200704
 Punjab,S.A.S. Nagar,77,302,5,220,20200705
-Punjab,S.A.S. Nagar,77,302,5,220,20200706
+Punjab,S.A.S. Nagar,83,317,5,229,20200706
 Punjab,Sangrur,3,3,0,0,20200421
 Punjab,Sangrur,3,3,0,0,20200422
 Punjab,Sangrur,3,3,0,0,20200423
@@ -35837,7 +35838,7 @@ Punjab,Sangrur,180,493,14,299,20200702
 Punjab,Sangrur,169,511,14,328,20200703
 Punjab,Sangrur,185,527,14,328,20200704
 Punjab,Sangrur,148,535,14,373,20200705
-Punjab,Sangrur,148,535,14,373,20200706
+Punjab,Sangrur,117,544,15,412,20200706
 Punjab,Shahid Bhagat Singh Nagar,19,19,0,0,20200421
 Punjab,Shahid Bhagat Singh Nagar,0,19,1,18,20200422
 Punjab,Shahid Bhagat Singh Nagar,0,19,1,18,20200423
@@ -35914,7 +35915,7 @@ Punjab,Shahid Bhagat Singh Nagar,17,141,1,123,20200702
 Punjab,Shahid Bhagat Singh Nagar,21,147,1,125,20200703
 Punjab,Shahid Bhagat Singh Nagar,22,148,1,125,20200704
 Punjab,Shahid Bhagat Singh Nagar,22,148,1,125,20200705
-Punjab,Shahid Bhagat Singh Nagar,22,148,1,125,20200706
+Punjab,Shahid Bhagat Singh Nagar,11,149,1,137,20200706
 Punjab,Sri Muktsar Sahib,1,1,0,0,20200421
 Punjab,Sri Muktsar Sahib,1,1,0,0,20200422
 Punjab,Sri Muktsar Sahib,1,1,0,0,20200423
@@ -35991,7 +35992,7 @@ Punjab,Sri Muktsar Sahib,20,133,0,113,20200702
 Punjab,Sri Muktsar Sahib,10,133,0,123,20200703
 Punjab,Sri Muktsar Sahib,10,133,0,123,20200704
 Punjab,Sri Muktsar Sahib,8,133,0,125,20200705
-Punjab,Sri Muktsar Sahib,8,133,0,125,20200706
+Punjab,Sri Muktsar Sahib,13,139,1,125,20200706
 Punjab,Tarn Taran,5,5,0,0,20200427
 Punjab,Tarn Taran,7,7,0,0,20200428
 Punjab,Tarn Taran,7,7,0,0,20200429
@@ -36062,7 +36063,7 @@ Punjab,Tarn Taran,15,198,4,179,20200702
 Punjab,Tarn Taran,19,204,4,181,20200703
 Punjab,Tarn Taran,21,206,4,181,20200704
 Punjab,Tarn Taran,21,207,5,181,20200705
-Punjab,Tarn Taran,21,207,5,181,20200706
+Punjab,Tarn Taran,18,207,5,184,20200706
 Rajasthan,Ajmer,54,59,0,5,20200421
 Rajasthan,Ajmer,98,103,0,5,20200422
 Rajasthan,Ajmer,101,106,0,5,20200423
@@ -38995,6 +38996,7 @@ Sikkim,Unknown,11,12,0,1,20200702
 Sikkim,Unknown,1,1,0,0,20200703
 Sikkim,Unknown,2,2,0,0,20200704
 Sikkim,Unknown,-22,0,0,9,20200705
+Sikkim,Unknown,-4,0,0,4,20200706
 Sikkim,West District,0,0,0,0,20200513
 Sikkim,West District,0,0,0,0,20200514
 Sikkim,West District,0,0,0,0,20200515
@@ -50870,7 +50872,7 @@ Uttarakhand,Almora,21,182,2,158,20200702
 Uttarakhand,Almora,24,190,2,163,20200703
 Uttarakhand,Almora,25,192,2,164,20200704
 Uttarakhand,Almora,25,193,2,165,20200705
-Uttarakhand,Almora,25,193,2,165,20200706
+Uttarakhand,Almora,28,196,2,165,20200706
 Uttarakhand,Ayodhya,1,1,0,0,20200424
 Uttarakhand,Bageshwar,0,0,0,0,20200513
 Uttarakhand,Bageshwar,0,0,0,0,20200514
@@ -50926,7 +50928,7 @@ Uttarakhand,Bageshwar,10,83,1,72,20200702
 Uttarakhand,Bageshwar,11,86,1,74,20200703
 Uttarakhand,Bageshwar,17,92,1,74,20200704
 Uttarakhand,Bageshwar,18,93,1,74,20200705
-Uttarakhand,Bageshwar,18,93,1,74,20200706
+Uttarakhand,Bageshwar,12,93,1,80,20200706
 Uttarakhand,Chamoli,0,0,0,0,20200513
 Uttarakhand,Chamoli,0,0,0,0,20200514
 Uttarakhand,Chamoli,0,0,0,0,20200515
@@ -50981,7 +50983,7 @@ Uttarakhand,Chamoli,12,74,0,62,20200702
 Uttarakhand,Chamoli,11,76,0,65,20200703
 Uttarakhand,Chamoli,11,76,0,65,20200704
 Uttarakhand,Chamoli,10,76,0,66,20200705
-Uttarakhand,Chamoli,10,76,0,66,20200706
+Uttarakhand,Chamoli,5,76,0,71,20200706
 Uttarakhand,Champawat,0,0,0,0,20200513
 Uttarakhand,Champawat,0,0,0,0,20200514
 Uttarakhand,Champawat,0,0,0,0,20200515
@@ -51036,7 +51038,7 @@ Uttarakhand,Champawat,9,57,1,47,20200702
 Uttarakhand,Champawat,9,59,1,49,20200703
 Uttarakhand,Champawat,9,59,1,49,20200704
 Uttarakhand,Champawat,9,59,1,49,20200705
-Uttarakhand,Champawat,9,59,1,49,20200706
+Uttarakhand,Champawat,7,59,1,51,20200706
 Uttarakhand,Dehradun,24,24,0,0,20200421
 Uttarakhand,Dehradun,24,24,0,0,20200422
 Uttarakhand,Dehradun,25,25,0,0,20200423
@@ -51113,7 +51115,7 @@ Uttarakhand,Dehradun,105,713,25,565,20200702
 Uttarakhand,Dehradun,112,734,25,579,20200703
 Uttarakhand,Dehradun,120,742,25,579,20200704
 Uttarakhand,Dehradun,122,754,25,588,20200705
-Uttarakhand,Dehradun,122,754,25,588,20200706
+Uttarakhand,Dehradun,111,758,25,603,20200706
 Uttarakhand,Haridwar,7,7,0,0,20200421
 Uttarakhand,Haridwar,7,7,0,0,20200422
 Uttarakhand,Haridwar,7,7,0,0,20200423
@@ -51190,7 +51192,7 @@ Uttarakhand,Haridwar,40,315,0,268,20200702
 Uttarakhand,Haridwar,29,317,0,281,20200703
 Uttarakhand,Haridwar,30,318,0,281,20200704
 Uttarakhand,Haridwar,26,319,0,286,20200705
-Uttarakhand,Haridwar,26,319,0,286,20200706
+Uttarakhand,Haridwar,24,324,0,293,20200706
 Uttarakhand,Nainital,9,9,0,0,20200421
 Uttarakhand,Nainital,9,9,0,0,20200422
 Uttarakhand,Nainital,9,9,0,0,20200423
@@ -51267,7 +51269,7 @@ Uttarakhand,Nainital,164,513,3,345,20200702
 Uttarakhand,Nainital,177,526,3,345,20200703
 Uttarakhand,Nainital,181,530,3,345,20200704
 Uttarakhand,Nainital,188,537,3,345,20200705
-Uttarakhand,Nainital,188,537,3,345,20200706
+Uttarakhand,Nainital,179,541,3,358,20200706
 Uttarakhand,Pauri Garhwal,1,1,0,0,20200421
 Uttarakhand,Pauri Garhwal,1,1,0,0,20200422
 Uttarakhand,Pauri Garhwal,1,1,0,0,20200423
@@ -51344,7 +51346,7 @@ Uttarakhand,Pauri Garhwal,47,143,3,93,20200702
 Uttarakhand,Pauri Garhwal,33,143,3,107,20200703
 Uttarakhand,Pauri Garhwal,15,144,3,126,20200704
 Uttarakhand,Pauri Garhwal,12,145,3,130,20200705
-Uttarakhand,Pauri Garhwal,12,145,3,130,20200706
+Uttarakhand,Pauri Garhwal,9,147,3,135,20200706
 Uttarakhand,Pithoragarh,0,0,0,0,20200513
 Uttarakhand,Pithoragarh,0,0,0,0,20200514
 Uttarakhand,Pithoragarh,0,0,0,0,20200515
@@ -51399,7 +51401,7 @@ Uttarakhand,Pithoragarh,5,66,0,61,20200702
 Uttarakhand,Pithoragarh,6,67,0,61,20200703
 Uttarakhand,Pithoragarh,6,67,0,61,20200704
 Uttarakhand,Pithoragarh,6,67,0,61,20200705
-Uttarakhand,Pithoragarh,6,67,0,61,20200706
+Uttarakhand,Pithoragarh,4,67,0,63,20200706
 Uttarakhand,Rudraprayag,0,0,0,0,20200513
 Uttarakhand,Rudraprayag,0,0,0,0,20200514
 Uttarakhand,Rudraprayag,0,0,0,0,20200515
@@ -51454,7 +51456,7 @@ Uttarakhand,Rudraprayag,5,66,1,60,20200702
 Uttarakhand,Rudraprayag,5,66,1,60,20200703
 Uttarakhand,Rudraprayag,5,66,1,60,20200704
 Uttarakhand,Rudraprayag,5,66,1,60,20200705
-Uttarakhand,Rudraprayag,5,66,1,60,20200706
+Uttarakhand,Rudraprayag,0,66,1,65,20200706
 Uttarakhand,Tehri Garhwal,0,0,0,0,20200513
 Uttarakhand,Tehri Garhwal,0,0,0,0,20200514
 Uttarakhand,Tehri Garhwal,0,0,0,0,20200515
@@ -51509,7 +51511,7 @@ Uttarakhand,Tehri Garhwal,16,420,2,402,20200702
 Uttarakhand,Tehri Garhwal,3,420,2,415,20200703
 Uttarakhand,Tehri Garhwal,3,421,2,416,20200704
 Uttarakhand,Tehri Garhwal,3,421,2,416,20200705
-Uttarakhand,Tehri Garhwal,3,421,2,416,20200706
+Uttarakhand,Tehri Garhwal,0,420,2,418,20200706
 Uttarakhand,Udham Singh Nagar,4,4,0,0,20200421
 Uttarakhand,Udham Singh Nagar,4,4,0,0,20200422
 Uttarakhand,Udham Singh Nagar,4,4,0,0,20200423
@@ -51586,7 +51588,7 @@ Uttarakhand,Udham Singh Nagar,61,277,3,213,20200702
 Uttarakhand,Udham Singh Nagar,63,289,3,223,20200703
 Uttarakhand,Udham Singh Nagar,80,306,3,223,20200704
 Uttarakhand,Udham Singh Nagar,83,310,3,224,20200705
-Uttarakhand,Udham Singh Nagar,83,310,3,224,20200706
+Uttarakhand,Udham Singh Nagar,103,330,3,224,20200706
 Uttarakhand,Unknown,0,3,0,3,20200426
 Uttarakhand,Unknown,0,0,0,11,20200428
 Uttarakhand,Unknown,0,0,0,11,20200429
@@ -51723,7 +51725,7 @@ West Bengal,Alipurduar,11,186,0,175,20200702
 West Bengal,Alipurduar,9,186,0,177,20200703
 West Bengal,Alipurduar,10,187,0,177,20200704
 West Bengal,Alipurduar,10,188,0,178,20200705
-West Bengal,Alipurduar,10,188,0,178,20200706
+West Bengal,Alipurduar,9,188,0,179,20200706
 West Bengal,Bankura,0,0,0,0,20200513
 West Bengal,Bankura,0,0,0,0,20200514
 West Bengal,Bankura,0,0,0,0,20200515
@@ -51778,7 +51780,7 @@ West Bengal,Bankura,46,254,0,208,20200702
 West Bengal,Bankura,49,259,0,210,20200703
 West Bengal,Bankura,43,261,0,218,20200704
 West Bengal,Bankura,39,267,0,228,20200705
-West Bengal,Bankura,39,267,0,228,20200706
+West Bengal,Bankura,37,274,0,237,20200706
 West Bengal,Birbhum,3,3,0,0,20200504
 West Bengal,Birbhum,3,3,0,0,20200505
 West Bengal,Birbhum,3,3,0,0,20200506
@@ -51842,7 +51844,7 @@ West Bengal,Birbhum,25,305,3,277,20200702
 West Bengal,Birbhum,17,305,3,285,20200703
 West Bengal,Birbhum,21,311,3,287,20200704
 West Bengal,Birbhum,21,311,3,287,20200705
-West Bengal,Birbhum,21,311,3,287,20200706
+West Bengal,Birbhum,18,312,3,291,20200706
 West Bengal,Cooch Behar,0,0,0,0,20200513
 West Bengal,Cooch Behar,0,0,0,0,20200514
 West Bengal,Cooch Behar,0,0,0,0,20200515
@@ -51897,7 +51899,7 @@ West Bengal,Cooch Behar,5,305,0,300,20200702
 West Bengal,Cooch Behar,1,305,0,304,20200703
 West Bengal,Cooch Behar,1,305,0,304,20200704
 West Bengal,Cooch Behar,1,305,0,304,20200705
-West Bengal,Cooch Behar,1,305,0,304,20200706
+West Bengal,Cooch Behar,3,308,0,305,20200706
 West Bengal,Dakshin Dinajpur,0,0,0,0,20200513
 West Bengal,Dakshin Dinajpur,0,0,0,0,20200514
 West Bengal,Dakshin Dinajpur,0,0,0,0,20200515
@@ -51952,7 +51954,7 @@ West Bengal,Dakshin Dinajpur,60,218,0,158,20200702
 West Bengal,Dakshin Dinajpur,35,218,0,183,20200703
 West Bengal,Dakshin Dinajpur,33,223,0,190,20200704
 West Bengal,Dakshin Dinajpur,39,231,0,192,20200705
-West Bengal,Dakshin Dinajpur,39,231,0,192,20200706
+West Bengal,Dakshin Dinajpur,48,240,0,192,20200706
 West Bengal,Darjeeling,4,4,0,0,20200422
 West Bengal,Darjeeling,4,4,0,0,20200423
 West Bengal,Darjeeling,4,4,0,0,20200424
@@ -52028,7 +52030,7 @@ West Bengal,Darjeeling,217,528,10,301,20200702
 West Bengal,Darjeeling,125,554,10,419,20200703
 West Bengal,Darjeeling,139,577,10,428,20200704
 West Bengal,Darjeeling,163,603,10,430,20200705
-West Bengal,Darjeeling,163,603,10,430,20200706
+West Bengal,Darjeeling,200,647,10,437,20200706
 West Bengal,Hooghly,1,1,0,0,20200421
 West Bengal,Hooghly,12,12,0,0,20200422
 West Bengal,Hooghly,12,12,0,0,20200423
@@ -52105,7 +52107,7 @@ West Bengal,Hooghly,293,1056,25,738,20200702
 West Bengal,Hooghly,337,1118,26,755,20200703
 West Bengal,Hooghly,321,1142,26,795,20200704
 West Bengal,Hooghly,349,1204,26,829,20200705
-West Bengal,Hooghly,349,1204,26,829,20200706
+West Bengal,Hooghly,349,1236,26,861,20200706
 West Bengal,Howrah,1,1,0,0,20200421
 West Bengal,Howrah,79,79,0,0,20200422
 West Bengal,Howrah,79,79,0,0,20200423
@@ -52182,7 +52184,7 @@ West Bengal,Howrah,782,2826,101,1943,20200702
 West Bengal,Howrah,850,2928,104,1974,20200703
 West Bengal,Howrah,845,3010,107,2058,20200704
 West Bengal,Howrah,842,3121,109,2170,20200705
-West Bengal,Howrah,842,3121,109,2170,20200706
+West Bengal,Howrah,842,3218,109,2267,20200706
 West Bengal,Jalpaiguri,5,5,0,0,20200422
 West Bengal,Jalpaiguri,5,5,0,0,20200423
 West Bengal,Jalpaiguri,5,5,0,0,20200424
@@ -52258,7 +52260,7 @@ West Bengal,Jalpaiguri,69,364,1,294,20200702
 West Bengal,Jalpaiguri,75,386,1,310,20200703
 West Bengal,Jalpaiguri,74,388,1,313,20200704
 West Bengal,Jalpaiguri,73,396,2,321,20200705
-West Bengal,Jalpaiguri,73,396,2,321,20200706
+West Bengal,Jalpaiguri,76,402,2,324,20200706
 West Bengal,Jhargram,3,3,0,0,20200510
 West Bengal,Jhargram,3,3,0,0,20200511
 West Bengal,Jhargram,3,3,0,0,20200512
@@ -52316,7 +52318,7 @@ West Bengal,Jhargram,0,19,0,19,20200702
 West Bengal,Jhargram,0,19,0,19,20200703
 West Bengal,Jhargram,0,19,0,19,20200704
 West Bengal,Jhargram,1,20,0,19,20200705
-West Bengal,Jhargram,1,20,0,19,20200706
+West Bengal,Jhargram,6,25,0,19,20200706
 West Bengal,Kalimpong,1,1,0,0,20200421
 West Bengal,Kalimpong,7,7,0,0,20200422
 West Bengal,Kalimpong,7,7,0,0,20200423
@@ -52470,7 +52472,7 @@ West Bengal,Kolkata,2006,6440,394,4040,20200702
 West Bengal,Kolkata,2078,6622,402,4142,20200703
 West Bengal,Kolkata,2147,6864,410,4307,20200704
 West Bengal,Kolkata,2288,7108,418,4402,20200705
-West Bengal,Kolkata,2288,7108,418,4402,20200706
+West Bengal,Kolkata,2415,7389,428,4546,20200706
 West Bengal,Malda,2,2,0,0,20200504
 West Bengal,Malda,2,2,0,0,20200505
 West Bengal,Malda,2,2,0,0,20200506
@@ -52534,7 +52536,7 @@ West Bengal,Malda,268,706,1,437,20200702
 West Bengal,Malda,293,740,2,445,20200703
 West Bengal,Malda,311,780,3,466,20200704
 West Bengal,Malda,307,817,4,506,20200705
-West Bengal,Malda,307,817,4,506,20200706
+West Bengal,Malda,331,859,4,524,20200706
 West Bengal,Medinipur East,3,3,0,0,20200421
 West Bengal,Medinipur East,22,22,0,0,20200422
 West Bengal,Medinipur East,22,22,0,0,20200423
@@ -52621,7 +52623,7 @@ West Bengal,Murshidabad,56,255,4,195,20200702
 West Bengal,Murshidabad,52,256,4,200,20200703
 West Bengal,Murshidabad,62,270,4,204,20200704
 West Bengal,Murshidabad,58,276,4,214,20200705
-West Bengal,Murshidabad,58,276,4,214,20200706
+West Bengal,Murshidabad,63,283,4,216,20200706
 West Bengal,Nadia,5,5,0,0,20200421
 West Bengal,Nadia,6,6,0,0,20200422
 West Bengal,Nadia,6,6,0,0,20200423
@@ -52698,7 +52700,7 @@ West Bengal,Nadia,76,325,5,244,20200702
 West Bengal,Nadia,73,328,5,250,20200703
 West Bengal,Nadia,73,339,5,261,20200704
 West Bengal,Nadia,59,346,5,282,20200705
-West Bengal,Nadia,59,346,5,282,20200706
+West Bengal,Nadia,61,354,8,285,20200706
 West Bengal,North 24 Parganas,4,4,0,0,20200421
 West Bengal,North 24 Parganas,47,47,0,0,20200422
 West Bengal,North 24 Parganas,47,47,0,0,20200423
@@ -52775,7 +52777,7 @@ West Bengal,North 24 Parganas,1318,3248,108,1822,20200702
 West Bengal,North 24 Parganas,1358,3382,111,1913,20200703
 West Bengal,North 24 Parganas,1369,3546,114,2063,20200704
 West Bengal,North 24 Parganas,1468,3760,122,2170,20200705
-West Bengal,North 24 Parganas,1468,3760,122,2170,20200706
+West Bengal,North 24 Parganas,1513,3941,129,2299,20200706
 West Bengal,Other State,10,10,0,0,20200504
 West Bengal,Other State,10,11,1,0,20200505
 West Bengal,Other State,10,11,1,0,20200506
@@ -52915,7 +52917,7 @@ West Bengal,Paschim Bardhaman,30,152,3,119,20200702
 West Bengal,Paschim Bardhaman,32,155,3,120,20200703
 West Bengal,Paschim Bardhaman,31,157,5,121,20200704
 West Bengal,Paschim Bardhaman,28,158,5,125,20200705
-West Bengal,Paschim Bardhaman,28,158,5,125,20200706
+West Bengal,Paschim Bardhaman,29,162,5,128,20200706
 West Bengal,Paschim Medinipur,12,15,0,3,20200504
 West Bengal,Paschim Medinipur,12,15,0,3,20200505
 West Bengal,Paschim Medinipur,14,17,0,3,20200506
@@ -52979,7 +52981,7 @@ West Bengal,Paschim Medinipur,48,379,5,326,20200702
 West Bengal,Paschim Medinipur,52,385,5,328,20200703
 West Bengal,Paschim Medinipur,53,395,6,336,20200704
 West Bengal,Paschim Medinipur,56,406,6,344,20200705
-West Bengal,Paschim Medinipur,56,406,6,344,20200706
+West Bengal,Paschim Medinipur,67,418,6,345,20200706
 West Bengal,Purba Bardhaman,1,1,0,0,20200422
 West Bengal,Purba Bardhaman,1,1,0,0,20200423
 West Bengal,Purba Bardhaman,1,1,0,0,20200424
@@ -53055,7 +53057,7 @@ West Bengal,Purba Bardhaman,27,178,2,149,20200702
 West Bengal,Purba Bardhaman,31,182,2,149,20200703
 West Bengal,Purba Bardhaman,30,183,2,151,20200704
 West Bengal,Purba Bardhaman,25,186,2,159,20200705
-West Bengal,Purba Bardhaman,25,186,2,159,20200706
+West Bengal,Purba Bardhaman,32,195,3,160,20200706
 West Bengal,Purba Medinipur,22,22,0,0,20200502
 West Bengal,Purba Medinipur,22,22,0,0,20200503
 West Bengal,Purba Medinipur,14,36,1,21,20200504
@@ -53121,7 +53123,7 @@ West Bengal,Purba Medinipur,95,357,4,258,20200702
 West Bengal,Purba Medinipur,99,376,4,273,20200703
 West Bengal,Purba Medinipur,99,384,5,280,20200704
 West Bengal,Purba Medinipur,94,393,5,294,20200705
-West Bengal,Purba Medinipur,94,393,5,294,20200706
+West Bengal,Purba Medinipur,110,412,5,297,20200706
 West Bengal,Purulia,0,0,0,0,20200513
 West Bengal,Purulia,0,0,0,0,20200514
 West Bengal,Purulia,0,0,0,0,20200515
@@ -53176,7 +53178,7 @@ West Bengal,Purulia,6,93,0,87,20200702
 West Bengal,Purulia,8,95,0,87,20200703
 West Bengal,Purulia,12,99,0,87,20200704
 West Bengal,Purulia,15,102,0,87,20200705
-West Bengal,Purulia,15,102,0,87,20200706
+West Bengal,Purulia,16,103,0,87,20200706
 West Bengal,South 24 Parganas,1,1,0,0,20200421
 West Bengal,South 24 Parganas,12,12,0,0,20200422
 West Bengal,South 24 Parganas,12,12,0,0,20200423
@@ -53253,7 +53255,7 @@ West Bengal,South 24 Parganas,576,1192,28,588,20200702
 West Bengal,South 24 Parganas,562,1254,30,662,20200703
 West Bengal,South 24 Parganas,602,1351,30,719,20200704
 West Bengal,South 24 Parganas,658,1469,31,780,20200705
-West Bengal,South 24 Parganas,658,1469,31,780,20200706
+West Bengal,South 24 Parganas,675,1553,32,846,20200706
 West Bengal,Unknown,365,365,0,0,20200421
 West Bengal,Unknown,35,35,0,0,20200422
 West Bengal,Unknown,68,68,0,0,20200423
@@ -53337,4 +53339,4 @@ West Bengal,Uttar Dinajpur,63,312,1,248,20200702
 West Bengal,Uttar Dinajpur,58,314,1,255,20200703
 West Bengal,Uttar Dinajpur,46,318,1,271,20200704
 West Bengal,Uttar Dinajpur,60,337,1,276,20200705
-West Bengal,Uttar Dinajpur,60,337,1,276,20200706
+West Bengal,Uttar Dinajpur,69,346,1,276,20200706
