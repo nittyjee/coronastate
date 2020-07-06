@@ -17900,7 +17900,7 @@ Jharkhand,Dhanbad,65,176,0,111,20200702
 Jharkhand,Dhanbad,68,179,0,111,20200703
 Jharkhand,Dhanbad,61,183,0,122,20200704
 Jharkhand,Dhanbad,67,189,0,122,20200705
-Jharkhand,Dhanbad,67,189,0,122,20200706
+Jharkhand,Dhanbad,67,190,1,122,20200706
 Jharkhand,Dumka,2,2,0,0,20200505
 Jharkhand,Dumka,2,2,0,0,20200506
 Jharkhand,Dumka,2,2,0,0,20200507
@@ -18366,7 +18366,7 @@ Jharkhand,Hazaribagh,29,200,3,168,20200702
 Jharkhand,Hazaribagh,31,202,3,168,20200703
 Jharkhand,Hazaribagh,31,202,3,168,20200704
 Jharkhand,Hazaribagh,31,202,3,168,20200705
-Jharkhand,Hazaribagh,31,202,3,168,20200706
+Jharkhand,Hazaribagh,32,203,3,168,20200706
 Jharkhand,Jamtara,1,1,0,0,20200427
 Jharkhand,Jamtara,1,1,0,0,20200428
 Jharkhand,Jamtara,2,2,0,0,20200429
@@ -18569,7 +18569,7 @@ Jharkhand,Koderma,34,186,1,151,20200702
 Jharkhand,Koderma,36,188,1,151,20200703
 Jharkhand,Koderma,42,194,1,151,20200704
 Jharkhand,Koderma,43,200,1,156,20200705
-Jharkhand,Koderma,43,200,1,156,20200706
+Jharkhand,Koderma,45,202,1,156,20200706
 Jharkhand,Latehar,0,0,0,0,20200513
 Jharkhand,Latehar,1,1,0,0,20200514
 Jharkhand,Latehar,1,1,0,0,20200515
@@ -18939,7 +18939,7 @@ Jharkhand,Ranchi,56,227,4,167,20200702
 Jharkhand,Ranchi,83,254,4,167,20200703
 Jharkhand,Ranchi,89,260,4,167,20200704
 Jharkhand,Ranchi,94,267,4,169,20200705
-Jharkhand,Ranchi,94,267,4,169,20200706
+Jharkhand,Ranchi,95,268,4,169,20200706
 Jharkhand,Sahibganj,0,0,0,0,20200513
 Jharkhand,Sahibganj,0,0,0,0,20200514
 Jharkhand,Sahibganj,0,0,0,0,20200515
@@ -19145,6 +19145,7 @@ Jharkhand,Unknown,-13,25,0,38,20200527
 Jharkhand,Unknown,-7,31,0,38,20200528
 Jharkhand,Unknown,14,14,0,0,20200602
 Jharkhand,Unknown,17,17,0,0,20200605
+Jharkhand,Unknown,-1,0,1,0,20200706
 Jharkhand,West Singhbhum,0,0,0,0,20200513
 Jharkhand,West Singhbhum,0,0,0,0,20200514
 Jharkhand,West Singhbhum,0,0,0,0,20200515
@@ -19199,7 +19200,7 @@ Jharkhand,West Singhbhum,10,58,0,48,20200702
 Jharkhand,West Singhbhum,10,58,0,48,20200703
 Jharkhand,West Singhbhum,13,61,0,48,20200704
 Jharkhand,West Singhbhum,13,61,0,48,20200705
-Jharkhand,West Singhbhum,13,61,0,48,20200706
+Jharkhand,West Singhbhum,16,64,0,48,20200706
 Karnataka,Bagalkote,21,21,0,0,20200421
 Karnataka,Bagalkote,21,21,0,0,20200422
 Karnataka,Bagalkote,21,21,0,0,20200423
@@ -31515,7 +31516,7 @@ Nagaland,Dimapur,68,87,0,19,20200702
 Nagaland,Dimapur,58,87,0,29,20200703
 Nagaland,Dimapur,58,87,0,29,20200704
 Nagaland,Dimapur,70,99,0,29,20200705
-Nagaland,Dimapur,70,99,0,29,20200706
+Nagaland,Dimapur,82,111,0,29,20200706
 Nagaland,Kiphire,0,0,0,0,20200513
 Nagaland,Kiphire,0,0,0,0,20200514
 Nagaland,Kiphire,0,0,0,0,20200515
@@ -31790,7 +31791,7 @@ Nagaland,Mon,63,63,0,0,20200702
 Nagaland,Mon,66,66,0,0,20200703
 Nagaland,Mon,66,66,0,0,20200704
 Nagaland,Mon,67,67,0,0,20200705
-Nagaland,Mon,67,67,0,0,20200706
+Nagaland,Mon,87,87,0,0,20200706
 Nagaland,Others,2,2,0,0,20200616
 Nagaland,Others,2,2,0,0,20200617
 Nagaland,Others,2,2,0,0,20200618
@@ -32172,7 +32173,7 @@ Odisha,Angul,13,71,1,57,20200702
 Odisha,Angul,13,71,1,57,20200703
 Odisha,Angul,37,95,1,57,20200704
 Odisha,Angul,48,106,1,57,20200705
-Odisha,Angul,48,106,1,57,20200706
+Odisha,Angul,49,107,1,57,20200706
 Odisha,Balangir,2,2,0,0,20200501
 Odisha,Balangir,2,2,0,0,20200502
 Odisha,Balangir,2,2,0,0,20200503
@@ -32239,7 +32240,7 @@ Odisha,Balangir,41,194,0,153,20200702
 Odisha,Balangir,60,213,0,153,20200703
 Odisha,Balangir,48,213,0,165,20200704
 Odisha,Balangir,51,216,0,165,20200705
-Odisha,Balangir,51,216,0,165,20200706
+Odisha,Balangir,57,222,0,165,20200706
 Odisha,Balasore,17,20,0,3,20200502
 Odisha,Balasore,17,21,0,4,20200503
 Odisha,Balasore,17,21,0,4,20200504
@@ -32305,7 +32306,7 @@ Odisha,Balasore,70,377,1,306,20200702
 Odisha,Balasore,67,377,1,309,20200703
 Odisha,Balasore,80,390,1,309,20200704
 Odisha,Balasore,72,398,2,324,20200705
-Odisha,Balasore,72,398,2,324,20200706
+Odisha,Balasore,86,412,2,324,20200706
 Odisha,Baleshwar,8,8,0,0,20200421
 Odisha,Baleshwar,8,8,0,0,20200422
 Odisha,Baleshwar,10,10,0,0,20200423
@@ -32371,7 +32372,7 @@ Odisha,Bargarh,52,110,1,57,20200702
 Odisha,Bargarh,66,131,1,64,20200703
 Odisha,Bargarh,67,133,1,65,20200704
 Odisha,Bargarh,65,133,1,67,20200705
-Odisha,Bargarh,65,133,1,67,20200706
+Odisha,Bargarh,98,166,1,67,20200706
 Odisha,Bhadrak,6,8,0,2,20200421
 Odisha,Bhadrak,9,11,0,2,20200422
 Odisha,Bhadrak,9,11,0,2,20200423
@@ -32448,7 +32449,7 @@ Odisha,Bhadrak,8,232,0,224,20200702
 Odisha,Bhadrak,9,233,0,224,20200703
 Odisha,Bhadrak,18,245,0,227,20200704
 Odisha,Bhadrak,34,261,0,227,20200705
-Odisha,Bhadrak,34,261,0,227,20200706
+Odisha,Bhadrak,46,273,0,227,20200706
 Odisha,Boudh,3,3,0,0,20200510
 Odisha,Boudh,4,4,0,0,20200511
 Odisha,Boudh,4,4,0,0,20200512
@@ -32583,7 +32584,7 @@ Odisha,Cuttack,122,618,5,491,20200702
 Odisha,Cuttack,188,702,5,509,20200703
 Odisha,Cuttack,196,715,6,513,20200704
 Odisha,Cuttack,278,813,6,529,20200705
-Odisha,Cuttack,278,813,6,529,20200706
+Odisha,Cuttack,291,826,6,529,20200706
 Odisha,Debagarh,1,1,0,0,20200429
 Odisha,Debagarh,1,1,0,0,20200430
 Odisha,Debagarh,1,1,0,0,20200501
@@ -32729,7 +32730,7 @@ Odisha,Dhenkanal,24,80,0,56,20200702
 Odisha,Dhenkanal,17,83,0,66,20200703
 Odisha,Dhenkanal,18,84,0,66,20200704
 Odisha,Dhenkanal,18,84,0,66,20200705
-Odisha,Dhenkanal,18,84,0,66,20200706
+Odisha,Dhenkanal,19,85,0,66,20200706
 Odisha,Gajapati,0,0,0,0,20200513
 Odisha,Gajapati,0,0,0,0,20200514
 Odisha,Gajapati,0,0,0,0,20200515
@@ -32784,7 +32785,7 @@ Odisha,Gajapati,230,442,0,212,20200702
 Odisha,Gajapati,211,442,0,231,20200703
 Odisha,Gajapati,192,449,0,257,20200704
 Odisha,Gajapati,147,461,1,313,20200705
-Odisha,Gajapati,147,461,1,313,20200706
+Odisha,Gajapati,148,462,1,313,20200706
 Odisha,Ganjam,2,2,0,0,20200503
 Odisha,Ganjam,2,2,0,0,20200504
 Odisha,Ganjam,3,3,0,0,20200505
@@ -32849,7 +32850,7 @@ Odisha,Ganjam,461,1567,16,1090,20200702
 Odisha,Ganjam,704,1850,18,1128,20200703
 Odisha,Ganjam,826,2066,21,1219,20200704
 Odisha,Ganjam,843,2182,21,1318,20200705
-Odisha,Ganjam,843,2182,21,1318,20200706
+Odisha,Ganjam,1009,2348,21,1318,20200706
 Odisha,Jagatsinghpur,4,4,0,0,20200506
 Odisha,Jagatsinghpur,5,5,0,0,20200507
 Odisha,Jagatsinghpur,5,5,0,0,20200508
@@ -32911,7 +32912,7 @@ Odisha,Jagatsinghpur,90,299,0,209,20200702
 Odisha,Jagatsinghpur,78,305,0,227,20200703
 Odisha,Jagatsinghpur,79,317,0,238,20200704
 Odisha,Jagatsinghpur,74,317,0,243,20200705
-Odisha,Jagatsinghpur,74,317,0,243,20200706
+Odisha,Jagatsinghpur,97,340,0,243,20200706
 Odisha,Jajapur,6,7,0,1,20200421
 Odisha,Jajapur,7,8,0,1,20200422
 Odisha,Jajapur,11,12,0,1,20200423
@@ -32988,7 +32989,7 @@ Odisha,Jajpur,154,537,0,383,20200702
 Odisha,Jajpur,149,540,0,391,20200703
 Odisha,Jajpur,150,541,0,391,20200704
 Odisha,Jajpur,166,566,0,400,20200705
-Odisha,Jajpur,166,566,0,400,20200706
+Odisha,Jajpur,223,623,0,400,20200706
 Odisha,Jharsuguda,1,1,0,0,20200429
 Odisha,Jharsuguda,1,1,0,0,20200430
 Odisha,Jharsuguda,1,1,0,0,20200501
@@ -33134,7 +33135,7 @@ Odisha,Kalahandi,1,71,0,70,20200702
 Odisha,Kalahandi,6,76,0,70,20200703
 Odisha,Kalahandi,6,76,0,70,20200704
 Odisha,Kalahandi,8,78,0,70,20200705
-Odisha,Kalahandi,8,78,0,70,20200706
+Odisha,Kalahandi,9,79,0,70,20200706
 Odisha,Kandhamal,0,0,0,0,20200513
 Odisha,Kandhamal,0,0,0,0,20200514
 Odisha,Kandhamal,0,0,0,0,20200515
@@ -33189,7 +33190,7 @@ Odisha,Kandhamal,3,178,0,175,20200702
 Odisha,Kandhamal,0,178,0,178,20200703
 Odisha,Kandhamal,8,186,0,178,20200704
 Odisha,Kandhamal,9,187,0,178,20200705
-Odisha,Kandhamal,9,187,0,178,20200706
+Odisha,Kandhamal,12,190,0,178,20200706
 Odisha,Kendrapara,1,2,0,1,20200421
 Odisha,Kendrapara,1,2,0,1,20200422
 Odisha,Kendrapara,1,2,0,1,20200423
@@ -33266,7 +33267,7 @@ Odisha,Kendrapara,25,251,0,226,20200702
 Odisha,Kendrapara,27,253,0,226,20200703
 Odisha,Kendrapara,32,264,0,232,20200704
 Odisha,Kendrapara,37,269,0,232,20200705
-Odisha,Kendrapara,37,269,0,232,20200706
+Odisha,Kendrapara,42,274,0,232,20200706
 Odisha,Kendujhar,1,1,0,0,20200429
 Odisha,Kendujhar,1,1,0,0,20200430
 Odisha,Kendujhar,1,1,0,0,20200501
@@ -33335,7 +33336,7 @@ Odisha,Kendujhar,51,146,0,95,20200702
 Odisha,Kendujhar,56,152,0,96,20200703
 Odisha,Kendujhar,56,157,0,101,20200704
 Odisha,Kendujhar,75,182,0,107,20200705
-Odisha,Kendujhar,75,182,0,107,20200706
+Odisha,Kendujhar,77,184,0,107,20200706
 Odisha,Khordha,27,46,1,18,20200421
 Odisha,Khordha,25,46,1,20,20200422
 Odisha,Khordha,24,46,1,21,20200423
@@ -33412,7 +33413,7 @@ Odisha,Khordha,195,868,7,666,20200702
 Odisha,Khordha,184,894,7,703,20200703
 Odisha,Khordha,203,944,9,732,20200704
 Odisha,Khordha,220,971,9,742,20200705
-Odisha,Khordha,220,971,9,742,20200706
+Odisha,Khordha,241,992,9,742,20200706
 Odisha,Koraput,1,1,0,0,20200427
 Odisha,Koraput,1,1,0,0,20200428
 Odisha,Koraput,1,1,0,0,20200429
@@ -33483,7 +33484,7 @@ Odisha,Koraput,23,48,0,25,20200702
 Odisha,Koraput,27,52,0,25,20200703
 Odisha,Koraput,32,57,0,25,20200704
 Odisha,Koraput,30,57,0,27,20200705
-Odisha,Koraput,30,57,0,27,20200706
+Odisha,Koraput,40,67,0,27,20200706
 Odisha,Malkangiri,0,0,0,0,20200513
 Odisha,Malkangiri,0,0,0,0,20200514
 Odisha,Malkangiri,0,0,0,0,20200515
@@ -33599,7 +33600,7 @@ Odisha,Mayurbhanj,60,215,1,154,20200702
 Odisha,Mayurbhanj,64,225,1,160,20200703
 Odisha,Mayurbhanj,81,253,1,171,20200704
 Odisha,Mayurbhanj,79,259,1,179,20200705
-Odisha,Mayurbhanj,79,259,1,179,20200706
+Odisha,Mayurbhanj,87,267,1,179,20200706
 Odisha,NDRF-ODRF,61,61,0,0,20200609
 Odisha,NDRF-ODRF,61,61,0,0,20200610
 Odisha,NDRF-ODRF,115,115,0,0,20200611
@@ -33658,7 +33659,7 @@ Odisha,Nabarangapur,29,42,1,12,20200702
 Odisha,Nabarangapur,28,42,1,13,20200703
 Odisha,Nabarangapur,39,53,1,13,20200704
 Odisha,Nabarangapur,25,55,1,29,20200705
-Odisha,Nabarangapur,25,55,1,29,20200706
+Odisha,Nabarangapur,49,79,1,29,20200706
 Odisha,Nayagarh,1,1,0,0,20200509
 Odisha,Nayagarh,1,1,0,0,20200510
 Odisha,Nayagarh,1,1,0,0,20200511
@@ -33717,7 +33718,7 @@ Odisha,Nayagarh,34,163,0,129,20200702
 Odisha,Nayagarh,34,163,0,129,20200703
 Odisha,Nayagarh,32,164,0,132,20200704
 Odisha,Nayagarh,53,188,0,135,20200705
-Odisha,Nayagarh,53,188,0,135,20200706
+Odisha,Nayagarh,57,192,0,135,20200706
 Odisha,Nuapada,0,0,0,0,20200513
 Odisha,Nuapada,0,0,0,0,20200514
 Odisha,Nuapada,0,0,0,0,20200515
@@ -33873,7 +33874,7 @@ Odisha,Puri,57,272,2,213,20200702
 Odisha,Puri,56,273,2,215,20200703
 Odisha,Puri,74,291,2,215,20200704
 Odisha,Puri,76,299,2,221,20200705
-Odisha,Puri,76,299,2,221,20200706
+Odisha,Puri,79,302,2,221,20200706
 Odisha,Rayagada,0,0,0,0,20200513
 Odisha,Rayagada,0,0,0,0,20200514
 Odisha,Rayagada,0,0,0,0,20200515
@@ -33928,7 +33929,7 @@ Odisha,Rayagada,22,39,0,17,20200702
 Odisha,Rayagada,93,115,0,22,20200703
 Odisha,Rayagada,93,115,0,22,20200704
 Odisha,Rayagada,93,115,0,22,20200705
-Odisha,Rayagada,93,115,0,22,20200706
+Odisha,Rayagada,106,128,0,22,20200706
 Odisha,Sambalpur,0,0,0,0,20200513
 Odisha,Sambalpur,0,0,0,0,20200514
 Odisha,Sambalpur,0,0,0,0,20200515
@@ -33983,7 +33984,7 @@ Odisha,Sambalpur,32,56,0,24,20200702
 Odisha,Sambalpur,28,64,0,36,20200703
 Odisha,Sambalpur,34,70,0,36,20200704
 Odisha,Sambalpur,36,83,0,47,20200705
-Odisha,Sambalpur,36,83,0,47,20200706
+Odisha,Sambalpur,51,98,0,47,20200706
 Odisha,Subarnapur,0,0,0,0,20200513
 Odisha,Subarnapur,0,0,0,0,20200514
 Odisha,Subarnapur,0,0,0,0,20200515
@@ -34115,7 +34116,7 @@ Odisha,Sundargarh,53,217,0,164,20200702
 Odisha,Sundargarh,44,220,0,176,20200703
 Odisha,Sundargarh,76,256,0,180,20200704
 Odisha,Sundargarh,140,322,1,181,20200705
-Odisha,Sundargarh,140,322,1,181,20200706
+Odisha,Sundargarh,160,342,1,181,20200706
 Odisha,Unknown,13,13,0,0,20200514
 Odisha,Unknown,75,75,0,0,20200613
 Odisha,Unknown,88,88,0,0,20200614
@@ -34177,7 +34178,7 @@ Puducherry,Karaikal,28,42,0,14,20200702
 Puducherry,Karaikal,29,43,0,14,20200703
 Puducherry,Karaikal,28,45,0,17,20200704
 Puducherry,Karaikal,19,45,0,26,20200705
-Puducherry,Karaikal,19,45,0,26,20200706
+Puducherry,Karaikal,10,46,0,36,20200706
 Puducherry,Mahe,1,1,0,0,20200421
 Puducherry,Mahe,1,1,0,0,20200422
 Puducherry,Mahe,1,1,0,0,20200423
@@ -34254,7 +34255,7 @@ Puducherry,Mahe,8,18,0,10,20200702
 Puducherry,Mahe,8,18,0,10,20200703
 Puducherry,Mahe,8,18,0,10,20200704
 Puducherry,Mahe,8,18,0,10,20200705
-Puducherry,Mahe,8,18,0,10,20200706
+Puducherry,Mahe,9,19,0,10,20200706
 Puducherry,Puducherry,6,6,0,0,20200421
 Puducherry,Puducherry,6,6,0,0,20200422
 Puducherry,Puducherry,6,6,0,0,20200423
@@ -34331,7 +34332,7 @@ Puducherry,Puducherry,421,740,12,307,20200702
 Puducherry,Puducherry,388,761,13,360,20200703
 Puducherry,Puducherry,445,837,14,378,20200704
 Puducherry,Puducherry,443,869,14,412,20200705
-Puducherry,Puducherry,443,869,14,412,20200706
+Puducherry,Puducherry,483,931,14,434,20200706
 Puducherry,Unknown,2,2,0,0,20200525
 Puducherry,Unknown,2,2,0,0,20200526
 Puducherry,Unknown,2,2,0,0,20200527
@@ -34393,7 +34394,7 @@ Puducherry,Yanam,2,2,0,0,20200702
 Puducherry,Yanam,2,2,0,0,20200703
 Puducherry,Yanam,4,4,0,0,20200704
 Puducherry,Yanam,14,14,0,0,20200705
-Puducherry,Yanam,14,14,0,0,20200706
+Puducherry,Yanam,15,15,0,0,20200706
 Punjab,Amritsar,11,11,0,0,20200421
 Punjab,Amritsar,11,14,2,1,20200422
 Punjab,Amritsar,10,13,2,1,20200423
@@ -36140,7 +36141,7 @@ Rajasthan,Ajmer,78,540,18,444,20200702
 Rajasthan,Ajmer,90,561,19,452,20200703
 Rajasthan,Ajmer,93,568,19,456,20200704
 Rajasthan,Ajmer,115,599,19,465,20200705
-Rajasthan,Ajmer,115,599,19,465,20200706
+Rajasthan,Ajmer,114,600,21,465,20200706
 Rajasthan,Alwar,3,7,1,3,20200421
 Rajasthan,Alwar,3,7,1,3,20200422
 Rajasthan,Alwar,3,7,1,3,20200423
@@ -36217,7 +36218,7 @@ Rajasthan,Alwar,254,598,6,338,20200702
 Rajasthan,Alwar,256,602,6,340,20200703
 Rajasthan,Alwar,310,656,6,340,20200704
 Rajasthan,Alwar,357,703,6,340,20200705
-Rajasthan,Alwar,357,703,6,340,20200706
+Rajasthan,Alwar,369,715,6,340,20200706
 Rajasthan,BSF Camp,42,42,0,0,20200507
 Rajasthan,BSF Camp,42,42,0,0,20200508
 Rajasthan,BSF Camp,42,42,0,0,20200509
@@ -36577,7 +36578,7 @@ Rajasthan,Bharatpur,229,1671,37,1405,20200702
 Rajasthan,Bharatpur,216,1705,38,1451,20200703
 Rajasthan,Bharatpur,186,1735,39,1510,20200704
 Rajasthan,Bharatpur,200,1769,39,1530,20200705
-Rajasthan,Bharatpur,200,1769,39,1530,20200706
+Rajasthan,Bharatpur,215,1796,39,1542,20200706
 Rajasthan,Bhilwara,6,33,2,25,20200421
 Rajasthan,Bhilwara,6,33,2,25,20200422
 Rajasthan,Bhilwara,6,33,2,25,20200423
@@ -36654,7 +36655,7 @@ Rajasthan,Bhilwara,25,263,6,232,20200702
 Rajasthan,Bhilwara,19,264,6,239,20200703
 Rajasthan,Bhilwara,20,265,6,239,20200704
 Rajasthan,Bhilwara,17,268,6,245,20200705
-Rajasthan,Bhilwara,17,268,6,245,20200706
+Rajasthan,Bhilwara,18,269,6,245,20200706
 Rajasthan,Bikaner,5,37,1,31,20200421
 Rajasthan,Bikaner,5,37,1,31,20200422
 Rajasthan,Bikaner,5,37,1,31,20200423
@@ -36936,7 +36937,7 @@ Rajasthan,Churu,81,328,2,245,20200702
 Rajasthan,Churu,72,331,2,257,20200703
 Rajasthan,Churu,57,331,2,272,20200704
 Rajasthan,Churu,62,336,2,272,20200705
-Rajasthan,Churu,62,336,2,272,20200706
+Rajasthan,Churu,43,336,2,291,20200706
 Rajasthan,Dausa,20,20,0,0,20200421
 Rajasthan,Dausa,21,21,0,0,20200422
 Rajasthan,Dausa,21,21,0,0,20200423
@@ -37013,7 +37014,7 @@ Rajasthan,Dausa,25,146,3,118,20200702
 Rajasthan,Dausa,45,166,3,118,20200703
 Rajasthan,Dausa,49,170,3,118,20200704
 Rajasthan,Dausa,48,177,3,126,20200705
-Rajasthan,Dausa,48,177,3,126,20200706
+Rajasthan,Dausa,49,182,3,130,20200706
 Rajasthan,Dhaulpur,0,1,0,1,20200421
 Rajasthan,Dhaulpur,0,1,0,1,20200422
 Rajasthan,Dhaulpur,0,1,0,1,20200423
@@ -37530,7 +37531,7 @@ Rajasthan,Jaipur,480,3388,163,2745,20200702
 Rajasthan,Jaipur,497,3439,163,2779,20200703
 Rajasthan,Jaipur,479,3479,163,2837,20200704
 Rajasthan,Jaipur,503,3526,163,2860,20200705
-Rajasthan,Jaipur,503,3526,163,2860,20200706
+Rajasthan,Jaipur,527,3550,163,2860,20200706
 Rajasthan,Jaisalmer,28,34,0,6,20200421
 Rajasthan,Jaisalmer,11,34,0,23,20200422
 Rajasthan,Jaisalmer,11,34,0,23,20200423
@@ -37823,7 +37824,7 @@ Rajasthan,Jhunjhunu,34,372,2,336,20200702
 Rajasthan,Jhunjhunu,26,375,2,347,20200703
 Rajasthan,Jhunjhunu,28,386,3,355,20200704
 Rajasthan,Jhunjhunu,40,401,3,358,20200705
-Rajasthan,Jhunjhunu,40,401,3,358,20200706
+Rajasthan,Jhunjhunu,46,409,3,360,20200706
 Rajasthan,Jodhpur,248,276,2,26,20200421
 Rajasthan,Jodhpur,244,287,2,41,20200422
 Rajasthan,Jodhpur,267,310,2,41,20200423
@@ -38054,7 +38055,7 @@ Rajasthan,Kota,94,682,23,565,20200702
 Rajasthan,Kota,126,714,23,565,20200703
 Rajasthan,Kota,132,728,23,573,20200704
 Rajasthan,Kota,124,736,24,588,20200705
-Rajasthan,Kota,124,736,24,588,20200706
+Rajasthan,Kota,133,745,24,588,20200706
 Rajasthan,Nagaur,70,71,1,0,20200421
 Rajasthan,Nagaur,74,75,1,0,20200422
 Rajasthan,Nagaur,92,93,1,0,20200423
@@ -38131,7 +38132,7 @@ Rajasthan,Nagaur,55,657,12,590,20200702
 Rajasthan,Nagaur,68,670,12,590,20200703
 Rajasthan,Nagaur,92,696,12,592,20200704
 Rajasthan,Nagaur,115,726,12,599,20200705
-Rajasthan,Nagaur,115,726,12,599,20200706
+Rajasthan,Nagaur,116,727,12,599,20200706
 Rajasthan,Other State,0,2,2,0,20200508
 Rajasthan,Other State,0,2,2,0,20200509
 Rajasthan,Other State,0,2,2,0,20200510
@@ -38191,7 +38192,7 @@ Rajasthan,Other State,58,127,28,41,20200702
 Rajasthan,Other State,57,127,29,41,20200703
 Rajasthan,Other State,60,131,30,41,20200704
 Rajasthan,Other State,63,134,30,41,20200705
-Rajasthan,Other State,63,134,30,41,20200706
+Rajasthan,Other State,62,134,31,41,20200706
 Rajasthan,Other state,-4,0,2,2,20200429
 Rajasthan,Other state,-2,0,2,0,20200430
 Rajasthan,Other state,0,2,2,0,20200501
@@ -38278,7 +38279,7 @@ Rajasthan,Pali,138,1146,9,999,20200702
 Rajasthan,Pali,110,1146,9,1027,20200703
 Rajasthan,Pali,122,1168,9,1037,20200704
 Rajasthan,Pali,168,1214,9,1037,20200705
-Rajasthan,Pali,168,1214,9,1037,20200706
+Rajasthan,Pali,169,1215,9,1037,20200706
 Rajasthan,Pratapgarh,0,2,0,2,20200421
 Rajasthan,Pratapgarh,0,2,0,2,20200422
 Rajasthan,Pratapgarh,0,2,0,2,20200423
@@ -38428,7 +38429,7 @@ Rajasthan,Rajsamand,58,267,1,208,20200702
 Rajasthan,Rajsamand,63,274,1,210,20200703
 Rajasthan,Rajsamand,65,276,1,210,20200704
 Rajasthan,Rajsamand,102,313,1,210,20200705
-Rajasthan,Rajsamand,102,313,1,210,20200706
+Rajasthan,Rajsamand,105,316,1,210,20200706
 Rajasthan,Sawai Madhopur,7,7,0,0,20200421
 Rajasthan,Sawai Madhopur,8,8,0,0,20200422
 Rajasthan,Sawai Madhopur,8,8,0,0,20200423
@@ -38505,7 +38506,7 @@ Rajasthan,Sawai Madhopur,21,106,7,78,20200702
 Rajasthan,Sawai Madhopur,23,108,7,78,20200703
 Rajasthan,Sawai Madhopur,19,109,7,83,20200704
 Rajasthan,Sawai Madhopur,19,109,7,83,20200705
-Rajasthan,Sawai Madhopur,19,109,7,83,20200706
+Rajasthan,Sawai Madhopur,22,112,7,83,20200706
 Rajasthan,Sikar,1,2,0,1,20200421
 Rajasthan,Sikar,1,2,0,1,20200422
 Rajasthan,Sikar,3,4,0,1,20200423
@@ -38797,7 +38798,7 @@ Rajasthan,Udaipur,72,735,3,660,20200702
 Rajasthan,Udaipur,87,752,3,662,20200703
 Rajasthan,Udaipur,107,772,3,662,20200704
 Rajasthan,Udaipur,110,782,4,668,20200705
-Rajasthan,Udaipur,110,782,4,668,20200706
+Rajasthan,Udaipur,114,786,4,668,20200706
 Rajasthan,Unknown,0,0,0,26,20200428
 Rajasthan,Unknown,0,0,0,-2,20200429
 Rajasthan,Unknown,0,30,0,0,20200506
