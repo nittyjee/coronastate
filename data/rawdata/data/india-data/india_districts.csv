@@ -10880,7 +10880,7 @@ Goa,North Goa,87,127,2,38,20200703
 Goa,North Goa,87,127,2,38,20200704
 Goa,North Goa,189,283,2,92,20200705
 Goa,North Goa,206,309,2,101,20200706
-Goa,North Goa,205,309,3,101,20200707
+Goa,North Goa,244,349,3,102,20200707
 Goa,Other State,4,4,0,0,20200613
 Goa,Other State,4,4,0,0,20200614
 Goa,Other State,4,4,0,0,20200615
@@ -10905,7 +10905,7 @@ Goa,Other State,116,125,0,9,20200703
 Goa,Other State,116,125,0,9,20200704
 Goa,Other State,109,126,0,17,20200705
 Goa,Other State,113,130,0,17,20200706
-Goa,Other State,113,130,0,17,20200707
+Goa,Other State,116,133,0,17,20200707
 Goa,South Goa,0,1,0,1,20200422
 Goa,South Goa,0,1,0,1,20200423
 Goa,South Goa,0,1,0,1,20200424
@@ -10982,7 +10982,7 @@ Goa,South Goa,565,827,2,260,20200703
 Goa,South Goa,565,827,2,260,20200704
 Goa,South Goa,520,932,5,407,20200705
 Goa,South Goa,426,957,5,526,20200706
-Goa,South Goa,426,957,5,526,20200707
+Goa,South Goa,379,966,5,582,20200707
 Goa,Unknown,3,3,0,0,20200421
 Goa,Unknown,5,5,0,0,20200516
 Goa,Unknown,5,5,0,0,20200517
@@ -11034,7 +11034,7 @@ Goa,Unknown,32,497,0,465,20200703
 Goa,Unknown,85,605,2,518,20200704
 Goa,Unknown,0,420,0,420,20200705
 Goa,Unknown,0,417,0,417,20200706
-Goa,Unknown,-5,507,0,512,20200707
+Goa,Unknown,0,455,0,455,20200707
 Gujarat,Ahmadabad,1373,1373,0,0,20200421
 Gujarat,Ahmadabad,1353,1501,62,86,20200422
 Gujarat,Ahmadabad,1470,1652,69,113,20200423
@@ -15637,7 +15637,7 @@ Himachal Pradesh,Hamirpur,79,256,2,175,20200703
 Himachal Pradesh,Hamirpur,85,265,2,178,20200704
 Himachal Pradesh,Hamirpur,76,265,3,186,20200705
 Himachal Pradesh,Hamirpur,69,267,3,195,20200706
-Himachal Pradesh,Hamirpur,69,267,3,195,20200707
+Himachal Pradesh,Hamirpur,61,267,3,203,20200707
 Himachal Pradesh,Kangra,1,5,1,3,20200421
 Himachal Pradesh,Kangra,1,5,1,3,20200422
 Himachal Pradesh,Kangra,1,5,1,3,20200423
@@ -15715,7 +15715,7 @@ Himachal Pradesh,Kangra,94,282,3,185,20200703
 Himachal Pradesh,Kangra,87,283,3,193,20200704
 Himachal Pradesh,Kangra,85,288,3,200,20200705
 Himachal Pradesh,Kangra,76,290,3,211,20200706
-Himachal Pradesh,Kangra,69,291,3,219,20200707
+Himachal Pradesh,Kangra,67,291,3,221,20200707
 Himachal Pradesh,Kinnaur,0,0,0,0,20200513
 Himachal Pradesh,Kinnaur,0,0,0,0,20200514
 Himachal Pradesh,Kinnaur,0,0,0,0,20200515
@@ -16011,7 +16011,7 @@ Himachal Pradesh,Shimla,17,47,2,27,20200703
 Himachal Pradesh,Shimla,12,47,2,32,20200704
 Himachal Pradesh,Shimla,12,47,2,32,20200705
 Himachal Pradesh,Shimla,12,47,2,32,20200706
-Himachal Pradesh,Shimla,7,47,2,37,20200707
+Himachal Pradesh,Shimla,9,49,2,37,20200707
 Himachal Pradesh,Sirmaur,1,1,0,0,20200421
 Himachal Pradesh,Sirmaur,1,1,0,0,20200422
 Himachal Pradesh,Sirmaur,1,1,0,0,20200423
@@ -16167,7 +16167,7 @@ Himachal Pradesh,Solan,46,111,0,61,20200703
 Himachal Pradesh,Solan,44,114,0,66,20200704
 Himachal Pradesh,Solan,43,121,0,74,20200705
 Himachal Pradesh,Solan,41,119,0,74,20200706
-Himachal Pradesh,Solan,41,119,0,74,20200707
+Himachal Pradesh,Solan,40,120,0,76,20200707
 Himachal Pradesh,Una,14,16,0,2,20200421
 Himachal Pradesh,Una,14,16,0,2,20200422
 Himachal Pradesh,Una,14,16,0,2,20200423
@@ -16245,7 +16245,7 @@ Himachal Pradesh,Una,25,119,0,94,20200703
 Himachal Pradesh,Una,24,119,0,95,20200704
 Himachal Pradesh,Una,28,124,0,96,20200705
 Himachal Pradesh,Una,29,127,0,98,20200706
-Himachal Pradesh,Una,29,127,0,98,20200707
+Himachal Pradesh,Una,30,129,0,99,20200707
 Himachal Pradesh,Unknown,1,1,0,0,20200423
 Himachal Pradesh,Unknown,0,1,1,0,20200424
 Himachal Pradesh,Unknown,-5,1,1,5,20200425
@@ -26838,7 +26838,7 @@ Maharashtra,Ahmednagar,151,506,15,340,20200703
 Maharashtra,Ahmednagar,136,508,15,357,20200704
 Maharashtra,Ahmednagar,208,580,15,357,20200705
 Maharashtra,Ahmednagar,180,586,16,390,20200706
-Maharashtra,Ahmednagar,180,586,16,390,20200707
+Maharashtra,Ahmednagar,172,604,17,415,20200707
 Maharashtra,Akola,15,15,0,0,20200421
 Maharashtra,Akola,15,16,1,0,20200422
 Maharashtra,Akola,20,21,1,0,20200423
@@ -26916,7 +26916,7 @@ Maharashtra,Akola,409,1599,83,1106,20200703
 Maharashtra,Akola,340,1609,86,1182,20200704
 Maharashtra,Akola,376,1662,86,1199,20200705
 Maharashtra,Akola,389,1703,89,1224,20200706
-Maharashtra,Akola,389,1703,89,1224,20200707
+Maharashtra,Akola,395,1731,89,1246,20200707
 Maharashtra,Amravati,6,6,0,0,20200421
 Maharashtra,Amravati,5,6,1,0,20200422
 Maharashtra,Amravati,6,7,1,0,20200423
@@ -26994,7 +26994,7 @@ Maharashtra,Amravati,161,625,30,434,20200703
 Maharashtra,Amravati,162,638,30,446,20200704
 Maharashtra,Amravati,209,690,30,451,20200705
 Maharashtra,Amravati,196,708,31,481,20200706
-Maharashtra,Amravati,196,708,31,481,20200707
+Maharashtra,Amravati,168,718,31,519,20200707
 Maharashtra,Aurangabad,28,28,0,0,20200421
 Maharashtra,Aurangabad,32,35,3,0,20200422
 Maharashtra,Aurangabad,18,38,5,15,20200423
@@ -27072,7 +27072,7 @@ Maharashtra,Aurangabad,3170,6061,277,2614,20200703
 Maharashtra,Aurangabad,3285,6271,283,2703,20200704
 Maharashtra,Aurangabad,3486,6568,294,2788,20200705
 Maharashtra,Aurangabad,3505,6812,301,3006,20200706
-Maharashtra,Aurangabad,3505,6812,301,3006,20200707
+Maharashtra,Aurangabad,3506,7002,306,3190,20200707
 Maharashtra,Beed,0,1,0,1,20200502
 Maharashtra,Beed,0,1,0,1,20200503
 Maharashtra,Beed,0,1,0,1,20200504
@@ -27139,7 +27139,7 @@ Maharashtra,Beed,28,126,3,95,20200703
 Maharashtra,Beed,31,129,3,95,20200704
 Maharashtra,Beed,44,142,3,95,20200705
 Maharashtra,Beed,51,149,3,95,20200706
-Maharashtra,Beed,51,149,3,95,20200707
+Maharashtra,Beed,56,154,3,95,20200707
 Maharashtra,Bhandara,1,1,0,0,20200428
 Maharashtra,Bhandara,1,1,0,0,20200429
 Maharashtra,Bhandara,1,1,0,0,20200430
@@ -27210,7 +27210,7 @@ Maharashtra,Bhandara,10,87,0,77,20200703
 Maharashtra,Bhandara,12,89,0,77,20200704
 Maharashtra,Bhandara,14,91,0,77,20200705
 Maharashtra,Bhandara,16,94,0,78,20200706
-Maharashtra,Bhandara,16,94,0,78,20200707
+Maharashtra,Bhandara,15,95,0,80,20200707
 Maharashtra,Bid,1,1,0,0,20200421
 Maharashtra,Bid,1,1,0,0,20200422
 Maharashtra,Bid,1,1,0,0,20200423
@@ -27299,7 +27299,7 @@ Maharashtra,Buldhana,104,277,13,160,20200703
 Maharashtra,Buldhana,118,298,13,167,20200704
 Maharashtra,Buldhana,136,318,13,169,20200705
 Maharashtra,Buldhana,123,318,13,182,20200706
-Maharashtra,Buldhana,123,318,13,182,20200707
+Maharashtra,Buldhana,144,343,13,186,20200707
 Maharashtra,Chandrapur,2,2,0,0,20200421
 Maharashtra,Chandrapur,2,2,0,0,20200422
 Maharashtra,Chandrapur,2,2,0,0,20200423
@@ -27377,7 +27377,7 @@ Maharashtra,Chandrapur,36,97,0,61,20200703
 Maharashtra,Chandrapur,48,109,0,61,20200704
 Maharashtra,Chandrapur,47,110,0,63,20200705
 Maharashtra,Chandrapur,51,120,0,69,20200706
-Maharashtra,Chandrapur,51,120,0,69,20200707
+Maharashtra,Chandrapur,50,122,0,72,20200707
 Maharashtra,Dhule,1,1,0,0,20200421
 Maharashtra,Dhule,3,4,1,0,20200422
 Maharashtra,Dhule,8,9,1,0,20200423
@@ -27455,7 +27455,7 @@ Maharashtra,Dhule,442,1182,58,680,20200703
 Maharashtra,Dhule,481,1233,58,692,20200704
 Maharashtra,Dhule,480,1248,62,704,20200705
 Maharashtra,Dhule,481,1274,67,724,20200706
-Maharashtra,Dhule,481,1274,67,724,20200707
+Maharashtra,Dhule,460,1283,69,752,20200707
 Maharashtra,Gadchiroli,0,0,0,0,20200513
 Maharashtra,Gadchiroli,0,0,0,0,20200514
 Maharashtra,Gadchiroli,0,0,0,0,20200515
@@ -27511,7 +27511,7 @@ Maharashtra,Gadchiroli,12,71,1,58,20200703
 Maharashtra,Gadchiroli,12,72,1,59,20200704
 Maharashtra,Gadchiroli,12,73,1,60,20200705
 Maharashtra,Gadchiroli,30,91,1,60,20200706
-Maharashtra,Gadchiroli,30,91,1,60,20200707
+Maharashtra,Gadchiroli,27,92,1,64,20200707
 Maharashtra,Gondia,0,1,0,1,20200502
 Maharashtra,Gondia,0,1,0,1,20200503
 Maharashtra,Gondia,0,1,0,1,20200504
@@ -27578,7 +27578,7 @@ Maharashtra,Gondia,49,155,2,104,20200703
 Maharashtra,Gondia,53,159,2,104,20200704
 Maharashtra,Gondia,61,167,2,104,20200705
 Maharashtra,Gondia,62,169,2,105,20200706
-Maharashtra,Gondia,62,169,2,105,20200707
+Maharashtra,Gondia,70,184,2,112,20200707
 Maharashtra,Gondiya,1,1,0,0,20200421
 Maharashtra,Gondiya,1,1,0,0,20200422
 Maharashtra,Gondiya,0,1,0,1,20200423
@@ -27667,7 +27667,7 @@ Maharashtra,Hingoli,19,270,1,250,20200703
 Maharashtra,Hingoli,37,288,1,250,20200704
 Maharashtra,Hingoli,43,294,1,250,20200705
 Maharashtra,Hingoli,42,297,1,254,20200706
-Maharashtra,Hingoli,42,297,1,254,20200707
+Maharashtra,Hingoli,36,297,1,260,20200707
 Maharashtra,Jalgaon,2,2,0,0,20200421
 Maharashtra,Jalgaon,2,3,1,0,20200422
 Maharashtra,Jalgaon,3,6,2,1,20200423
@@ -27745,7 +27745,7 @@ Maharashtra,Jalgaon,1401,3856,261,2194,20200703
 Maharashtra,Jalgaon,1495,4026,268,2263,20200704
 Maharashtra,Jalgaon,1538,4236,278,2420,20200705
 Maharashtra,Jalgaon,1673,4473,294,2506,20200706
-Maharashtra,Jalgaon,1673,4473,294,2506,20200707
+Maharashtra,Jalgaon,1730,4712,302,2680,20200707
 Maharashtra,Jalna,2,2,0,0,20200421
 Maharashtra,Jalna,1,1,0,0,20200422
 Maharashtra,Jalna,2,2,0,0,20200423
@@ -27823,7 +27823,7 @@ Maharashtra,Jalna,232,619,24,363,20200703
 Maharashtra,Jalna,279,683,24,380,20200704
 Maharashtra,Jalna,315,719,24,380,20200705
 Maharashtra,Jalna,332,758,29,397,20200706
-Maharashtra,Jalna,332,758,29,397,20200707
+Maharashtra,Jalna,377,832,31,424,20200707
 Maharashtra,Kolhapur,5,5,0,0,20200421
 Maharashtra,Kolhapur,9,9,0,0,20200422
 Maharashtra,Kolhapur,7,9,0,2,20200423
@@ -27901,7 +27901,7 @@ Maharashtra,Kolhapur,150,886,12,724,20200703
 Maharashtra,Kolhapur,151,895,12,732,20200704
 Maharashtra,Kolhapur,176,920,12,732,20200705
 Maharashtra,Kolhapur,203,949,13,733,20200706
-Maharashtra,Kolhapur,203,949,13,733,20200707
+Maharashtra,Kolhapur,221,969,13,735,20200707
 Maharashtra,Latur,8,8,0,0,20200421
 Maharashtra,Latur,8,8,0,0,20200422
 Maharashtra,Latur,0,8,0,8,20200423
@@ -27979,7 +27979,7 @@ Maharashtra,Latur,172,396,20,204,20200703
 Maharashtra,Latur,159,404,22,223,20200704
 Maharashtra,Latur,174,425,22,229,20200705
 Maharashtra,Latur,190,446,24,232,20200706
-Maharashtra,Latur,190,446,24,232,20200707
+Maharashtra,Latur,214,493,27,252,20200707
 Maharashtra,Mumbai,2455,2455,0,0,20200421
 Maharashtra,Mumbai,3300,3451,151,0,20200422
 Maharashtra,Mumbai,3039,3683,161,483,20200423
@@ -28057,7 +28057,7 @@ Maharashtra,Mumbai,24912,82074,4762,52392,20200703
 Maharashtra,Mumbai,24936,83237,4830,53463,20200704
 Maharashtra,Mumbai,23732,84524,4899,55884,20200705
 Maharashtra,Mumbai,23624,85724,4938,57152,20200706
-Maharashtra,Mumbai,23624,85724,4938,57152,20200707
+Maharashtra,Mumbai,23360,86509,5002,58137,20200707
 Maharashtra,Mumbai Suburban,0,0,0,0,20200513
 Maharashtra,Mumbai Suburban,0,0,0,0,20200514
 Maharashtra,Mumbai Suburban,0,0,0,0,20200515
@@ -28191,7 +28191,7 @@ Maharashtra,Nagpur,368,1624,15,1241,20200703
 Maharashtra,Nagpur,365,1672,15,1292,20200704
 Maharashtra,Nagpur,408,1719,15,1296,20200705
 Maharashtra,Nagpur,427,1753,16,1310,20200706
-Maharashtra,Nagpur,427,1753,16,1310,20200707
+Maharashtra,Nagpur,452,1792,16,1324,20200707
 Maharashtra,Nanded,1,1,0,0,20200423
 Maharashtra,Nanded,1,1,0,0,20200424
 Maharashtra,Nanded,1,1,0,0,20200425
@@ -28267,7 +28267,7 @@ Maharashtra,Nanded,116,371,14,241,20200703
 Maharashtra,Nanded,133,388,14,241,20200704
 Maharashtra,Nanded,138,394,14,242,20200705
 Maharashtra,Nanded,152,409,15,242,20200706
-Maharashtra,Nanded,152,409,15,242,20200707
+Maharashtra,Nanded,169,427,16,242,20200707
 Maharashtra,Nandurbar,1,1,0,0,20200421
 Maharashtra,Nandurbar,4,4,0,0,20200422
 Maharashtra,Nandurbar,7,7,0,0,20200423
@@ -28345,7 +28345,7 @@ Maharashtra,Nandurbar,91,179,9,79,20200703
 Maharashtra,Nandurbar,105,197,9,83,20200704
 Maharashtra,Nandurbar,105,197,9,83,20200705
 Maharashtra,Nandurbar,60,208,9,139,20200706
-Maharashtra,Nandurbar,60,208,9,139,20200707
+Maharashtra,Nandurbar,56,208,9,143,20200707
 Maharashtra,Nashik,53,53,0,0,20200421
 Maharashtra,Nashik,87,95,8,0,20200422
 Maharashtra,Nashik,94,105,9,2,20200423
@@ -28423,7 +28423,7 @@ Maharashtra,Nashik,1817,4656,223,2616,20200703
 Maharashtra,Nashik,1890,4933,223,2820,20200704
 Maharashtra,Nashik,2056,5216,225,2935,20200705
 Maharashtra,Nashik,2077,5478,242,3159,20200706
-Maharashtra,Nashik,2077,5478,242,3159,20200707
+Maharashtra,Nashik,2300,5816,255,3261,20200707
 Maharashtra,Osmanabad,3,3,0,0,20200421
 Maharashtra,Osmanabad,3,3,0,0,20200422
 Maharashtra,Osmanabad,0,3,0,3,20200423
@@ -28501,7 +28501,7 @@ Maharashtra,Osmanabad,49,241,12,180,20200703
 Maharashtra,Osmanabad,59,253,12,182,20200704
 Maharashtra,Osmanabad,66,264,12,186,20200705
 Maharashtra,Osmanabad,79,285,13,193,20200706
-Maharashtra,Osmanabad,79,285,13,193,20200707
+Maharashtra,Osmanabad,83,292,14,195,20200707
 Maharashtra,Other State,26,34,8,0,20200508
 Maharashtra,Other State,27,35,8,0,20200509
 Maharashtra,Other State,27,36,9,0,20200510
@@ -28562,7 +28562,7 @@ Maharashtra,Other State,81,106,25,0,20200703
 Maharashtra,Other State,86,111,25,0,20200704
 Maharashtra,Other State,108,133,25,0,20200705
 Maharashtra,Other State,114,139,25,0,20200706
-Maharashtra,Other State,114,139,25,0,20200707
+Maharashtra,Other State,119,145,26,0,20200707
 Maharashtra,Other States,19,21,2,0,20200424
 Maharashtra,Other States,23,25,2,0,20200425
 Maharashtra,Other States,23,25,2,0,20200426
@@ -28657,7 +28657,7 @@ Maharashtra,Palghar,3854,6837,117,2866,20200703
 Maharashtra,Palghar,4151,7173,122,2900,20200704
 Maharashtra,Palghar,4379,7470,126,2965,20200705
 Maharashtra,Palghar,4566,7823,140,3117,20200706
-Maharashtra,Palghar,4566,7823,140,3117,20200707
+Maharashtra,Palghar,4553,8051,150,3348,20200707
 Maharashtra,Parbhani,1,1,0,0,20200421
 Maharashtra,Parbhani,1,1,0,0,20200422
 Maharashtra,Parbhani,1,1,0,0,20200423
@@ -28813,7 +28813,7 @@ Maharashtra,Pune,12410,25454,826,12218,20200703
 Maharashtra,Pune,13051,26956,841,13064,20200704
 Maharashtra,Pune,13864,28142,872,13406,20200705
 Maharashtra,Pune,14106,28966,889,13971,20200706
-Maharashtra,Pune,14106,28966,889,13971,20200707
+Maharashtra,Pune,14892,30131,926,14313,20200707
 Maharashtra,Raigad,47,76,3,26,20200502
 Maharashtra,Raigad,54,85,3,28,20200503
 Maharashtra,Raigad,54,85,3,28,20200504
@@ -28880,7 +28880,7 @@ Maharashtra,Raigad,2594,5238,106,2536,20200703
 Maharashtra,Raigad,2791,5585,106,2686,20200704
 Maharashtra,Raigad,2991,5840,106,2741,20200705
 Maharashtra,Raigad,3100,6106,110,2894,20200706
-Maharashtra,Raigad,3100,6106,110,2894,20200707
+Maharashtra,Raigad,3192,6381,119,3068,20200707
 Maharashtra,Raigarh,42,42,0,0,20200421
 Maharashtra,Raigarh,49,50,1,0,20200422
 Maharashtra,Raigarh,46,51,1,4,20200423
@@ -28969,7 +28969,7 @@ Maharashtra,Ratnagiri,201,677,27,449,20200703
 Maharashtra,Ratnagiri,214,699,27,458,20200704
 Maharashtra,Ratnagiri,214,712,27,471,20200705
 Maharashtra,Ratnagiri,215,726,28,483,20200706
-Maharashtra,Ratnagiri,215,726,28,483,20200707
+Maharashtra,Ratnagiri,231,767,28,508,20200707
 Maharashtra,Sangli,26,26,0,0,20200421
 Maharashtra,Sangli,26,27,1,0,20200422
 Maharashtra,Sangli,0,27,1,26,20200423
@@ -29047,7 +29047,7 @@ Maharashtra,Sangli,126,376,11,239,20200703
 Maharashtra,Sangli,159,417,11,247,20200704
 Maharashtra,Sangli,168,430,11,251,20200705
 Maharashtra,Sangli,197,462,11,254,20200706
-Maharashtra,Sangli,197,462,11,254,20200707
+Maharashtra,Sangli,207,479,11,261,20200707
 Maharashtra,Satara,11,11,0,0,20200421
 Maharashtra,Satara,11,13,2,0,20200422
 Maharashtra,Satara,11,16,2,3,20200423
@@ -29125,7 +29125,7 @@ Maharashtra,Satara,416,1222,48,757,20200703
 Maharashtra,Satara,462,1274,48,763,20200704
 Maharashtra,Satara,519,1337,48,769,20200705
 Maharashtra,Satara,528,1374,52,793,20200706
-Maharashtra,Satara,528,1374,52,793,20200707
+Maharashtra,Satara,532,1401,53,815,20200707
 Maharashtra,Sindhudurg,1,1,0,0,20200421
 Maharashtra,Sindhudurg,1,1,0,0,20200422
 Maharashtra,Sindhudurg,0,1,0,1,20200423
@@ -29203,7 +29203,7 @@ Maharashtra,Sindhudurg,74,234,5,155,20200703
 Maharashtra,Sindhudurg,70,239,5,164,20200704
 Maharashtra,Sindhudurg,69,246,5,172,20200705
 Maharashtra,Sindhudurg,63,247,5,179,20200706
-Maharashtra,Sindhudurg,63,247,5,179,20200707
+Maharashtra,Sindhudurg,57,249,5,187,20200707
 Maharashtra,Solapur,14,14,0,0,20200421
 Maharashtra,Solapur,23,25,2,0,20200422
 Maharashtra,Solapur,27,30,3,0,20200423
@@ -29281,7 +29281,7 @@ Maharashtra,Solapur,780,2695,283,1631,20200703
 Maharashtra,Solapur,1140,3106,292,1673,20200704
 Maharashtra,Solapur,1225,3214,296,1692,20200705
 Maharashtra,Solapur,1196,3241,303,1741,20200706
-Maharashtra,Solapur,1196,3241,303,1741,20200707
+Maharashtra,Solapur,1272,3369,313,1783,20200707
 Maharashtra,Thane,362,362,0,0,20200421
 Maharashtra,Thane,434,447,13,0,20200422
 Maharashtra,Thane,430,477,14,33,20200423
@@ -29359,7 +29359,7 @@ Maharashtra,Thane,25331,43634,1075,17227,20200703
 Maharashtra,Thane,26727,45833,1254,17851,20200704
 Maharashtra,Thane,28508,47935,1270,18156,20200705
 Maharashtra,Thane,29485,49485,1327,18672,20200706
-Maharashtra,Thane,29485,49485,1327,18672,20200707
+Maharashtra,Thane,29988,50829,1381,19459,20200707
 Maharashtra,Unknown,1362,1362,0,0,20200421
 Maharashtra,Unknown,431,431,0,0,20200422
 Maharashtra,Unknown,778,778,0,0,20200423
@@ -29395,7 +29395,6 @@ Maharashtra,Unknown,1980,3752,100,1672,20200618
 Maharashtra,Unknown,1750,3827,142,1935,20200619
 Maharashtra,Unknown,2334,3874,160,1380,20200620
 Maharashtra,Unknown,1771,6368,167,4430,20200627
-Maharashtra,Unknown,1615,5134,224,3296,20200707
 Maharashtra,Wardha,0,1,1,0,20200511
 Maharashtra,Wardha,0,1,1,0,20200512
 Maharashtra,Wardha,0,1,1,0,20200513
@@ -29453,7 +29452,7 @@ Maharashtra,Wardha,3,16,1,12,20200703
 Maharashtra,Wardha,3,17,1,13,20200704
 Maharashtra,Wardha,3,17,1,13,20200705
 Maharashtra,Wardha,3,17,1,13,20200706
-Maharashtra,Wardha,3,17,1,13,20200707
+Maharashtra,Wardha,12,26,1,13,20200707
 Maharashtra,Washim,1,1,0,0,20200421
 Maharashtra,Washim,1,1,0,0,20200422
 Maharashtra,Washim,1,1,0,0,20200423
@@ -29531,7 +29530,7 @@ Maharashtra,Washim,32,115,3,80,20200703
 Maharashtra,Washim,32,116,3,81,20200704
 Maharashtra,Washim,35,120,3,82,20200705
 Maharashtra,Washim,24,120,3,93,20200706
-Maharashtra,Washim,24,120,3,93,20200707
+Maharashtra,Washim,28,126,3,95,20200707
 Maharashtra,Yavatmal,13,13,0,0,20200421
 Maharashtra,Yavatmal,16,16,0,0,20200422
 Maharashtra,Yavatmal,11,18,0,7,20200423
@@ -29609,7 +29608,7 @@ Maharashtra,Yavatmal,87,318,10,221,20200703
 Maharashtra,Yavatmal,91,329,11,227,20200704
 Maharashtra,Yavatmal,92,338,11,235,20200705
 Maharashtra,Yavatmal,92,341,11,238,20200706
-Maharashtra,Yavatmal,92,341,11,238,20200707
+Maharashtra,Yavatmal,102,356,13,241,20200707
 Manipur,Bishnupur,0,0,0,0,20200513
 Manipur,Bishnupur,0,0,0,0,20200514
 Manipur,Bishnupur,0,0,0,0,20200515
@@ -31585,7 +31584,7 @@ Mizoram,Kolasib,0,11,0,11,20200703
 Mizoram,Kolasib,0,11,0,11,20200704
 Mizoram,Kolasib,0,11,0,11,20200705
 Mizoram,Kolasib,0,11,0,11,20200706
-Mizoram,Kolasib,0,11,0,11,20200707
+Mizoram,Kolasib,1,12,0,11,20200707
 Mizoram,Lawngtlai,0,0,0,0,20200513
 Mizoram,Lawngtlai,0,0,0,0,20200514
 Mizoram,Lawngtlai,0,0,0,0,20200515
@@ -42792,7 +42791,7 @@ Telangana,Adilabad,32,47,0,15,20200703
 Telangana,Adilabad,32,47,0,15,20200704
 Telangana,Adilabad,33,48,0,15,20200705
 Telangana,Adilabad,33,48,0,15,20200706
-Telangana,Adilabad,33,48,0,15,20200707
+Telangana,Adilabad,34,49,0,15,20200707
 Telangana,Bhadradri Kothagudem,4,4,0,0,20200421
 Telangana,Bhadradri Kothagudem,4,4,0,0,20200422
 Telangana,Bhadradri Kothagudem,4,4,0,0,20200423
@@ -42870,7 +42869,7 @@ Telangana,Bhadradri Kothagudem,34,38,0,4,20200703
 Telangana,Bhadradri Kothagudem,37,41,0,4,20200704
 Telangana,Bhadradri Kothagudem,39,43,0,4,20200705
 Telangana,Bhadradri Kothagudem,39,43,0,4,20200706
-Telangana,Bhadradri Kothagudem,39,43,0,4,20200707
+Telangana,Bhadradri Kothagudem,42,46,0,4,20200707
 Telangana,Foreign Evacuees,6,6,0,0,20200524
 Telangana,Foreign Evacuees,24,24,0,0,20200525
 Telangana,Foreign Evacuees,28,28,0,0,20200526
@@ -42993,7 +42992,7 @@ Telangana,Hyderabad,15750,16078,23,305,20200703
 Telangana,Hyderabad,17322,17650,23,305,20200704
 Telangana,Hyderabad,18599,18927,23,305,20200705
 Telangana,Hyderabad,20018,20346,23,305,20200706
-Telangana,Hyderabad,20018,20346,23,305,20200707
+Telangana,Hyderabad,21440,21768,23,305,20200707
 Telangana,Jagitial,3,3,0,0,20200421
 Telangana,Jagitial,3,3,0,0,20200422
 Telangana,Jagitial,3,3,0,0,20200423
@@ -43071,7 +43070,7 @@ Telangana,Jagtial,27,29,0,2,20200703
 Telangana,Jagtial,32,34,0,2,20200704
 Telangana,Jagtial,32,34,0,2,20200705
 Telangana,Jagtial,36,38,0,2,20200706
-Telangana,Jagtial,36,38,0,2,20200707
+Telangana,Jagtial,38,40,0,2,20200707
 Telangana,Jangaon,2,3,0,1,20200503
 Telangana,Jangaon,2,3,0,1,20200504
 Telangana,Jangaon,2,3,0,1,20200505
@@ -43137,7 +43136,7 @@ Telangana,Jangaon,80,81,0,1,20200703
 Telangana,Jangaon,83,84,0,1,20200704
 Telangana,Jangaon,85,86,0,1,20200705
 Telangana,Jangaon,85,86,0,1,20200706
-Telangana,Jangaon,85,86,0,1,20200707
+Telangana,Jangaon,86,87,0,1,20200707
 Telangana,Jangoan,2,2,0,0,20200421
 Telangana,Jangoan,2,2,0,0,20200422
 Telangana,Jangoan,3,3,0,0,20200423
@@ -43227,7 +43226,7 @@ Telangana,Jayashankar Bhupalapally,9,9,0,0,20200703
 Telangana,Jayashankar Bhupalapally,13,13,0,0,20200704
 Telangana,Jayashankar Bhupalapally,13,13,0,0,20200705
 Telangana,Jayashankar Bhupalapally,13,13,0,0,20200706
-Telangana,Jayashankar Bhupalapally,13,13,0,0,20200707
+Telangana,Jayashankar Bhupalapally,19,19,0,0,20200707
 Telangana,Jogulamba Gadwal,26,26,0,0,20200421
 Telangana,Jogulamba Gadwal,28,28,0,0,20200422
 Telangana,Jogulamba Gadwal,38,38,0,0,20200423
@@ -43305,7 +43304,7 @@ Telangana,Jogulamba Gadwal,27,53,1,25,20200703
 Telangana,Jogulamba Gadwal,29,55,1,25,20200704
 Telangana,Jogulamba Gadwal,30,56,1,25,20200705
 Telangana,Jogulamba Gadwal,31,57,1,25,20200706
-Telangana,Jogulamba Gadwal,31,57,1,25,20200707
+Telangana,Jogulamba Gadwal,35,61,1,25,20200707
 Telangana,Kamareddy,11,11,0,0,20200421
 Telangana,Kamareddy,11,11,0,0,20200422
 Telangana,Kamareddy,11,11,0,0,20200423
@@ -43383,7 +43382,7 @@ Telangana,Kamareddy,43,51,0,8,20200703
 Telangana,Kamareddy,43,51,0,8,20200704
 Telangana,Kamareddy,44,52,0,8,20200705
 Telangana,Kamareddy,44,52,0,8,20200706
-Telangana,Kamareddy,44,52,0,8,20200707
+Telangana,Kamareddy,51,59,0,8,20200707
 Telangana,Karimnagar,19,19,0,0,20200421
 Telangana,Karimnagar,19,19,0,0,20200422
 Telangana,Karimnagar,19,19,0,0,20200423
@@ -43461,7 +43460,7 @@ Telangana,Karimnagar,91,107,0,16,20200703
 Telangana,Karimnagar,109,125,0,16,20200704
 Telangana,Karimnagar,113,129,0,16,20200705
 Telangana,Karimnagar,118,134,0,16,20200706
-Telangana,Karimnagar,118,134,0,16,20200707
+Telangana,Karimnagar,150,166,0,16,20200707
 Telangana,Khammam,7,7,0,0,20200421
 Telangana,Khammam,7,7,0,0,20200422
 Telangana,Khammam,7,7,0,0,20200423
@@ -43539,7 +43538,7 @@ Telangana,Khammam,62,65,0,3,20200703
 Telangana,Khammam,69,72,0,3,20200704
 Telangana,Khammam,69,72,0,3,20200705
 Telangana,Khammam,90,93,0,3,20200706
-Telangana,Khammam,90,93,0,3,20200707
+Telangana,Khammam,93,96,0,3,20200707
 Telangana,Komaram Bheem,7,7,0,0,20200502
 Telangana,Komaram Bheem,7,7,0,0,20200503
 Telangana,Komaram Bheem,7,7,0,0,20200504
@@ -43695,7 +43694,7 @@ Telangana,Mahabubabad,25,26,0,1,20200703
 Telangana,Mahabubabad,25,26,0,1,20200704
 Telangana,Mahabubabad,44,45,0,1,20200705
 Telangana,Mahabubabad,45,46,0,1,20200706
-Telangana,Mahabubabad,45,46,0,1,20200707
+Telangana,Mahabubabad,47,48,0,1,20200707
 Telangana,Mahabubnagar,11,11,0,0,20200421
 Telangana,Mahabubnagar,11,11,0,0,20200422
 Telangana,Mahabubnagar,11,11,0,0,20200423
@@ -43773,7 +43772,7 @@ Telangana,Mahabubnagar,91,99,0,8,20200703
 Telangana,Mahabubnagar,96,104,0,8,20200704
 Telangana,Mahabubnagar,96,104,0,8,20200705
 Telangana,Mahabubnagar,105,113,0,8,20200706
-Telangana,Mahabubnagar,105,113,0,8,20200707
+Telangana,Mahabubnagar,116,124,0,8,20200707
 Telangana,Mancherial,0,1,1,0,20200427
 Telangana,Mancherial,0,1,1,0,20200428
 Telangana,Mancherial,0,1,1,0,20200429
@@ -43923,7 +43922,7 @@ Telangana,Medak,58,62,0,4,20200703
 Telangana,Medak,59,63,0,4,20200704
 Telangana,Medak,62,66,0,4,20200705
 Telangana,Medak,82,86,0,4,20200706
-Telangana,Medak,82,86,0,4,20200707
+Telangana,Medak,94,98,0,4,20200707
 Telangana,Medchal Malkajgiri,7,7,0,0,20200421
 Telangana,Medchal Malkajgiri,7,7,0,0,20200422
 Telangana,Medchal Malkajgiri,8,8,0,0,20200423
@@ -44001,7 +44000,7 @@ Telangana,Medchal Malkajgiri,691,701,1,9,20200703
 Telangana,Medchal Malkajgiri,744,754,1,9,20200704
 Telangana,Medchal Malkajgiri,869,879,1,9,20200705
 Telangana,Medchal Malkajgiri,986,996,1,9,20200706
-Telangana,Medchal Malkajgiri,986,996,1,9,20200707
+Telangana,Medchal Malkajgiri,1080,1090,1,9,20200707
 Telangana,Mulugu,2,2,0,0,20200421
 Telangana,Mulugu,2,2,0,0,20200422
 Telangana,Mulugu,2,2,0,0,20200423
@@ -44079,7 +44078,7 @@ Telangana,Mulugu,21,23,0,2,20200703
 Telangana,Mulugu,21,23,0,2,20200704
 Telangana,Mulugu,21,23,0,2,20200705
 Telangana,Mulugu,21,23,0,2,20200706
-Telangana,Mulugu,21,23,0,2,20200707
+Telangana,Mulugu,33,35,0,2,20200707
 Telangana,Nagarkurnool,2,2,0,0,20200421
 Telangana,Nagarkurnool,2,2,0,0,20200422
 Telangana,Nagarkurnool,2,2,0,0,20200423
@@ -44157,7 +44156,7 @@ Telangana,Nagarkurnool,23,25,0,2,20200703
 Telangana,Nagarkurnool,23,25,0,2,20200704
 Telangana,Nagarkurnool,23,25,0,2,20200705
 Telangana,Nagarkurnool,23,25,0,2,20200706
-Telangana,Nagarkurnool,23,25,0,2,20200707
+Telangana,Nagarkurnool,25,27,0,2,20200707
 Telangana,Nalgonda,15,15,0,0,20200421
 Telangana,Nalgonda,15,15,0,0,20200422
 Telangana,Nalgonda,15,15,0,0,20200423
@@ -44235,7 +44234,7 @@ Telangana,Nalgonda,91,103,0,12,20200703
 Telangana,Nalgonda,101,113,0,12,20200704
 Telangana,Nalgonda,115,127,0,12,20200705
 Telangana,Nalgonda,124,136,0,12,20200706
-Telangana,Nalgonda,124,136,0,12,20200707
+Telangana,Nalgonda,155,167,0,12,20200707
 Telangana,Narayanpet,0,1,1,0,20200427
 Telangana,Narayanpet,0,1,1,0,20200428
 Telangana,Narayanpet,0,1,1,0,20200429
@@ -44463,7 +44462,7 @@ Telangana,Nizamabad,67,97,0,30,20200703
 Telangana,Nizamabad,84,114,0,30,20200704
 Telangana,Nizamabad,87,117,0,30,20200705
 Telangana,Nizamabad,96,126,0,30,20200706
-Telangana,Nizamabad,96,126,0,30,20200707
+Telangana,Nizamabad,115,145,0,30,20200707
 Telangana,Other State,3,3,0,0,20200507
 Telangana,Other State,3,3,0,0,20200508
 Telangana,Other State,4,4,0,0,20200509
@@ -44603,7 +44602,7 @@ Telangana,Peddapalli,5,6,0,1,20200703
 Telangana,Peddapalli,5,6,0,1,20200704
 Telangana,Peddapalli,6,7,0,1,20200705
 Telangana,Peddapalli,15,16,0,1,20200706
-Telangana,Peddapalli,15,16,0,1,20200707
+Telangana,Peddapalli,18,19,0,1,20200707
 Telangana,Rajanna Sircilla,3,3,0,0,20200421
 Telangana,Rajanna Sircilla,3,3,0,0,20200422
 Telangana,Rajanna Sircilla,3,3,0,0,20200423
@@ -44681,7 +44680,7 @@ Telangana,Rajanna Sircilla,34,36,0,2,20200703
 Telangana,Rajanna Sircilla,37,39,0,2,20200704
 Telangana,Rajanna Sircilla,38,40,0,2,20200705
 Telangana,Rajanna Sircilla,38,40,0,2,20200706
-Telangana,Rajanna Sircilla,38,40,0,2,20200707
+Telangana,Rajanna Sircilla,40,42,0,2,20200707
 Telangana,Ranga Reddy,25,25,0,0,20200421
 Telangana,Ranga Reddy,25,25,0,0,20200422
 Telangana,Ranga Reddy,26,26,0,0,20200423
@@ -44759,7 +44758,7 @@ Telangana,Ranga Reddy,1207,1226,2,17,20200703
 Telangana,Ranga Reddy,1299,1318,2,17,20200704
 Telangana,Ranga Reddy,1381,1400,2,17,20200705
 Telangana,Ranga Reddy,1541,1560,2,17,20200706
-Telangana,Ranga Reddy,1541,1560,2,17,20200707
+Telangana,Ranga Reddy,1717,1736,2,17,20200707
 Telangana,Sangareddy,7,7,0,0,20200421
 Telangana,Sangareddy,7,7,0,0,20200422
 Telangana,Sangareddy,7,7,0,0,20200423
@@ -44837,7 +44836,7 @@ Telangana,Sangareddy,164,170,0,6,20200703
 Telangana,Sangareddy,172,178,0,6,20200704
 Telangana,Sangareddy,191,197,0,6,20200705
 Telangana,Sangareddy,194,200,0,6,20200706
-Telangana,Sangareddy,194,200,0,6,20200707
+Telangana,Sangareddy,203,209,0,6,20200707
 Telangana,Siddipet,1,1,0,0,20200421
 Telangana,Siddipet,1,1,0,0,20200422
 Telangana,Siddipet,1,1,0,0,20200423
@@ -44915,7 +44914,7 @@ Telangana,Siddipet,28,29,0,1,20200703
 Telangana,Siddipet,33,34,0,1,20200704
 Telangana,Siddipet,34,35,0,1,20200705
 Telangana,Siddipet,34,35,0,1,20200706
-Telangana,Siddipet,34,35,0,1,20200707
+Telangana,Siddipet,35,36,0,1,20200707
 Telangana,Suryapet,43,43,0,0,20200421
 Telangana,Suryapet,46,46,0,0,20200422
 Telangana,Suryapet,46,46,0,0,20200423
@@ -44993,7 +44992,7 @@ Telangana,Suryapet,73,97,0,24,20200703
 Telangana,Suryapet,73,97,0,24,20200704
 Telangana,Suryapet,96,120,0,24,20200705
 Telangana,Suryapet,102,126,0,24,20200706
-Telangana,Suryapet,102,126,0,24,20200707
+Telangana,Suryapet,111,135,0,24,20200707
 Telangana,Unknown,78,78,0,0,20200421
 Telangana,Unknown,73,73,0,0,20200422
 Telangana,Unknown,73,73,0,0,20200423
@@ -45070,7 +45069,7 @@ Telangana,Unknown,-9441,456,253,9644,20200703
 Telangana,Unknown,-10788,456,258,10986,20200704
 Telangana,Unknown,-11961,456,265,12152,20200705
 Telangana,Unknown,-14050,456,276,14230,20200706
-Telangana,Unknown,-14050,456,276,14230,20200707
+Telangana,Unknown,-15563,456,283,15736,20200707
 Telangana,Vikarabad,37,37,0,0,20200421
 Telangana,Vikarabad,37,37,0,0,20200422
 Telangana,Vikarabad,37,37,0,0,20200423
@@ -45148,7 +45147,7 @@ Telangana,Vikarabad,33,49,1,15,20200703
 Telangana,Vikarabad,36,52,1,15,20200704
 Telangana,Vikarabad,38,54,1,15,20200705
 Telangana,Vikarabad,45,61,1,15,20200706
-Telangana,Vikarabad,45,61,1,15,20200707
+Telangana,Vikarabad,46,62,1,15,20200707
 Telangana,Wanaparthy,0,0,0,0,20200513
 Telangana,Wanaparthy,0,0,0,0,20200514
 Telangana,Wanaparthy,0,0,0,0,20200515
@@ -45204,7 +45203,7 @@ Telangana,Wanaparthy,11,11,0,0,20200703
 Telangana,Wanaparthy,11,11,0,0,20200704
 Telangana,Wanaparthy,15,15,0,0,20200705
 Telangana,Wanaparthy,15,15,0,0,20200706
-Telangana,Wanaparthy,15,15,0,0,20200707
+Telangana,Wanaparthy,16,16,0,0,20200707
 Telangana,Warangal Rural,0,0,0,0,20200513
 Telangana,Warangal Rural,0,0,0,0,20200514
 Telangana,Warangal Rural,0,0,0,0,20200515
@@ -45338,7 +45337,7 @@ Telangana,Warangal Urban,106,129,0,23,20200703
 Telangana,Warangal Urban,137,160,0,23,20200704
 Telangana,Warangal Urban,137,160,0,23,20200705
 Telangana,Warangal Urban,146,169,0,23,20200706
-Telangana,Warangal Urban,146,169,0,23,20200707
+Telangana,Warangal Urban,159,182,0,23,20200707
 Telangana,Yadadri Bhuvanagiri,12,12,0,0,20200512
 Telangana,Yadadri Bhuvanagiri,12,12,0,0,20200513
 Telangana,Yadadri Bhuvanagiri,0,0,0,0,20200514
