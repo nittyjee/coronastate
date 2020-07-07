@@ -10880,7 +10880,7 @@ Goa,North Goa,87,127,2,38,20200703
 Goa,North Goa,87,127,2,38,20200704
 Goa,North Goa,189,283,2,92,20200705
 Goa,North Goa,206,309,2,101,20200706
-Goa,North Goa,206,309,2,101,20200707
+Goa,North Goa,205,309,3,101,20200707
 Goa,Other State,4,4,0,0,20200613
 Goa,Other State,4,4,0,0,20200614
 Goa,Other State,4,4,0,0,20200615
@@ -13698,7 +13698,7 @@ Haryana,Ambala,34,348,3,311,20200703
 Haryana,Ambala,40,358,3,315,20200704
 Haryana,Ambala,52,371,4,315,20200705
 Haryana,Ambala,56,375,4,315,20200706
-Haryana,Ambala,56,375,4,315,20200707
+Haryana,Ambala,42,378,4,332,20200707
 Haryana,Bhiwani,3,3,0,0,20200421
 Haryana,Bhiwani,1,3,0,2,20200422
 Haryana,Bhiwani,1,3,0,2,20200423
@@ -13776,7 +13776,7 @@ Haryana,Bhiwani,253,441,3,185,20200703
 Haryana,Bhiwani,294,482,3,185,20200704
 Haryana,Bhiwani,146,498,3,349,20200705
 Haryana,Bhiwani,118,498,3,377,20200706
-Haryana,Bhiwani,134,514,3,377,20200707
+Haryana,Bhiwani,138,543,4,401,20200707
 Haryana,Charkhi Dadri,0,1,0,1,20200502
 Haryana,Charkhi Dadri,0,1,0,1,20200503
 Haryana,Charkhi Dadri,0,1,0,1,20200504
@@ -13932,7 +13932,7 @@ Haryana,Faridabad,923,4184,87,3174,20200703
 Haryana,Faridabad,756,4364,89,3519,20200704
 Haryana,Faridabad,824,4525,92,3609,20200705
 Haryana,Faridabad,839,4648,95,3714,20200706
-Haryana,Faridabad,839,4648,95,3714,20200707
+Haryana,Faridabad,881,4770,95,3794,20200707
 Haryana,Fatehabad,1,1,0,0,20200421
 Haryana,Fatehabad,0,1,0,1,20200422
 Haryana,Fatehabad,0,1,0,1,20200423
@@ -14010,7 +14010,7 @@ Haryana,Fatehabad,28,122,0,94,20200703
 Haryana,Fatehabad,28,122,0,94,20200704
 Haryana,Fatehabad,28,127,0,99,20200705
 Haryana,Fatehabad,27,129,0,102,20200706
-Haryana,Fatehabad,27,129,0,102,20200707
+Haryana,Fatehabad,23,129,0,106,20200707
 Haryana,Foreign Evacuees,21,21,0,0,20200524
 Haryana,Foreign Evacuees,21,21,0,0,20200525
 Haryana,Foreign Evacuees,21,21,0,0,20200526
@@ -14133,7 +14133,7 @@ Haryana,Gurugram,1177,5699,96,4426,20200703
 Haryana,Gurugram,1233,5829,99,4497,20200704
 Haryana,Gurugram,1020,5949,100,4829,20200705
 Haryana,Gurugram,946,6058,101,5011,20200706
-Haryana,Gurugram,1021,6133,101,5011,20200707
+Haryana,Gurugram,963,6183,102,5118,20200707
 Haryana,Hisar,2,2,0,0,20200421
 Haryana,Hisar,1,2,0,1,20200422
 Haryana,Hisar,1,2,0,1,20200423
@@ -14361,7 +14361,7 @@ Haryana,Jhajjar,100,313,4,209,20200703
 Haryana,Jhajjar,111,328,4,213,20200704
 Haryana,Jhajjar,93,341,4,244,20200705
 Haryana,Jhajjar,101,349,4,244,20200706
-Haryana,Jhajjar,124,372,4,244,20200707
+Haryana,Jhajjar,126,377,4,247,20200707
 Haryana,Jind,2,2,0,0,20200421
 Haryana,Jind,0,2,0,2,20200422
 Haryana,Jind,0,2,0,2,20200423
@@ -14673,7 +14673,7 @@ Haryana,Kurukshetra,30,137,0,107,20200703
 Haryana,Kurukshetra,30,137,0,107,20200704
 Haryana,Kurukshetra,42,156,0,114,20200705
 Haryana,Kurukshetra,42,156,0,114,20200706
-Haryana,Kurukshetra,58,173,0,115,20200707
+Haryana,Kurukshetra,59,177,1,117,20200707
 Haryana,Mahendragarh,2,2,0,0,20200507
 Haryana,Mahendragarh,2,2,0,0,20200508
 Haryana,Mahendragarh,4,4,0,0,20200509
@@ -14735,7 +14735,7 @@ Haryana,Mahendragarh,93,285,1,191,20200703
 Haryana,Mahendragarh,90,291,1,200,20200704
 Haryana,Mahendragarh,96,297,1,200,20200705
 Haryana,Mahendragarh,96,297,1,200,20200706
-Haryana,Mahendragarh,78,310,1,231,20200707
+Haryana,Mahendragarh,78,322,1,243,20200707
 Haryana,Nuh,57,57,0,0,20200421
 Haryana,Nuh,29,57,0,28,20200422
 Haryana,Nuh,22,57,0,35,20200423
@@ -14813,7 +14813,7 @@ Haryana,Nuh,56,227,0,171,20200703
 Haryana,Nuh,66,241,0,175,20200704
 Haryana,Nuh,66,241,0,175,20200705
 Haryana,Nuh,67,254,1,186,20200706
-Haryana,Nuh,64,255,1,190,20200707
+Haryana,Nuh,65,256,1,190,20200707
 Haryana,Palwal,34,34,0,0,20200421
 Haryana,Palwal,8,34,0,26,20200422
 Haryana,Palwal,7,34,0,27,20200423
@@ -15263,7 +15263,7 @@ Haryana,Sirsa,29,119,0,90,20200703
 Haryana,Sirsa,27,119,0,92,20200704
 Haryana,Sirsa,35,131,0,96,20200705
 Haryana,Sirsa,41,138,0,97,20200706
-Haryana,Sirsa,41,138,0,97,20200707
+Haryana,Sirsa,41,141,0,100,20200707
 Haryana,Sonipat,9,9,0,0,20200421
 Haryana,Sonipat,11,13,0,2,20200422
 Haryana,Sonipat,11,13,0,2,20200423
@@ -16332,7 +16332,7 @@ Jammu and Kashmir,Anantnag,150,713,9,554,20200703
 Jammu and Kashmir,Anantnag,153,717,10,554,20200704
 Jammu and Kashmir,Anantnag,145,720,11,564,20200705
 Jammu and Kashmir,Anantnag,146,721,11,564,20200706
-Jammu and Kashmir,Anantnag,146,721,11,564,20200707
+Jammu and Kashmir,Anantnag,153,729,12,564,20200707
 Jammu and Kashmir,Badgam,14,14,0,0,20200421
 Jammu and Kashmir,Badgam,14,14,0,0,20200422
 Jammu and Kashmir,Badgam,14,14,0,0,20200423
@@ -16410,7 +16410,7 @@ Jammu and Kashmir,Bandipora,32,298,1,265,20200703
 Jammu and Kashmir,Bandipora,28,303,1,274,20200704
 Jammu and Kashmir,Bandipora,25,307,3,279,20200705
 Jammu and Kashmir,Bandipora,24,308,3,281,20200706
-Jammu and Kashmir,Bandipora,24,308,3,281,20200707
+Jammu and Kashmir,Bandipora,31,316,3,282,20200707
 Jammu and Kashmir,Bandipore,91,91,0,0,20200421
 Jammu and Kashmir,Bandipore,95,97,0,2,20200422
 Jammu and Kashmir,Bandipore,97,99,0,2,20200423
@@ -16500,7 +16500,7 @@ Jammu and Kashmir,Baramulla,518,949,19,412,20200703
 Jammu and Kashmir,Baramulla,563,1006,22,421,20200704
 Jammu and Kashmir,Baramulla,561,1023,23,439,20200705
 Jammu and Kashmir,Baramulla,588,1064,26,450,20200706
-Jammu and Kashmir,Baramulla,588,1064,26,450,20200707
+Jammu and Kashmir,Baramulla,616,1094,28,450,20200707
 Jammu and Kashmir,Budgam,14,26,0,12,20200503
 Jammu and Kashmir,Budgam,18,30,0,12,20200504
 Jammu and Kashmir,Budgam,18,30,0,12,20200505
@@ -16566,7 +16566,7 @@ Jammu and Kashmir,Budgam,193,439,9,237,20200703
 Jammu and Kashmir,Budgam,216,466,9,241,20200704
 Jammu and Kashmir,Budgam,203,486,9,274,20200705
 Jammu and Kashmir,Budgam,198,489,10,281,20200706
-Jammu and Kashmir,Budgam,198,489,10,281,20200707
+Jammu and Kashmir,Budgam,205,499,10,284,20200707
 Jammu and Kashmir,Doda,0,0,0,0,20200513
 Jammu and Kashmir,Doda,0,0,0,0,20200514
 Jammu and Kashmir,Doda,0,0,0,0,20200515
@@ -16622,7 +16622,7 @@ Jammu and Kashmir,Doda,27,89,2,60,20200703
 Jammu and Kashmir,Doda,28,90,2,60,20200704
 Jammu and Kashmir,Doda,31,93,2,60,20200705
 Jammu and Kashmir,Doda,31,93,2,60,20200706
-Jammu and Kashmir,Doda,31,93,2,60,20200707
+Jammu and Kashmir,Doda,43,106,2,61,20200707
 Jammu and Kashmir,Ganderbal,14,14,0,0,20200421
 Jammu and Kashmir,Ganderbal,14,14,0,0,20200422
 Jammu and Kashmir,Ganderbal,14,14,0,0,20200423
@@ -16700,7 +16700,7 @@ Jammu and Kashmir,Ganderbal,56,118,0,62,20200703
 Jammu and Kashmir,Ganderbal,58,121,1,62,20200704
 Jammu and Kashmir,Ganderbal,44,119,1,74,20200705
 Jammu and Kashmir,Ganderbal,42,120,1,77,20200706
-Jammu and Kashmir,Ganderbal,42,120,1,77,20200707
+Jammu and Kashmir,Ganderbal,55,134,1,78,20200707
 Jammu and Kashmir,Jammu,26,26,0,0,20200421
 Jammu and Kashmir,Jammu,26,26,0,0,20200422
 Jammu and Kashmir,Jammu,26,26,0,0,20200423
@@ -16778,7 +16778,7 @@ Jammu and Kashmir,Jammu,73,376,8,295,20200703
 Jammu and Kashmir,Jammu,79,388,8,301,20200704
 Jammu and Kashmir,Jammu,88,397,8,301,20200705
 Jammu and Kashmir,Jammu,90,403,8,305,20200706
-Jammu and Kashmir,Jammu,90,403,8,305,20200707
+Jammu and Kashmir,Jammu,97,415,8,310,20200707
 Jammu and Kashmir,Kathua,1,1,0,0,20200421
 Jammu and Kashmir,Kathua,1,1,0,0,20200422
 Jammu and Kashmir,Kathua,1,1,0,0,20200423
@@ -16856,7 +16856,7 @@ Jammu and Kashmir,Kathua,64,242,1,177,20200703
 Jammu and Kashmir,Kathua,64,242,1,177,20200704
 Jammu and Kashmir,Kathua,60,249,1,188,20200705
 Jammu and Kashmir,Kathua,63,254,1,190,20200706
-Jammu and Kashmir,Kathua,63,254,1,190,20200707
+Jammu and Kashmir,Kathua,64,260,1,195,20200707
 Jammu and Kashmir,Kishtwar,1,1,0,0,20200421
 Jammu and Kashmir,Kishtwar,1,1,0,0,20200422
 Jammu and Kashmir,Kishtwar,1,1,0,0,20200423
@@ -16934,7 +16934,7 @@ Jammu and Kashmir,Kishtwar,8,29,0,21,20200703
 Jammu and Kashmir,Kishtwar,8,29,0,21,20200704
 Jammu and Kashmir,Kishtwar,8,29,0,21,20200705
 Jammu and Kashmir,Kishtwar,8,29,0,21,20200706
-Jammu and Kashmir,Kishtwar,8,29,0,21,20200707
+Jammu and Kashmir,Kishtwar,16,39,0,23,20200707
 Jammu and Kashmir,Kulgam,6,6,0,0,20200421
 Jammu and Kashmir,Kulgam,6,6,0,0,20200422
 Jammu and Kashmir,Kulgam,6,6,0,0,20200423
@@ -17012,7 +17012,7 @@ Jammu and Kashmir,Kulgam,237,851,16,598,20200703
 Jammu and Kashmir,Kulgam,240,854,16,598,20200704
 Jammu and Kashmir,Kulgam,245,859,16,598,20200705
 Jammu and Kashmir,Kulgam,294,908,16,598,20200706
-Jammu and Kashmir,Kulgam,294,908,16,598,20200707
+Jammu and Kashmir,Kulgam,293,924,17,614,20200707
 Jammu and Kashmir,Kupwara,33,33,0,0,20200421
 Jammu and Kashmir,Kupwara,37,37,0,0,20200422
 Jammu and Kashmir,Kupwara,41,41,0,0,20200423
@@ -17090,7 +17090,7 @@ Jammu and Kashmir,Kupwara,153,577,6,418,20200703
 Jammu and Kashmir,Kupwara,159,584,7,418,20200704
 Jammu and Kashmir,Kupwara,168,604,7,429,20200705
 Jammu and Kashmir,Kupwara,165,607,7,435,20200706
-Jammu and Kashmir,Kupwara,165,607,7,435,20200707
+Jammu and Kashmir,Kupwara,183,625,7,435,20200707
 Jammu and Kashmir,Mirpur,0,0,0,0,20200513
 Jammu and Kashmir,Mirpur,0,0,0,0,20200514
 Jammu and Kashmir,Mirpur,0,0,0,0,20200515
@@ -17280,7 +17280,7 @@ Jammu and Kashmir,Pulwama,257,518,4,257,20200703
 Jammu and Kashmir,Pulwama,263,534,4,267,20200704
 Jammu and Kashmir,Pulwama,267,538,4,267,20200705
 Jammu and Kashmir,Pulwama,301,572,4,267,20200706
-Jammu and Kashmir,Pulwama,301,572,4,267,20200707
+Jammu and Kashmir,Pulwama,313,588,4,271,20200707
 Jammu and Kashmir,Punch,0,0,0,0,20200513
 Jammu and Kashmir,Punch,0,0,0,0,20200514
 Jammu and Kashmir,Punch,0,0,0,0,20200515
@@ -17336,7 +17336,7 @@ Jammu and Kashmir,Punch,11,123,1,111,20200703
 Jammu and Kashmir,Punch,10,124,1,113,20200704
 Jammu and Kashmir,Punch,10,124,1,113,20200705
 Jammu and Kashmir,Punch,10,125,1,114,20200706
-Jammu and Kashmir,Punch,10,125,1,114,20200707
+Jammu and Kashmir,Punch,16,132,1,115,20200707
 Jammu and Kashmir,Rajouri,4,4,0,0,20200421
 Jammu and Kashmir,Rajouri,4,4,0,0,20200422
 Jammu and Kashmir,Rajouri,4,4,0,0,20200423
@@ -17414,7 +17414,7 @@ Jammu and Kashmir,Rajouri,52,118,1,65,20200703
 Jammu and Kashmir,Rajouri,53,122,1,68,20200704
 Jammu and Kashmir,Rajouri,55,124,1,68,20200705
 Jammu and Kashmir,Rajouri,58,128,1,69,20200706
-Jammu and Kashmir,Rajouri,58,128,1,69,20200707
+Jammu and Kashmir,Rajouri,76,148,1,71,20200707
 Jammu and Kashmir,Ramban,1,1,0,0,20200423
 Jammu and Kashmir,Ramban,1,1,0,0,20200424
 Jammu and Kashmir,Ramban,1,1,0,0,20200425
@@ -17490,7 +17490,7 @@ Jammu and Kashmir,Ramban,39,226,0,187,20200703
 Jammu and Kashmir,Ramban,39,226,0,187,20200704
 Jammu and Kashmir,Ramban,49,236,0,187,20200705
 Jammu and Kashmir,Ramban,52,239,0,187,20200706
-Jammu and Kashmir,Ramban,52,239,0,187,20200707
+Jammu and Kashmir,Ramban,54,241,0,187,20200707
 Jammu and Kashmir,Reasi,1,1,0,0,20200427
 Jammu and Kashmir,Reasi,1,1,0,0,20200428
 Jammu and Kashmir,Reasi,1,1,0,0,20200429
@@ -17562,7 +17562,7 @@ Jammu and Kashmir,Reasi,14,45,0,31,20200703
 Jammu and Kashmir,Reasi,13,45,0,32,20200704
 Jammu and Kashmir,Reasi,13,45,0,32,20200705
 Jammu and Kashmir,Reasi,16,48,0,32,20200706
-Jammu and Kashmir,Reasi,16,48,0,32,20200707
+Jammu and Kashmir,Reasi,13,48,0,35,20200707
 Jammu and Kashmir,Samba,4,4,0,0,20200421
 Jammu and Kashmir,Samba,4,4,0,0,20200422
 Jammu and Kashmir,Samba,4,4,0,0,20200423
@@ -17640,7 +17640,7 @@ Jammu and Kashmir,Samba,44,158,0,114,20200703
 Jammu and Kashmir,Samba,48,168,0,120,20200704
 Jammu and Kashmir,Samba,66,186,0,120,20200705
 Jammu and Kashmir,Samba,79,199,0,120,20200706
-Jammu and Kashmir,Samba,79,199,0,120,20200707
+Jammu and Kashmir,Samba,78,201,0,123,20200707
 Jammu and Kashmir,Shopiyan,62,81,0,19,20200503
 Jammu and Kashmir,Shopiyan,64,83,0,19,20200504
 Jammu and Kashmir,Shopiyan,64,89,0,25,20200505
@@ -17706,7 +17706,7 @@ Jammu and Kashmir,Shopiyan,178,802,13,611,20200703
 Jammu and Kashmir,Shopiyan,224,848,13,611,20200704
 Jammu and Kashmir,Shopiyan,225,849,13,611,20200705
 Jammu and Kashmir,Shopiyan,233,861,13,615,20200706
-Jammu and Kashmir,Shopiyan,233,861,13,615,20200707
+Jammu and Kashmir,Shopiyan,220,862,13,629,20200707
 Jammu and Kashmir,Shupiyan,32,32,0,0,20200421
 Jammu and Kashmir,Shupiyan,42,46,0,4,20200422
 Jammu and Kashmir,Shupiyan,51,55,0,4,20200423
@@ -17796,7 +17796,7 @@ Jammu and Kashmir,Srinagar,627,1062,28,407,20200703
 Jammu and Kashmir,Srinagar,638,1091,30,423,20200704
 Jammu and Kashmir,Srinagar,697,1151,31,423,20200705
 Jammu and Kashmir,Srinagar,738,1216,33,445,20200706
-Jammu and Kashmir,Srinagar,738,1216,33,445,20200707
+Jammu and Kashmir,Srinagar,778,1277,34,465,20200707
 Jammu and Kashmir,Udhampur,20,20,0,0,20200421
 Jammu and Kashmir,Udhampur,20,20,0,0,20200422
 Jammu and Kashmir,Udhampur,20,20,0,0,20200423
@@ -17874,7 +17874,7 @@ Jammu and Kashmir,Udhampur,92,286,1,193,20200703
 Jammu and Kashmir,Udhampur,92,288,1,195,20200704
 Jammu and Kashmir,Udhampur,82,290,1,207,20200705
 Jammu and Kashmir,Udhampur,83,291,1,207,20200706
-Jammu and Kashmir,Udhampur,83,291,1,207,20200707
+Jammu and Kashmir,Udhampur,85,293,1,207,20200707
 Jammu and Kashmir,Unknown,7,7,0,0,20200423
 Jharkhand,Bokaro,11,11,0,0,20200421
 Jharkhand,Bokaro,11,11,0,0,20200422
@@ -51611,7 +51611,7 @@ Uttarakhand,Almora,24,190,2,163,20200703
 Uttarakhand,Almora,25,192,2,164,20200704
 Uttarakhand,Almora,25,193,2,165,20200705
 Uttarakhand,Almora,28,196,2,165,20200706
-Uttarakhand,Almora,28,198,2,167,20200707
+Uttarakhand,Almora,20,198,2,175,20200707
 Uttarakhand,Ayodhya,1,1,0,0,20200424
 Uttarakhand,Bageshwar,0,0,0,0,20200513
 Uttarakhand,Bageshwar,0,0,0,0,20200514
@@ -52421,7 +52421,7 @@ Uttarakhand,Uttarkashi,15,75,1,59,20200703
 Uttarakhand,Uttarkashi,20,80,1,59,20200704
 Uttarakhand,Uttarkashi,23,84,1,60,20200705
 Uttarakhand,Uttarkashi,23,84,1,60,20200706
-Uttarakhand,Uttarkashi,21,85,1,63,20200707
+Uttarakhand,Uttarkashi,23,87,1,63,20200707
 West Bengal,Alipurduar,0,0,0,0,20200513
 West Bengal,Alipurduar,0,0,0,0,20200514
 West Bengal,Alipurduar,0,0,0,0,20200515
@@ -53235,7 +53235,7 @@ West Bengal,Kolkata,2078,6622,402,4142,20200703
 West Bengal,Kolkata,2147,6864,410,4307,20200704
 West Bengal,Kolkata,2288,7108,418,4402,20200705
 West Bengal,Kolkata,2415,7389,428,4546,20200706
-West Bengal,Kolkata,2562,7680,428,4690,20200707
+West Bengal,Kolkata,2552,7680,438,4690,20200707
 West Bengal,Malda,2,2,0,0,20200504
 West Bengal,Malda,2,2,0,0,20200505
 West Bengal,Malda,2,2,0,0,20200506
