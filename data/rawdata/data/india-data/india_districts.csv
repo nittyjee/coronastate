@@ -9847,7 +9847,7 @@ Dadra and Nagar Haveli and Daman and Diu,Diu,4,15,0,11,20200703
 Dadra and Nagar Haveli and Daman and Diu,Diu,4,15,0,11,20200704
 Dadra and Nagar Haveli and Daman and Diu,Diu,4,15,0,11,20200705
 Dadra and Nagar Haveli and Daman and Diu,Diu,3,15,0,12,20200706
-Dadra and Nagar Haveli and Daman and Diu,Diu,3,15,0,12,20200707
+Dadra and Nagar Haveli and Daman and Diu,Diu,10,22,0,12,20200707
 Dadra and Nagar Haveli and Daman and Diu,Other State,2,2,0,0,20200616
 Dadra and Nagar Haveli and Daman and Diu,Other State,2,2,0,0,20200617
 Dadra and Nagar Haveli and Daman and Diu,Other State,2,2,0,0,20200618
@@ -33478,7 +33478,7 @@ Odisha,Jajpur,149,540,0,391,20200703
 Odisha,Jajpur,150,541,0,391,20200704
 Odisha,Jajpur,166,566,0,400,20200705
 Odisha,Jajpur,218,623,1,404,20200706
-Odisha,Jajpur,234,639,1,404,20200707
+Odisha,Jajpur,226,639,1,412,20200707
 Odisha,Jharsuguda,1,1,0,0,20200429
 Odisha,Jharsuguda,1,1,0,0,20200430
 Odisha,Jharsuguda,1,1,0,0,20200501
@@ -34628,6 +34628,7 @@ Odisha,Unknown,13,13,0,0,20200514
 Odisha,Unknown,75,75,0,0,20200613
 Odisha,Unknown,88,88,0,0,20200614
 Odisha,Unknown,-8,0,0,8,20200704
+Odisha,Unknown,8,0,0,-8,20200707
 Puducherry,Karaikal,1,1,0,0,20200510
 Puducherry,Karaikal,1,1,0,0,20200511
 Puducherry,Karaikal,1,1,0,0,20200512
