@@ -5,6 +5,7 @@ cd /home/nittyjee/code/coronastate/code/
 python /home/nittyjee/code/coronastate/code/update_geocoding_from_jhu.py > /home/nittyjee/code/coronastate/code/Process5.log
 /usr/local/bin/python3.8 /home/nittyjee/code/coronastate/code/process_healthmap.py 2>&1> /home/nittyjee/code/coronastate/code/process_healthmap.log
 python /home/nittyjee/code/coronastate/code/preprocess_India_Districts.py 2>&1> /home/nittyjee/code/coronastate/code/preprocess_India_Districts.log
+/usr/local/bin/python3.8 /home/nittyjee/code/coronastate/code/process_brazil.py 2>&1> /home/nittyjee/code/coronastate/code/process_brazil.log
 python /home/nittyjee/code/coronastate/code/Process1.py > /home/nittyjee/code/coronastate/code/Process1.log
 sleep 5
 python /home/nittyjee/code/coronastate/code/Process2.py > /home/nittyjee/code/coronastate/code/Process2.log
