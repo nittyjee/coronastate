@@ -2992,7 +2992,7 @@ Assam,Barpeta,95,150,0,55,20200704
 Assam,Barpeta,95,150,0,55,20200705
 Assam,Barpeta,95,150,0,55,20200706
 Assam,Barpeta,95,150,0,55,20200707
-Assam,Barpeta,95,150,0,55,20200708
+Assam,Barpeta,94,150,1,55,20200708
 Assam,Biswanath,0,0,0,0,20200513
 Assam,Biswanath,0,0,0,0,20200514
 Assam,Biswanath,0,0,0,0,20200515
@@ -4144,7 +4144,7 @@ Assam,Kamrup Metropolitan,2030,2419,6,383,20200704
 Assam,Kamrup Metropolitan,3359,3748,6,383,20200705
 Assam,Kamrup Metropolitan,3957,4346,6,383,20200706
 Assam,Kamrup Metropolitan,4545,4934,6,383,20200707
-Assam,Kamrup Metropolitan,4545,4934,6,383,20200708
+Assam,Kamrup Metropolitan,4542,4934,9,383,20200708
 Assam,Karbi Anglong,0,0,0,0,20200513
 Assam,Karbi Anglong,0,0,0,0,20200514
 Assam,Karbi Anglong,0,0,0,0,20200515
@@ -31224,7 +31224,7 @@ Meghalaya,East Khasi Hills,18,36,1,17,20200704
 Meghalaya,East Khasi Hills,19,37,1,17,20200705
 Meghalaya,East Khasi Hills,31,49,1,17,20200706
 Meghalaya,East Khasi Hills,36,55,2,17,20200707
-Meghalaya,East Khasi Hills,36,55,2,17,20200708
+Meghalaya,East Khasi Hills,40,59,2,17,20200708
 Meghalaya,North Garo Hills,0,0,0,0,20200513
 Meghalaya,North Garo Hills,0,0,0,0,20200514
 Meghalaya,North Garo Hills,0,0,0,0,20200515
@@ -33126,7 +33126,7 @@ Odisha,Angul,37,95,1,57,20200704
 Odisha,Angul,48,106,1,57,20200705
 Odisha,Angul,46,107,1,60,20200706
 Odisha,Angul,45,111,1,65,20200707
-Odisha,Angul,45,111,1,65,20200708
+Odisha,Angul,46,112,1,65,20200708
 Odisha,Balangir,2,2,0,0,20200501
 Odisha,Balangir,2,2,0,0,20200502
 Odisha,Balangir,2,2,0,0,20200503
@@ -33195,7 +33195,7 @@ Odisha,Balangir,48,213,0,165,20200704
 Odisha,Balangir,51,216,0,165,20200705
 Odisha,Balangir,57,222,0,165,20200706
 Odisha,Balangir,61,227,0,166,20200707
-Odisha,Balangir,61,227,0,166,20200708
+Odisha,Balangir,82,248,0,166,20200708
 Odisha,Balasore,17,20,0,3,20200502
 Odisha,Balasore,17,21,0,4,20200503
 Odisha,Balasore,17,21,0,4,20200504
@@ -33263,7 +33263,7 @@ Odisha,Balasore,80,390,1,309,20200704
 Odisha,Balasore,72,398,2,324,20200705
 Odisha,Balasore,83,412,2,327,20200706
 Odisha,Balasore,95,440,2,343,20200707
-Odisha,Balasore,95,440,2,343,20200708
+Odisha,Balasore,121,466,2,343,20200708
 Odisha,Baleshwar,8,8,0,0,20200421
 Odisha,Baleshwar,8,8,0,0,20200422
 Odisha,Baleshwar,10,10,0,0,20200423
@@ -33331,7 +33331,7 @@ Odisha,Bargarh,67,133,1,65,20200704
 Odisha,Bargarh,65,133,1,67,20200705
 Odisha,Bargarh,84,166,1,81,20200706
 Odisha,Bargarh,71,166,1,94,20200707
-Odisha,Bargarh,71,166,1,94,20200708
+Odisha,Bargarh,72,167,1,94,20200708
 Odisha,Bhadrak,6,8,0,2,20200421
 Odisha,Bhadrak,9,11,0,2,20200422
 Odisha,Bhadrak,9,11,0,2,20200423
@@ -33410,7 +33410,7 @@ Odisha,Bhadrak,18,245,0,227,20200704
 Odisha,Bhadrak,34,261,0,227,20200705
 Odisha,Bhadrak,34,273,0,239,20200706
 Odisha,Bhadrak,35,274,0,239,20200707
-Odisha,Bhadrak,35,274,0,239,20200708
+Odisha,Bhadrak,37,276,0,239,20200708
 Odisha,Boudh,3,3,0,0,20200510
 Odisha,Boudh,4,4,0,0,20200511
 Odisha,Boudh,4,4,0,0,20200512
@@ -33549,7 +33549,7 @@ Odisha,Cuttack,196,715,6,513,20200704
 Odisha,Cuttack,278,813,6,529,20200705
 Odisha,Cuttack,276,826,6,544,20200706
 Odisha,Cuttack,298,855,8,549,20200707
-Odisha,Cuttack,298,855,8,549,20200708
+Odisha,Cuttack,315,872,8,549,20200708
 Odisha,Debagarh,1,1,0,0,20200429
 Odisha,Debagarh,1,1,0,0,20200430
 Odisha,Debagarh,1,1,0,0,20200501
@@ -33699,7 +33699,7 @@ Odisha,Dhenkanal,18,84,0,66,20200704
 Odisha,Dhenkanal,18,84,0,66,20200705
 Odisha,Dhenkanal,19,85,0,66,20200706
 Odisha,Dhenkanal,16,86,0,70,20200707
-Odisha,Dhenkanal,16,86,0,70,20200708
+Odisha,Dhenkanal,17,87,0,70,20200708
 Odisha,Gajapati,0,0,0,0,20200513
 Odisha,Gajapati,0,0,0,0,20200514
 Odisha,Gajapati,0,0,0,0,20200515
@@ -33756,7 +33756,7 @@ Odisha,Gajapati,192,449,0,257,20200704
 Odisha,Gajapati,147,461,1,313,20200705
 Odisha,Gajapati,99,462,1,362,20200706
 Odisha,Gajapati,155,518,1,362,20200707
-Odisha,Gajapati,155,518,1,362,20200708
+Odisha,Gajapati,158,521,1,362,20200708
 Odisha,Ganjam,2,2,0,0,20200503
 Odisha,Ganjam,2,2,0,0,20200504
 Odisha,Ganjam,3,3,0,0,20200505
@@ -33823,7 +33823,7 @@ Odisha,Ganjam,826,2066,21,1219,20200704
 Odisha,Ganjam,843,2182,21,1318,20200705
 Odisha,Ganjam,935,2348,22,1391,20200706
 Odisha,Ganjam,1109,2621,25,1487,20200707
-Odisha,Ganjam,1109,2621,25,1487,20200708
+Odisha,Ganjam,1321,2836,28,1487,20200708
 Odisha,Jagatsinghpur,4,4,0,0,20200506
 Odisha,Jagatsinghpur,5,5,0,0,20200507
 Odisha,Jagatsinghpur,5,5,0,0,20200508
@@ -33887,7 +33887,7 @@ Odisha,Jagatsinghpur,79,317,0,238,20200704
 Odisha,Jagatsinghpur,74,317,0,243,20200705
 Odisha,Jagatsinghpur,72,340,0,268,20200706
 Odisha,Jagatsinghpur,86,357,0,271,20200707
-Odisha,Jagatsinghpur,86,357,0,271,20200708
+Odisha,Jagatsinghpur,90,361,0,271,20200708
 Odisha,Jajapur,6,7,0,1,20200421
 Odisha,Jajapur,7,8,0,1,20200422
 Odisha,Jajapur,11,12,0,1,20200423
@@ -33966,7 +33966,7 @@ Odisha,Jajpur,150,541,0,391,20200704
 Odisha,Jajpur,166,566,0,400,20200705
 Odisha,Jajpur,218,623,1,404,20200706
 Odisha,Jajpur,220,639,1,418,20200707
-Odisha,Jajpur,228,639,1,410,20200708
+Odisha,Jajpur,253,664,1,410,20200708
 Odisha,Jharsuguda,1,1,0,0,20200429
 Odisha,Jharsuguda,1,1,0,0,20200430
 Odisha,Jharsuguda,1,1,0,0,20200501
@@ -34037,7 +34037,7 @@ Odisha,Jharsuguda,64,128,0,64,20200704
 Odisha,Jharsuguda,31,128,0,97,20200705
 Odisha,Jharsuguda,30,128,0,98,20200706
 Odisha,Jharsuguda,23,129,0,106,20200707
-Odisha,Jharsuguda,23,129,0,106,20200708
+Odisha,Jharsuguda,27,133,0,106,20200708
 Odisha,Kalahandi,0,2,0,2,20200421
 Odisha,Kalahandi,0,2,0,2,20200422
 Odisha,Kalahandi,0,2,0,2,20200423
@@ -34252,7 +34252,7 @@ Odisha,Kendrapara,32,264,0,232,20200704
 Odisha,Kendrapara,37,269,0,232,20200705
 Odisha,Kendrapara,34,274,0,240,20200706
 Odisha,Kendrapara,35,277,0,242,20200707
-Odisha,Kendrapara,35,277,0,242,20200708
+Odisha,Kendrapara,39,282,1,242,20200708
 Odisha,Kendujhar,1,1,0,0,20200429
 Odisha,Kendujhar,1,1,0,0,20200430
 Odisha,Kendujhar,1,1,0,0,20200501
@@ -34323,7 +34323,7 @@ Odisha,Kendujhar,56,157,0,101,20200704
 Odisha,Kendujhar,75,182,0,107,20200705
 Odisha,Kendujhar,77,184,0,107,20200706
 Odisha,Kendujhar,72,191,0,119,20200707
-Odisha,Kendujhar,72,191,0,119,20200708
+Odisha,Kendujhar,79,198,0,119,20200708
 Odisha,Khordha,27,46,1,18,20200421
 Odisha,Khordha,25,46,1,20,20200422
 Odisha,Khordha,24,46,1,21,20200423
@@ -34402,7 +34402,7 @@ Odisha,Khordha,203,944,9,732,20200704
 Odisha,Khordha,220,971,9,742,20200705
 Odisha,Khordha,228,992,9,755,20200706
 Odisha,Khordha,247,1029,9,773,20200707
-Odisha,Khordha,247,1029,9,773,20200708
+Odisha,Khordha,295,1079,11,773,20200708
 Odisha,Koraput,1,1,0,0,20200427
 Odisha,Koraput,1,1,0,0,20200428
 Odisha,Koraput,1,1,0,0,20200429
@@ -34475,7 +34475,7 @@ Odisha,Koraput,32,57,0,25,20200704
 Odisha,Koraput,30,57,0,27,20200705
 Odisha,Koraput,39,67,0,28,20200706
 Odisha,Koraput,39,67,0,28,20200707
-Odisha,Koraput,39,67,0,28,20200708
+Odisha,Koraput,45,73,0,28,20200708
 Odisha,Malkangiri,0,0,0,0,20200513
 Odisha,Malkangiri,0,0,0,0,20200514
 Odisha,Malkangiri,0,0,0,0,20200515
@@ -34532,7 +34532,7 @@ Odisha,Malkangiri,58,111,0,53,20200704
 Odisha,Malkangiri,59,112,0,53,20200705
 Odisha,Malkangiri,59,112,0,53,20200706
 Odisha,Malkangiri,52,112,0,60,20200707
-Odisha,Malkangiri,52,112,0,60,20200708
+Odisha,Malkangiri,55,115,0,60,20200708
 Odisha,Mayurbhanj,4,4,0,0,20200507
 Odisha,Mayurbhanj,4,4,0,0,20200508
 Odisha,Mayurbhanj,7,7,0,0,20200509
@@ -34595,7 +34595,7 @@ Odisha,Mayurbhanj,81,253,1,171,20200704
 Odisha,Mayurbhanj,79,259,1,179,20200705
 Odisha,Mayurbhanj,86,267,1,180,20200706
 Odisha,Mayurbhanj,84,281,2,195,20200707
-Odisha,Mayurbhanj,84,281,2,195,20200708
+Odisha,Mayurbhanj,94,291,2,195,20200708
 Odisha,NDRF-ODRF,61,61,0,0,20200609
 Odisha,NDRF-ODRF,61,61,0,0,20200610
 Odisha,NDRF-ODRF,115,115,0,0,20200611
@@ -34656,7 +34656,7 @@ Odisha,Nabarangapur,39,53,1,13,20200704
 Odisha,Nabarangapur,25,55,1,29,20200705
 Odisha,Nabarangapur,46,79,1,32,20200706
 Odisha,Nabarangapur,53,86,1,32,20200707
-Odisha,Nabarangapur,53,86,1,32,20200708
+Odisha,Nabarangapur,56,89,1,32,20200708
 Odisha,Nayagarh,1,1,0,0,20200509
 Odisha,Nayagarh,1,1,0,0,20200510
 Odisha,Nayagarh,1,1,0,0,20200511
@@ -34717,7 +34717,7 @@ Odisha,Nayagarh,32,164,0,132,20200704
 Odisha,Nayagarh,53,188,0,135,20200705
 Odisha,Nayagarh,54,192,0,138,20200706
 Odisha,Nayagarh,55,193,0,138,20200707
-Odisha,Nayagarh,55,193,0,138,20200708
+Odisha,Nayagarh,73,211,0,138,20200708
 Odisha,Nuapada,0,0,0,0,20200513
 Odisha,Nuapada,0,0,0,0,20200514
 Odisha,Nuapada,0,0,0,0,20200515
@@ -34774,7 +34774,7 @@ Odisha,Nuapada,4,82,0,78,20200704
 Odisha,Nuapada,4,82,0,78,20200705
 Odisha,Nuapada,4,82,0,78,20200706
 Odisha,Nuapada,4,82,0,78,20200707
-Odisha,Nuapada,4,82,0,78,20200708
+Odisha,Nuapada,8,86,0,78,20200708
 Odisha,Other,61,61,0,0,20200613
 Odisha,Other,61,61,0,0,20200614
 Odisha,Others,158,158,0,0,20200615
@@ -34879,7 +34879,7 @@ Odisha,Puri,74,291,2,215,20200704
 Odisha,Puri,76,299,2,221,20200705
 Odisha,Puri,67,302,2,233,20200706
 Odisha,Puri,67,306,2,237,20200707
-Odisha,Puri,67,306,2,237,20200708
+Odisha,Puri,83,322,2,237,20200708
 Odisha,Rayagada,0,0,0,0,20200513
 Odisha,Rayagada,0,0,0,0,20200514
 Odisha,Rayagada,0,0,0,0,20200515
@@ -34936,7 +34936,7 @@ Odisha,Rayagada,93,115,0,22,20200704
 Odisha,Rayagada,93,115,0,22,20200705
 Odisha,Rayagada,90,128,0,38,20200706
 Odisha,Rayagada,100,138,0,38,20200707
-Odisha,Rayagada,100,138,0,38,20200708
+Odisha,Rayagada,100,139,1,38,20200708
 Odisha,Sambalpur,0,0,0,0,20200513
 Odisha,Sambalpur,0,0,0,0,20200514
 Odisha,Sambalpur,0,0,0,0,20200515
@@ -34993,7 +34993,7 @@ Odisha,Sambalpur,34,70,0,36,20200704
 Odisha,Sambalpur,36,83,0,47,20200705
 Odisha,Sambalpur,51,98,0,47,20200706
 Odisha,Sambalpur,57,104,0,47,20200707
-Odisha,Sambalpur,57,104,0,47,20200708
+Odisha,Sambalpur,58,105,0,47,20200708
 Odisha,Subarnapur,0,0,0,0,20200513
 Odisha,Subarnapur,0,0,0,0,20200514
 Odisha,Subarnapur,0,0,0,0,20200515
@@ -35050,7 +35050,7 @@ Odisha,Subarnapur,4,39,0,35,20200704
 Odisha,Subarnapur,4,39,0,35,20200705
 Odisha,Subarnapur,4,39,0,35,20200706
 Odisha,Subarnapur,2,39,0,37,20200707
-Odisha,Subarnapur,2,39,0,37,20200708
+Odisha,Subarnapur,7,44,0,37,20200708
 Odisha,Sundargarh,1,3,0,2,20200421
 Odisha,Sundargarh,1,3,0,2,20200422
 Odisha,Sundargarh,1,3,0,2,20200423
@@ -35129,7 +35129,7 @@ Odisha,Sundargarh,76,256,0,180,20200704
 Odisha,Sundargarh,140,322,1,181,20200705
 Odisha,Sundargarh,156,342,1,185,20200706
 Odisha,Sundargarh,207,393,1,185,20200707
-Odisha,Sundargarh,207,393,1,185,20200708
+Odisha,Sundargarh,285,471,1,185,20200708
 Odisha,Unknown,13,13,0,0,20200514
 Odisha,Unknown,75,75,0,0,20200613
 Odisha,Unknown,88,88,0,0,20200614
@@ -35194,7 +35194,7 @@ Puducherry,Karaikal,28,45,0,17,20200704
 Puducherry,Karaikal,19,45,0,26,20200705
 Puducherry,Karaikal,10,46,0,36,20200706
 Puducherry,Karaikal,9,46,0,37,20200707
-Puducherry,Karaikal,9,46,0,37,20200708
+Puducherry,Karaikal,34,71,0,37,20200708
 Puducherry,Mahe,1,1,0,0,20200421
 Puducherry,Mahe,1,1,0,0,20200422
 Puducherry,Mahe,1,1,0,0,20200423
@@ -35273,7 +35273,7 @@ Puducherry,Mahe,8,18,0,10,20200704
 Puducherry,Mahe,8,18,0,10,20200705
 Puducherry,Mahe,9,19,0,10,20200706
 Puducherry,Mahe,9,20,0,11,20200707
-Puducherry,Mahe,9,20,0,11,20200708
+Puducherry,Mahe,7,20,0,13,20200708
 Puducherry,Puducherry,6,6,0,0,20200421
 Puducherry,Puducherry,6,6,0,0,20200422
 Puducherry,Puducherry,6,6,0,0,20200423
@@ -35352,7 +35352,7 @@ Puducherry,Puducherry,445,837,14,378,20200704
 Puducherry,Puducherry,443,869,14,412,20200705
 Puducherry,Puducherry,483,931,14,434,20200706
 Puducherry,Puducherry,479,962,14,469,20200707
-Puducherry,Puducherry,479,962,14,469,20200708
+Puducherry,Puducherry,491,1039,14,534,20200708
 Puducherry,Unknown,2,2,0,0,20200525
 Puducherry,Unknown,2,2,0,0,20200526
 Puducherry,Unknown,2,2,0,0,20200527
@@ -35416,7 +35416,7 @@ Puducherry,Yanam,4,4,0,0,20200704
 Puducherry,Yanam,14,14,0,0,20200705
 Puducherry,Yanam,15,15,0,0,20200706
 Puducherry,Yanam,15,15,0,0,20200707
-Puducherry,Yanam,15,15,0,0,20200708
+Puducherry,Yanam,21,21,0,0,20200708
 Punjab,Amritsar,11,11,0,0,20200421
 Punjab,Amritsar,11,14,2,1,20200422
 Punjab,Amritsar,10,13,2,1,20200423
