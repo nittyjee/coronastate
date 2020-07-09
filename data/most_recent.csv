@@ -11609,7 +11609,7 @@ adm2,India,Andhra Pradesh,,Vizianagaram,20200709,3,333,3.0,120.0,data/rawdata/da
 adm1,India,Kerala,,,20200709,2,6195,27.0,3559.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/india-data,
 adm1,Russia,Irkutsk Oblast,,,20200709,2,9468,86.0,4083.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,Indonesia,DKI Jakarta,,,20200709,2,13488,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
-adm2,India,Andaman and Nicobar Islands,,Unknown,20200709,3,99,0.0,41.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
+adm2,India,Andaman and Nicobar Islands,,Unknown,20200709,3,99,0.0,44.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
 adm1,Russia,Kemerovo Oblast,,,20200709,2,2203,11.0,1027.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,South Korea,Gyeonggi-do,,,20200709,2,1323,25.0,1071.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Russia,Kirov Oblast,,,20200709,2,3614,42.0,3172.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
@@ -11733,7 +11733,7 @@ adm1,Russia,Kursk Oblast,,,20200709,2,5514,43.0,3683.0,data/newjob/all.json,http
 adm1,Colombia,Caldas,,,20200709,2,0,,7.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Russia,Kaliningrad Oblast,,,20200709,2,2578,41.0,1768.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,Russia,Republic of North Osetia-Alania,,,20200709,2,4193,67.0,3618.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
-adm2,India,Meghalaya,,East Khasi Hills,20200709,3,62,1.0,17.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
+adm2,India,Meghalaya,,East Khasi Hills,20200709,3,71,1.0,17.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
 adm1,Peru,Cusco,,,20200709,2,0,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Thailand,Bangkok,,,20200709,2,1623,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/thailand-data,
 adm2,India,Bihar,,Banka,20200709,3,282,0.0,230.0,data/rawdata/data/india-data,https://api.covid19india.org/districts_daily.json,data/india-data,
