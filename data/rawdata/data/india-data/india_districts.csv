@@ -11209,7 +11209,7 @@ Goa,North Goa,189,283,2,92,20200705
 Goa,North Goa,206,309,2,101,20200706
 Goa,North Goa,244,349,3,102,20200707
 Goa,North Goa,262,371,3,106,20200708
-Goa,North Goa,262,371,3,106,20200709
+Goa,North Goa,258,396,3,135,20200709
 Goa,Other State,4,4,0,0,20200613
 Goa,Other State,4,4,0,0,20200614
 Goa,Other State,4,4,0,0,20200615
@@ -11236,7 +11236,7 @@ Goa,Other State,109,126,0,17,20200705
 Goa,Other State,113,130,0,17,20200706
 Goa,Other State,116,133,0,17,20200707
 Goa,Other State,110,133,0,23,20200708
-Goa,Other State,110,133,0,23,20200709
+Goa,Other State,109,133,0,24,20200709
 Goa,South Goa,0,1,0,1,20200422
 Goa,South Goa,0,1,0,1,20200423
 Goa,South Goa,0,1,0,1,20200424
@@ -11315,7 +11315,7 @@ Goa,South Goa,520,932,5,407,20200705
 Goa,South Goa,426,957,5,526,20200706
 Goa,South Goa,379,966,5,582,20200707
 Goa,South Goa,452,1058,5,601,20200708
-Goa,South Goa,452,1058,5,601,20200709
+Goa,South Goa,502,1111,6,603,20200709
 Goa,Unknown,3,3,0,0,20200421
 Goa,Unknown,5,5,0,0,20200516
 Goa,Unknown,5,5,0,0,20200517
@@ -11369,7 +11369,7 @@ Goa,Unknown,0,420,0,420,20200705
 Goa,Unknown,0,417,0,417,20200706
 Goa,Unknown,0,455,0,455,20200707
 Goa,Unknown,0,477,0,477,20200708
-Goa,Unknown,45,589,1,543,20200709
+Goa,Unknown,0,511,0,511,20200709
 Gujarat,Ahmadabad,1373,1373,0,0,20200421
 Gujarat,Ahmadabad,1353,1501,62,86,20200422
 Gujarat,Ahmadabad,1470,1652,69,113,20200423
@@ -18474,7 +18474,7 @@ Jharkhand,Bokaro,15,51,2,34,20200705
 Jharkhand,Bokaro,15,51,2,34,20200706
 Jharkhand,Bokaro,16,52,2,34,20200707
 Jharkhand,Bokaro,16,55,2,37,20200708
-Jharkhand,Bokaro,16,55,2,37,20200709
+Jharkhand,Bokaro,17,56,2,37,20200709
 Jharkhand,Chatra,0,0,0,0,20200513
 Jharkhand,Chatra,0,0,0,0,20200514
 Jharkhand,Chatra,0,0,0,0,20200515
@@ -18532,7 +18532,7 @@ Jharkhand,Chatra,6,54,0,48,20200705
 Jharkhand,Chatra,8,57,0,49,20200706
 Jharkhand,Chatra,5,57,0,52,20200707
 Jharkhand,Chatra,6,58,0,52,20200708
-Jharkhand,Chatra,6,58,0,52,20200709
+Jharkhand,Chatra,7,59,0,52,20200709
 Jharkhand,Deoghar,1,1,0,0,20200421
 Jharkhand,Deoghar,1,1,0,0,20200422
 Jharkhand,Deoghar,1,1,0,0,20200423
@@ -18612,7 +18612,7 @@ Jharkhand,Deoghar,15,50,0,35,20200705
 Jharkhand,Deoghar,12,50,0,38,20200706
 Jharkhand,Deoghar,13,54,0,41,20200707
 Jharkhand,Deoghar,14,55,0,41,20200708
-Jharkhand,Deoghar,14,55,0,41,20200709
+Jharkhand,Deoghar,17,60,0,43,20200709
 Jharkhand,Dhanbad,2,2,0,0,20200421
 Jharkhand,Dhanbad,2,2,0,0,20200422
 Jharkhand,Dhanbad,2,2,0,0,20200423
@@ -18692,7 +18692,7 @@ Jharkhand,Dhanbad,67,189,0,122,20200705
 Jharkhand,Dhanbad,67,190,1,122,20200706
 Jharkhand,Dhanbad,94,219,3,122,20200707
 Jharkhand,Dhanbad,121,248,3,124,20200708
-Jharkhand,Dhanbad,134,261,3,124,20200709
+Jharkhand,Dhanbad,126,265,3,136,20200709
 Jharkhand,Dumka,2,2,0,0,20200505
 Jharkhand,Dumka,2,2,0,0,20200506
 Jharkhand,Dumka,2,2,0,0,20200507
@@ -18758,7 +18758,7 @@ Jharkhand,Dumka,6,13,0,7,20200705
 Jharkhand,Dumka,6,13,0,7,20200706
 Jharkhand,Dumka,6,13,0,7,20200707
 Jharkhand,Dumka,9,16,0,7,20200708
-Jharkhand,Dumka,9,16,0,7,20200709
+Jharkhand,Dumka,7,16,0,9,20200709
 Jharkhand,East Singhbhum,1,1,0,0,20200513
 Jharkhand,East Singhbhum,3,3,0,0,20200514
 Jharkhand,East Singhbhum,3,3,0,0,20200515
@@ -18971,7 +18971,7 @@ Jharkhand,Giridih,22,104,2,80,20200705
 Jharkhand,Giridih,21,104,2,81,20200706
 Jharkhand,Giridih,16,104,2,86,20200707
 Jharkhand,Giridih,16,104,2,86,20200708
-Jharkhand,Giridih,16,104,2,86,20200709
+Jharkhand,Giridih,17,105,2,86,20200709
 Jharkhand,Godda,1,1,0,0,20200501
 Jharkhand,Godda,1,1,0,0,20200502
 Jharkhand,Godda,1,1,0,0,20200503
@@ -19041,7 +19041,7 @@ Jharkhand,Godda,3,11,0,8,20200705
 Jharkhand,Godda,3,11,0,8,20200706
 Jharkhand,Godda,3,11,0,8,20200707
 Jharkhand,Godda,3,11,0,8,20200708
-Jharkhand,Godda,9,17,0,8,20200709
+Jharkhand,Godda,11,19,0,8,20200709
 Jharkhand,Gumla,0,0,0,0,20200513
 Jharkhand,Gumla,0,0,0,0,20200514
 Jharkhand,Gumla,0,0,0,0,20200515
@@ -19099,7 +19099,7 @@ Jharkhand,Gumla,37,119,1,81,20200705
 Jharkhand,Gumla,35,119,1,83,20200706
 Jharkhand,Gumla,22,119,1,96,20200707
 Jharkhand,Gumla,23,120,1,96,20200708
-Jharkhand,Gumla,23,120,1,96,20200709
+Jharkhand,Gumla,25,122,1,96,20200709
 Jharkhand,Hazaribagh,3,3,0,0,20200421
 Jharkhand,Hazaribagh,3,3,0,0,20200422
 Jharkhand,Hazaribagh,3,3,0,0,20200423
@@ -19179,7 +19179,7 @@ Jharkhand,Hazaribagh,31,202,3,168,20200705
 Jharkhand,Hazaribagh,35,207,3,169,20200706
 Jharkhand,Hazaribagh,41,213,3,169,20200707
 Jharkhand,Hazaribagh,27,213,3,183,20200708
-Jharkhand,Hazaribagh,27,213,3,183,20200709
+Jharkhand,Hazaribagh,32,218,3,183,20200709
 Jharkhand,Jamtara,1,1,0,0,20200427
 Jharkhand,Jamtara,1,1,0,0,20200428
 Jharkhand,Jamtara,2,2,0,0,20200429
@@ -19253,7 +19253,7 @@ Jharkhand,Jamtara,0,28,0,28,20200705
 Jharkhand,Jamtara,0,28,0,28,20200706
 Jharkhand,Jamtara,0,28,0,28,20200707
 Jharkhand,Jamtara,0,28,0,28,20200708
-Jharkhand,Jamtara,0,28,0,28,20200709
+Jharkhand,Jamtara,1,29,0,28,20200709
 Jharkhand,Khunti,0,0,0,0,20200513
 Jharkhand,Khunti,0,0,0,0,20200514
 Jharkhand,Khunti,0,0,0,0,20200515
@@ -19391,7 +19391,7 @@ Jharkhand,Koderma,43,200,1,156,20200705
 Jharkhand,Koderma,46,204,1,157,20200706
 Jharkhand,Koderma,48,211,1,162,20200707
 Jharkhand,Koderma,65,228,1,162,20200708
-Jharkhand,Koderma,65,228,1,162,20200709
+Jharkhand,Koderma,78,241,1,162,20200709
 Jharkhand,Latehar,0,0,0,0,20200513
 Jharkhand,Latehar,1,1,0,0,20200514
 Jharkhand,Latehar,1,1,0,0,20200515
@@ -19449,7 +19449,7 @@ Jharkhand,Latehar,6,59,0,53,20200705
 Jharkhand,Latehar,7,60,0,53,20200706
 Jharkhand,Latehar,8,61,0,53,20200707
 Jharkhand,Latehar,8,61,0,53,20200708
-Jharkhand,Latehar,8,61,0,53,20200709
+Jharkhand,Latehar,17,72,0,55,20200709
 Jharkhand,Lohardaga,0,0,0,0,20200513
 Jharkhand,Lohardaga,0,0,0,0,20200514
 Jharkhand,Lohardaga,0,0,0,0,20200515
@@ -19507,7 +19507,7 @@ Jharkhand,Lohardaga,25,70,0,45,20200705
 Jharkhand,Lohardaga,24,72,0,48,20200706
 Jharkhand,Lohardaga,26,75,0,49,20200707
 Jharkhand,Lohardaga,26,75,0,49,20200708
-Jharkhand,Lohardaga,26,75,0,49,20200709
+Jharkhand,Lohardaga,32,81,0,49,20200709
 Jharkhand,Pakur,0,0,0,0,20200513
 Jharkhand,Pakur,0,0,0,0,20200514
 Jharkhand,Pakur,0,0,0,0,20200515
@@ -19641,7 +19641,7 @@ Jharkhand,Palamu,9,68,0,59,20200705
 Jharkhand,Palamu,9,69,0,60,20200706
 Jharkhand,Palamu,11,71,0,60,20200707
 Jharkhand,Palamu,11,71,0,60,20200708
-Jharkhand,Palamu,11,71,0,60,20200709
+Jharkhand,Palamu,5,72,0,67,20200709
 Jharkhand,Ramgarh,0,0,0,0,20200513
 Jharkhand,Ramgarh,0,0,0,0,20200514
 Jharkhand,Ramgarh,0,0,0,0,20200515
@@ -19699,7 +19699,7 @@ Jharkhand,Ramgarh,7,122,0,115,20200705
 Jharkhand,Ramgarh,7,122,0,115,20200706
 Jharkhand,Ramgarh,28,150,0,122,20200707
 Jharkhand,Ramgarh,27,150,0,123,20200708
-Jharkhand,Ramgarh,27,150,0,123,20200709
+Jharkhand,Ramgarh,26,150,0,124,20200709
 Jharkhand,Ranchi,25,25,0,0,20200421
 Jharkhand,Ranchi,25,25,0,0,20200422
 Jharkhand,Ranchi,29,29,0,0,20200423
@@ -19779,7 +19779,7 @@ Jharkhand,Ranchi,94,267,4,169,20200705
 Jharkhand,Ranchi,105,278,4,169,20200706
 Jharkhand,Ranchi,125,298,4,169,20200707
 Jharkhand,Ranchi,133,306,4,169,20200708
-Jharkhand,Ranchi,133,306,4,169,20200709
+Jharkhand,Ranchi,138,320,5,177,20200709
 Jharkhand,Sahibganj,0,0,0,0,20200513
 Jharkhand,Sahibganj,0,0,0,0,20200514
 Jharkhand,Sahibganj,0,0,0,0,20200515
@@ -19837,7 +19837,7 @@ Jharkhand,Sahibganj,12,17,2,3,20200705
 Jharkhand,Sahibganj,12,17,2,3,20200706
 Jharkhand,Sahibganj,12,17,2,3,20200707
 Jharkhand,Sahibganj,20,27,2,5,20200708
-Jharkhand,Sahibganj,20,27,2,5,20200709
+Jharkhand,Sahibganj,22,31,2,7,20200709
 Jharkhand,Saraikela-Kharsawan,0,0,0,0,20200513
 Jharkhand,Saraikela-Kharsawan,0,0,0,0,20200514
 Jharkhand,Saraikela-Kharsawan,0,0,0,0,20200515
@@ -19895,7 +19895,7 @@ Jharkhand,Saraikela-Kharsawan,46,84,0,38,20200705
 Jharkhand,Saraikela-Kharsawan,50,88,0,38,20200706
 Jharkhand,Saraikela-Kharsawan,51,88,0,37,20200707
 Jharkhand,Saraikela-Kharsawan,52,96,0,44,20200708
-Jharkhand,Saraikela-Kharsawan,52,96,0,44,20200709
+Jharkhand,Saraikela-Kharsawan,50,96,0,46,20200709
 Jharkhand,Simdega,2,2,0,0,20200421
 Jharkhand,Simdega,2,2,0,0,20200422
 Jharkhand,Simdega,2,2,0,0,20200423
@@ -19975,7 +19975,7 @@ Jharkhand,Simdega,6,355,1,348,20200705
 Jharkhand,Simdega,6,355,1,348,20200706
 Jharkhand,Simdega,4,356,1,351,20200707
 Jharkhand,Simdega,6,359,1,352,20200708
-Jharkhand,Simdega,6,359,1,352,20200709
+Jharkhand,Simdega,9,364,1,354,20200709
 Jharkhand,Unknown,3,3,0,0,20200423
 Jharkhand,Unknown,-2,9,3,8,20200424
 Jharkhand,Unknown,2,13,3,8,20200425
@@ -46846,7 +46846,7 @@ Tripura,Gomati,69,180,0,111,20200705
 Tripura,Gomati,107,223,0,115,20200706
 Tripura,Gomati,112,228,0,115,20200707
 Tripura,Gomati,116,250,0,133,20200708
-Tripura,Gomati,122,256,0,133,20200709
+Tripura,Gomati,118,253,0,134,20200709
 Tripura,Khowai,0,0,0,0,20200513
 Tripura,Khowai,0,0,0,0,20200514
 Tripura,Khowai,0,0,0,0,20200515
@@ -47042,7 +47042,7 @@ Tripura,Sipahijala,60,591,0,531,20200705
 Tripura,Sipahijala,66,599,0,533,20200706
 Tripura,Sipahijala,66,599,0,533,20200707
 Tripura,Sipahijala,54,609,0,555,20200708
-Tripura,Sipahijala,54,609,0,555,20200709
+Tripura,Sipahijala,56,611,0,555,20200709
 Tripura,South Tripura,0,0,0,0,20200513
 Tripura,South Tripura,0,0,0,0,20200514
 Tripura,South Tripura,0,0,0,0,20200515
@@ -47100,7 +47100,7 @@ Tripura,South Tripura,39,139,0,100,20200705
 Tripura,South Tripura,41,142,0,100,20200706
 Tripura,South Tripura,41,142,0,100,20200707
 Tripura,South Tripura,22,143,0,120,20200708
-Tripura,South Tripura,24,145,0,120,20200709
+Tripura,South Tripura,16,146,0,129,20200709
 Tripura,Unknown,0,24,0,0,20200507
 Tripura,Unknown,-2,-2,0,0,20200518
 Tripura,Unknown,2,2,0,0,20200519
@@ -47249,7 +47249,7 @@ Tripura,West Tripura,69,211,1,141,20200705
 Tripura,West Tripura,72,224,1,146,20200706
 Tripura,West Tripura,78,230,1,146,20200707
 Tripura,West Tripura,86,240,1,148,20200708
-Tripura,West Tripura,90,244,1,148,20200709
+Tripura,West Tripura,86,244,1,152,20200709
 Uttar Pradesh,Agra,282,306,6,18,20200421
 Uttar Pradesh,Agra,300,324,6,18,20200422
 Uttar Pradesh,Agra,311,336,7,18,20200423
