@@ -11,9 +11,9 @@ output_path = "/home/nittyjee/code/coronastate/data/"
 # input_path = "/home/himabindu/PycharmProjects/mapbox-geocoding/input/"
 # output_path = "/home/himabindu/PycharmProjects/mapbox-geocoding/data/"
 
-input_file="HIST_PAINEL_COVIDBR_07jul2020.xlsx"
+input_file="HIST_PAINEL_COVIDBR_08jul2020.xlsx"
 
-output_file= "brasil.csv"
+output_file= "brazil.csv"
 
 locations_file_name = "locations.csv"
 
@@ -72,10 +72,6 @@ df1["DayStart"] = df1["DayStart"].dt.strftime('%Y%m%d')
 df1["DayEnd"] = df1["DayEnd"].dt.strftime('%Y%m%d')
 drop_y(df1)
 
-df1.to_csv("../output/_temp_df1.csv")
-#
-#
-#
 print(df1.shape)
 
 
