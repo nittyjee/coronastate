@@ -5406,7 +5406,7 @@ Bihar,Araria,21,138,1,116,20200706
 Bihar,Araria,24,141,1,116,20200707
 Bihar,Araria,30,149,2,117,20200708
 Bihar,Araria,34,157,2,121,20200709
-Bihar,Araria,34,157,2,121,20200710
+Bihar,Araria,38,161,2,121,20200710
 Bihar,Arwal,1,1,0,0,20200425
 Bihar,Arwal,4,4,0,0,20200426
 Bihar,Arwal,4,4,0,0,20200427
@@ -5483,7 +5483,7 @@ Bihar,Arwal,23,125,1,101,20200706
 Bihar,Arwal,20,127,1,106,20200707
 Bihar,Arwal,32,139,1,106,20200708
 Bihar,Arwal,34,144,1,109,20200709
-Bihar,Arwal,34,144,1,109,20200710
+Bihar,Arwal,40,150,1,109,20200710
 Bihar,Aurangabad,2,2,0,0,20200424
 Bihar,Aurangabad,2,2,0,0,20200425
 Bihar,Aurangabad,2,2,0,0,20200426
@@ -5561,7 +5561,7 @@ Bihar,Aurangabad,88,287,1,198,20200706
 Bihar,Aurangabad,88,287,1,198,20200707
 Bihar,Aurangabad,95,294,1,198,20200708
 Bihar,Aurangabad,102,301,1,198,20200709
-Bihar,Aurangabad,102,301,1,198,20200710
+Bihar,Aurangabad,103,302,1,198,20200710
 Bihar,Banka,1,1,0,0,20200422
 Bihar,Banka,1,1,0,0,20200423
 Bihar,Banka,2,2,0,0,20200424
@@ -5641,7 +5641,7 @@ Bihar,Banka,19,246,0,227,20200706
 Bihar,Banka,30,257,0,227,20200707
 Bihar,Banka,32,262,0,230,20200708
 Bihar,Banka,47,282,0,235,20200709
-Bihar,Banka,47,282,0,235,20200710
+Bihar,Banka,53,288,0,235,20200710
 Bihar,Begusarai,9,9,0,0,20200421
 Bihar,Begusarai,8,9,0,1,20200422
 Bihar,Begusarai,8,9,0,1,20200423
@@ -5803,7 +5803,7 @@ Bihar,Bhagalpur,174,616,5,437,20200706
 Bihar,Bhagalpur,186,643,5,452,20200707
 Bihar,Bhagalpur,215,693,6,472,20200708
 Bihar,Bhagalpur,247,756,7,502,20200709
-Bihar,Bhagalpur,247,756,7,502,20200710
+Bihar,Bhagalpur,331,840,7,502,20200710
 Bihar,Bhojpur,1,1,0,0,20200421
 Bihar,Bhojpur,1,1,0,0,20200422
 Bihar,Bhojpur,1,1,0,0,20200423
@@ -5965,7 +5965,7 @@ Bihar,Buxar,22,240,0,218,20200706
 Bihar,Buxar,25,244,0,219,20200707
 Bihar,Buxar,34,258,0,224,20200708
 Bihar,Buxar,45,269,0,224,20200709
-Bihar,Buxar,45,269,0,224,20200710
+Bihar,Buxar,50,274,0,224,20200710
 Bihar,Darbhanga,1,1,0,0,20200427
 Bihar,Darbhanga,1,1,0,0,20200428
 Bihar,Darbhanga,5,5,0,0,20200429
@@ -6040,7 +6040,7 @@ Bihar,Darbhanga,106,383,7,270,20200706
 Bihar,Darbhanga,102,384,7,275,20200707
 Bihar,Darbhanga,93,392,7,292,20200708
 Bihar,Darbhanga,94,396,7,295,20200709
-Bihar,Darbhanga,94,396,7,295,20200710
+Bihar,Darbhanga,99,401,7,295,20200710
 Bihar,East Champaran,1,1,0,0,20200422
 Bihar,East Champaran,1,1,0,0,20200423
 Bihar,East Champaran,1,1,0,0,20200424
@@ -6120,7 +6120,7 @@ Bihar,East Champaran,34,260,5,221,20200706
 Bihar,East Champaran,41,271,5,225,20200707
 Bihar,East Champaran,42,279,5,232,20200708
 Bihar,East Champaran,53,290,5,232,20200709
-Bihar,East Champaran,53,290,5,232,20200710
+Bihar,East Champaran,74,311,5,232,20200710
 Bihar,Gaya,5,5,0,0,20200421
 Bihar,Gaya,1,5,0,4,20200422
 Bihar,Gaya,1,5,0,4,20200423
@@ -6201,7 +6201,7 @@ Bihar,Gaya,86,276,3,187,20200706
 Bihar,Gaya,109,306,3,194,20200707
 Bihar,Gaya,120,321,3,198,20200708
 Bihar,Gaya,130,331,3,198,20200709
-Bihar,Gaya,130,331,3,198,20200710
+Bihar,Gaya,131,332,3,198,20200710
 Bihar,Gopalganj,3,3,0,0,20200421
 Bihar,Gopalganj,0,3,0,3,20200422
 Bihar,Gopalganj,0,3,0,3,20200423
@@ -6341,7 +6341,7 @@ Bihar,Jamui,28,108,1,79,20200706
 Bihar,Jamui,29,110,1,80,20200707
 Bihar,Jamui,31,116,1,84,20200708
 Bihar,Jamui,32,117,1,84,20200709
-Bihar,Jamui,32,117,1,84,20200710
+Bihar,Jamui,40,125,1,84,20200710
 Bihar,Jehanabad,1,1,0,0,20200426
 Bihar,Jehanabad,1,1,0,0,20200427
 Bihar,Jehanabad,4,4,0,0,20200428
@@ -6417,7 +6417,7 @@ Bihar,Jehanabad,31,279,3,245,20200706
 Bihar,Jehanabad,39,287,3,245,20200707
 Bihar,Jehanabad,57,305,3,245,20200708
 Bihar,Jehanabad,56,305,3,246,20200709
-Bihar,Jehanabad,56,305,3,246,20200710
+Bihar,Jehanabad,57,306,3,246,20200710
 Bihar,Kaimur,27,27,0,0,20200502
 Bihar,Kaimur,28,28,0,0,20200503
 Bihar,Kaimur,30,30,0,0,20200504
@@ -6487,7 +6487,7 @@ Bihar,Kaimur,29,208,1,178,20200706
 Bihar,Kaimur,29,209,2,178,20200707
 Bihar,Kaimur,34,215,2,179,20200708
 Bihar,Kaimur,37,218,2,179,20200709
-Bihar,Kaimur,37,218,2,179,20200710
+Bihar,Kaimur,38,219,2,179,20200710
 Bihar,Kaimur Bhabua,8,8,0,0,20200423
 Bihar,Kaimur Bhabua,8,8,0,0,20200424
 Bihar,Kaimur Bhabua,14,14,0,0,20200425
@@ -6630,7 +6630,7 @@ Bihar,Khagaria,40,336,3,293,20200706
 Bihar,Khagaria,42,338,3,293,20200707
 Bihar,Khagaria,56,352,3,293,20200708
 Bihar,Khagaria,86,389,3,300,20200709
-Bihar,Khagaria,86,389,3,300,20200710
+Bihar,Khagaria,96,399,3,300,20200710
 Bihar,Kishanganj,1,1,0,0,20200507
 Bihar,Kishanganj,1,1,0,0,20200508
 Bihar,Kishanganj,1,1,0,0,20200509
@@ -6776,7 +6776,7 @@ Bihar,Lakhisarai,15,142,0,127,20200706
 Bihar,Lakhisarai,20,147,0,127,20200707
 Bihar,Lakhisarai,28,157,0,129,20200708
 Bihar,Lakhisarai,33,165,0,132,20200709
-Bihar,Lakhisarai,33,165,0,132,20200710
+Bihar,Lakhisarai,37,169,0,132,20200710
 Bihar,Madhepura,1,1,0,0,20200424
 Bihar,Madhepura,1,1,0,0,20200425
 Bihar,Madhepura,1,1,0,0,20200426
@@ -6854,7 +6854,7 @@ Bihar,Madhepura,58,223,1,164,20200706
 Bihar,Madhepura,41,225,1,183,20200707
 Bihar,Madhepura,54,238,1,183,20200708
 Bihar,Madhepura,54,238,1,183,20200709
-Bihar,Madhepura,54,238,1,183,20200710
+Bihar,Madhepura,63,247,1,183,20200710
 Bihar,Madhubani,5,5,0,0,20200427
 Bihar,Madhubani,5,5,0,0,20200428
 Bihar,Madhubani,5,5,0,0,20200429
@@ -6929,7 +6929,7 @@ Bihar,Madhubani,113,511,2,396,20200706
 Bihar,Madhubani,110,536,2,424,20200707
 Bihar,Madhubani,120,553,2,431,20200708
 Bihar,Madhubani,128,561,2,431,20200709
-Bihar,Madhubani,128,561,2,431,20200710
+Bihar,Madhubani,143,576,2,431,20200710
 Bihar,Munger,27,27,0,0,20200421
 Bihar,Munger,20,27,1,6,20200422
 Bihar,Munger,24,31,1,6,20200423
@@ -7073,7 +7073,7 @@ Bihar,Muzaffarpur,153,496,5,338,20200706
 Bihar,Muzaffarpur,143,511,5,363,20200707
 Bihar,Muzaffarpur,158,528,5,365,20200708
 Bihar,Muzaffarpur,186,567,5,376,20200709
-Bihar,Muzaffarpur,186,567,5,376,20200710
+Bihar,Muzaffarpur,220,601,5,376,20200710
 Bihar,Nalanda,28,28,0,0,20200421
 Bihar,Nalanda,27,29,0,2,20200422
 Bihar,Nalanda,29,31,0,2,20200423
@@ -7154,7 +7154,7 @@ Bihar,Nalanda,162,384,5,217,20200706
 Bihar,Nalanda,164,386,5,217,20200707
 Bihar,Nalanda,158,389,5,226,20200708
 Bihar,Nalanda,186,431,5,240,20200709
-Bihar,Nalanda,186,431,5,240,20200710
+Bihar,Nalanda,199,444,5,240,20200710
 Bihar,Nawada,3,3,0,0,20200421
 Bihar,Nawada,2,3,0,1,20200422
 Bihar,Nawada,2,3,0,1,20200423
@@ -7235,7 +7235,7 @@ Bihar,Nawada,85,364,3,276,20200706
 Bihar,Nawada,81,371,3,287,20200707
 Bihar,Nawada,102,407,3,302,20200708
 Bihar,Nawada,103,414,3,308,20200709
-Bihar,Nawada,103,414,3,308,20200710
+Bihar,Nawada,104,415,3,308,20200710
 Bihar,Patna,8,8,0,0,20200421
 Bihar,Patna,11,16,0,5,20200422
 Bihar,Patna,19,24,0,5,20200423
@@ -7316,7 +7316,7 @@ Bihar,Patna,474,1058,12,572,20200706
 Bihar,Patna,477,1114,12,625,20200707
 Bihar,Patna,698,1351,12,641,20200708
 Bihar,Patna,830,1485,13,642,20200709
-Bihar,Patna,830,1485,13,642,20200710
+Bihar,Patna,903,1558,13,642,20200710
 Bihar,Purnia,1,1,0,0,20200427
 Bihar,Purnia,1,1,0,0,20200428
 Bihar,Purnia,1,1,0,0,20200429
@@ -7391,7 +7391,7 @@ Bihar,Purnia,35,313,0,278,20200706
 Bihar,Purnia,38,317,0,279,20200707
 Bihar,Purnia,60,339,0,279,20200708
 Bihar,Purnia,56,343,0,287,20200709
-Bihar,Purnia,56,343,0,287,20200710
+Bihar,Purnia,58,345,0,287,20200710
 Bihar,Rohtas,1,1,0,0,20200421
 Bihar,Rohtas,1,1,0,0,20200422
 Bihar,Rohtas,7,7,0,0,20200423
@@ -7472,7 +7472,7 @@ Bihar,Rohtas,41,377,5,331,20200706
 Bihar,Rohtas,43,379,5,331,20200707
 Bihar,Rohtas,45,386,5,336,20200708
 Bihar,Rohtas,60,405,6,339,20200709
-Bihar,Rohtas,60,405,6,339,20200710
+Bihar,Rohtas,67,412,6,339,20200710
 Bihar,Saharsa,2,2,0,0,20200508
 Bihar,Saharsa,2,2,0,0,20200509
 Bihar,Saharsa,9,9,0,0,20200510
@@ -7604,7 +7604,7 @@ Bihar,Samastipur,75,377,6,296,20200706
 Bihar,Samastipur,64,385,6,315,20200707
 Bihar,Samastipur,65,387,6,316,20200708
 Bihar,Samastipur,59,406,7,340,20200709
-Bihar,Samastipur,59,406,7,340,20200710
+Bihar,Samastipur,65,412,7,340,20200710
 Bihar,Saran,1,1,0,0,20200421
 Bihar,Saran,0,1,0,1,20200422
 Bihar,Saran,0,1,0,1,20200423
@@ -7685,7 +7685,7 @@ Bihar,Saran,74,272,5,193,20200706
 Bihar,Saran,88,286,5,193,20200707
 Bihar,Saran,76,286,5,205,20200708
 Bihar,Saran,91,301,5,205,20200709
-Bihar,Saran,91,301,5,205,20200710
+Bihar,Saran,93,303,5,205,20200710
 Bihar,Sheikhpura,1,1,0,0,20200428
 Bihar,Sheikhpura,1,1,0,0,20200429
 Bihar,Sheikhpura,1,1,0,0,20200430
@@ -7828,7 +7828,7 @@ Bihar,Sheohar,17,101,1,83,20200706
 Bihar,Sheohar,9,101,1,91,20200707
 Bihar,Sheohar,11,103,1,91,20200708
 Bihar,Sheohar,14,106,1,91,20200709
-Bihar,Sheohar,14,106,1,91,20200710
+Bihar,Sheohar,16,108,1,91,20200710
 Bihar,Sitamarhi,1,1,0,0,20200428
 Bihar,Sitamarhi,2,2,0,0,20200429
 Bihar,Sitamarhi,6,6,0,0,20200430
@@ -8047,7 +8047,7 @@ Bihar,Supaul,23,285,0,262,20200706
 Bihar,Supaul,41,306,0,265,20200707
 Bihar,Supaul,39,319,0,280,20200708
 Bihar,Supaul,38,326,0,288,20200709
-Bihar,Supaul,38,326,0,288,20200710
+Bihar,Supaul,57,345,0,288,20200710
 Bihar,Unknown,0,2,0,0,20200501
 Bihar,Unknown,0,2,1,0,20200502
 Bihar,Unknown,0,0,0,26,20200505
@@ -8214,7 +8214,7 @@ Bihar,West Champaran,109,295,2,184,20200706
 Bihar,West Champaran,109,298,2,187,20200707
 Bihar,West Champaran,101,299,2,196,20200708
 Bihar,West Champaran,117,322,3,202,20200709
-Bihar,West Champaran,117,322,3,202,20200710
+Bihar,West Champaran,129,334,3,202,20200710
 Chandigarh,Chandigarh,13,27,0,14,20200421
 Chandigarh,Chandigarh,13,27,0,14,20200422
 Chandigarh,Chandigarh,13,27,0,14,20200423
@@ -10182,7 +10182,7 @@ Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,104,193,0,86,202
 Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,103,200,0,94,20200707
 Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,105,203,0,95,20200708
 Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,103,206,0,100,20200709
-Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,103,206,0,100,20200710
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,102,211,0,106,20200710
 Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,0,0,20200513
 Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,0,0,20200514
 Dadra and Nagar Haveli and Daman and Diu,Daman,0,0,0,0,20200515
@@ -14630,7 +14630,7 @@ Haryana,Fatehabad,27,129,0,102,20200706
 Haryana,Fatehabad,23,129,0,106,20200707
 Haryana,Fatehabad,23,129,0,106,20200708
 Haryana,Fatehabad,23,129,0,106,20200709
-Haryana,Fatehabad,23,129,0,106,20200710
+Haryana,Fatehabad,24,130,0,106,20200710
 Haryana,Foreign Evacuees,21,21,0,0,20200524
 Haryana,Foreign Evacuees,21,21,0,0,20200525
 Haryana,Foreign Evacuees,21,21,0,0,20200526
@@ -14759,7 +14759,7 @@ Haryana,Gurugram,946,6058,101,5011,20200706
 Haryana,Gurugram,963,6183,102,5118,20200707
 Haryana,Gurugram,986,6316,102,5228,20200708
 Haryana,Gurugram,986,6467,103,5378,20200709
-Haryana,Gurugram,986,6467,103,5378,20200710
+Haryana,Gurugram,1076,6557,103,5378,20200710
 Haryana,Hisar,2,2,0,0,20200421
 Haryana,Hisar,1,2,0,1,20200422
 Haryana,Hisar,1,2,0,1,20200423
@@ -14840,7 +14840,7 @@ Haryana,Hisar,83,282,7,192,20200706
 Haryana,Hisar,91,292,7,194,20200707
 Haryana,Hisar,120,330,7,203,20200708
 Haryana,Hisar,120,330,7,203,20200709
-Haryana,Hisar,120,330,7,203,20200710
+Haryana,Hisar,148,358,7,203,20200710
 Haryana,Italians,0,14,0,14,20200424
 Haryana,Italians,0,14,0,14,20200425
 Haryana,Italians,0,14,0,14,20200426
@@ -14996,7 +14996,7 @@ Haryana,Jhajjar,101,349,4,244,20200706
 Haryana,Jhajjar,126,377,4,247,20200707
 Haryana,Jhajjar,132,404,4,268,20200708
 Haryana,Jhajjar,142,420,4,274,20200709
-Haryana,Jhajjar,142,420,4,274,20200710
+Haryana,Jhajjar,141,427,4,282,20200710
 Haryana,Jind,2,2,0,0,20200421
 Haryana,Jind,0,2,0,2,20200422
 Haryana,Jind,0,2,0,2,20200423
@@ -15077,7 +15077,7 @@ Haryana,Jind,24,119,4,91,20200706
 Haryana,Jind,38,133,4,91,20200707
 Haryana,Jind,38,135,4,93,20200708
 Haryana,Jind,45,142,4,93,20200709
-Haryana,Jind,45,142,4,93,20200710
+Haryana,Jind,50,150,4,96,20200710
 Haryana,Kaithal,2,2,0,0,20200421
 Haryana,Kaithal,2,2,0,0,20200422
 Haryana,Kaithal,2,2,0,0,20200423
@@ -15239,7 +15239,7 @@ Haryana,Karnal,164,421,8,249,20200706
 Haryana,Karnal,164,421,8,249,20200707
 Haryana,Karnal,143,434,8,283,20200708
 Haryana,Karnal,167,458,8,283,20200709
-Haryana,Karnal,167,458,8,283,20200710
+Haryana,Karnal,184,482,8,290,20200710
 Haryana,Kurukshetra,2,2,0,0,20200421
 Haryana,Kurukshetra,2,2,0,0,20200422
 Haryana,Kurukshetra,1,2,0,1,20200423
@@ -15385,7 +15385,7 @@ Haryana,Mahendragarh,96,297,1,200,20200706
 Haryana,Mahendragarh,78,322,1,243,20200707
 Haryana,Mahendragarh,91,337,1,245,20200708
 Haryana,Mahendragarh,91,337,1,245,20200709
-Haryana,Mahendragarh,91,337,1,245,20200710
+Haryana,Mahendragarh,109,357,1,247,20200710
 Haryana,Nuh,57,57,0,0,20200421
 Haryana,Nuh,29,57,0,28,20200422
 Haryana,Nuh,22,57,0,35,20200423
@@ -15547,7 +15547,7 @@ Haryana,Palwal,98,364,3,263,20200706
 Haryana,Palwal,103,379,3,273,20200707
 Haryana,Palwal,98,386,3,285,20200708
 Haryana,Palwal,103,410,4,303,20200709
-Haryana,Palwal,103,410,4,303,20200710
+Haryana,Palwal,90,425,4,331,20200710
 Haryana,Panchkula,18,18,0,0,20200421
 Haryana,Panchkula,15,18,0,3,20200422
 Haryana,Panchkula,15,18,0,3,20200423
@@ -15709,7 +15709,7 @@ Haryana,Panipat,92,246,7,147,20200706
 Haryana,Panipat,105,267,7,155,20200707
 Haryana,Panipat,123,288,7,158,20200708
 Haryana,Panipat,137,309,7,165,20200709
-Haryana,Panipat,137,309,7,165,20200710
+Haryana,Panipat,169,347,7,171,20200710
 Haryana,Rewari,3,3,0,0,20200509
 Haryana,Rewari,3,3,0,0,20200510
 Haryana,Rewari,3,3,0,0,20200511
@@ -15772,7 +15772,7 @@ Haryana,Rewari,240,386,5,141,20200706
 Haryana,Rewari,250,396,5,141,20200707
 Haryana,Rewari,284,477,5,188,20200708
 Haryana,Rewari,284,477,5,188,20200709
-Haryana,Rewari,284,477,5,188,20200710
+Haryana,Rewari,350,543,5,188,20200710
 Haryana,Rohtak,1,1,0,0,20200421
 Haryana,Rohtak,0,1,1,0,20200422
 Haryana,Rohtak,2,3,1,0,20200423
@@ -15853,7 +15853,7 @@ Haryana,Rohtak,215,760,12,533,20200706
 Haryana,Rohtak,227,772,12,533,20200707
 Haryana,Rohtak,284,829,12,533,20200708
 Haryana,Rohtak,330,875,12,533,20200709
-Haryana,Rohtak,330,875,12,533,20200710
+Haryana,Rohtak,354,899,12,533,20200710
 Haryana,Sirsa,4,4,0,0,20200421
 Haryana,Sirsa,0,4,0,4,20200422
 Haryana,Sirsa,0,4,0,4,20200423
@@ -16015,7 +16015,7 @@ Haryana,Sonipat,503,1548,20,1025,20200706
 Haryana,Sonipat,532,1577,20,1025,20200707
 Haryana,Sonipat,509,1643,20,1114,20200708
 Haryana,Sonipat,594,1728,20,1114,20200709
-Haryana,Sonipat,594,1728,20,1114,20200710
+Haryana,Sonipat,600,1778,20,1158,20200710
 Haryana,Unknown,-7,0,0,7,20200519
 Haryana,Unknown,-7,0,0,7,20200520
 Haryana,Unknown,21,21,0,0,20200523
@@ -16099,7 +16099,7 @@ Haryana,Yamunanagar,17,112,0,95,20200706
 Haryana,Yamunanagar,26,121,0,95,20200707
 Haryana,Yamunanagar,24,124,0,100,20200708
 Haryana,Yamunanagar,25,126,1,100,20200709
-Haryana,Yamunanagar,25,126,1,100,20200710
+Haryana,Yamunanagar,25,127,1,101,20200710
 Himachal Pradesh,Bilaspur,2,2,0,0,20200510
 Himachal Pradesh,Bilaspur,2,2,0,0,20200511
 Himachal Pradesh,Bilaspur,2,2,0,0,20200512
