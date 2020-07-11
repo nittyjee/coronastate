@@ -5487,7 +5487,7 @@ Bihar,Araria,24,141,1,116,20200707
 Bihar,Araria,30,149,2,117,20200708
 Bihar,Araria,34,157,2,121,20200709
 Bihar,Araria,37,161,2,122,20200710
-Bihar,Araria,42,166,2,122,20200711
+Bihar,Araria,40,166,2,124,20200711
 Bihar,Arwal,1,1,0,0,20200425
 Bihar,Arwal,4,4,0,0,20200426
 Bihar,Arwal,4,4,0,0,20200427
@@ -5644,7 +5644,7 @@ Bihar,Aurangabad,88,287,1,198,20200707
 Bihar,Aurangabad,95,294,1,198,20200708
 Bihar,Aurangabad,102,301,1,198,20200709
 Bihar,Aurangabad,83,302,1,218,20200710
-Bihar,Aurangabad,83,302,1,218,20200711
+Bihar,Aurangabad,37,302,1,264,20200711
 Bihar,Banka,1,1,0,0,20200422
 Bihar,Banka,1,1,0,0,20200423
 Bihar,Banka,2,2,0,0,20200424
@@ -5725,7 +5725,7 @@ Bihar,Banka,30,257,0,227,20200707
 Bihar,Banka,32,262,0,230,20200708
 Bihar,Banka,47,282,0,235,20200709
 Bihar,Banka,53,288,0,235,20200710
-Bihar,Banka,60,295,0,235,20200711
+Bihar,Banka,56,295,0,239,20200711
 Bihar,Begusarai,9,9,0,0,20200421
 Bihar,Begusarai,8,9,0,1,20200422
 Bihar,Begusarai,8,9,0,1,20200423
@@ -5889,7 +5889,7 @@ Bihar,Bhagalpur,186,643,5,452,20200707
 Bihar,Bhagalpur,215,693,6,472,20200708
 Bihar,Bhagalpur,247,756,7,502,20200709
 Bihar,Bhagalpur,294,840,8,538,20200710
-Bihar,Bhagalpur,369,915,8,538,20200711
+Bihar,Bhagalpur,351,915,10,554,20200711
 Bihar,Bhojpur,1,1,0,0,20200421
 Bihar,Bhojpur,1,1,0,0,20200422
 Bihar,Bhojpur,1,1,0,0,20200423
@@ -5971,7 +5971,7 @@ Bihar,Bhojpur,84,288,3,201,20200707
 Bihar,Bhojpur,79,290,3,208,20200708
 Bihar,Bhojpur,72,292,3,217,20200709
 Bihar,Bhojpur,66,292,3,223,20200710
-Bihar,Bhojpur,73,299,3,223,20200711
+Bihar,Bhojpur,46,299,4,249,20200711
 Bihar,Buxar,8,8,0,0,20200421
 Bihar,Buxar,8,8,0,0,20200422
 Bihar,Buxar,8,8,0,0,20200423
@@ -6053,7 +6053,7 @@ Bihar,Buxar,25,244,0,219,20200707
 Bihar,Buxar,34,258,0,224,20200708
 Bihar,Buxar,45,269,0,224,20200709
 Bihar,Buxar,50,274,0,224,20200710
-Bihar,Buxar,57,281,0,224,20200711
+Bihar,Buxar,51,281,0,230,20200711
 Bihar,Darbhanga,1,1,0,0,20200427
 Bihar,Darbhanga,1,1,0,0,20200428
 Bihar,Darbhanga,5,5,0,0,20200429
@@ -6129,7 +6129,7 @@ Bihar,Darbhanga,102,384,7,275,20200707
 Bihar,Darbhanga,93,392,7,292,20200708
 Bihar,Darbhanga,94,396,7,295,20200709
 Bihar,Darbhanga,96,401,7,298,20200710
-Bihar,Darbhanga,97,402,7,298,20200711
+Bihar,Darbhanga,68,402,8,326,20200711
 Bihar,East Champaran,1,1,0,0,20200422
 Bihar,East Champaran,1,1,0,0,20200423
 Bihar,East Champaran,1,1,0,0,20200424
@@ -6210,7 +6210,7 @@ Bihar,East Champaran,41,271,5,225,20200707
 Bihar,East Champaran,42,279,5,232,20200708
 Bihar,East Champaran,53,290,5,232,20200709
 Bihar,East Champaran,73,311,6,232,20200710
-Bihar,East Champaran,84,322,6,232,20200711
+Bihar,East Champaran,77,322,6,239,20200711
 Bihar,Gaya,5,5,0,0,20200421
 Bihar,Gaya,1,5,0,4,20200422
 Bihar,Gaya,1,5,0,4,20200423
@@ -6292,7 +6292,7 @@ Bihar,Gaya,109,306,3,194,20200707
 Bihar,Gaya,120,321,3,198,20200708
 Bihar,Gaya,130,331,3,198,20200709
 Bihar,Gaya,106,332,3,223,20200710
-Bihar,Gaya,144,370,3,223,20200711
+Bihar,Gaya,126,370,3,241,20200711
 Bihar,Gopalganj,3,3,0,0,20200421
 Bihar,Gopalganj,0,3,0,3,20200422
 Bihar,Gopalganj,0,3,0,3,20200423
@@ -6374,7 +6374,7 @@ Bihar,Gopalganj,64,318,0,254,20200707
 Bihar,Gopalganj,118,379,0,261,20200708
 Bihar,Gopalganj,133,396,0,263,20200709
 Bihar,Gopalganj,128,396,0,268,20200710
-Bihar,Gopalganj,151,419,0,268,20200711
+Bihar,Gopalganj,146,419,0,273,20200711
 Bihar,Jamui,1,1,0,0,20200513
 Bihar,Jamui,1,1,0,0,20200514
 Bihar,Jamui,3,3,0,0,20200515
@@ -6434,7 +6434,7 @@ Bihar,Jamui,29,110,1,80,20200707
 Bihar,Jamui,31,116,1,84,20200708
 Bihar,Jamui,32,117,1,84,20200709
 Bihar,Jamui,39,125,1,85,20200710
-Bihar,Jamui,78,164,1,85,20200711
+Bihar,Jamui,71,164,1,92,20200711
 Bihar,Jehanabad,1,1,0,0,20200426
 Bihar,Jehanabad,1,1,0,0,20200427
 Bihar,Jehanabad,4,4,0,0,20200428
@@ -6511,7 +6511,7 @@ Bihar,Jehanabad,39,287,3,245,20200707
 Bihar,Jehanabad,57,305,3,245,20200708
 Bihar,Jehanabad,56,305,3,246,20200709
 Bihar,Jehanabad,57,306,3,246,20200710
-Bihar,Jehanabad,64,313,3,246,20200711
+Bihar,Jehanabad,51,313,3,259,20200711
 Bihar,Kaimur,27,27,0,0,20200502
 Bihar,Kaimur,28,28,0,0,20200503
 Bihar,Kaimur,30,30,0,0,20200504
@@ -6662,7 +6662,7 @@ Bihar,Katihar,99,389,1,289,20200707
 Bihar,Katihar,98,389,1,290,20200708
 Bihar,Katihar,75,393,1,317,20200709
 Bihar,Katihar,59,393,1,333,20200710
-Bihar,Katihar,76,410,1,333,20200711
+Bihar,Katihar,42,410,1,367,20200711
 Bihar,Khagaria,4,4,0,0,20200508
 Bihar,Khagaria,5,5,0,0,20200509
 Bihar,Khagaria,6,6,0,0,20200510
@@ -6727,7 +6727,7 @@ Bihar,Khagaria,42,338,3,293,20200707
 Bihar,Khagaria,56,352,3,293,20200708
 Bihar,Khagaria,86,389,3,300,20200709
 Bihar,Khagaria,95,399,3,301,20200710
-Bihar,Khagaria,107,411,3,301,20200711
+Bihar,Khagaria,92,411,3,316,20200711
 Bihar,Kishanganj,1,1,0,0,20200507
 Bihar,Kishanganj,1,1,0,0,20200508
 Bihar,Kishanganj,1,1,0,0,20200509
@@ -6793,7 +6793,7 @@ Bihar,Kishanganj,49,213,2,162,20200707
 Bihar,Kishanganj,47,221,2,172,20200708
 Bihar,Kishanganj,55,229,2,172,20200709
 Bihar,Kishanganj,54,229,2,173,20200710
-Bihar,Kishanganj,54,229,2,173,20200711
+Bihar,Kishanganj,37,229,2,190,20200711
 Bihar,Lakhisarai,1,1,0,0,20200421
 Bihar,Lakhisarai,0,1,0,1,20200422
 Bihar,Lakhisarai,0,1,0,1,20200423
@@ -6954,7 +6954,7 @@ Bihar,Madhepura,41,225,1,183,20200707
 Bihar,Madhepura,54,238,1,183,20200708
 Bihar,Madhepura,54,238,1,183,20200709
 Bihar,Madhepura,43,247,1,203,20200710
-Bihar,Madhepura,54,258,1,203,20200711
+Bihar,Madhepura,50,258,1,207,20200711
 Bihar,Madhubani,5,5,0,0,20200427
 Bihar,Madhubani,5,5,0,0,20200428
 Bihar,Madhubani,5,5,0,0,20200429
@@ -7030,7 +7030,7 @@ Bihar,Madhubani,110,536,2,424,20200707
 Bihar,Madhubani,120,553,2,431,20200708
 Bihar,Madhubani,128,561,2,431,20200709
 Bihar,Madhubani,143,576,2,431,20200710
-Bihar,Madhubani,152,585,2,431,20200711
+Bihar,Madhubani,77,585,2,506,20200711
 Bihar,Munger,27,27,0,0,20200421
 Bihar,Munger,20,27,1,6,20200422
 Bihar,Munger,24,31,1,6,20200423
@@ -7176,7 +7176,7 @@ Bihar,Muzaffarpur,143,511,5,363,20200707
 Bihar,Muzaffarpur,158,528,5,365,20200708
 Bihar,Muzaffarpur,186,567,5,376,20200709
 Bihar,Muzaffarpur,216,601,5,380,20200710
-Bihar,Muzaffarpur,254,639,5,380,20200711
+Bihar,Muzaffarpur,203,639,5,431,20200711
 Bihar,Nalanda,28,28,0,0,20200421
 Bihar,Nalanda,27,29,0,2,20200422
 Bihar,Nalanda,29,31,0,2,20200423
@@ -7258,7 +7258,7 @@ Bihar,Nalanda,164,386,5,217,20200707
 Bihar,Nalanda,158,389,5,226,20200708
 Bihar,Nalanda,186,431,5,240,20200709
 Bihar,Nalanda,196,444,5,243,20200710
-Bihar,Nalanda,202,450,5,243,20200711
+Bihar,Nalanda,120,450,5,325,20200711
 Bihar,Nawada,3,3,0,0,20200421
 Bihar,Nawada,2,3,0,1,20200422
 Bihar,Nawada,2,3,0,1,20200423
@@ -7340,7 +7340,7 @@ Bihar,Nawada,81,371,3,287,20200707
 Bihar,Nawada,102,407,3,302,20200708
 Bihar,Nawada,103,414,3,308,20200709
 Bihar,Nawada,104,415,3,308,20200710
-Bihar,Nawada,173,484,3,308,20200711
+Bihar,Nawada,167,484,3,314,20200711
 Bihar,Patna,8,8,0,0,20200421
 Bihar,Patna,11,16,0,5,20200422
 Bihar,Patna,19,24,0,5,20200423
@@ -7422,7 +7422,7 @@ Bihar,Patna,477,1114,12,625,20200707
 Bihar,Patna,698,1351,12,641,20200708
 Bihar,Patna,830,1485,13,642,20200709
 Bihar,Patna,743,1558,13,802,20200710
-Bihar,Patna,876,1691,13,802,20200711
+Bihar,Patna,783,1691,14,894,20200711
 Bihar,Purnia,1,1,0,0,20200427
 Bihar,Purnia,1,1,0,0,20200428
 Bihar,Purnia,1,1,0,0,20200429
@@ -7498,7 +7498,7 @@ Bihar,Purnia,38,317,0,279,20200707
 Bihar,Purnia,60,339,0,279,20200708
 Bihar,Purnia,56,343,0,287,20200709
 Bihar,Purnia,58,345,0,287,20200710
-Bihar,Purnia,76,363,0,287,20200711
+Bihar,Purnia,44,363,0,319,20200711
 Bihar,Rohtas,1,1,0,0,20200421
 Bihar,Rohtas,1,1,0,0,20200422
 Bihar,Rohtas,7,7,0,0,20200423
@@ -7580,7 +7580,7 @@ Bihar,Rohtas,43,379,5,331,20200707
 Bihar,Rohtas,45,386,5,336,20200708
 Bihar,Rohtas,60,405,6,339,20200709
 Bihar,Rohtas,67,412,6,339,20200710
-Bihar,Rohtas,71,416,6,339,20200711
+Bihar,Rohtas,57,416,6,353,20200711
 Bihar,Saharsa,2,2,0,0,20200508
 Bihar,Saharsa,2,2,0,0,20200509
 Bihar,Saharsa,9,9,0,0,20200510
@@ -7645,7 +7645,7 @@ Bihar,Saharsa,89,271,0,182,20200707
 Bihar,Saharsa,90,276,0,186,20200708
 Bihar,Saharsa,90,276,0,186,20200709
 Bihar,Saharsa,89,276,0,187,20200710
-Bihar,Saharsa,109,296,0,187,20200711
+Bihar,Saharsa,48,296,1,247,20200711
 Bihar,Samastipur,1,1,0,0,20200504
 Bihar,Samastipur,1,1,0,0,20200505
 Bihar,Samastipur,1,1,0,0,20200506
@@ -7714,7 +7714,7 @@ Bihar,Samastipur,64,385,6,315,20200707
 Bihar,Samastipur,65,387,6,316,20200708
 Bihar,Samastipur,59,406,7,340,20200709
 Bihar,Samastipur,62,412,7,343,20200710
-Bihar,Samastipur,86,436,7,343,20200711
+Bihar,Samastipur,70,436,7,359,20200711
 Bihar,Saran,1,1,0,0,20200421
 Bihar,Saran,0,1,0,1,20200422
 Bihar,Saran,0,1,0,1,20200423
@@ -7796,7 +7796,7 @@ Bihar,Saran,88,286,5,193,20200707
 Bihar,Saran,76,286,5,205,20200708
 Bihar,Saran,91,301,5,205,20200709
 Bihar,Saran,69,303,5,229,20200710
-Bihar,Saran,96,330,5,229,20200711
+Bihar,Saran,89,330,5,236,20200711
 Bihar,Sheikhpura,1,1,0,0,20200428
 Bihar,Sheikhpura,1,1,0,0,20200429
 Bihar,Sheikhpura,1,1,0,0,20200430
@@ -8098,7 +8098,7 @@ Bihar,Siwan,103,509,2,404,20200707
 Bihar,Siwan,116,529,2,411,20200708
 Bihar,Siwan,126,547,5,416,20200709
 Bihar,Siwan,126,547,5,416,20200710
-Bihar,Siwan,142,563,5,416,20200711
+Bihar,Siwan,103,563,5,455,20200711
 Bihar,Supaul,1,1,0,0,20200508
 Bihar,Supaul,1,1,0,0,20200509
 Bihar,Supaul,1,1,0,0,20200510
@@ -8258,7 +8258,7 @@ Bihar,Vaishali,70,247,3,174,20200707
 Bihar,Vaishali,72,250,3,175,20200708
 Bihar,Vaishali,139,323,4,180,20200709
 Bihar,Vaishali,120,323,4,199,20200710
-Bihar,Vaishali,137,340,4,199,20200711
+Bihar,Vaishali,125,340,4,211,20200711
 Bihar,West Champaran,5,5,0,0,20200429
 Bihar,West Champaran,5,5,0,0,20200430
 Bihar,West Champaran,5,5,0,0,20200501
@@ -8332,7 +8332,7 @@ Bihar,West Champaran,109,298,2,187,20200707
 Bihar,West Champaran,101,299,2,196,20200708
 Bihar,West Champaran,117,322,3,202,20200709
 Bihar,West Champaran,107,334,3,224,20200710
-Bihar,West Champaran,107,334,3,224,20200711
+Bihar,West Champaran,100,334,4,230,20200711
 Chandigarh,Chandigarh,13,27,0,14,20200421
 Chandigarh,Chandigarh,13,27,0,14,20200422
 Chandigarh,Chandigarh,13,27,0,14,20200423
@@ -8414,7 +8414,7 @@ Chandigarh,Chandigarh,84,492,7,401,20200707
 Chandigarh,Chandigarh,98,507,7,402,20200708
 Chandigarh,Chandigarh,113,523,7,403,20200709
 Chandigarh,Chandigarh,121,536,7,408,20200710
-Chandigarh,Chandigarh,121,536,7,408,20200711
+Chandigarh,Chandigarh,128,549,8,413,20200711
 Chandigarh,Unknown,0,1,0,0,20200507
 Chandigarh,Unknown,2,2,0,0,20200614
 Chhattisgarh,Balod,0,0,0,0,20200513
@@ -23039,7 +23039,7 @@ Kerala,Alappuzha,217,411,1,192,20200707
 Kerala,Alappuzha,219,429,1,208,20200708
 Kerala,Alappuzha,234,451,1,215,20200709
 Kerala,Alappuzha,260,501,1,239,20200710
-Kerala,Alappuzha,258,501,1,241,20200711
+Kerala,Alappuzha,334,588,1,252,20200711
 Kerala,Ernakulam,3,24,1,20,20200421
 Kerala,Ernakulam,3,24,1,20,20200422
 Kerala,Ernakulam,3,24,1,20,20200423
@@ -23121,7 +23121,7 @@ Kerala,Ernakulam,193,362,2,166,20200707
 Kerala,Ernakulam,197,378,2,178,20200708
 Kerala,Ernakulam,194,390,2,193,20200709
 Kerala,Ernakulam,210,410,2,197,20200710
-Kerala,Ernakulam,213,410,2,194,20200711
+Kerala,Ernakulam,256,457,3,197,20200711
 Kerala,Idukki,0,10,0,10,20200421
 Kerala,Idukki,0,10,0,10,20200422
 Kerala,Idukki,4,14,0,10,20200423
@@ -23203,7 +23203,7 @@ Kerala,Idukki,59,134,0,75,20200707
 Kerala,Idukki,79,154,0,75,20200708
 Kerala,Idukki,91,174,0,83,20200709
 Kerala,Idukki,99,186,0,87,20200710
-Kerala,Idukki,99,186,0,87,20200711
+Kerala,Idukki,100,191,0,91,20200711
 Kerala,Kannur,54,102,0,48,20200421
 Kerala,Kannur,61,109,0,48,20200422
 Kerala,Kannur,60,109,0,49,20200423
@@ -23285,7 +23285,7 @@ Kerala,Kannur,269,619,5,345,20200707
 Kerala,Kannur,289,641,5,347,20200708
 Kerala,Kannur,282,649,5,362,20200709
 Kerala,Kannur,291,672,5,376,20200710
-Kerala,Kannur,291,672,5,376,20200711
+Kerala,Kannur,309,691,5,377,20200711
 Kerala,Kasaragod,26,172,0,146,20200421
 Kerala,Kasaragod,26,172,0,146,20200422
 Kerala,Kasaragod,20,172,0,152,20200423
@@ -23367,7 +23367,7 @@ Kerala,Kasaragod,133,535,0,402,20200707
 Kerala,Kasaragod,130,539,0,409,20200708
 Kerala,Kasaragod,128,550,0,422,20200709
 Kerala,Kasaragod,142,567,0,425,20200710
-Kerala,Kasaragod,142,567,0,425,20200711
+Kerala,Kasaragod,160,585,0,425,20200711
 Kerala,Kollam,6,10,0,4,20200421
 Kerala,Kollam,6,10,0,4,20200422
 Kerala,Kollam,7,11,0,4,20200423
@@ -23449,7 +23449,7 @@ Kerala,Kollam,180,427,2,245,20200707
 Kerala,Kollam,165,435,2,268,20200708
 Kerala,Kollam,165,445,2,278,20200709
 Kerala,Kollam,190,473,2,281,20200710
-Kerala,Kollam,190,473,2,281,20200711
+Kerala,Kollam,182,491,2,307,20200711
 Kerala,Kottayam,0,3,0,3,20200421
 Kerala,Kottayam,1,4,0,3,20200422
 Kerala,Kottayam,3,6,0,3,20200423
@@ -23531,7 +23531,7 @@ Kerala,Kottayam,112,271,1,158,20200707
 Kerala,Kottayam,129,288,1,158,20200708
 Kerala,Kottayam,128,295,1,166,20200709
 Kerala,Kottayam,125,302,1,176,20200710
-Kerala,Kottayam,123,302,1,178,20200711
+Kerala,Kottayam,132,317,1,184,20200711
 Kerala,Kozhikode,9,20,0,11,20200421
 Kerala,Kozhikode,9,22,0,13,20200422
 Kerala,Kozhikode,11,24,0,13,20200423
@@ -23613,7 +23613,7 @@ Kerala,Kozhikode,132,347,2,213,20200707
 Kerala,Kozhikode,142,362,2,218,20200708
 Kerala,Kozhikode,149,370,2,219,20200709
 Kerala,Kozhikode,161,382,2,219,20200710
-Kerala,Kozhikode,161,382,2,219,20200711
+Kerala,Kozhikode,174,399,2,223,20200711
 Kerala,Malappuram,7,21,0,14,20200421
 Kerala,Malappuram,8,22,0,14,20200422
 Kerala,Malappuram,7,22,0,15,20200423
@@ -23695,7 +23695,7 @@ Kerala,Malappuram,347,755,5,403,20200707
 Kerala,Malappuram,380,801,5,416,20200708
 Kerala,Malappuram,430,856,5,421,20200709
 Kerala,Malappuram,452,897,5,440,20200710
-Kerala,Malappuram,452,897,5,440,20200711
+Kerala,Malappuram,488,948,5,455,20200711
 Kerala,Other State,2,2,0,0,20200530
 Kerala,Other State,2,2,0,0,20200531
 Kerala,Other State,2,2,0,0,20200601
@@ -23820,7 +23820,7 @@ Kerala,Palakkad,186,673,1,485,20200707
 Kerala,Palakkad,202,698,1,494,20200708
 Kerala,Palakkad,234,748,1,512,20200709
 Kerala,Palakkad,254,776,1,520,20200710
-Kerala,Palakkad,253,776,1,521,20200711
+Kerala,Palakkad,294,824,1,528,20200711
 Kerala,Pathanamthitta,6,17,0,11,20200421
 Kerala,Pathanamthitta,6,17,0,11,20200422
 Kerala,Pathanamthitta,6,17,0,11,20200423
@@ -23902,7 +23902,7 @@ Kerala,Pathanamthitta,178,392,0,213,20200707
 Kerala,Pathanamthitta,181,399,0,217,20200708
 Kerala,Pathanamthitta,181,406,0,224,20200709
 Kerala,Pathanamthitta,213,438,0,224,20200710
-Kerala,Pathanamthitta,214,438,0,223,20200711
+Kerala,Pathanamthitta,225,492,0,266,20200711
 Kerala,Thiruvananthapuram,-1,14,1,14,20200421
 Kerala,Thiruvananthapuram,1,14,1,12,20200422
 Kerala,Thiruvananthapuram,2,15,1,12,20200423
@@ -23984,7 +23984,7 @@ Kerala,Thiruvananthapuram,158,345,5,182,20200707
 Kerala,Thiruvananthapuram,217,409,5,187,20200708
 Kerala,Thiruvananthapuram,303,504,5,196,20200709
 Kerala,Thiruvananthapuram,432,633,5,196,20200710
-Kerala,Thiruvananthapuram,433,633,5,195,20200711
+Kerala,Thiruvananthapuram,495,702,6,201,20200711
 Kerala,Thrissur,0,13,0,13,20200421
 Kerala,Thrissur,0,13,0,13,20200422
 Kerala,Thrissur,0,13,0,13,20200423
@@ -24066,7 +24066,7 @@ Kerala,Thrissur,202,505,3,300,20200707
 Kerala,Thrissur,216,530,3,311,20200708
 Kerala,Thrissur,214,557,3,340,20200709
 Kerala,Thrissur,212,574,3,359,20200710
-Kerala,Thrissur,212,574,3,359,20200711
+Kerala,Thrissur,224,603,3,376,20200711
 Kerala,Unknown,0,-3,0,-4,20200430
 Kerala,Unknown,1,1,0,0,20200524
 Kerala,Unknown,-1,0,1,0,20200528
@@ -24159,7 +24159,7 @@ Kerala,Wayanad,45,119,1,73,20200707
 Kerala,Wayanad,58,133,1,74,20200708
 Kerala,Wayanad,62,140,1,77,20200709
 Kerala,Wayanad,58,140,1,81,20200710
-Kerala,Wayanad,58,140,1,81,20200711
+Kerala,Wayanad,69,151,1,81,20200711
 Ladakh,Kargil,4,4,0,0,20200421
 Ladakh,Kargil,1,4,0,3,20200422
 Ladakh,Kargil,1,4,0,3,20200423
@@ -24241,7 +24241,7 @@ Ladakh,Kargil,65,714,0,649,20200707
 Ladakh,Kargil,61,714,0,653,20200708
 Ladakh,Kargil,46,714,0,668,20200709
 Ladakh,Kargil,44,714,0,670,20200710
-Ladakh,Kargil,51,721,0,677,20200711
+Ladakh,Kargil,44,721,0,677,20200711
 Ladakh,Leh,14,14,0,0,20200421
 Ladakh,Leh,3,14,0,11,20200422
 Ladakh,Leh,3,14,0,11,20200423
@@ -24468,7 +24468,7 @@ Madhya Pradesh,Agar Malwa,3,19,2,14,20200707
 Madhya Pradesh,Agar Malwa,3,19,2,14,20200708
 Madhya Pradesh,Agar Malwa,5,21,2,14,20200709
 Madhya Pradesh,Agar Malwa,7,23,2,14,20200710
-Madhya Pradesh,Agar Malwa,7,23,2,14,20200711
+Madhya Pradesh,Agar Malwa,9,25,2,14,20200711
 Madhya Pradesh,Alirajpur,1,1,0,0,20200421
 Madhya Pradesh,Alirajpur,3,3,0,0,20200422
 Madhya Pradesh,Alirajpur,3,3,0,0,20200423
@@ -24550,7 +24550,7 @@ Madhya Pradesh,Alirajpur,6,9,0,3,20200707
 Madhya Pradesh,Alirajpur,5,9,0,4,20200708
 Madhya Pradesh,Alirajpur,5,10,1,4,20200709
 Madhya Pradesh,Alirajpur,6,11,1,4,20200710
-Madhya Pradesh,Alirajpur,6,11,1,4,20200711
+Madhya Pradesh,Alirajpur,8,13,1,4,20200711
 Madhya Pradesh,Anuppur,2,2,0,0,20200501
 Madhya Pradesh,Anuppur,2,2,0,0,20200502
 Madhya Pradesh,Anuppur,2,2,0,0,20200503
@@ -24697,7 +24697,7 @@ Madhya Pradesh,Ashoknagar,12,55,1,42,20200707
 Madhya Pradesh,Ashoknagar,12,55,1,42,20200708
 Madhya Pradesh,Ashoknagar,12,55,1,42,20200709
 Madhya Pradesh,Ashoknagar,15,58,1,42,20200710
-Madhya Pradesh,Ashoknagar,15,58,1,42,20200711
+Madhya Pradesh,Ashoknagar,17,60,1,42,20200711
 Madhya Pradesh,Balaghat,0,0,0,0,20200513
 Madhya Pradesh,Balaghat,0,0,0,0,20200514
 Madhya Pradesh,Balaghat,0,0,0,0,20200515
@@ -24757,7 +24757,7 @@ Madhya Pradesh,Balaghat,21,42,0,21,20200707
 Madhya Pradesh,Balaghat,17,42,0,25,20200708
 Madhya Pradesh,Balaghat,20,46,0,26,20200709
 Madhya Pradesh,Balaghat,18,47,0,29,20200710
-Madhya Pradesh,Balaghat,18,47,0,29,20200711
+Madhya Pradesh,Balaghat,19,48,0,29,20200711
 Madhya Pradesh,Barwani,24,24,0,0,20200421
 Madhya Pradesh,Barwani,24,24,0,0,20200422
 Madhya Pradesh,Barwani,24,24,0,0,20200423
@@ -24839,7 +24839,7 @@ Madhya Pradesh,Barwani,35,150,4,111,20200707
 Madhya Pradesh,Barwani,37,153,4,112,20200708
 Madhya Pradesh,Barwani,35,153,4,114,20200709
 Madhya Pradesh,Barwani,38,156,4,114,20200710
-Madhya Pradesh,Barwani,38,156,4,114,20200711
+Madhya Pradesh,Barwani,49,167,4,114,20200711
 Madhya Pradesh,Betul,1,1,0,0,20200421
 Madhya Pradesh,Betul,1,1,0,0,20200422
 Madhya Pradesh,Betul,1,1,0,0,20200423
@@ -24921,7 +24921,7 @@ Madhya Pradesh,Betul,30,83,0,53,20200707
 Madhya Pradesh,Betul,34,87,0,53,20200708
 Madhya Pradesh,Betul,35,91,0,56,20200709
 Madhya Pradesh,Betul,37,97,0,60,20200710
-Madhya Pradesh,Betul,37,97,0,60,20200711
+Madhya Pradesh,Betul,34,100,0,66,20200711
 Madhya Pradesh,Bhind,1,1,0,0,20200509
 Madhya Pradesh,Bhind,2,2,0,0,20200510
 Madhya Pradesh,Bhind,4,4,0,0,20200511
@@ -24985,7 +24985,7 @@ Madhya Pradesh,Bhind,98,305,0,207,20200707
 Madhya Pradesh,Bhind,89,313,0,224,20200708
 Madhya Pradesh,Bhind,70,316,0,246,20200709
 Madhya Pradesh,Bhind,66,322,0,256,20200710
-Madhya Pradesh,Bhind,66,322,0,256,20200711
+Madhya Pradesh,Bhind,76,338,0,262,20200711
 Madhya Pradesh,Bhopal,243,285,7,35,20200421
 Madhya Pradesh,Bhopal,261,303,7,35,20200422
 Madhya Pradesh,Bhopal,243,323,7,73,20200423
@@ -25067,7 +25067,7 @@ Madhya Pradesh,Bhopal,559,3155,113,2483,20200707
 Madhya Pradesh,Bhopal,596,3225,115,2514,20200708
 Madhya Pradesh,Bhopal,621,3278,116,2541,20200709
 Madhya Pradesh,Bhopal,642,3335,116,2577,20200710
-Madhya Pradesh,Bhopal,642,3335,116,2577,20200711
+Madhya Pradesh,Bhopal,680,3407,118,2609,20200711
 Madhya Pradesh,Burhanpur,1,1,0,0,20200422
 Madhya Pradesh,Burhanpur,1,1,0,0,20200428
 Madhya Pradesh,Burhanpur,1,1,0,0,20200429
@@ -25203,7 +25203,7 @@ Madhya Pradesh,Chhatarpur,5,60,0,55,20200707
 Madhya Pradesh,Chhatarpur,5,60,0,55,20200708
 Madhya Pradesh,Chhatarpur,6,61,0,55,20200709
 Madhya Pradesh,Chhatarpur,6,63,0,57,20200710
-Madhya Pradesh,Chhatarpur,6,63,0,57,20200711
+Madhya Pradesh,Chhatarpur,8,66,0,58,20200711
 Madhya Pradesh,Chhindwara,3,4,1,0,20200421
 Madhya Pradesh,Chhindwara,3,4,1,0,20200422
 Madhya Pradesh,Chhindwara,3,4,1,0,20200423
@@ -25285,7 +25285,7 @@ Madhya Pradesh,Chhindwara,28,67,2,37,20200707
 Madhya Pradesh,Chhindwara,29,69,2,38,20200708
 Madhya Pradesh,Chhindwara,17,70,2,51,20200709
 Madhya Pradesh,Chhindwara,17,72,2,53,20200710
-Madhya Pradesh,Chhindwara,17,72,2,53,20200711
+Madhya Pradesh,Chhindwara,13,72,2,57,20200711
 Madhya Pradesh,Damoh,0,0,0,0,20200513
 Madhya Pradesh,Damoh,0,0,0,0,20200514
 Madhya Pradesh,Damoh,1,1,0,0,20200515
@@ -25345,7 +25345,7 @@ Madhya Pradesh,Damoh,21,53,0,32,20200707
 Madhya Pradesh,Damoh,19,53,0,34,20200708
 Madhya Pradesh,Damoh,14,54,0,40,20200709
 Madhya Pradesh,Damoh,14,54,0,40,20200710
-Madhya Pradesh,Damoh,14,54,0,40,20200711
+Madhya Pradesh,Damoh,15,55,0,40,20200711
 Madhya Pradesh,Datia,0,0,0,0,20200513
 Madhya Pradesh,Datia,0,0,0,0,20200514
 Madhya Pradesh,Datia,3,3,0,0,20200515
@@ -25405,7 +25405,7 @@ Madhya Pradesh,Datia,21,47,1,25,20200707
 Madhya Pradesh,Datia,10,53,1,42,20200708
 Madhya Pradesh,Datia,10,53,1,42,20200709
 Madhya Pradesh,Datia,15,60,1,44,20200710
-Madhya Pradesh,Datia,15,60,1,44,20200711
+Madhya Pradesh,Datia,18,63,1,44,20200711
 Madhya Pradesh,Dewas,14,20,6,0,20200421
 Madhya Pradesh,Dewas,14,20,6,0,20200422
 Madhya Pradesh,Dewas,15,21,6,0,20200423
@@ -25487,7 +25487,7 @@ Madhya Pradesh,Dewas,39,241,10,192,20200707
 Madhya Pradesh,Dewas,37,242,10,195,20200708
 Madhya Pradesh,Dewas,34,244,10,200,20200709
 Madhya Pradesh,Dewas,29,246,10,207,20200710
-Madhya Pradesh,Dewas,29,246,10,207,20200711
+Madhya Pradesh,Dewas,40,257,10,207,20200711
 Madhya Pradesh,Dhar,40,41,1,0,20200421
 Madhya Pradesh,Dhar,35,36,1,0,20200422
 Madhya Pradesh,Dhar,35,36,1,0,20200423
@@ -25569,7 +25569,7 @@ Madhya Pradesh,Dhar,13,186,8,165,20200707
 Madhya Pradesh,Dhar,16,189,8,165,20200708
 Madhya Pradesh,Dhar,16,189,8,165,20200709
 Madhya Pradesh,Dhar,17,191,8,166,20200710
-Madhya Pradesh,Dhar,17,191,8,166,20200711
+Madhya Pradesh,Dhar,15,193,8,170,20200711
 Madhya Pradesh,Dindori,1,1,0,0,20200422
 Madhya Pradesh,Dindori,1,1,0,0,20200423
 Madhya Pradesh,Dindori,1,1,0,0,20200426
@@ -25713,7 +25713,7 @@ Madhya Pradesh,Guna,11,25,2,12,20200707
 Madhya Pradesh,Guna,13,28,2,13,20200708
 Madhya Pradesh,Guna,13,28,2,13,20200709
 Madhya Pradesh,Guna,14,29,2,13,20200710
-Madhya Pradesh,Guna,14,29,2,13,20200711
+Madhya Pradesh,Guna,11,29,2,16,20200711
 Madhya Pradesh,Gwalior,1,3,0,2,20200421
 Madhya Pradesh,Gwalior,1,3,0,2,20200422
 Madhya Pradesh,Gwalior,2,4,0,2,20200423
@@ -25795,7 +25795,7 @@ Madhya Pradesh,Gwalior,298,644,3,343,20200707
 Madhya Pradesh,Gwalior,357,712,3,352,20200708
 Madhya Pradesh,Gwalior,380,770,3,387,20200709
 Madhya Pradesh,Gwalior,415,830,3,412,20200710
-Madhya Pradesh,Gwalior,415,830,3,412,20200711
+Madhya Pradesh,Gwalior,468,888,3,417,20200711
 Madhya Pradesh,Harda,1,1,0,0,20200427
 Madhya Pradesh,Harda,1,1,0,0,20200428
 Madhya Pradesh,Harda,1,1,0,0,20200429
@@ -25871,7 +25871,7 @@ Madhya Pradesh,Harda,25,56,3,28,20200707
 Madhya Pradesh,Harda,27,58,3,28,20200708
 Madhya Pradesh,Harda,29,60,3,28,20200709
 Madhya Pradesh,Harda,29,62,3,30,20200710
-Madhya Pradesh,Harda,29,62,3,30,20200711
+Madhya Pradesh,Harda,31,64,3,30,20200711
 Madhya Pradesh,Hoshangabad,25,25,0,0,20200421
 Madhya Pradesh,Hoshangabad,24,25,0,1,20200422
 Madhya Pradesh,Hoshangabad,25,26,0,1,20200423
@@ -25953,7 +25953,7 @@ Madhya Pradesh,Hoshangabad,2,44,4,38,20200707
 Madhya Pradesh,Hoshangabad,2,44,4,38,20200708
 Madhya Pradesh,Hoshangabad,3,45,4,38,20200709
 Madhya Pradesh,Hoshangabad,5,48,4,39,20200710
-Madhya Pradesh,Hoshangabad,5,48,4,39,20200711
+Madhya Pradesh,Hoshangabad,7,50,4,39,20200711
 Madhya Pradesh,Indore,792,915,52,71,20200421
 Madhya Pradesh,Indore,797,923,52,74,20200422
 Madhya Pradesh,Indore,810,945,53,82,20200423
@@ -26035,7 +26035,7 @@ Madhya Pradesh,Indore,867,4954,249,3838,20200707
 Madhya Pradesh,Indore,875,4998,252,3871,20200708
 Madhya Pradesh,Indore,885,5043,255,3903,20200709
 Madhya Pradesh,Indore,883,5087,258,3946,20200710
-Madhya Pradesh,Indore,883,5087,258,3946,20200711
+Madhya Pradesh,Indore,959,5176,261,3956,20200711
 Madhya Pradesh,Jabalpur,19,26,1,6,20200421
 Madhya Pradesh,Jabalpur,19,26,1,6,20200422
 Madhya Pradesh,Jabalpur,23,30,1,6,20200423
@@ -26117,7 +26117,7 @@ Madhya Pradesh,Jabalpur,76,451,14,361,20200707
 Madhya Pradesh,Jabalpur,80,462,14,368,20200708
 Madhya Pradesh,Jabalpur,95,484,14,375,20200709
 Madhya Pradesh,Jabalpur,104,496,14,378,20200710
-Madhya Pradesh,Jabalpur,104,496,14,378,20200711
+Madhya Pradesh,Jabalpur,115,518,14,389,20200711
 Madhya Pradesh,Jhabua,1,1,0,0,20200507
 Madhya Pradesh,Jhabua,1,1,0,0,20200508
 Madhya Pradesh,Jhabua,1,1,0,0,20200509
@@ -26183,7 +26183,7 @@ Madhya Pradesh,Jhabua,10,26,1,15,20200707
 Madhya Pradesh,Jhabua,12,28,1,15,20200708
 Madhya Pradesh,Jhabua,13,29,1,15,20200709
 Madhya Pradesh,Jhabua,23,39,1,15,20200710
-Madhya Pradesh,Jhabua,23,39,1,15,20200711
+Madhya Pradesh,Jhabua,26,42,1,15,20200711
 Madhya Pradesh,Katni,1,1,0,0,20200502
 Madhya Pradesh,Katni,0,0,0,0,20200513
 Madhya Pradesh,Katni,0,0,0,0,20200514
@@ -26244,7 +26244,7 @@ Madhya Pradesh,Katni,11,27,3,13,20200707
 Madhya Pradesh,Katni,8,27,3,16,20200708
 Madhya Pradesh,Katni,8,27,3,16,20200709
 Madhya Pradesh,Katni,10,29,3,16,20200710
-Madhya Pradesh,Katni,10,29,3,16,20200711
+Madhya Pradesh,Katni,11,30,3,16,20200711
 Madhya Pradesh,Khandwa,24,32,0,8,20200421
 Madhya Pradesh,Khandwa,24,32,0,8,20200422
 Madhya Pradesh,Khandwa,27,35,0,8,20200423
@@ -26326,7 +26326,7 @@ Madhya Pradesh,Khandwa,64,358,17,277,20200707
 Madhya Pradesh,Khandwa,67,367,17,283,20200708
 Madhya Pradesh,Khandwa,71,371,17,283,20200709
 Madhya Pradesh,Khandwa,72,379,17,290,20200710
-Madhya Pradesh,Khandwa,72,379,17,290,20200711
+Madhya Pradesh,Khandwa,80,393,17,296,20200711
 Madhya Pradesh,Khargone,35,41,3,3,20200421
 Madhya Pradesh,Khargone,35,41,3,3,20200422
 Madhya Pradesh,Khargone,39,51,5,7,20200423
@@ -26408,7 +26408,7 @@ Madhya Pradesh,Khargone,46,328,15,267,20200707
 Madhya Pradesh,Khargone,46,333,15,272,20200708
 Madhya Pradesh,Khargone,49,336,15,272,20200709
 Madhya Pradesh,Khargone,52,344,15,277,20200710
-Madhya Pradesh,Khargone,52,344,15,277,20200711
+Madhya Pradesh,Khargone,54,356,15,287,20200711
 Madhya Pradesh,Mandla,1,1,0,0,20200511
 Madhya Pradesh,Mandla,1,1,0,0,20200512
 Madhya Pradesh,Mandla,1,1,0,0,20200513
@@ -26470,7 +26470,7 @@ Madhya Pradesh,Mandla,0,6,1,5,20200707
 Madhya Pradesh,Mandla,0,6,1,5,20200708
 Madhya Pradesh,Mandla,0,6,1,5,20200709
 Madhya Pradesh,Mandla,0,6,1,5,20200710
-Madhya Pradesh,Mandla,0,6,1,5,20200711
+Madhya Pradesh,Mandla,1,7,1,5,20200711
 Madhya Pradesh,Mandsaur,7,8,1,0,20200421
 Madhya Pradesh,Mandsaur,7,8,1,0,20200422
 Madhya Pradesh,Mandsaur,7,8,1,0,20200423
@@ -26552,7 +26552,7 @@ Madhya Pradesh,Mandsaur,34,143,9,100,20200707
 Madhya Pradesh,Mandsaur,33,145,9,103,20200708
 Madhya Pradesh,Mandsaur,44,159,9,106,20200709
 Madhya Pradesh,Mandsaur,41,164,9,114,20200710
-Madhya Pradesh,Mandsaur,41,164,9,114,20200711
+Madhya Pradesh,Mandsaur,45,176,9,122,20200711
 Madhya Pradesh,Morena,2,16,0,14,20200421
 Madhya Pradesh,Morena,2,16,0,14,20200422
 Madhya Pradesh,Morena,2,16,0,14,20200423
@@ -26634,7 +26634,7 @@ Madhya Pradesh,Morena,422,718,5,291,20200707
 Madhya Pradesh,Morena,496,833,5,332,20200708
 Madhya Pradesh,Morena,449,841,5,387,20200709
 Madhya Pradesh,Morena,411,844,5,428,20200710
-Madhya Pradesh,Morena,411,844,5,428,20200711
+Madhya Pradesh,Morena,464,945,5,476,20200711
 Madhya Pradesh,Narsinghpur,0,0,0,0,20200513
 Madhya Pradesh,Narsinghpur,0,0,0,0,20200514
 Madhya Pradesh,Narsinghpur,0,0,0,0,20200515
@@ -26761,7 +26761,7 @@ Madhya Pradesh,Neemuch,31,469,7,431,20200707
 Madhya Pradesh,Neemuch,27,470,8,435,20200708
 Madhya Pradesh,Neemuch,32,477,8,437,20200709
 Madhya Pradesh,Neemuch,34,480,8,438,20200710
-Madhya Pradesh,Neemuch,34,480,8,438,20200711
+Madhya Pradesh,Neemuch,41,487,8,438,20200711
 Madhya Pradesh,Niwari,1,1,0,0,20200503
 Madhya Pradesh,Niwari,0,0,0,0,20200513
 Madhya Pradesh,Niwari,0,0,0,0,20200514
@@ -26967,7 +26967,7 @@ Madhya Pradesh,Panna,21,55,0,34,20200707
 Madhya Pradesh,Panna,23,57,0,34,20200708
 Madhya Pradesh,Panna,23,57,0,34,20200709
 Madhya Pradesh,Panna,23,57,0,34,20200710
-Madhya Pradesh,Panna,23,57,0,34,20200711
+Madhya Pradesh,Panna,21,58,0,37,20200711
 Madhya Pradesh,Raisen,23,24,0,1,20200421
 Madhya Pradesh,Raisen,25,26,0,1,20200422
 Madhya Pradesh,Raisen,25,26,0,1,20200423
@@ -27049,7 +27049,7 @@ Madhya Pradesh,Raisen,3,113,5,105,20200707
 Madhya Pradesh,Raisen,3,113,5,105,20200708
 Madhya Pradesh,Raisen,3,113,5,105,20200709
 Madhya Pradesh,Raisen,4,114,5,105,20200710
-Madhya Pradesh,Raisen,4,114,5,105,20200711
+Madhya Pradesh,Raisen,2,114,5,107,20200711
 Madhya Pradesh,Rajgarh,1,1,0,0,20200421
 Madhya Pradesh,Rajgarh,1,1,0,0,20200422
 Madhya Pradesh,Rajgarh,0,0,0,0,20200513
@@ -27111,7 +27111,7 @@ Madhya Pradesh,Rajgarh,30,106,6,70,20200707
 Madhya Pradesh,Rajgarh,30,106,6,70,20200708
 Madhya Pradesh,Rajgarh,31,112,6,75,20200709
 Madhya Pradesh,Rajgarh,22,113,6,85,20200710
-Madhya Pradesh,Rajgarh,22,113,6,85,20200711
+Madhya Pradesh,Rajgarh,22,114,7,85,20200711
 Madhya Pradesh,Ratlam,9,9,0,0,20200421
 Madhya Pradesh,Ratlam,12,12,0,0,20200422
 Madhya Pradesh,Ratlam,12,12,0,0,20200423
@@ -27193,7 +27193,7 @@ Madhya Pradesh,Ratlam,33,190,6,151,20200707
 Madhya Pradesh,Ratlam,34,195,6,155,20200708
 Madhya Pradesh,Ratlam,35,199,6,158,20200709
 Madhya Pradesh,Ratlam,40,205,6,159,20200710
-Madhya Pradesh,Ratlam,40,205,6,159,20200711
+Madhya Pradesh,Ratlam,45,215,6,164,20200711
 Madhya Pradesh,Rewa,2,2,0,0,20200428
 Madhya Pradesh,Rewa,2,2,0,0,20200429
 Madhya Pradesh,Rewa,2,2,0,0,20200430
@@ -27268,7 +27268,7 @@ Madhya Pradesh,Rewa,18,68,1,49,20200707
 Madhya Pradesh,Rewa,14,68,1,53,20200708
 Madhya Pradesh,Rewa,16,70,1,53,20200709
 Madhya Pradesh,Rewa,15,71,1,55,20200710
-Madhya Pradesh,Rewa,15,71,1,55,20200711
+Madhya Pradesh,Rewa,14,71,1,56,20200711
 Madhya Pradesh,Sagar,2,2,0,0,20200421
 Madhya Pradesh,Sagar,2,2,0,0,20200422
 Madhya Pradesh,Sagar,5,5,0,0,20200423
@@ -27350,7 +27350,7 @@ Madhya Pradesh,Sagar,87,423,22,314,20200707
 Madhya Pradesh,Sagar,74,423,22,327,20200708
 Madhya Pradesh,Sagar,72,430,22,336,20200709
 Madhya Pradesh,Sagar,64,436,22,350,20200710
-Madhya Pradesh,Sagar,64,436,22,350,20200711
+Madhya Pradesh,Sagar,50,441,22,369,20200711
 Madhya Pradesh,Satna,2,2,0,0,20200421
 Madhya Pradesh,Satna,1,1,0,0,20200504
 Madhya Pradesh,Satna,0,1,1,0,20200505
@@ -27485,7 +27485,7 @@ Madhya Pradesh,Sehore,16,29,2,11,20200707
 Madhya Pradesh,Sehore,22,35,2,11,20200708
 Madhya Pradesh,Sehore,23,37,2,12,20200709
 Madhya Pradesh,Sehore,23,37,2,12,20200710
-Madhya Pradesh,Sehore,23,37,2,12,20200711
+Madhya Pradesh,Sehore,26,40,2,12,20200711
 Madhya Pradesh,Seoni,1,1,0,0,20200511
 Madhya Pradesh,Seoni,1,1,0,0,20200512
 Madhya Pradesh,Seoni,1,1,0,0,20200513
@@ -27547,7 +27547,7 @@ Madhya Pradesh,Seoni,4,17,0,13,20200707
 Madhya Pradesh,Seoni,4,17,0,13,20200708
 Madhya Pradesh,Seoni,5,18,0,13,20200709
 Madhya Pradesh,Seoni,6,19,0,13,20200710
-Madhya Pradesh,Seoni,6,19,0,13,20200711
+Madhya Pradesh,Seoni,7,20,0,13,20200711
 Madhya Pradesh,Shahdol,2,2,0,0,20200428
 Madhya Pradesh,Shahdol,2,2,0,0,20200429
 Madhya Pradesh,Shahdol,3,3,0,0,20200430
@@ -27704,7 +27704,7 @@ Madhya Pradesh,Shajapur,17,71,3,51,20200707
 Madhya Pradesh,Shajapur,18,75,3,54,20200708
 Madhya Pradesh,Shajapur,26,83,3,54,20200709
 Madhya Pradesh,Shajapur,36,94,3,55,20200710
-Madhya Pradesh,Shajapur,36,94,3,55,20200711
+Madhya Pradesh,Shajapur,40,102,3,59,20200711
 Madhya Pradesh,Sheopur,4,4,0,0,20200421
 Madhya Pradesh,Sheopur,4,4,0,0,20200422
 Madhya Pradesh,Sheopur,4,4,0,0,20200423
@@ -27786,7 +27786,7 @@ Madhya Pradesh,Sheopur,22,92,2,68,20200707
 Madhya Pradesh,Sheopur,23,93,2,68,20200708
 Madhya Pradesh,Sheopur,24,96,2,70,20200709
 Madhya Pradesh,Sheopur,24,99,2,73,20200710
-Madhya Pradesh,Sheopur,24,99,2,73,20200711
+Madhya Pradesh,Sheopur,24,101,2,75,20200711
 Madhya Pradesh,Shivpuri,0,2,0,2,20200421
 Madhya Pradesh,Shivpuri,0,2,0,2,20200422
 Madhya Pradesh,Shivpuri,0,2,0,2,20200423
@@ -27868,7 +27868,7 @@ Madhya Pradesh,Shivpuri,50,83,0,33,20200707
 Madhya Pradesh,Shivpuri,62,98,0,36,20200708
 Madhya Pradesh,Shivpuri,67,103,0,36,20200709
 Madhya Pradesh,Shivpuri,77,113,0,36,20200710
-Madhya Pradesh,Shivpuri,77,113,0,36,20200711
+Madhya Pradesh,Shivpuri,110,146,0,36,20200711
 Madhya Pradesh,Sidhi,1,1,0,0,20200512
 Madhya Pradesh,Sidhi,1,1,0,0,20200513
 Madhya Pradesh,Sidhi,4,4,0,0,20200514
@@ -27929,7 +27929,7 @@ Madhya Pradesh,Sidhi,8,27,1,18,20200707
 Madhya Pradesh,Sidhi,8,27,1,18,20200708
 Madhya Pradesh,Sidhi,9,28,1,18,20200709
 Madhya Pradesh,Sidhi,9,28,1,18,20200710
-Madhya Pradesh,Sidhi,9,28,1,18,20200711
+Madhya Pradesh,Sidhi,8,28,1,19,20200711
 Madhya Pradesh,Singrauli,0,0,0,0,20200513
 Madhya Pradesh,Singrauli,0,0,0,0,20200514
 Madhya Pradesh,Singrauli,0,0,0,0,20200515
@@ -27989,7 +27989,7 @@ Madhya Pradesh,Singrauli,7,21,0,14,20200707
 Madhya Pradesh,Singrauli,13,27,0,14,20200708
 Madhya Pradesh,Singrauli,13,27,0,14,20200709
 Madhya Pradesh,Singrauli,14,28,0,14,20200710
-Madhya Pradesh,Singrauli,14,28,0,14,20200711
+Madhya Pradesh,Singrauli,15,29,0,14,20200711
 Madhya Pradesh,Tikamgarh,1,1,0,0,20200421
 Madhya Pradesh,Tikamgarh,1,1,0,0,20200422
 Madhya Pradesh,Tikamgarh,1,1,0,0,20200423
@@ -28071,7 +28071,7 @@ Madhya Pradesh,Tikamgarh,45,74,3,26,20200707
 Madhya Pradesh,Tikamgarh,49,80,4,27,20200708
 Madhya Pradesh,Tikamgarh,65,97,4,28,20200709
 Madhya Pradesh,Tikamgarh,57,101,5,39,20200710
-Madhya Pradesh,Tikamgarh,57,101,5,39,20200711
+Madhya Pradesh,Tikamgarh,61,107,5,41,20200711
 Madhya Pradesh,Ujjain,21,33,7,5,20200421
 Madhya Pradesh,Ujjain,29,41,7,5,20200422
 Madhya Pradesh,Ujjain,64,76,7,5,20200423
@@ -28153,7 +28153,7 @@ Madhya Pradesh,Ujjain,18,869,71,780,20200707
 Madhya Pradesh,Ujjain,20,871,71,780,20200708
 Madhya Pradesh,Ujjain,17,872,71,784,20200709
 Madhya Pradesh,Ujjain,21,876,71,784,20200710
-Madhya Pradesh,Ujjain,21,876,71,784,20200711
+Madhya Pradesh,Ujjain,24,880,71,785,20200711
 Madhya Pradesh,Umaria,0,0,0,0,20200513
 Madhya Pradesh,Umaria,0,0,0,0,20200514
 Madhya Pradesh,Umaria,0,0,0,0,20200515
@@ -28213,7 +28213,7 @@ Madhya Pradesh,Umaria,1,11,1,9,20200707
 Madhya Pradesh,Umaria,1,11,1,9,20200708
 Madhya Pradesh,Umaria,1,11,1,9,20200709
 Madhya Pradesh,Umaria,1,11,1,9,20200710
-Madhya Pradesh,Umaria,1,11,1,9,20200711
+Madhya Pradesh,Umaria,14,24,1,9,20200711
 Madhya Pradesh,Unknown,1,1,0,0,20200421
 Madhya Pradesh,Unknown,0,0,9,58,20200504
 Madhya Pradesh,Unknown,1,1,0,0,20200525
@@ -28303,7 +28303,7 @@ Madhya Pradesh,Vidisha,25,67,0,42,20200707
 Madhya Pradesh,Vidisha,26,68,0,42,20200708
 Madhya Pradesh,Vidisha,31,73,0,42,20200709
 Madhya Pradesh,Vidisha,33,76,0,43,20200710
-Madhya Pradesh,Vidisha,33,76,0,43,20200711
+Madhya Pradesh,Vidisha,32,79,0,47,20200711
 Maharashtra,Ahmadnagar,29,29,0,0,20200421
 Maharashtra,Ahmadnagar,27,29,2,0,20200422
 Maharashtra,Ahmadnagar,16,29,2,11,20200423
@@ -42044,7 +42044,7 @@ Tamil Nadu,Airport Quarantine,422,824,1,401,20200707
 Tamil Nadu,Airport Quarantine,445,855,1,409,20200708
 Tamil Nadu,Airport Quarantine,497,913,1,415,20200709
 Tamil Nadu,Airport Quarantine,510,936,1,425,20200710
-Tamil Nadu,Airport Quarantine,510,936,1,425,20200711
+Tamil Nadu,Airport Quarantine,530,967,1,436,20200711
 Tamil Nadu,Ariyalur,3,3,0,0,20200421
 Tamil Nadu,Ariyalur,5,5,0,0,20200422
 Tamil Nadu,Ariyalur,5,5,0,0,20200423
@@ -42126,7 +42126,7 @@ Tamil Nadu,Ariyalur,23,475,0,452,20200707
 Tamil Nadu,Ariyalur,30,487,0,457,20200708
 Tamil Nadu,Ariyalur,34,492,0,458,20200709
 Tamil Nadu,Ariyalur,38,497,0,459,20200710
-Tamil Nadu,Ariyalur,38,497,0,459,20200711
+Tamil Nadu,Ariyalur,49,509,1,459,20200711
 Tamil Nadu,Chengalpattu,53,53,0,0,20200421
 Tamil Nadu,Chengalpattu,53,53,0,0,20200422
 Tamil Nadu,Chengalpattu,54,54,0,0,20200423
@@ -42208,7 +42208,7 @@ Tamil Nadu,Chengalpattu,2852,6942,136,3954,20200707
 Tamil Nadu,Chengalpattu,3032,7215,138,4045,20200708
 Tamil Nadu,Chengalpattu,3042,7386,145,4199,20200709
 Tamil Nadu,Chengalpattu,3128,7635,152,4355,20200710
-Tamil Nadu,Chengalpattu,3128,7635,152,4355,20200711
+Tamil Nadu,Chengalpattu,3361,7872,154,4357,20200711
 Tamil Nadu,Chennai,264,363,0,99,20200421
 Tamil Nadu,Chennai,279,378,0,99,20200422
 Tamil Nadu,Chennai,306,405,0,99,20200423
@@ -42290,7 +42290,7 @@ Tamil Nadu,Chennai,22378,71230,1117,47735,20200707
 Tamil Nadu,Chennai,21770,72500,1143,49587,20200708
 Tamil Nadu,Chennai,20275,73728,1166,52287,20200709
 Tamil Nadu,Chennai,18620,74969,1193,55156,20200710
-Tamil Nadu,Chennai,18620,74969,1193,55156,20200711
+Tamil Nadu,Chennai,17993,76158,1218,56947,20200711
 Tamil Nadu,Coimbatore,59,134,0,75,20200421
 Tamil Nadu,Coimbatore,59,134,0,75,20200422
 Tamil Nadu,Coimbatore,59,134,0,75,20200423
@@ -42372,7 +42372,7 @@ Tamil Nadu,Coimbatore,549,839,2,288,20200707
 Tamil Nadu,Coimbatore,616,927,3,308,20200708
 Tamil Nadu,Coimbatore,703,1026,3,320,20200709
 Tamil Nadu,Coimbatore,745,1071,6,320,20200710
-Tamil Nadu,Coimbatore,745,1071,6,320,20200711
+Tamil Nadu,Coimbatore,813,1142,8,321,20200711
 Tamil Nadu,Cuddalore,26,26,0,0,20200421
 Tamil Nadu,Cuddalore,26,26,0,0,20200422
 Tamil Nadu,Cuddalore,26,26,0,0,20200423
@@ -42454,7 +42454,7 @@ Tamil Nadu,Cuddalore,410,1342,5,927,20200707
 Tamil Nadu,Cuddalore,440,1413,5,968,20200708
 Tamil Nadu,Cuddalore,486,1480,5,989,20200709
 Tamil Nadu,Cuddalore,463,1493,5,1025,20200710
-Tamil Nadu,Cuddalore,463,1493,5,1025,20200711
+Tamil Nadu,Cuddalore,437,1510,6,1067,20200711
 Tamil Nadu,Dharmapuri,1,1,0,0,20200423
 Tamil Nadu,Dharmapuri,1,1,0,0,20200424
 Tamil Nadu,Dharmapuri,1,1,0,0,20200425
@@ -42534,7 +42534,7 @@ Tamil Nadu,Dharmapuri,54,124,1,69,20200707
 Tamil Nadu,Dharmapuri,86,156,1,69,20200708
 Tamil Nadu,Dharmapuri,137,209,1,71,20200709
 Tamil Nadu,Dharmapuri,149,224,1,74,20200710
-Tamil Nadu,Dharmapuri,149,224,1,74,20200711
+Tamil Nadu,Dharmapuri,152,238,1,85,20200711
 Tamil Nadu,Dindigul,76,76,0,0,20200421
 Tamil Nadu,Dindigul,77,77,0,0,20200422
 Tamil Nadu,Dindigul,80,80,0,0,20200423
@@ -42616,7 +42616,7 @@ Tamil Nadu,Dindigul,358,730,7,365,20200707
 Tamil Nadu,Dindigul,321,739,8,410,20200708
 Tamil Nadu,Dindigul,300,742,8,434,20200709
 Tamil Nadu,Dindigul,282,750,8,460,20200710
-Tamil Nadu,Dindigul,282,750,8,460,20200711
+Tamil Nadu,Dindigul,232,756,8,516,20200711
 Tamil Nadu,Erode,70,70,0,0,20200421
 Tamil Nadu,Erode,70,70,0,0,20200422
 Tamil Nadu,Erode,70,70,0,0,20200423
@@ -42698,7 +42698,7 @@ Tamil Nadu,Erode,196,286,5,85,20200707
 Tamil Nadu,Erode,206,296,5,85,20200708
 Tamil Nadu,Erode,211,313,5,97,20200709
 Tamil Nadu,Erode,221,327,6,100,20200710
-Tamil Nadu,Erode,221,327,6,100,20200711
+Tamil Nadu,Erode,188,369,6,175,20200711
 Tamil Nadu,Kallakurichi,5,5,0,0,20200421
 Tamil Nadu,Kallakurichi,5,5,0,0,20200422
 Tamil Nadu,Kallakurichi,5,5,0,0,20200423
@@ -42780,7 +42780,7 @@ Tamil Nadu,Kallakurichi,554,1274,4,716,20200707
 Tamil Nadu,Kallakurichi,544,1285,4,737,20200708
 Tamil Nadu,Kallakurichi,747,1539,4,788,20200709
 Tamil Nadu,Kallakurichi,807,1621,4,810,20200710
-Tamil Nadu,Kallakurichi,807,1621,4,810,20200711
+Tamil Nadu,Kallakurichi,760,1723,5,958,20200711
 Tamil Nadu,Kancheepuram,9,9,0,0,20200421
 Tamil Nadu,Kancheepuram,10,10,0,0,20200422
 Tamil Nadu,Kancheepuram,10,10,0,0,20200423
@@ -42862,7 +42862,7 @@ Tamil Nadu,Kancheepuram,1663,2836,36,1137,20200707
 Tamil Nadu,Kancheepuram,1755,2970,38,1177,20200708
 Tamil Nadu,Kancheepuram,1782,3038,40,1216,20200709
 Tamil Nadu,Kancheepuram,1797,3099,42,1260,20200710
-Tamil Nadu,Kancheepuram,1797,3099,42,1260,20200711
+Tamil Nadu,Kancheepuram,1879,3218,46,1293,20200711
 Tamil Nadu,Kanniyakumari,16,16,0,0,20200421
 Tamil Nadu,Kanniyakumari,16,16,0,0,20200422
 Tamil Nadu,Kanniyakumari,16,16,0,0,20200423
@@ -42944,7 +42944,7 @@ Tamil Nadu,Kanyakumari,438,757,4,315,20200707
 Tamil Nadu,Kanyakumari,532,872,4,336,20200708
 Tamil Nadu,Kanyakumari,592,965,4,369,20200709
 Tamil Nadu,Kanyakumari,658,1070,4,408,20200710
-Tamil Nadu,Kanyakumari,658,1070,4,408,20200711
+Tamil Nadu,Kanyakumari,741,1203,5,457,20200711
 Tamil Nadu,Karur,41,41,0,0,20200421
 Tamil Nadu,Karur,41,41,0,0,20200422
 Tamil Nadu,Karur,41,41,0,0,20200423
@@ -43026,7 +43026,7 @@ Tamil Nadu,Karur,45,174,3,126,20200707
 Tamil Nadu,Karur,49,182,3,130,20200708
 Tamil Nadu,Karur,50,185,3,132,20200709
 Tamil Nadu,Karur,55,190,3,132,20200710
-Tamil Nadu,Karur,55,190,3,132,20200711
+Tamil Nadu,Karur,52,196,4,140,20200711
 Tamil Nadu,Krishnagiri,2,2,0,0,20200505
 Tamil Nadu,Krishnagiri,4,4,0,0,20200506
 Tamil Nadu,Krishnagiri,8,8,0,0,20200507
@@ -43094,7 +43094,7 @@ Tamil Nadu,Krishnagiri,118,203,2,83,20200707
 Tamil Nadu,Krishnagiri,131,217,3,83,20200708
 Tamil Nadu,Krishnagiri,88,223,3,132,20200709
 Tamil Nadu,Krishnagiri,64,225,4,157,20200710
-Tamil Nadu,Krishnagiri,64,225,4,157,20200711
+Tamil Nadu,Krishnagiri,80,241,4,157,20200711
 Tamil Nadu,Madurai,18,46,0,28,20200421
 Tamil Nadu,Madurai,22,50,0,28,20200422
 Tamil Nadu,Madurai,24,52,0,28,20200423
@@ -43176,7 +43176,7 @@ Tamil Nadu,Madurai,3486,4674,77,1111,20200707
 Tamil Nadu,Madurai,3811,5057,86,1160,20200708
 Tamil Nadu,Madurai,4001,5299,95,1203,20200709
 Tamil Nadu,Madurai,4131,5482,101,1250,20200710
-Tamil Nadu,Madurai,4131,5482,101,1250,20200711
+Tamil Nadu,Madurai,3843,5757,111,1803,20200711
 Tamil Nadu,Nagapattinam,44,44,0,0,20200421
 Tamil Nadu,Nagapattinam,44,44,0,0,20200422
 Tamil Nadu,Nagapattinam,44,44,0,0,20200423
@@ -43258,7 +43258,7 @@ Tamil Nadu,Nagapattinam,184,314,0,130,20200707
 Tamil Nadu,Nagapattinam,162,325,0,163,20200708
 Tamil Nadu,Nagapattinam,181,350,0,169,20200709
 Tamil Nadu,Nagapattinam,173,347,1,173,20200710
-Tamil Nadu,Nagapattinam,173,347,1,173,20200711
+Tamil Nadu,Nagapattinam,177,353,1,175,20200711
 Tamil Nadu,Namakkal,51,51,0,0,20200421
 Tamil Nadu,Namakkal,51,51,0,0,20200422
 Tamil Nadu,Namakkal,55,55,0,0,20200423
@@ -43340,7 +43340,7 @@ Tamil Nadu,Namakkal,26,118,1,91,20200707
 Tamil Nadu,Namakkal,38,130,1,91,20200708
 Tamil Nadu,Namakkal,55,147,1,91,20200709
 Tamil Nadu,Namakkal,57,150,1,92,20200710
-Tamil Nadu,Namakkal,57,150,1,92,20200711
+Tamil Nadu,Namakkal,67,162,1,94,20200711
 Tamil Nadu,Nilgiris,0,9,0,9,20200503
 Tamil Nadu,Nilgiris,0,9,0,9,20200504
 Tamil Nadu,Nilgiris,5,14,0,9,20200505
@@ -43410,7 +43410,7 @@ Tamil Nadu,Nilgiris,101,150,0,49,20200707
 Tamil Nadu,Nilgiris,111,160,0,49,20200708
 Tamil Nadu,Nilgiris,120,172,0,52,20200709
 Tamil Nadu,Nilgiris,127,181,0,54,20200710
-Tamil Nadu,Nilgiris,127,181,0,54,20200711
+Tamil Nadu,Nilgiris,109,179,1,69,20200711
 Tamil Nadu,Other State,0,1,1,0,20200517
 Tamil Nadu,Other State,0,1,1,0,20200518
 Tamil Nadu,Other State,0,1,1,0,20200519
@@ -43548,7 +43548,7 @@ Tamil Nadu,Perambalur,14,170,0,156,20200707
 Tamil Nadu,Perambalur,15,173,0,158,20200708
 Tamil Nadu,Perambalur,11,171,1,159,20200709
 Tamil Nadu,Perambalur,10,172,1,161,20200710
-Tamil Nadu,Perambalur,10,172,1,161,20200711
+Tamil Nadu,Perambalur,12,174,1,161,20200711
 Tamil Nadu,Pudukkottai,1,1,0,0,20200421
 Tamil Nadu,Pudukkottai,1,1,0,0,20200422
 Tamil Nadu,Pudukkottai,1,1,0,0,20200423
@@ -43630,7 +43630,7 @@ Tamil Nadu,Pudukkottai,247,418,6,165,20200707
 Tamil Nadu,Pudukkottai,256,449,7,186,20200708
 Tamil Nadu,Pudukkottai,281,495,8,206,20200709
 Tamil Nadu,Pudukkottai,280,534,8,246,20200710
-Tamil Nadu,Pudukkottai,280,534,8,246,20200711
+Tamil Nadu,Pudukkottai,184,570,8,378,20200711
 Tamil Nadu,Railway Quarantine,2,2,0,0,20200518
 Tamil Nadu,Railway Quarantine,2,2,0,0,20200519
 Tamil Nadu,Railway Quarantine,3,3,0,0,20200520
@@ -43685,7 +43685,7 @@ Tamil Nadu,Railway Quarantine,97,421,0,324,20200707
 Tamil Nadu,Railway Quarantine,97,421,0,324,20200708
 Tamil Nadu,Railway Quarantine,98,422,0,324,20200709
 Tamil Nadu,Railway Quarantine,97,422,0,325,20200710
-Tamil Nadu,Railway Quarantine,97,422,0,325,20200711
+Tamil Nadu,Railway Quarantine,96,422,0,326,20200711
 Tamil Nadu,Ramanathapuram,11,11,0,0,20200421
 Tamil Nadu,Ramanathapuram,11,11,0,0,20200422
 Tamil Nadu,Ramanathapuram,12,12,0,0,20200423
@@ -43767,7 +43767,7 @@ Tamil Nadu,Ramanathapuram,953,1479,22,504,20200707
 Tamil Nadu,Ramanathapuram,975,1544,23,546,20200708
 Tamil Nadu,Ramanathapuram,954,1606,28,624,20200709
 Tamil Nadu,Ramanathapuram,985,1691,32,674,20200710
-Tamil Nadu,Ramanathapuram,985,1691,32,674,20200711
+Tamil Nadu,Ramanathapuram,1026,1774,32,716,20200711
 Tamil Nadu,Ranipet,38,38,0,0,20200421
 Tamil Nadu,Ranipet,38,38,0,0,20200422
 Tamil Nadu,Ranipet,38,38,0,0,20200423
@@ -43849,7 +43849,7 @@ Tamil Nadu,Ranipet,703,1312,5,604,20200707
 Tamil Nadu,Ranipet,654,1325,10,661,20200708
 Tamil Nadu,Ranipet,733,1404,10,661,20200709
 Tamil Nadu,Ranipet,724,1415,10,681,20200710
-Tamil Nadu,Ranipet,724,1415,10,681,20200711
+Tamil Nadu,Ranipet,757,1463,13,693,20200711
 Tamil Nadu,Salem,14,24,0,10,20200421
 Tamil Nadu,Salem,14,24,0,10,20200422
 Tamil Nadu,Salem,19,29,0,10,20200423
@@ -43931,7 +43931,7 @@ Tamil Nadu,Salem,869,1340,5,466,20200707
 Tamil Nadu,Salem,827,1409,6,576,20200708
 Tamil Nadu,Salem,882,1502,7,613,20200709
 Tamil Nadu,Salem,956,1630,7,667,20200710
-Tamil Nadu,Salem,956,1630,7,667,20200711
+Tamil Nadu,Salem,1057,1767,7,703,20200711
 Tamil Nadu,Sivaganga,6,12,0,6,20200421
 Tamil Nadu,Sivaganga,6,12,0,6,20200422
 Tamil Nadu,Sivaganga,6,12,0,6,20200423
@@ -44013,7 +44013,7 @@ Tamil Nadu,Sivaganga,288,576,7,281,20200707
 Tamil Nadu,Sivaganga,254,611,9,348,20200708
 Tamil Nadu,Sivaganga,257,675,9,409,20200709
 Tamil Nadu,Sivaganga,284,720,11,425,20200710
-Tamil Nadu,Sivaganga,284,720,11,425,20200711
+Tamil Nadu,Sivaganga,303,786,11,472,20200711
 Tamil Nadu,Tenkasi,28,28,0,0,20200421
 Tamil Nadu,Tenkasi,28,28,0,0,20200422
 Tamil Nadu,Tenkasi,29,29,0,0,20200423
@@ -44095,7 +44095,7 @@ Tamil Nadu,Tenkasi,273,530,1,256,20200707
 Tamil Nadu,Tenkasi,258,558,1,299,20200708
 Tamil Nadu,Tenkasi,289,589,1,299,20200709
 Tamil Nadu,Tenkasi,298,598,1,299,20200710
-Tamil Nadu,Tenkasi,298,598,1,299,20200711
+Tamil Nadu,Tenkasi,365,665,1,299,20200711
 Tamil Nadu,Thanjavur,47,48,0,1,20200421
 Tamil Nadu,Thanjavur,52,53,0,1,20200422
 Tamil Nadu,Thanjavur,53,54,0,1,20200423
@@ -44177,7 +44177,7 @@ Tamil Nadu,Thanjavur,172,533,2,359,20200707
 Tamil Nadu,Thanjavur,170,544,3,371,20200708
 Tamil Nadu,Thanjavur,187,576,5,384,20200709
 Tamil Nadu,Thanjavur,225,625,5,395,20200710
-Tamil Nadu,Thanjavur,225,625,5,395,20200711
+Tamil Nadu,Thanjavur,238,652,5,409,20200711
 Tamil Nadu,The Nilgiris,9,9,0,0,20200421
 Tamil Nadu,The Nilgiris,9,9,0,0,20200422
 Tamil Nadu,The Nilgiris,9,9,0,0,20200423
@@ -44271,7 +44271,7 @@ Tamil Nadu,Theni,793,1222,7,422,20200707
 Tamil Nadu,Theni,847,1297,11,439,20200708
 Tamil Nadu,Theni,897,1387,11,479,20200709
 Tamil Nadu,Theni,997,1495,14,484,20200710
-Tamil Nadu,Theni,997,1495,14,484,20200711
+Tamil Nadu,Theni,1066,1614,16,532,20200711
 Tamil Nadu,Thiruvallur,49,49,0,0,20200421
 Tamil Nadu,Thiruvallur,51,51,0,0,20200422
 Tamil Nadu,Thiruvallur,51,51,0,0,20200423
@@ -44353,7 +44353,7 @@ Tamil Nadu,Thiruvallur,1744,5205,105,3356,20200707
 Tamil Nadu,Thiruvallur,1939,5507,111,3457,20200708
 Tamil Nadu,Thiruvallur,2169,5877,117,3591,20200709
 Tamil Nadu,Thiruvallur,2221,6075,118,3736,20200710
-Tamil Nadu,Thiruvallur,2221,6075,118,3736,20200711
+Tamil Nadu,Thiruvallur,2425,6421,122,3874,20200711
 Tamil Nadu,Thiruvarur,13,29,0,16,20200421
 Tamil Nadu,Thiruvarur,13,29,0,16,20200422
 Tamil Nadu,Thiruvarur,14,30,0,16,20200423
@@ -44435,7 +44435,7 @@ Tamil Nadu,Thiruvarur,206,576,0,370,20200707
 Tamil Nadu,Thiruvarur,228,614,0,386,20200708
 Tamil Nadu,Thiruvarur,268,654,0,386,20200709
 Tamil Nadu,Thiruvarur,287,681,0,394,20200710
-Tamil Nadu,Thiruvarur,287,681,0,394,20200711
+Tamil Nadu,Thiruvarur,286,694,1,407,20200711
 Tamil Nadu,Thoothukkudi,20,27,0,7,20200421
 Tamil Nadu,Thoothukkudi,20,27,0,7,20200422
 Tamil Nadu,Thoothukkudi,20,27,0,7,20200423
@@ -44517,7 +44517,7 @@ Tamil Nadu,Thoothukkudi,535,1416,6,875,20200707
 Tamil Nadu,Thoothukkudi,629,1558,6,923,20200708
 Tamil Nadu,Thoothukkudi,795,1754,6,953,20200709
 Tamil Nadu,Thoothukkudi,940,1949,8,1001,20200710
-Tamil Nadu,Thoothukkudi,940,1949,8,1001,20200711
+Tamil Nadu,Thoothukkudi,1096,2124,11,1017,20200711
 Tamil Nadu,Tiruchirappalli,17,50,0,33,20200421
 Tamil Nadu,Tiruchirappalli,18,51,0,33,20200422
 Tamil Nadu,Tiruchirappalli,18,51,0,33,20200423
@@ -44599,7 +44599,7 @@ Tamil Nadu,Tiruchirappalli,435,1059,5,619,20200707
 Tamil Nadu,Tiruchirappalli,432,1077,6,639,20200708
 Tamil Nadu,Tiruchirappalli,495,1170,12,663,20200709
 Tamil Nadu,Tiruchirappalli,517,1273,12,744,20200710
-Tamil Nadu,Tiruchirappalli,517,1273,12,744,20200711
+Tamil Nadu,Tiruchirappalli,589,1401,15,797,20200711
 Tamil Nadu,Tirunelveli,34,64,0,30,20200421
 Tamil Nadu,Tirunelveli,34,64,0,30,20200422
 Tamil Nadu,Tirunelveli,35,65,0,30,20200423
@@ -44681,7 +44681,7 @@ Tamil Nadu,Tirunelveli,591,1295,9,695,20200707
 Tamil Nadu,Tirunelveli,589,1300,9,702,20200708
 Tamil Nadu,Tirunelveli,665,1409,9,735,20200709
 Tamil Nadu,Tirunelveli,777,1551,9,765,20200710
-Tamil Nadu,Tirunelveli,777,1551,9,765,20200711
+Tamil Nadu,Tirunelveli,815,1629,10,804,20200711
 Tamil Nadu,Tirupathur,17,17,0,0,20200421
 Tamil Nadu,Tirupathur,17,17,0,0,20200422
 Tamil Nadu,Tirupathur,18,18,0,0,20200423
@@ -44763,7 +44763,7 @@ Tamil Nadu,Tirupathur,184,322,0,138,20200707
 Tamil Nadu,Tirupathur,177,332,0,155,20200708
 Tamil Nadu,Tirupathur,183,351,0,168,20200709
 Tamil Nadu,Tirupathur,196,379,0,183,20200710
-Tamil Nadu,Tirupathur,196,379,0,183,20200711
+Tamil Nadu,Tirupathur,182,388,1,205,20200711
 Tamil Nadu,Tiruppur,109,109,0,0,20200421
 Tamil Nadu,Tiruppur,109,109,0,0,20200422
 Tamil Nadu,Tiruppur,110,110,0,0,20200423
@@ -44845,7 +44845,7 @@ Tamil Nadu,Tiruppur,96,237,0,141,20200707
 Tamil Nadu,Tiruppur,112,262,0,150,20200708
 Tamil Nadu,Tiruppur,109,265,0,156,20200709
 Tamil Nadu,Tiruppur,130,288,2,156,20200710
-Tamil Nadu,Tiruppur,130,288,2,156,20200711
+Tamil Nadu,Tiruppur,125,294,2,167,20200711
 Tamil Nadu,Tiruvannamalai,8,8,0,0,20200421
 Tamil Nadu,Tiruvannamalai,9,9,0,0,20200422
 Tamil Nadu,Tiruvannamalai,9,9,0,0,20200423
@@ -44927,7 +44927,7 @@ Tamil Nadu,Tiruvannamalai,1311,2633,18,1304,20200707
 Tamil Nadu,Tiruvannamalai,1267,2688,18,1403,20200708
 Tamil Nadu,Tiruvannamalai,1131,2758,20,1607,20200709
 Tamil Nadu,Tiruvannamalai,1212,2861,20,1629,20200710
-Tamil Nadu,Tiruvannamalai,1212,2861,20,1629,20200711
+Tamil Nadu,Tiruvannamalai,1240,2925,21,1664,20200711
 Tamil Nadu,Unknown,0,0,11,0,20200428
 Tamil Nadu,Unknown,0,0,4,0,20200429
 Tamil Nadu,Unknown,2,2,0,0,20200517
@@ -45014,7 +45014,7 @@ Tamil Nadu,Vellore,1320,2097,6,771,20200707
 Tamil Nadu,Vellore,1434,2258,6,818,20200708
 Tamil Nadu,Vellore,1441,2344,6,897,20200709
 Tamil Nadu,Vellore,1498,2486,6,982,20200710
-Tamil Nadu,Vellore,1498,2486,6,982,20200711
+Tamil Nadu,Vellore,1582,2622,6,1034,20200711
 Tamil Nadu,Viluppuram,26,44,0,18,20200421
 Tamil Nadu,Viluppuram,27,45,0,18,20200422
 Tamil Nadu,Viluppuram,28,46,0,18,20200423
@@ -45096,7 +45096,7 @@ Tamil Nadu,Viluppuram,487,1233,18,728,20200707
 Tamil Nadu,Viluppuram,561,1339,18,760,20200708
 Tamil Nadu,Viluppuram,571,1370,18,781,20200709
 Tamil Nadu,Viluppuram,509,1411,19,883,20200710
-Tamil Nadu,Viluppuram,509,1411,19,883,20200711
+Tamil Nadu,Viluppuram,515,1455,19,921,20200711
 Tamil Nadu,Virudhunagar,19,19,0,0,20200421
 Tamil Nadu,Virudhunagar,19,19,0,0,20200422
 Tamil Nadu,Virudhunagar,22,22,0,0,20200423
@@ -45178,7 +45178,7 @@ Tamil Nadu,Virudhunagar,670,1228,10,548,20200707
 Tamil Nadu,Virudhunagar,686,1298,10,602,20200708
 Tamil Nadu,Virudhunagar,941,1595,10,644,20200709
 Tamil Nadu,Virudhunagar,943,1738,11,784,20200710
-Tamil Nadu,Virudhunagar,943,1738,11,784,20200711
+Tamil Nadu,Virudhunagar,994,1833,12,827,20200711
 Telangana,Adilabad,16,16,0,0,20200421
 Telangana,Adilabad,16,16,0,0,20200422
 Telangana,Adilabad,16,16,0,0,20200423
