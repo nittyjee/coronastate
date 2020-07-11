@@ -1567,7 +1567,7 @@ Arunachal Pradesh,Changlang,40,91,0,51,20200707
 Arunachal Pradesh,Changlang,30,91,0,61,20200708
 Arunachal Pradesh,Changlang,35,99,0,64,20200709
 Arunachal Pradesh,Changlang,35,99,0,64,20200710
-Arunachal Pradesh,Changlang,35,99,0,64,20200711
+Arunachal Pradesh,Changlang,38,102,0,64,20200711
 Arunachal Pradesh,East Kameng,0,0,0,0,20200513
 Arunachal Pradesh,East Kameng,0,0,0,0,20200514
 Arunachal Pradesh,East Kameng,0,0,0,0,20200515
@@ -2309,7 +2309,7 @@ Arunachal Pradesh,Namsai,13,16,0,3,20200707
 Arunachal Pradesh,Namsai,12,16,0,4,20200708
 Arunachal Pradesh,Namsai,11,16,0,5,20200709
 Arunachal Pradesh,Namsai,11,16,0,5,20200710
-Arunachal Pradesh,Namsai,11,16,0,5,20200711
+Arunachal Pradesh,Namsai,13,18,0,5,20200711
 Arunachal Pradesh,Pakke Kessang,0,0,0,0,20200513
 Arunachal Pradesh,Pakke Kessang,0,0,0,0,20200514
 Arunachal Pradesh,Pakke Kessang,0,0,0,0,20200515
@@ -2429,7 +2429,7 @@ Arunachal Pradesh,Papum Pare,89,99,0,10,20200707
 Arunachal Pradesh,Papum Pare,89,99,0,10,20200708
 Arunachal Pradesh,Papum Pare,88,105,0,17,20200709
 Arunachal Pradesh,Papum Pare,88,105,0,17,20200710
-Arunachal Pradesh,Papum Pare,88,105,0,17,20200711
+Arunachal Pradesh,Papum Pare,116,133,0,17,20200711
 Arunachal Pradesh,Shi Yomi,0,0,0,0,20200513
 Arunachal Pradesh,Shi Yomi,0,0,0,0,20200514
 Arunachal Pradesh,Shi Yomi,0,0,0,0,20200515
@@ -2685,7 +2685,6 @@ Arunachal Pradesh,Unknown,-2,0,0,2,20200610
 Arunachal Pradesh,Unknown,7,7,0,0,20200614
 Arunachal Pradesh,Unknown,-3,0,0,3,20200617
 Arunachal Pradesh,Unknown,-4,0,0,4,20200625
-Arunachal Pradesh,Unknown,33,33,0,0,20200711
 Arunachal Pradesh,Upper Dibang Valley,0,0,0,0,20200513
 Arunachal Pradesh,Upper Dibang Valley,0,0,0,0,20200514
 Arunachal Pradesh,Upper Dibang Valley,0,0,0,0,20200515
@@ -5297,7 +5296,7 @@ Assam,Udalguri,103,105,0,2,20200707
 Assam,Udalguri,102,105,1,2,20200708
 Assam,Udalguri,102,105,1,2,20200709
 Assam,Udalguri,42,227,1,184,20200710
-Assam,Udalguri,42,227,1,184,20200711
+Assam,Udalguri,36,234,1,197,20200711
 Assam,Unknown,1,1,0,0,20200423
 Assam,Unknown,-12,1,0,13,20200424
 Assam,Unknown,-12,1,0,13,20200425
@@ -5353,7 +5352,7 @@ Assam,Unknown,-2392,5032,7,7414,20200707
 Assam,Unknown,-2508,5305,2,7808,20200708
 Assam,Unknown,-2719,5518,5,8229,20200709
 Assam,Unknown,-3368,5396,13,8748,20200710
-Assam,Unknown,-2953,5811,13,8748,20200711
+Assam,Unknown,-2947,5804,13,8735,20200711
 Assam,West Karbi Anglong,0,0,0,0,20200513
 Assam,West Karbi Anglong,0,0,0,0,20200514
 Assam,West Karbi Anglong,0,0,0,0,20200515
@@ -23040,7 +23039,7 @@ Kerala,Alappuzha,217,411,1,192,20200707
 Kerala,Alappuzha,219,429,1,208,20200708
 Kerala,Alappuzha,234,451,1,215,20200709
 Kerala,Alappuzha,260,501,1,239,20200710
-Kerala,Alappuzha,260,501,1,239,20200711
+Kerala,Alappuzha,258,501,1,241,20200711
 Kerala,Ernakulam,3,24,1,20,20200421
 Kerala,Ernakulam,3,24,1,20,20200422
 Kerala,Ernakulam,3,24,1,20,20200423
@@ -23122,7 +23121,7 @@ Kerala,Ernakulam,193,362,2,166,20200707
 Kerala,Ernakulam,197,378,2,178,20200708
 Kerala,Ernakulam,194,390,2,193,20200709
 Kerala,Ernakulam,210,410,2,197,20200710
-Kerala,Ernakulam,210,410,2,197,20200711
+Kerala,Ernakulam,213,410,2,194,20200711
 Kerala,Idukki,0,10,0,10,20200421
 Kerala,Idukki,0,10,0,10,20200422
 Kerala,Idukki,4,14,0,10,20200423
@@ -23532,7 +23531,7 @@ Kerala,Kottayam,112,271,1,158,20200707
 Kerala,Kottayam,129,288,1,158,20200708
 Kerala,Kottayam,128,295,1,166,20200709
 Kerala,Kottayam,125,302,1,176,20200710
-Kerala,Kottayam,125,302,1,176,20200711
+Kerala,Kottayam,123,302,1,178,20200711
 Kerala,Kozhikode,9,20,0,11,20200421
 Kerala,Kozhikode,9,22,0,13,20200422
 Kerala,Kozhikode,11,24,0,13,20200423
@@ -23821,7 +23820,7 @@ Kerala,Palakkad,186,673,1,485,20200707
 Kerala,Palakkad,202,698,1,494,20200708
 Kerala,Palakkad,234,748,1,512,20200709
 Kerala,Palakkad,254,776,1,520,20200710
-Kerala,Palakkad,254,776,1,520,20200711
+Kerala,Palakkad,253,776,1,521,20200711
 Kerala,Pathanamthitta,6,17,0,11,20200421
 Kerala,Pathanamthitta,6,17,0,11,20200422
 Kerala,Pathanamthitta,6,17,0,11,20200423
@@ -23903,7 +23902,7 @@ Kerala,Pathanamthitta,178,392,0,213,20200707
 Kerala,Pathanamthitta,181,399,0,217,20200708
 Kerala,Pathanamthitta,181,406,0,224,20200709
 Kerala,Pathanamthitta,213,438,0,224,20200710
-Kerala,Pathanamthitta,213,438,0,224,20200711
+Kerala,Pathanamthitta,214,438,0,223,20200711
 Kerala,Thiruvananthapuram,-1,14,1,14,20200421
 Kerala,Thiruvananthapuram,1,14,1,12,20200422
 Kerala,Thiruvananthapuram,2,15,1,12,20200423
@@ -23985,7 +23984,7 @@ Kerala,Thiruvananthapuram,158,345,5,182,20200707
 Kerala,Thiruvananthapuram,217,409,5,187,20200708
 Kerala,Thiruvananthapuram,303,504,5,196,20200709
 Kerala,Thiruvananthapuram,432,633,5,196,20200710
-Kerala,Thiruvananthapuram,432,633,5,196,20200711
+Kerala,Thiruvananthapuram,433,633,5,195,20200711
 Kerala,Thrissur,0,13,0,13,20200421
 Kerala,Thrissur,0,13,0,13,20200422
 Kerala,Thrissur,0,13,0,13,20200423
@@ -48157,7 +48156,7 @@ Tripura,Gomati,112,228,0,115,20200707
 Tripura,Gomati,116,250,0,133,20200708
 Tripura,Gomati,118,253,0,134,20200709
 Tripura,Gomati,128,263,0,134,20200710
-Tripura,Gomati,128,263,0,134,20200711
+Tripura,Gomati,107,263,0,155,20200711
 Tripura,Khowai,0,0,0,0,20200513
 Tripura,Khowai,0,0,0,0,20200514
 Tripura,Khowai,0,0,0,0,20200515
@@ -48217,7 +48216,7 @@ Tripura,Khowai,89,126,0,37,20200707
 Tripura,Khowai,72,135,0,63,20200708
 Tripura,Khowai,75,138,0,63,20200709
 Tripura,Khowai,138,201,0,63,20200710
-Tripura,Khowai,138,201,0,63,20200711
+Tripura,Khowai,135,201,0,66,20200711
 Tripura,North Tripura,1,1,0,0,20200421
 Tripura,North Tripura,1,1,0,0,20200422
 Tripura,North Tripura,1,1,0,0,20200423
@@ -48359,7 +48358,7 @@ Tripura,Sipahijala,66,599,0,533,20200707
 Tripura,Sipahijala,54,609,0,555,20200708
 Tripura,Sipahijala,56,611,0,555,20200709
 Tripura,Sipahijala,67,622,0,555,20200710
-Tripura,Sipahijala,67,622,0,555,20200711
+Tripura,Sipahijala,63,624,0,561,20200711
 Tripura,South Tripura,0,0,0,0,20200513
 Tripura,South Tripura,0,0,0,0,20200514
 Tripura,South Tripura,0,0,0,0,20200515
@@ -48419,7 +48418,7 @@ Tripura,South Tripura,41,142,0,100,20200707
 Tripura,South Tripura,22,143,0,120,20200708
 Tripura,South Tripura,16,146,0,129,20200709
 Tripura,South Tripura,22,152,0,129,20200710
-Tripura,South Tripura,22,152,0,129,20200711
+Tripura,South Tripura,20,151,0,130,20200711
 Tripura,Unknown,0,24,0,0,20200507
 Tripura,Unknown,-2,-2,0,0,20200518
 Tripura,Unknown,2,2,0,0,20200519
@@ -48572,7 +48571,7 @@ Tripura,West Tripura,78,230,1,146,20200707
 Tripura,West Tripura,86,240,1,148,20200708
 Tripura,West Tripura,86,244,1,152,20200709
 Tripura,West Tripura,121,279,1,152,20200710
-Tripura,West Tripura,121,279,1,152,20200711
+Tripura,West Tripura,118,279,1,155,20200711
 Uttar Pradesh,Agra,282,306,6,18,20200421
 Uttar Pradesh,Agra,300,324,6,18,20200422
 Uttar Pradesh,Agra,311,336,7,18,20200423
