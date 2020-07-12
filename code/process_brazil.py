@@ -11,7 +11,7 @@ output_path = "/home/nittyjee/code/coronastate/data/"
 # input_path = "/home/himabindu/PycharmProjects/mapbox-geocoding/input/"
 # output_path = "/home/himabindu/PycharmProjects/mapbox-geocoding/data/"
 
-input_file="HIST_PAINEL_COVIDBR_08jul2020.xlsx"
+input_file="HIST_PAINEL_COVIDBR_11jul2020.xlsx"
 
 output_file= "brazil.csv"
 
