@@ -28,7 +28,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 27,adm1,Algeria,Béchar,,,,31.63333,-2.2
 28,adm1,Algeria,Béjaïa,,,,28.0,2.0
 29,adm1,Algeria,Chlef,,,,36.16472,1.33472
-30,adm1,Algeria,Constantine,,,,36.365,6.614719999999998
+30,adm1,Algeria,Constantine,,,,36.365,6.6147199999999975
 31,adm1,Algeria,Djelfa,,,,34.66667,3.25
 32,adm1,Algeria,El Bayadh,,,,33.68028,1.02028
 33,adm1,Algeria,El Oued,,,,33.36833,6.8675
@@ -191,7 +191,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 190,adm1,Chile,Antofagasta,,,,-24.230709,-69.334349
 191,adm1,Chile,Araucanía,,,,-38.737828,-72.575393
 192,adm1,Chile,Arica y Parinacota,,,,-18.475,-70.31444
-193,adm1,Chile,Atacama,,,,-27.366670000000006,-70.33221999999999
+193,adm1,Chile,Atacama,,,,-27.36667000000001,-70.33221999999999
 194,adm1,Chile,Aysén,,,,-45.41,-72.7
 195,adm1,Chile,Biobío,,,,-36.835938,-73.061134
 196,adm1,Chile,Coquimbo,,,,-30.221116,-71.3295
@@ -281,20 +281,20 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 280,adm3,China,Mainland China,Chongqing,Fuling District,,29.6603,107.285
 281,adm3,China,Mainland China,Chongqing,Hechuan District,,29.99123,106.26353
 282,adm3,China,Mainland China,Chongqing,Jiangbei District,,29.5755,106.5276
-283,adm3,China,Mainland China,Chongqing,Jiangjin District,,29.284370000000006,106.25205
+283,adm3,China,Mainland China,Chongqing,Jiangjin District,,29.28437000000001,106.25205
 284,adm3,China,Mainland China,Chongqing,Jiulongpo District,,29.50477,106.50731
-285,adm3,China,Mainland China,Chongqing,Kaizhou District,,31.172320000000006,108.40387
+285,adm3,China,Mainland China,Chongqing,Kaizhou District,,31.17232000000001,108.40387
 286,adm3,China,Mainland China,Chongqing,Liangjiang New Area,,29.55,106.50694
 287,adm3,China,Mainland China,Chongqing,Liangping District,,30.67098,107.78825
 288,adm3,China,Mainland China,Chongqing,Nan'an District,,29.52601,106.55985
 289,adm3,China,Mainland China,Chongqing,Pengshui Miao and Tujia Autonomous County,,29.294290000000004,108.16358
 290,adm3,China,Mainland China,Chongqing,Qianjiang Tujia and Miao Autonomous County,,28.84441,108.76471
-291,adm3,China,Mainland China,Chongqing,Qijiang District,,29.032590000000006,106.65101
+291,adm3,China,Mainland China,Chongqing,Qijiang District,,29.03259000000001,106.65101
 292,adm3,China,Mainland China,Chongqing,Rongchang District,,29.40704,105.59317
 293,adm3,China,Mainland China,Chongqing,Shapingba District,,29.54377,106.45359
 294,adm3,China,Mainland China,Chongqing,Shizhu Tujia Autonomous County,,29.99618,108.11276
 295,adm3,China,Mainland China,Chongqing,Tongliang District,,29.84007,106.05331
-296,adm3,China,Mainland China,Chongqing,Tongnan District,,30.178790000000006,105.83155
+296,adm3,China,Mainland China,Chongqing,Tongnan District,,30.17879000000001,105.83155
 297,adm3,China,Mainland China,Chongqing,Wansheng District,,29.55,106.50694
 298,adm3,China,Mainland China,Chongqing,Wanzhou District,,29.55,106.50694
 299,adm3,China,Mainland China,Chongqing,Wulong District,,29.32816,107.75828
@@ -371,7 +371,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 370,adm3,China,Mainland China,Guizhou,Liupanshui,,26.59444,104.83333
 371,adm3,China,Mainland China,Guizhou,Qiandongnan,,26.5869,107.97458
 372,adm3,China,Mainland China,Guizhou,Qiannan,,26.27065,107.51233
-373,adm3,China,Mainland China,Guizhou,Qianxinan,,25.093120000000006,104.89645
+373,adm3,China,Mainland China,Guizhou,Qianxinan,,25.09312000000001,104.89645
 374,adm3,China,Mainland China,Guizhou,Tongren,,27.723340000000004,109.18851
 375,adm3,China,Mainland China,Guizhou,Zunyi,,27.70498,106.93363
 376,adm2,China,Mainland China,Hainan,,,39.43735,106.87905
@@ -574,7 +574,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 573,adm3,China,Mainland China,Shandong,Zibo,,36.78306,118.04972
 574,adm2,China,Mainland China,Shanghai,,,31.16667,121.46667
 575,adm3,China,Mainland China,Shanghai,Baoshan District,,31.4,121.4
-576,adm3,China,Mainland China,Shanghai,Changning District,,31.222240000000006,121.41947
+576,adm3,China,Mainland China,Shanghai,Changning District,,31.22224000000001,121.41947
 577,adm3,China,Mainland China,Shanghai,Chongming District,,31.62825,121.39831
 578,adm3,China,Mainland China,Shanghai,Fengxian District,,30.920040000000004,121.46969
 579,adm3,China,Mainland China,Shanghai,Hongkou District,,31.26639,121.48
@@ -611,7 +611,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 610,adm3,China,Mainland China,Sichuan,Guangyuan,,32.43529,105.83985
 611,adm3,China,Mainland China,Sichuan,Leshan,,29.5854,103.75755
 612,adm3,China,Mainland China,Sichuan,Liangshan Yi Autonomous Prefecture,,27.89,102.26343
-613,adm3,China,Mainland China,Sichuan,Luzhou,,28.891820000000006,105.44093
+613,adm3,China,Mainland China,Sichuan,Luzhou,,28.89182000000001,105.44093
 614,adm3,China,Mainland China,Sichuan,Meishan,,30.05746,103.83806
 615,adm3,China,Mainland China,Sichuan,Mianyang,,31.46688,104.73847
 616,adm3,China,Mainland China,Sichuan,Nanchong,,30.79913,106.07843
@@ -795,7 +795,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 794,adm1,Ecuador,Galapagos,,,,-0.56028,-91.04083
 795,adm1,Ecuador,Guayas,,,,-2.2,-79.9667
 796,adm1,Ecuador,Imbabura,,,,0.35,-78.13333
-797,adm1,Ecuador,Loja,,,,-3.983330000000001,-79.2
+797,adm1,Ecuador,Loja,,,,-3.983330000000002,-79.2
 798,adm1,Ecuador,Los Ríos,,,,-1.76667,-79.45
 799,adm1,Ecuador,Manabi,,,,-1.0522200000000002,-80.4506
 800,adm1,Ecuador,Morona Santiago,,,,-2.36667,-78.13333
@@ -1067,7 +1067,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1066,adm1,Iran,Bushehr,,,,28.96,50.83
 1067,adm1,Iran,Chaharmahal and Bakhtiari,,,,32.3275,50.8546
 1068,adm1,Iran,East Azerbaijan,,,,38.0766,46.28
-1069,adm1,Iran,Fars,,,,29.616670000000006,52.53333000000001
+1069,adm1,Iran,Fars,,,,29.61667000000001,52.53333000000001
 1070,adm1,Iran,Gilan,,,,37.2774,49.589
 1071,adm1,Iran,Golestan,,,,36.8393,54.4444
 1072,adm1,Iran,Hamadan,,,,34.7982,48.5146
@@ -1337,7 +1337,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1336,adm2,Latvia,Kurzeme,Grobiņas novads,,,56.505141,21.200311
 1337,adm2,Latvia,Kurzeme,Kuldīgas novads,,,56.96666999999999,21.96667
 1338,adm2,Latvia,Kurzeme,Liepāja,,,56.50833000000001,21.01111
-1339,adm2,Latvia,Kurzeme,Mērsraga novads,,,57.311496,23.024451000000006
+1339,adm2,Latvia,Kurzeme,Mērsraga novads,,,57.311496,23.02445100000001
 1340,adm2,Latvia,Kurzeme,Nīcas novads,,,56.34611,21.06222
 1341,adm2,Latvia,Kurzeme,Priekules novads,,,56.45,21.58333
 1342,adm2,Latvia,Kurzeme,Pāvilostas novads,,,56.88333000000001,21.16667
@@ -1420,7 +1420,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1419,adm2,Latvia,Vidzeme,Naukšēnu novads,,,57.407737,25.87549
 1420,adm2,Latvia,Vidzeme,Priekuļu novads,,,57.407737,25.87549
 1421,adm2,Latvia,Vidzeme,Pārgaujas novads,,,57.37083000000001,25.03083
-1422,adm2,Latvia,Vidzeme,Raunas novads,,,57.33221999999999,25.609720000000006
+1422,adm2,Latvia,Vidzeme,Raunas novads,,,57.33221999999999,25.60972000000001
 1423,adm2,Latvia,Vidzeme,Rūjienas novads,,,57.407737,25.87549
 1424,adm2,Latvia,Vidzeme,Smiltenes novads,,,57.407737,25.87549
 1425,adm2,Latvia,Vidzeme,Strenču novads,,,57.407737,25.87549
@@ -1447,7 +1447,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1446,adm2,Latvia,Zemgale,Ozolnieku novads,,,56.69083000000001,23.78806
 1447,adm2,Latvia,Zemgale,Pļaviņu novads,,,56.583258,23.55503
 1448,adm2,Latvia,Zemgale,Rundāles novads,,,56.42,24.00972
-1449,adm2,Latvia,Zemgale,Salas novads,,,56.50417,25.762220000000006
+1449,adm2,Latvia,Zemgale,Salas novads,,,56.50417,25.76222000000001
 1450,adm2,Latvia,Zemgale,Skrīveru novads,,,56.583258,23.55503
 1451,adm2,Latvia,Zemgale,Tērvetes novads,,,56.583258,23.55503
 1452,adm2,Latvia,Zemgale,Vecumnieku novads,,,56.6064,24.5222
@@ -1548,7 +1548,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1547,adm2,Netherlands,Netherlands,'s-Hertogenbosch,,,51.6892,5.3031
 1548,adm2,Netherlands,Netherlands,Aa en Hunze,,,52.498265,5.078999
 1549,adm2,Netherlands,Netherlands,Aalsmeer,,,52.26389,4.7625
-1550,adm2,Netherlands,Netherlands,Aalten,,,51.91583,6.581110000000002
+1550,adm2,Netherlands,Netherlands,Aalten,,,51.91583,6.5811100000000025
 1551,adm2,Netherlands,Netherlands,Achtkarspelen,,,52.498265,5.078999
 1552,adm2,Netherlands,Netherlands,Alblasserdam,,,51.86667,4.66667
 1553,adm2,Netherlands,Netherlands,Albrandswaard,,,52.498265,5.078999
@@ -2057,7 +2057,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2056,adm1,Romania,Harghita,,,,46.36,25.8
 2057,adm1,Romania,Hunedoara,,,,45.76972,22.92028
 2058,adm1,Romania,Ialomița,,,,44.64,27.3
-2059,adm1,Romania,Iași,,,,47.16222,27.588890000000006
+2059,adm1,Romania,Iași,,,,47.16222,27.58889000000001
 2060,adm1,Romania,Ilfov,,,,44.61,26.12
 2061,adm1,Romania,Maramureș,,,,47.95,23.65
 2062,adm1,Romania,Mehedinți,,,,44.63,22.88
@@ -2480,7 +2480,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2479,adm1,Spain,Castilla-La Mancha,,,,40.841525,-1.876364
 2480,adm1,Spain,Cataluña,,,,43.490263,-8.201848
 2481,adm1,Spain,Ceuta,,,,35.888861,-5.304096
-2482,adm1,Spain,Extremadura,,,,38.684731,-6.407062000000002
+2482,adm1,Spain,Extremadura,,,,38.684731,-6.4070620000000025
 2483,adm1,Spain,Galicia,,,,40.192995,-3.684052
 2484,adm1,Spain,La Rioja,,,,42.25,-2.5
 2485,adm1,Spain,Madrid,,,,40.41889000000001,-3.69194
@@ -2526,7 +2526,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2525,adm1,Switzerland,Graubünden,,,,46.75,9.5
 2526,adm1,Switzerland,Jura,,,,47.36667,7.15
 2527,adm1,Switzerland,Luzern,,,,47.04972,8.3
-2528,adm1,Switzerland,Neuchâtel,,,,46.99028,6.930560000000002
+2528,adm1,Switzerland,Neuchâtel,,,,46.99028,6.9305600000000025
 2529,adm1,Switzerland,Nidwalden,,,,46.895235,8.404846000000001
 2530,adm1,Switzerland,Obwalden,,,,46.864697,8.200503999999999
 2531,adm1,Switzerland,Schaffhausen,,,,47.7,8.63306
@@ -2848,7 +2848,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2847,adm2,United Kingdom,Scotland,Lothian,,,56.059266,-3.235702
 2848,adm2,United Kingdom,Scotland,Orkney,,,59.01,-3.12
 2849,adm2,United Kingdom,Scotland,Shetland,,,60.3038,-1.2689
-2850,adm2,United Kingdom,Scotland,Tayside,,,55.87391700000001,-3.989287000000001
+2850,adm2,United Kingdom,Scotland,Tayside,,,55.87391700000001,-3.989287000000002
 2851,adm2,United Kingdom,Scotland,Western Isles,,,56.62362,-6.0645050000000005
 2852,adm1,United Kingdom,Turks and Caicos Islands,,,,21.69400000000001,-71.7979
 2853,adm1,United Kingdom,Wales,,,,52.3496,-3.63785
@@ -4131,7 +4131,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4130,adm2,United States of America,Maine,Kennebec,,,44.40759555,-69.76738544
 4131,adm2,United States of America,Maine,Knox,,,44.11486325,-69.10529169
 4132,adm2,United States of America,Maine,Lincoln,,,44.05996956,-69.54227124
-4133,adm2,United States of America,Maine,Out of ME,,,45.8807558,-89.17580140000003
+4133,adm2,United States of America,Maine,Out of ME,,,45.8807558,-89.17580140000004
 4134,adm2,United States of America,Maine,Oxford,,,44.49952995,-70.75682123
 4135,adm2,United States of America,Maine,Penobscot,,,45.40194593,-68.65020455
 4136,adm2,United States of America,Maine,Piscataquis,,,45.83839062,-69.2860223
@@ -4860,7 +4860,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4859,adm2,United States of America,New York,Monroe,,,43.14638895,-77.69322942
 4860,adm2,United States of America,New York,Montgomery,,,42.90123494,-74.44011632
 4861,adm2,United States of America,New York,Nassau,,,40.74066522,-73.58941873
-4862,adm2,United States of America,New York,New York,,,,
+4862,adm2,United States of America,New York,New York,,,27.960309,-82.442512
 4863,adm2,United States of America,New York,New York City,,,40.76727260000001,-73.97152637
 4864,adm2,United States of America,New York,Niagara,,,43.19898042,-78.74777412
 4865,adm2,United States of America,New York,Oneida,,,43.24375382,-75.43710392
@@ -5034,7 +5034,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 5033,adm2,United States of America,North Dakota,Mountrail,,,48.20197971,-102.3555315
 5034,adm2,United States of America,North Dakota,Nelson,,,47.9226426,-98.19038437
 5035,adm2,United States of America,North Dakota,Oliver,,,47.11530482,-101.3406158
-5036,adm2,United States of America,North Dakota,Out of ND,,,45.8807558,-89.17580140000003
+5036,adm2,United States of America,North Dakota,Out of ND,,,45.8807558,-89.17580140000004
 5037,adm2,United States of America,North Dakota,Pembina,,,48.76623521,-97.5523809
 5038,adm2,United States of America,North Dakota,Pierce,,,48.24977025,-99.96407787
 5039,adm2,United States of America,North Dakota,Ramsey,,,48.26886249,-98.72223879
@@ -6046,7 +6046,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6045,adm2,United States of America,Washington,Lincoln,,,47.57705241,-118.41943880000001
 6046,adm2,United States of America,Washington,Mason,,,47.35007586,-123.1863685
 6047,adm2,United States of America,Washington,Okanogan,,,48.54855019,-119.73872240000001
-6048,adm2,United States of America,Washington,Out of WA,,,45.8807558,-89.17580140000003
+6048,adm2,United States of America,Washington,Out of WA,,,45.8807558,-89.17580140000004
 6049,adm2,United States of America,Washington,Pacific,,,46.55418369,-123.7285716
 6050,adm2,United States of America,Washington,Pend Oreille,,,48.53234021,-117.2741804
 6051,adm2,United States of America,Washington,Pierce,,,47.03892768,-122.14059579999999
@@ -6099,7 +6099,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6098,adm2,United States of America,West Virginia,Morgan,,,39.55439028,-78.26311676
 6099,adm2,United States of America,West Virginia,Nicholas,,,38.29617706,-80.79759588
 6100,adm2,United States of America,West Virginia,Ohio,,,40.0955451,-80.62203992
-6101,adm2,United States of America,West Virginia,Out of WV,,,45.8807558,-89.17580140000003
+6101,adm2,United States of America,West Virginia,Out of WV,,,45.8807558,-89.17580140000004
 6102,adm2,United States of America,West Virginia,Pendleton,,,38.68314479,-79.35084086
 6103,adm2,United States of America,West Virginia,Pleasants,,,39.37091679,-81.16771771
 6104,adm2,United States of America,West Virginia,Pocahontas,,,38.32758728,-80.00993811
@@ -6807,7 +6807,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6806,adm3,China,Guangxi,,Yulin City,,22.6293,110.15067
 6807,adm3,China,Guizhou,,Bijie City,,27.30947,105.28092
 6808,adm3,China,Guizhou,,"Dafang County, Bijie City",,27.14665,105.6054
-6809,adm3,China,Guizhou,,"Daozhen County, Zunyi City",,28.883370000000006,107.5996
+6809,adm3,China,Guizhou,,"Daozhen County, Zunyi City",,28.88337000000001,107.5996
 6810,adm3,China,Guizhou,,"Guiding County, Qiannan Prefecture",,26.58335,107.23105
 6811,adm3,China,Guizhou,,Guiyang City,,26.57942,106.70786
 6812,adm3,China,Guizhou,,"Hezhang County, Bijie City",,27.1219,104.72351
@@ -6817,8 +6817,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6816,adm3,China,Guizhou,,Liupanshui City,,26.59444,104.83333
 6817,adm3,China,Guizhou,,"Nanming District, Guiyang City",,26.57175,106.71083
 6818,adm3,China,Guizhou,,Qiannan Prefecture,,26.27065,107.51233
-6819,adm3,China,Guizhou,,Qianxinan Prefecture,,25.093120000000006,104.89645
-6820,adm3,China,Guizhou,,"Siduju, Siduzhen, Huichuan District, Zunyi City",,27.718590000000006,106.92981
+6819,adm3,China,Guizhou,,Qianxinan Prefecture,,25.09312000000001,104.89645
+6820,adm3,China,Guizhou,,"Siduju, Siduzhen, Huichuan District, Zunyi City",,27.71859000000001,106.92981
 6821,adm3,China,Guizhou,,"Tianzhu County, Qiandongnan Prefecture",,26.91253,109.20649
 6822,adm3,China,Guizhou,,Tongren City,,27.723340000000004,109.18851
 6823,adm3,China,Guizhou,,"Wanshan District, Tongren City",,27.52269,109.20798
@@ -6959,7 +6959,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6958,adm3,China,Sichuan,,Guang'an City,,30.476740000000003,106.6379
 6959,adm3,China,Sichuan,,Leshan City,,29.5854,103.75755
 6960,adm3,China,Sichuan,,Liangshan Prefecture,,27.89,102.26343
-6961,adm3,China,Sichuan,,Luzhou City,,28.891820000000006,105.44093
+6961,adm3,China,Sichuan,,Luzhou City,,28.89182000000001,105.44093
 6962,adm3,China,Sichuan,,Mianyang City,,31.46688,104.73847
 6963,adm3,China,Sichuan,,Nanchong City,,30.79913,106.07843
 6964,adm3,China,Sichuan,,Neijiang City,,29.58716,105.0635
@@ -8034,7 +8034,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8033,adm3,Germany,Nordrhein-Westfalen,,Hochsauerlandkreis,,51.46667,7.55
 8034,adm3,Germany,Nordrhein-Westfalen,,Hoxter,,51.76667,9.36667
 8035,adm3,Germany,Nordrhein-Westfalen,,Höxter,,51.76667,9.36667
-8036,adm3,Germany,Nordrhein-Westfalen,,Kleve,,51.7875,6.135280000000002
+8036,adm3,Germany,Nordrhein-Westfalen,,Kleve,,51.7875,6.1352800000000025
 8037,adm3,Germany,Nordrhein-Westfalen,,Koln,,50.94222,6.9577800000000005
 8038,adm3,Germany,Nordrhein-Westfalen,,Krefeld,,51.33333,6.5666699999999985
 8039,adm3,Germany,Nordrhein-Westfalen,,Köln,,50.94222,6.9577800000000005
@@ -8351,7 +8351,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8350,adm3,India,Assam,,Jorhat,,26.75,94.21667
 8351,adm3,India,Assam,,Salmara Bongaigaon,,26.066768,91.121798
 8352,adm3,India,Assam,,Silchar,,24.81667,92.8
-8353,adm3,India,Bihar,,ALAMNAGAR,,25.642639000000006,86.913732
+8353,adm3,India,Bihar,,ALAMNAGAR,,25.64263900000001,86.913732
 8354,adm3,India,Bihar,,ARIYARI,,25.215042,84.789474
 8355,adm3,India,Bihar,,ARWAL,,25.24,84.67
 8356,adm3,India,Bihar,,ASTHAWAN,,25.219523,85.625175
@@ -8362,7 +8362,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8361,adm3,India,Bihar,,Ahiyasa,,25.206484,85.089125
 8362,adm3,India,Bihar,,Ajhour,,25.501356,86.174488
 8363,adm3,India,Bihar,,Akbarpur,,25.616198,87.05123
-8364,adm3,India,Bihar,,Alamnagar,,25.642639000000006,86.913732
+8364,adm3,India,Bihar,,Alamnagar,,25.64263900000001,86.913732
 8365,adm3,India,Bihar,,Alauli,,25.638733,86.410669
 8366,adm3,India,Bihar,,Alaulibeldaur,,25.776645585489998,86.1889788390678
 8367,adm3,India,Bihar,,Aliganj,,24.949107,85.924541
@@ -8532,7 +8532,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8531,adm3,India,Bihar,,Deokhaira,,25.776645585489998,86.1889788390678
 8532,adm3,India,Bihar,,Dhaka,,26.68,85.17
 8533,adm3,India,Bihar,,Dhamdaha,,25.735613,87.192167
-8534,adm3,India,Bihar,,Dhanarua,,25.193084,87.25575699999997
+8534,adm3,India,Bihar,,Dhanarua,,25.193084,87.25575699999996
 8535,adm3,India,Bihar,,Dhoraiya,,25.776645585489998,86.1889788390678
 8536,adm3,India,Bihar,,Dhoriya,,24.644004,84.217922
 8537,adm3,India,Bihar,,Dighwara,,25.723691,85.010808
@@ -8738,7 +8738,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8737,adm3,India,Bihar,,Mahkar,,25.022474,85.164321
 8738,adm3,India,Bihar,,Mahsona,,25.776645585489998,86.1889788390678
 8739,adm3,India,Bihar,,Mahua,,26.311569,86.601625
-8740,adm3,India,Bihar,,Makhdumpur,,25.531498000000006,87.36849000000002
+8740,adm3,India,Bihar,,Makhdumpur,,25.53149800000001,87.36849000000002
 8741,adm3,India,Bihar,,Mal'X>Ur,,25.776645585489998,86.1889788390678
 8742,adm3,India,Bihar,,Malahchak,,25.214125,84.99001
 8743,adm3,India,Bihar,,Malkauli,,25.761476,85.436589
@@ -8778,7 +8778,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8777,adm3,India,Bihar,,Mufasil,,25.776645585489998,86.1889788390678
 8778,adm3,India,Bihar,,Munger,,25.38,86.47
 8779,adm3,India,Bihar,,Murau L,,25.776645585489998,86.1889788390678
-8780,adm3,India,Bihar,,Murgiya Chak,,25.076667,87.08218199999997
+8780,adm3,India,Bihar,,Murgiya Chak,,25.076667,87.08218199999996
 8781,adm3,India,Bihar,,Murliganj,,25.9,86.98
 8782,adm3,India,Bihar,,Mushahar I,,26.360256,84.823796
 8783,adm3,India,Bihar,,Mushahari,,26.121574,85.394937
@@ -8882,7 +8882,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8881,adm3,India,Bihar,,Rajabajar,,25.21222,84.98106999999997
 8882,adm3,India,Bihar,,Rajauli,,24.65,85.5
 8883,adm3,India,Bihar,,Rajaun,,24.775353,86.155738
-8884,adm3,India,Bihar,,Rajaura,,25.460174,86.14304399999997
+8884,adm3,India,Bihar,,Rajaura,,25.460174,86.14304399999996
 8885,adm3,India,Bihar,,Rajnagar,,26.155675,87.61129
 8886,adm3,India,Bihar,,Rajpur,,25.074468,84.206096
 8887,adm3,India,Bihar,,Rajun,,25.643642,86.384622
@@ -8952,7 +8952,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 8951,adm3,India,Bihar,,Sampatchak,,25.776645585489998,86.1889788390678
 8952,adm3,India,Bihar,,Sandesh,,25.4043,84.7413
 8953,adm3,India,Bihar,,Sangrampu R,,25.620099,85.169788
-8954,adm3,India,Bihar,,Sangrampur,,25.067742000000006,86.190258
+8954,adm3,India,Bihar,,Sangrampur,,25.06774200000001,86.190258
 8955,adm3,India,Bihar,,Sanhaula,,25.776645585489998,86.1889788390678
 8956,adm3,India,Bihar,,Sanjhouli,,25.776645585489998,86.1889788390678
 8957,adm3,India,Bihar,,Sansarpokhar,,25.776645585489998,86.1889788390678
@@ -9072,7 +9072,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 9071,adm3,India,Chandigarh,,Sector 33 B,,28.587859,77.35592700000002
 9072,adm3,India,Chandigarh,,Sector 37,,30.739007,76.74839300000002
 9073,adm3,India,Chandigarh,,Sector 38,,30.741981,76.743942
-9074,adm3,India,Chandigarh,,Sector 40,,28.450940000000006,77.058773
+9074,adm3,India,Chandigarh,,Sector 40,,28.45094000000001,77.058773
 9075,adm3,India,Chandigarh,,Sector 49,,30.692243,76.750614
 9076,adm3,India,Chandigarh,,Sector 52,,30.712635,76.73831899999998
 9077,adm3,India,Chandigarh,,Sector 56,,30.737767,76.716626
@@ -9393,7 +9393,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 9392,adm3,India,Odisha,,Nayagarh,,20.13,85.1
 9393,adm3,India,Odisha,,Panchapalli,,20.202822,85.404808
 9394,adm3,India,Odisha,,Rourkela,,22.24917,84.88278000000003
-9395,adm3,India,Odisha,,Sundargarh,,22.116670000000006,84.03333
+9395,adm3,India,Odisha,,Sundargarh,,22.11667000000001,84.03333
 9396,adm3,India,Odisha,,"Suryanagar, Bhubaneswar",,20.26444,85.82806
 9397,adm3,India,Odisha,,Tigiria,,21.466769,86.976122
 9398,adm3,India,Odisha,,Tihidi,,20.199752,86.297423
@@ -9401,7 +9401,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 9400,adm3,India,Puducherry,,Ariyankuppam,,11.897,79.8052
 9401,adm3,India,Puducherry,,Mahe,,11.7004,75.5341
 9402,adm3,India,Puducherry,,Puducherry,,11.93,79.83
-9403,adm3,India,Punjab,,Amritsar,,31.616670000000006,74.85
+9403,adm3,India,Punjab,,Amritsar,,31.61667000000001,74.85
 9404,adm3,India,Punjab,,Banga,,11.63333,122.33333
 9405,adm3,India,Punjab,,Barnala,,35.348518,33.180347
 9406,adm3,India,Punjab,,Cheeda,,30.100392,75.685232
@@ -9551,7 +9551,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 9550,adm3,India,Uttar Pradesh,,Varanasi,,25.30694,83.00610999999998
 9551,adm3,India,Uttarakhand,,Almora,,29.62,79.67
 9552,adm3,India,Uttarakhand,,Dehradun,,30.33,78.06
-9553,adm3,India,Uttarakhand,,Dugadda,,29.809202000000006,78.615995
+9553,adm3,India,Uttarakhand,,Dugadda,,29.80920200000001,78.615995
 9554,adm3,India,Uttarakhand,,Haridwar,,29.892311,78.000723
 9555,adm3,India,Uttarakhand,,Nainital,,29.38,79.45
 9556,adm3,India,Uttarakhand,,Pauri Garhwal,,29.8,78.74
@@ -9736,7 +9736,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 9735,adm3,Paraguay,Itapua,,Coronel Bogado,,-27.16,-56.24
 9736,adm3,Paraguay,Itapua,,Encarnacion,,-27.33333,-55.86666999999999
 9737,adm3,Paraguay,Itapua,,Itapua Poty,,-26.5833,-55.5667
-9738,adm3,Paraguay,Itapua,,Natalio,,-26.757084000000006,-55.138085
+9738,adm3,Paraguay,Itapua,,Natalio,,-26.75708400000001,-55.138085
 9739,adm3,Paraguay,Itapua,,San Cosme Y Damian,,-27.3167,-56.35
 9740,adm3,Paraguay,Itapua,,San Pedro del Parana,,-26.8333,-56.2
 9741,adm3,Paraguay,Itapua,,San Rafael del Parana,,-26.65,-54.9333
@@ -11089,7 +11089,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11088,adm3,Philippines,Leyte,,Tacloban,,11.24444,125.00388999999998
 11089,adm3,Philippines,Maguindanao,,Cotabato,,7.806555,123.737452
 11090,adm3,Philippines,Maguindanao,,Datu Odin Sinsuat Dinaig,,7.18889,124.18389
-11091,adm3,Philippines,Maguindanao,,Shariff Aguak Maganoy,,6.864719999999998,124.44167
+11091,adm3,Philippines,Maguindanao,,Shariff Aguak Maganoy,,6.8647199999999975,124.44167
 11092,adm3,Philippines,Marinduque,,Gasan,,13.316670000000002,121.85
 11093,adm3,Philippines,Marinduque,,Mogpog,,13.48333,121.86667
 11094,adm3,Philippines,Marinduque,,Santa Cruz,,13.48333,122.03333
@@ -11586,7 +11586,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11585,adm3,United States,Texas,,Dallas County,,33.069263,-96.885002
 11586,adm3,United States,Texas,,Denton County,,33.215,-97.1331
 11587,adm3,United States,Texas,,El Paso County,,31.762215,-106.481405
-11588,adm3,United States,Texas,,Fort Bend County,,29.520003000000006,-95.810666
+11588,adm3,United States,Texas,,Fort Bend County,,29.52000300000001,-95.810666
 11589,adm3,United States,Texas,,Harris County,,29.799219,-95.810185
 11590,adm3,United States,Texas,,Montgomery County,,30.3883,-95.6963
 11591,adm3,United States,Utah,,Summit County,,37.8012,-112.9363
@@ -11658,7 +11658,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11657,adm2,India,Arunachal Pradesh,,Lepa Rada,,28.3667996777,94.74597886062159
 11658,adm2,India,Arunachal Pradesh,,Lohit,,27.965809000000004,96.183641
 11659,adm2,India,Arunachal Pradesh,,Longding,,28.3667996777,94.74597886062159
-11660,adm2,India,Arunachal Pradesh,,Lower Dibang Valley,,28.144540000000006,95.84172
+11660,adm2,India,Arunachal Pradesh,,Lower Dibang Valley,,28.14454000000001,95.84172
 11661,adm2,India,Arunachal Pradesh,,Lower Siang,,28.3667996777,94.74597886062159
 11662,adm2,India,Arunachal Pradesh,,Lower Subansiri,,27.54,93.81
 11663,adm2,India,Arunachal Pradesh,,Namsai,,28.3667996777,94.74597886062159
@@ -11695,7 +11695,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11694,adm2,India,Assam,,Kamrup,,26.072011,92.018827
 11695,adm2,India,Assam,,Kamrup Metropolitan,,26.072011,92.018827
 11696,adm2,India,Assam,,Karbi Anglong,,26.0,93.5
-11697,adm2,India,Assam,,Karimganj,,24.866670000000006,92.36667
+11697,adm2,India,Assam,,Karimganj,,24.86667000000001,92.36667
 11698,adm2,India,Assam,,Kokrajhar,,26.4,90.27
 11699,adm2,India,Assam,,Lakhimpur,,27.35,94.25
 11700,adm2,India,Assam,,Majuli,,27.903601,95.74417
@@ -11780,7 +11780,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11779,adm2,India,Chhattisgarh,,Rajnandgaon,,21.1,81.03
 11780,adm2,India,Chhattisgarh,,Sukma,,18.277715,81.314707
 11781,adm2,India,Chhattisgarh,,Surajpur,,23.2135,82.8684
-11782,adm2,India,Chhattisgarh,,Surguja,,23.116670000000006,83.2
+11782,adm2,India,Chhattisgarh,,Surguja,,23.11667000000001,83.2
 11783,adm2,India,Chhattisgarh,,Unknown,,21.523233224281,81.944138072797
 11784,adm2,India,Chhattisgarh,,Uttar Bastar Kanker,,19.0667,82.0331
 11785,adm2,India,Dadra and Nagar Haveli,,Dadra and Nagar Haveli,,20.13,73.06
@@ -11807,7 +11807,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11806,adm2,India,Goa,,Unknown,,15.32555604685,74.0541108203647
 11807,adm2,India,Gujarat,,Ahmadabad,,23.03,72.58
 11808,adm2,India,Gujarat,,Ahmedabad,,23.03,72.58
-11809,adm2,India,Gujarat,,Amreli,,21.616670000000006,71.23333000000002
+11809,adm2,India,Gujarat,,Amreli,,21.61667000000001,71.23333000000002
 11810,adm2,India,Gujarat,,Anand,,22.556,72.95100000000002
 11811,adm2,India,Gujarat,,Aravalli,,23.58157241658,71.3624549010153
 11812,adm2,India,Gujarat,,Banas Kantha,,24.17306,72.43139000000002
@@ -12108,7 +12108,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 12107,adm2,India,Manipur,,Tamenglong,,24.98333,93.48333
 12108,adm2,India,Manipur,,Tengnoupal,,24.381251,94.254649
 12109,adm2,India,Manipur,,Thoubal,,24.65,93.98333
-12110,adm2,India,Manipur,,Ukhrul,,25.116670000000006,94.36667
+12110,adm2,India,Manipur,,Ukhrul,,25.11667000000001,94.36667
 12111,adm2,India,Manipur,,Unknown,,24.437749411389998,93.7600939430848
 12112,adm2,India,Meghalaya,,East Garo Hills,,25.49546,90.61682
 12113,adm2,India,Meghalaya,,East Jaintia Hills,,25.37,92.33
@@ -12182,14 +12182,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 12181,adm2,India,Odisha,,Rayagada,,19.166,83.416
 12182,adm2,India,Odisha,,Sambalpur,,21.45,83.96667
 12183,adm2,India,Odisha,,Subarnapur,,21.266797,86.72104300000002
-12184,adm2,India,Odisha,,Sundargarh,,22.116670000000006,84.03333
+12184,adm2,India,Odisha,,Sundargarh,,22.11667000000001,84.03333
 12185,adm2,India,Odisha,,Unknown,,20.232931789560002,84.52593791184009
 12186,adm2,India,Puducherry,,Karaikal,,10.93278,79.83194
 12187,adm2,India,Puducherry,,Mahe,,11.7004,75.5341
 12188,adm2,India,Puducherry,,Puducherry,,11.93,79.83
 12189,adm2,India,Puducherry,,Unknown,,11.93,79.83
 12190,adm2,India,Puducherry,,Yanam,,16.7331,82.2136
-12191,adm2,India,Punjab,,Amritsar,,31.616670000000006,74.85
+12191,adm2,India,Punjab,,Amritsar,,31.61667000000001,74.85
 12192,adm2,India,Punjab,,Barnala,,35.348518,33.180347
 12193,adm2,India,Punjab,,Bathinda,,30.23,74.95
 12194,adm2,India,Punjab,,Faridkot,,30.65,74.75
@@ -12377,7 +12377,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 12376,adm2,India,Uttar Pradesh,,Basti,,26.8,82.7167
 12377,adm2,India,Uttar Pradesh,,Bhadohi,,25.393193,82.57029200000002
 12378,adm2,India,Uttar Pradesh,,Bijnor,,29.37,78.13
-12379,adm2,India,Uttar Pradesh,,Budaun,,28.116670000000006,78.98333000000002
+12379,adm2,India,Uttar Pradesh,,Budaun,,28.11667000000001,78.98333000000002
 12380,adm2,India,Uttar Pradesh,,Bulandshahr,,28.4,77.85
 12381,adm2,India,Uttar Pradesh,,Chandauli,,25.25694,83.26778
 12382,adm2,India,Uttar Pradesh,,Chitrakoot,,25.21361,80.91528000000002
@@ -12411,7 +12411,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 12410,adm2,India,Uttar Pradesh,,Lucknow,,26.86056,80.91583
 12411,adm2,India,Uttar Pradesh,,Maharajganj,,27.13,83.57
 12412,adm2,India,Uttar Pradesh,,Mahoba,,25.28,79.87288000000002
-12413,adm2,India,Uttar Pradesh,,Mahrajganj,,27.144170000000006,83.56222
+12413,adm2,India,Uttar Pradesh,,Mahrajganj,,27.14417000000001,83.56222
 12414,adm2,India,Uttar Pradesh,,Mainpuri,,27.23,79.02
 12415,adm2,India,Uttar Pradesh,,Mathura,,27.48333,77.68333
 12416,adm2,India,Uttar Pradesh,,Mau,,25.94167,83.56111

@@ -26,7 +26,7 @@ ACOSTAmbo  Tayacaja Peru,-75.0548,-12.3653
 AHUAC  Chupaca Peru,-75.2877,-12.0617
 AHUAYCHA  Tayacaja Peru,-74.8914,-12.4074
 AIJA  AIJA Peru,-77.5676,-9.8004
-ALAMNAGAR  Bihar India,86.913732,25.642639000000006
+ALAMNAGAR  Bihar India,86.913732,25.64263900000001
 ALEXANDER VON HUMBOLDT  PADRE ABAD Peru,-75.507,-8.7914
 ALFONSO UGARTE  SIHUAS Peru,-77.4435,-8.4678
 ALIS  YAUYOS Peru,-75.7864,-12.281
@@ -80,7 +80,7 @@ AYNA  LA MAR Peru,-73.906,-12.7248
 AZANGARO  AZANGARO Peru,-70.1956,-14.9095
 Aa en Hunze Netherlands Netherlands,5.078999,52.498265
 Aalsmeer Netherlands Netherlands,4.7625,52.26389
-Aalten Netherlands Netherlands,6.581110000000002,51.91583
+Aalten Netherlands Netherlands,6.5811100000000025,51.91583
 Aargau Switzerland,8.213096,47.38036500000001
 Abai  Caazapa Paraguay,-55.9333,-26.0333
 Abbeville South Carolina United States of America,-82.46170658,34.22333378
@@ -210,7 +210,7 @@ Alamance North Carolina United States of America,-79.39976137,36.0434701
 Alameda California United States of America,-121.8929271,37.64629437
 Alaminos  Laguna Philippines,121.25,14.066670000000002
 Alaminos  Pangasinan Philippines,119.98028,16.16028
-Alamnagar  Bihar India,86.913732,25.642639000000006
+Alamnagar  Bihar India,86.913732,25.64263900000001
 Alamosa Colorado United States of America,-105.7885451,37.57250606
 Aland  Karnataka India,76.57,17.57
 Alappuzha  Kerala India,76.32861,9.49778
@@ -346,10 +346,10 @@ Amnat Charoen Thailand,104.62278,15.90139
 Amour  Bihar India,87.721222,25.966344
 Amravati  Maharashtra India,77.75,20.93333
 Amravati Maharashtra India,77.75,20.93333
-Amreli  Gujarat India,71.23333000000002,21.616670000000006
-Amreli Gujarat India,71.23333000000002,21.616670000000006
-Amritsar  Punjab India,74.85,31.616670000000006
-Amritsar Punjab India,74.85,31.616670000000006
+Amreli  Gujarat India,71.23333000000002,21.61667000000001
+Amreli Gujarat India,71.23333000000002,21.61667000000001
+Amritsar  Punjab India,74.85,31.61667000000001
+Amritsar Punjab India,74.85,31.61667000000001
 Amroha  Uttar Pradesh India,78.4675,28.9044
 Amroha Uttar Pradesh India,78.4675,28.9044
 Amstelveen Netherlands Netherlands,4.83333,52.3
@@ -560,7 +560,7 @@ Asturias Spain,-6.0,43.33333
 Asuncion  Asuncion Paraguay,-57.556707,-25.268995
 Asuncion  Cajamarca Peru,-78.5272,-7.3382
 Asuncion  Chachapoyas Peru,-77.8721,-6.2293
-Atacama Chile,-70.33221999999999,-27.366670000000006
+Atacama Chile,-70.33221999999999,-27.36667000000001
 Atascosa Texas United States of America,-98.52730485,28.89333001
 Atchison Kansas United States of America,-95.30870026,39.53185661
 Atchison Missouri United States of America,-95.42970639,40.43238737
@@ -1549,8 +1549,8 @@ Buckinghamshire England United Kingdom,-0.75,51.75
 Bucks Pennsylvania United States of America,-75.10836643,40.33682119
 București Romania,26.08333,44.4
 Budapest Hungary,19.04083,47.49833
-Budaun  Uttar Pradesh India,78.98333000000002,28.116670000000006
-Budaun Uttar Pradesh India,78.98333000000002,28.116670000000006
+Budaun  Uttar Pradesh India,78.98333000000002,28.11667000000001
+Budaun Uttar Pradesh India,78.98333000000002,28.11667000000001
 Budgam  Jammu and Kashmir India,74.7197,34.01782
 Budgam Jammu and Kashmir India,74.7197,34.01782
 Budhavarpeta  Andhra Pradesh India,79.36247010684392,15.51803274931
@@ -2226,7 +2226,7 @@ Changjiang County  Hainan China,109.040967,19.196298
 Changjiang Li Autonomous County Hainan Mainland China China,109.040967,19.196298
 Changlang  Arunachal Pradesh India,95.74,27.13
 Changlang Arunachal Pradesh India,95.74,27.13
-Changning District Shanghai Mainland China China,121.41947,31.222240000000006
+Changning District Shanghai Mainland China China,121.41947,31.22224000000001
 Changping District  Beijing China,116.2255,40.21965
 Changping District Beijing Mainland China China,116.25322,40.140933
 Changsha City  Hunan China,113.132,28.2439
@@ -2690,7 +2690,7 @@ Consolacion  Cebu Province Philippines,123.941981,10.40437
 Consolacion del Sur  Pinar del Rio Cuba,-83.51722,22.50833
 Consolacion del Sur  Pinar del Río Cuba,-83.51722,22.50833
 Consolación del Sur  Pinar del Río Cuba,-83.6719,22.4122
-Constantine Algeria,6.614719999999998,36.365
+Constantine Algeria,6.6147199999999975,36.365
 Constanța Romania,28.63833,44.17333
 Constitucion  Santa Fe Argentina,-60.33333,-33.23333
 Contadero  Narino Colombia,-77.5333,0.9167
@@ -2956,7 +2956,7 @@ Danville Virginia United States of America,-79.40395668,36.58022376
 Danyang  North Chungcheong South Korea,126.993283,37.517872
 Danzhou City  Hainan China,109.58333,19.5
 Danzhou Hainan Mainland China China,109.58333,19.5
-"Daozhen County, Zunyi City  Guizhou China",107.5996,28.883370000000006
+"Daozhen County, Zunyi City  Guizhou China",107.5996,28.88337000000001
 Daqing Heilongjiang Mainland China China,125.00798,46.59791
 Daraga Locsin  Albay Philippines,123.69389,13.16194
 Darauli  Bihar India,84.13002,26.080678
@@ -3126,7 +3126,7 @@ Dhamdaha  Bihar India,87.192167,25.735613
 Dhamnagar  Odisha India,84.59304499999998,20.619972
 Dhamtari  Chhattisgarh India,81.55,20.71
 Dhamtari Chhattisgarh India,81.55,20.71
-Dhanarua  Bihar India,87.25575699999997,25.193084
+Dhanarua  Bihar India,87.25575699999996,25.193084
 Dhanas  Chandigarh India,76.748747,30.768706
 Dhanbad  Jharkhand India,86.41,23.78
 Dhanbad Jharkhand India,86.41,23.78
@@ -3315,7 +3315,7 @@ Dubuque Iowa United States of America,-90.88181925,42.46815349
 Duchesne Utah United States of America,-110.42523700000001,40.29772254
 Dudhpura  Bihar India,86.1184,25.793224
 Dudley England United Kingdom,-2.1,52.51667
-Dugadda  Uttarakhand India,78.615995,29.809202000000006
+Dugadda  Uttarakhand India,78.615995,29.80920200000001
 Duisburg  Nordrhein-Westfalen Germany,6.76111,51.43222
 Duitama  Boyaca Colombia,-73.02972,5.8219400000000014
 Duiven Netherlands Netherlands,6.0211,51.9472
@@ -3612,7 +3612,7 @@ Evacuees* Rajasthan India,73.83889,26.57278
 Evangeline Louisiana United States of America,-92.39915924,30.72985248
 Evans Georgia United States of America,-81.8870105,32.15328841
 Exaltacion de la Cruz  Buenos Aires Argentina,-59.1098,-34.2703
-Extremadura Spain,-6.407062000000002,38.684731
+Extremadura Spain,-6.4070620000000025,38.684731
 Ezeiza  Buenos Aires Argentina,-58.5287,-34.8479
 Ezhou Hubei Mainland China China,114.88418,30.397240000000004
 FERNANDO LORES  Maynas Peru,-73.1148,-4.2791
@@ -3648,7 +3648,7 @@ Faroe Islands Denmark,-6.9118,61.8926
 Farroupilha  Rio Grande do Sul Brazil,-51.211901,-30.038535
 Farrukhabad  Uttar Pradesh India,79.5801,27.3905
 Farrukhabad Uttar Pradesh India,79.5801,27.3905
-Fars Iran,52.53333000000001,29.616670000000006
+Fars Iran,52.53333000000001,29.61667000000001
 Fatehabad  Haryana India,75.455,29.51167
 Fatehabad Haryana India,75.455,29.51167
 Fatehgarh Sahib  Punjab India,76.39,30.65
@@ -3773,7 +3773,7 @@ Forrest County  Mississippi United States,-89.32797168693291,31.0008158582213
 Forrest Mississippi United States of America,-89.25832496,31.18961454
 Forsyth Georgia United States of America,-84.12315129999998,34.22604035
 Forsyth North Carolina United States of America,-80.25459052,36.12859861
-Fort Bend County  Texas United States,-95.810666,29.520003000000006
+Fort Bend County  Texas United States,-95.810666,29.52000300000001
 Fort Bend Texas United States of America,-95.77219463,29.52704478
 Fortaleza  Ceara Brazil,-38.5218,-3.7305
 Forth Valley Scotland United Kingdom,-3.688,55.7671
@@ -5013,7 +5013,7 @@ IRAZOLA  PADRE ABAD Peru,-75.2006,-8.8758
 ISLAY  ISLAY Peru,-72.0971,-16.9986
 ITE  JORGE BASADRE Peru,-70.9649,-17.8614
 Ialomița Romania,27.3,44.64
-Iași Romania,27.588890000000006,47.16222
+Iași Romania,27.58889000000001,47.16222
 Iba  Zambales Philippines,119.98333,15.333329999999998
 Ibaan  Batangas Philippines,121.13333,13.816670000000002
 Ibague  Tolima Colombia,-75.20056,4.43778
@@ -5090,8 +5090,8 @@ Ingham Michigan United States of America,-84.37472069,42.59716886
 Ingolstadt  Bayern Germany,11.42611,48.76361
 Ingushetia Republic Russia,131.880412,43.111373
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inmates Federal Bureau of Prisons United States of America,,
+Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Interior Health Region  British Columbia Canada,-125.022796545935,55.1712152811
@@ -5423,7 +5423,7 @@ Ji'an Jiangxi Mainland China China,114.63611000000002,27.026940000000003
 Jiading District Shanghai Mainland China China,121.23359,31.33745
 Jiamusi Heilongjiang Mainland China China,130.36531000000002,46.80808
 Jiangbei District Chongqing Mainland China China,106.5276,29.5755
-Jiangjin District Chongqing Mainland China China,106.25205,29.284370000000006
+Jiangjin District Chongqing Mainland China China,106.25205,29.28437000000001
 "Jiangkou County, Tongren City  Guizhou China",108.84277,27.696590000000004
 Jiangmen Guangdong Mainland China China,113.07224,22.58908
 Jiangsu China,119.455,32.9711
@@ -5590,7 +5590,7 @@ Kaiserslautern  Rhineland-Palatinate Germany,7.76889,49.44472
 Kaithal  Haryana India,76.39667,29.80167
 Kaithal Haryana India,76.39667,29.80167
 Kaithhar Kala  Bihar India,86.417172,24.974287
-Kaizhou District Chongqing Mainland China China,108.40387,31.172320000000006
+Kaizhou District Chongqing Mainland China China,108.40387,31.17232000000001
 Kakching  Manipur India,93.916881,24.403288
 Kakching Manipur India,93.916881,24.403288
 Kakinada  Andhra Pradesh India,82.21667,16.933329999999998
@@ -5701,7 +5701,7 @@ Karbi Anglong Assam India,93.5,26.0
 Kargahar  Bihar India,83.9277,25.1269
 Kargil  Ladakh India,76.4,34.01667
 Kargil Ladakh India,76.4,34.01667
-Karimganj  Assam India,92.36667,24.866670000000006
+Karimganj  Assam India,92.36667,24.86667000000001
 Karimganj Assam India,91.77,26.14
 Karimnagar  Telangana India,79.15,18.43333
 Karimnagar Telangana India,79.15,18.43333
@@ -5912,7 +5912,7 @@ Kladno  Central Bohemian Region Czech Republic,14.10528,50.14306
 Klamath Oregon United States of America,-121.64964609999998,42.68762984
 Klatovy  Plzen Region Czech Republic,13.29509,49.39563
 Kleberg Texas United States of America,-97.69894948,27.42435506
-Kleve  Nordrhein-Westfalen Germany,6.135280000000002,51.7875
+Kleve  Nordrhein-Westfalen Germany,6.1352800000000025,51.7875
 Klickitat Washington United States of America,-120.7913598,45.87325839
 Knott Kentucky United States of America,-82.94981134,37.35388197
 Knowsley England United Kingdom,-2.85,53.41
@@ -6680,7 +6680,7 @@ Lohardaga  Jharkhand India,84.68,23.43
 Lohardaga Jharkhand India,84.68,23.43
 Lohit  Arunachal Pradesh India,96.183641,27.965809000000004
 Lohit Arunachal Pradesh India,96.183641,27.965809000000004
-Loja Ecuador,-79.2,-3.983330000000001
+Loja Ecuador,-79.2,-3.983330000000002
 Loma Plata  Boqueron Paraguay,-59.85,-22.3833
 Lomas de Zamora  Buenos Aires Argentina,-58.4,-34.76667
 Lombardia Italy,17.735573000000006,40.351691
@@ -6739,8 +6739,8 @@ Louth Ireland,-6.53333,53.95
 Love Oklahoma United States of America,-97.23906784,33.95273467
 Loving Texas United States of America,-98.5106,33.2643
 Lovrenc na Pohorju Drava Slovenia,15.38436,46.5381
-Lower Dibang Valley  Arunachal Pradesh India,95.84172,28.144540000000006
-Lower Dibang Valley Arunachal Pradesh India,95.84172,28.144540000000006
+Lower Dibang Valley  Arunachal Pradesh India,95.84172,28.14454000000001
+Lower Dibang Valley Arunachal Pradesh India,95.84172,28.14454000000001
 Lower Sava Slovenia,14.108089,46.367203
 Lower Siang  Arunachal Pradesh India,94.74597886062159,28.3667996777
 Lower Siang Arunachal Pradesh India,93.37,27.06
@@ -6809,8 +6809,8 @@ Luxembourg  Wallonia Belgium,5.41667,49.91667
 "Luyuan District, Changchun City  Jilin China",125.2495,43.87816
 Luzern Switzerland,8.3,47.04972
 Luzerne Pennsylvania United States of America,-75.98447579,41.17823008
-Luzhou City  Sichuan China,105.44093,28.891820000000006
-Luzhou Sichuan Mainland China China,105.44093,28.891820000000006
+Luzhou City  Sichuan China,105.44093,28.89182000000001
+Luzhou Sichuan Mainland China China,105.44093,28.89182000000001
 "Luzzara, Reggio Emilia  Emilia-Romagna Italy",10.68333,44.96667
 Luče Savinja Slovenia,14.746670000000002,46.35611
 Lviv Ukraine,24.0316,49.842
@@ -7014,8 +7014,8 @@ Mahnomen Minnesota United States of America,-95.80921485,47.32557075
 Mahoba  Uttar Pradesh India,79.87288000000002,25.28
 Mahoba Uttar Pradesh India,79.87288000000002,25.28
 Mahoning Ohio United States of America,-80.77287029,41.01631101
-Mahrajganj  Uttar Pradesh India,83.56222,27.144170000000006
-Mahrajganj Uttar Pradesh India,83.56222,27.144170000000006
+Mahrajganj  Uttar Pradesh India,83.56222,27.14417000000001
+Mahrajganj Uttar Pradesh India,83.56222,27.14417000000001
 Mahsona  Bihar India,86.1889788390678,25.776645585489998
 Mahua  Bihar India,86.601625,26.311569
 Maicao  La Guajira Colombia,-72.24139,11.37778
@@ -7048,7 +7048,7 @@ Makati  Metro Maniila Philippines,121.017668,14.555641
 Makati  Metro Manila Philippines,120.957272,14.664997
 Makati City Metro Manila Philippines,121.003374,14.565323
 Makato  Aklan Philippines,122.28333,11.7
-Makhdumpur  Bihar India,87.36849000000002,25.531498000000006
+Makhdumpur  Bihar India,87.36849000000002,25.53149800000001
 Makkah Saudi Arabia,41.0,21.5
 Makole Drava Slovenia,15.67139,46.31667
 Mal'X>Ur  Bihar India,86.1889788390678,25.776645585489998
@@ -7200,8 +7200,8 @@ Marikinia  Metro Manila Philippines,121.107235,14.6663
 Marilao  Bulacan Philippines,120.966521,14.765535
 Marilao Bulacan Philippines,120.966521,14.765535
 Marin California United States of America,-122.72106310000001,38.07122463
-Marine Corps US Military United States of America,-83.09782779999998,42.3038203
 Marine Corps US Military United States of America,,
+Marine Corps US Military United States of America,-83.09782779999998,42.3038203
 Marinette Wisconsin United States of America,-88.03324599999998,45.38553432
 Maringa  Parana Brazil,-51.9383,-23.4251
 Marinilla  Antioquia Colombia,-75.3,6.2
@@ -7785,7 +7785,7 @@ Mura Slovenia,16.176356,46.658736
 Murau L  Bihar India,86.1889788390678,25.776645585489998
 Murcia Spain,-1.13028,37.98611
 Mureș Romania,24.61,46.59
-Murgiya Chak  Bihar India,87.08218199999997,25.076667
+Murgiya Chak  Bihar India,87.08218199999996,25.076667
 Murliganj  Bihar India,86.98,25.9
 Murmansk Oblast Russia,34.56667,68.03333
 Murray Georgia United States of America,-84.74993177,34.78897608
@@ -7825,7 +7825,7 @@ Mönchengladbach  Nordrhein-Westfalen Germany,6.4333300000000015,51.2
 Møre og Romsdal Norway,7.150760000000001,62.73455
 Mālpils novads Riga Latvia,24.10694,56.9475
 Mārupes novads Riga Latvia,24.10694,56.9475
-Mērsraga novads Kurzeme Latvia,23.024451000000006,57.311496
+Mērsraga novads Kurzeme Latvia,23.02445100000001,57.311496
 NALANDA  Bihar India,85.52,25.2
 NAMBALLE  SAN IGNACIO Peru,-79.0877,-5.0046
 NAPO  Maynas Peru,-77.2208,-10.6124
@@ -7969,7 +7969,7 @@ Nassau New York United States of America,-73.58941873,40.74066522
 Nasugbu  Batangas Philippines,120.63333,14.066670000000002
 Nasugbu Batangas Philippines,120.63333,14.066670000000002
 Natal  Rio Grande do Norte Brazil,-35.174948,-5.889624
-Natalio  Itapua Paraguay,-55.138085,-26.757084000000006
+Natalio  Itapua Paraguay,-55.138085,-26.75708400000001
 Natchitoches Louisiana United States of America,-93.09816516,31.72321584
 Nathna Gar  Bihar India,84.89793399999998,26.316867
 Nathnagar  Bihar India,83.024525,26.641869
@@ -7994,8 +7994,8 @@ Navi Mumbai  Maharashtra India,73.01,19.03
 Navotas  Metro Manila Philippines,120.957272,14.664997
 Navsari  Gujarat India,72.92305999999998,20.95056
 Navsari Gujarat India,72.92305999999998,20.95056
-Navy US Military United States of America,,
 Navy US Military United States of America,-78.8835,42.9507
+Navy US Military United States of America,,
 Nawada  Bihar India,85.53,24.88
 Nawada Bihar India,85.53,24.88
 Nawakothi  Bihar India,86.1889788390678,25.776645585489998
@@ -8053,7 +8053,7 @@ Netherlands,5.2913,52.1326
 Netherlands Netherlands,5.078999,52.498265
 Neu-Ulm  Bayern Germany,10.0,48.38333
 Neuburg-Schrobenhausen  Bayern Germany,11.231409,48.578719
-Neuchâtel Switzerland,6.930560000000002,46.99028
+Neuchâtel Switzerland,6.9305600000000025,46.99028
 Neumarkt i.d.OPf.  Bayern Germany,11.46667,49.28333
 Neumunster  Schleswig-Holstein Germany,9.99,54.07139
 Neunkirchen  Saarland Germany,7.16667,49.35
@@ -8090,7 +8090,7 @@ New Territories East Hong Kong China,114.21614850000002,22.285999
 New Territories West Hong Kong China,114.1608345,22.304819
 New York City  New York United States,-73.9808,40.7648
 New York City New York United States of America,-73.97152637,40.76727260000001
-New York New York United States of America,-82.442512, 27.960309
+New York New York United States of America,-82.442512,27.960309
 New York United States of America,-73.9808,40.7648
 New Zealand,174.886,-40.9006
 Newaygo Michigan United States of America,-85.80070107,43.554373999999996
@@ -8596,14 +8596,14 @@ Out of KY Kentucky United States of America,-85.0,37.5
 Out of LA Louisiana United States of America,-92.0,31.0
 Out of MA Massachusetts United States of America,-71.8,42.3
 Out of MD Maryland United States of America,-77.011763,38.63208
-Out of ME Maine United States of America,-89.17580140000003,45.8807558
+Out of ME Maine United States of America,-89.17580140000004,45.8807558
 Out of MI Michigan United States of America,-88.9942387, 45.9803791
 Out of MN Minnesota United States of America,-93.2351,44.9755
 Out of MO Missouri United States of America,-92.5,38.5
 Out of MS Mississippi United States of America,-89.17135259999998,45.8556453
 Out of MT Montana United States of America,-110.0,47.0
 Out of NC North Carolina United States of America,-80.2547,36.1314
-Out of ND North Dakota United States of America,-89.17580140000003,45.8807558
+Out of ND North Dakota United States of America,-89.17580140000004,45.8807558
 Out of NE Nebraska United States of America,-95.8587,40.6765
 Out of NH New Hampshire United States of America,-71.5,44.0
 Out of NJ New Jersey United States of America,-74.5,40.0
@@ -8623,9 +8623,9 @@ Out of TX Texas United States of America,-96.344316,30.644194
 Out of UT Utah United States of America,-89.1758014, 45.8807558
 Out of VA Virginia United States of America,-79.0,37.5
 Out of VT Vermont United States of America,-72.7,44.0
-Out of WA Washington United States of America,-89.17580140000003,45.8807558
+Out of WA Washington United States of America,-89.17580140000004,45.8807558
 Out of WI Wisconsin United States of America,-89.17135259999998,45.8556453
-Out of WV West Virginia United States of America,-89.17580140000003,45.8807558
+Out of WV West Virginia United States of America,-89.17580140000004,45.8807558
 Out of WY Wyoming United States of America,-87.326678,31.436491
 Out of state Colorado United States of America,-105.5,39.0
 Out of state Illinois United States of America,-89.17135259999998,45.8556453
@@ -9467,9 +9467,9 @@ Qianjiang Tujia and Miao Autonomous County Chongqing Mainland China China,108.76
 Qiannan Guizhou Mainland China China,107.51233,26.27065
 Qiannan Prefecture  Guizhou China,107.51233,26.27065
 "Qianshan City, Anqing City  Anhui China",116.56889,30.64117
-Qianxinan Guizhou Mainland China China,104.89645,25.093120000000006
-Qianxinan Prefecture  Guizhou China,104.89645,25.093120000000006
-Qijiang District Chongqing Mainland China China,106.65101,29.032590000000006
+Qianxinan Guizhou Mainland China China,104.89645,25.09312000000001
+Qianxinan Prefecture  Guizhou China,104.89645,25.09312000000001
+Qijiang District Chongqing Mainland China China,106.65101,29.03259000000001
 "Qilihe District, Lanzhou City  Gansu China",103.78314,36.06615
 "Qingcheng County, Qingyang City  Gansu China",107.88481000000002,36.00248
 Qingdao Shandong Mainland China China,120.4,36.11667
@@ -9587,7 +9587,7 @@ Rajapalayam  Tamil Nadu India,77.55,9.45
 Rajasthan India,73.83889,26.57278
 Rajauli  Bihar India,85.5,24.65
 Rajaun  Bihar India,86.155738,24.775353
-Rajaura  Bihar India,86.14304399999997,25.460174
+Rajaura  Bihar India,86.14304399999996,25.460174
 Rajgarh  Madhya Pradesh India,76.9,23.91
 Rajgarh Madhya Pradesh India,76.9,23.91
 Rajkot  Gujarat India,70.79836,22.29691
@@ -9676,7 +9676,7 @@ Ratnagiri Maharashtra India,73.3,16.98333
 Ratni Faridpur  Bihar India,87.690237,25.726925
 Ratni Farispir  Bihar India,87.690237,25.726925
 Ratnifaridpur  Bihar India,86.1889788390678,25.776645585489998
-Raunas novads Vidzeme Latvia,25.609720000000006,57.33221999999999
+Raunas novads Vidzeme Latvia,25.60972000000001,57.33221999999999
 Ravalli Montana United States of America,-114.11891640000002,46.08520862
 Ravenna Emilia Romagna Italy,12.028913,44.372792
 Ravensburg  Baden-Wurttemberg Germany,9.61139,47.78306
@@ -10194,7 +10194,7 @@ Saladillo  Buenos Aires Argentina,-59.76667,-35.63333
 Saladoblanco  Huila Colombia,-76.0434,1.9924
 Salamanca  Castilla y Leon Spain,-5.6492834,40.9319467
 Salarpur  Bihar India,85.085082,25.089902
-Salas novads Zemgale Latvia,25.762220000000006,56.50417
+Salas novads Zemgale Latvia,25.76222000000001,56.50417
 Salaspils novads Riga Latvia,24.10694,56.9475
 Salavina  Santiago del Estero Argentina,-63.45056,-28.985
 Saldus novads Kurzeme Latvia,22.5,56.66667
@@ -10444,7 +10444,7 @@ Sangareddy Telangana India,77.969813,17.635288
 Sangli  Maharashtra India,74.56667,16.866670000000006
 Sangli Maharashtra India,74.56667,16.866670000000006
 Sangrampu R  Bihar India,85.169788,25.620099
-Sangrampur  Bihar India,86.190258,25.067742000000006
+Sangrampur  Bihar India,86.190258,25.06774200000001
 Sangrur  Punjab India,75.83333,30.23333
 Sangrur Punjab India,75.83333,30.23333
 Sanhaula  Bihar India,86.1889788390678,25.776645585489998
@@ -10685,7 +10685,7 @@ Sector 32  Chandigarh India,76.88011800000002,30.708782
 Sector 33 B  Chandigarh India,77.35592700000002,28.587859
 Sector 37  Chandigarh India,76.74839300000002,30.739007
 Sector 38  Chandigarh India,76.743942,30.741981
-Sector 40  Chandigarh India,77.058773,28.450940000000006
+Sector 40  Chandigarh India,77.058773,28.45094000000001
 Sector 49  Chandigarh India,76.750614,30.692243
 Sector 52  Chandigarh India,76.73831899999998,30.712635
 Sector 56  Chandigarh India,76.716626,30.737767
@@ -10788,7 +10788,7 @@ Shaoxing Zhejiang Mainland China China,120.58333,30.0
 Shaoyang Hunan Mainland China China,111.27182,26.99373
 Shapingba District Chongqing Mainland China China,106.45359,29.54377
 Sharif  Bihar India,86.1889788390678,25.776645585489998
-Shariff Aguak Maganoy  Maguindanao Philippines,124.44167,6.864719999999998
+Shariff Aguak Maganoy  Maguindanao Philippines,124.44167,6.8647199999999975
 Sharkey Mississippi United States of America,-90.81595379999999,32.88149103
 Sharp Arkansas United States of America,-91.47819342,36.16258158
 Shashtri Nagar  Rajasthan India,73.004593,26.265915000000003
@@ -10902,7 +10902,7 @@ Sidhi Madhya Pradesh India,81.88,24.42
 Sidhwalia  Bihar India,84.723871,25.812071
 Sidi Bel Abbes Algeria,-0.6333300000000001,35.2
 Sidrolandia  Mato Grosso do Sul Brazil,-54.9692,-20.9302
-"Siduju, Siduzhen, Huichuan District, Zunyi City  Guizhou China",106.92981,27.718590000000006
+"Siduju, Siduzhen, Huichuan District, Zunyi City  Guizhou China",106.92981,27.71859000000001
 Siegen-Wittgenstein  Nordrhein-Westfalen Germany,8.01667,50.87556
 Siena Toscana Italy,11.33139,43.31833
 Sierra California United States of America,-120.52007009999998,39.57713498
@@ -11367,8 +11367,8 @@ Sumter Georgia United States of America,-84.19821492,32.03650571
 Sumter South Carolina United States of America,-80.37942316,33.91826534
 Sumy Ukraine,34.7947,50.9133
 "Sunac City, Shangcheng, Changchun City  Jilin China",125.2,43.9
-Sundargarh  Odisha India,84.03333,22.116670000000006
-Sundargarh Odisha India,84.03333,22.116670000000006
+Sundargarh  Odisha India,84.03333,22.11667000000001
+Sundargarh Odisha India,84.03333,22.11667000000001
 Sunderland England United Kingdom,-1.38028,54.9
 Sunflower Mississippi United States of America,-90.58882684,33.60192578
 Sunshine Coast  Queensland Australia,153.0882,-26.6524
@@ -11388,8 +11388,8 @@ Surat Thani Thailand,99.33167,9.13333
 Surdaspur  Bihar India,85.818401,25.138843
 Surendranagar  Gujarat India,71.71667,22.71667
 Surendranagar Gujarat India,71.71667,22.71667
-Surguja  Chhattisgarh India,83.2,23.116670000000006
-Surguja Chhattisgarh India,83.2,23.116670000000006
+Surguja  Chhattisgarh India,83.2,23.11667000000001
+Surguja Chhattisgarh India,83.2,23.11667000000001
 Surigao  Surigao Del Norte Philippines,125.48333,9.78333
 Surin Thailand,103.49,14.88
 Suriname,-56.0278,3.9193
@@ -11602,7 +11602,7 @@ Taylor Texas United States of America,-99.89007449,32.30163422
 Taylor West Virginia United States of America,-80.0421439,39.33602617
 Taylor Wisconsin United States of America,-90.5004405,45.21179252
 Taysan  Batangas Philippines,121.2,13.78333
-Tayside Scotland United Kingdom,-3.989287000000001,55.87391700000001
+Tayside Scotland United Kingdom,-3.989287000000002,55.87391700000001
 Taytay  Rizal Philippines,121.1325,14.569170000000002
 Taytay Rizal Philippines,121.1325,14.569170000000002
 Tazewell Illinois United States of America,-89.51404662,40.50716185
@@ -11816,7 +11816,7 @@ Tongliang District Chongqing Mainland China China,106.05331,29.84007
 Tongliao City  Inner Mongolia China,122.26398,43.61723
 Tongliao Neimenggu Mainland China China,122.26398,43.61723
 Tongling Anhui Mainland China China,117.76667,30.93333
-Tongnan District Chongqing Mainland China China,105.83155,30.178790000000006
+Tongnan District Chongqing Mainland China China,105.83155,30.17879000000001
 Tongren City  Guizhou China,109.18851,27.723340000000004
 Tongren Guizhou Mainland China China,109.18851,27.723340000000004
 Tongzhou District  Beijing China,116.65133,39.90858
@@ -12005,8 +12005,8 @@ Ujiyapur  Bihar India,86.1889788390678,25.776645585489998
 Ujiyarpur  Bihar India,83.966422,25.457505
 Ujjain  Madhya Pradesh India,75.77722,23.18278
 Ujjain Madhya Pradesh India,75.77722,23.18278
-Ukhrul  Manipur India,94.36667,25.116670000000006
-Ukhrul Manipur India,94.36667,25.116670000000006
+Ukhrul  Manipur India,94.36667,25.11667000000001
+Ukhrul Manipur India,94.36667,25.11667000000001
 Ukraine,31.1656,48.3794
 Ulanqab Neimenggu Mainland China China,113.12444,40.99194
 Ulhasnagar  Maharashtra India,73.163624,19.236763
