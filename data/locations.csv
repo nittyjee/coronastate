@@ -1,5 +1,5 @@
 num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
-1,adm0,Afghanistan,,,,,33.0,65.0
+1,adm0,Afghanistan,,,,,33.93911,67.709953
 2,adm0,Albania,,,,,41.1533,20.1683
 3,adm1,Albania,Berat,,,,40.70494,19.94967
 4,adm1,Albania,Dibër,,,,41.68333,20.43333
@@ -95,9 +95,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 94,adm1,Australia,Australian Capital Territory,,,,-35.4735,149.0124
 95,adm1,Australia,New South Wales,,,,-33.8688,151.2093
 96,adm1,Australia,Northern Territory,,,,-12.4634,130.8456
-97,adm1,Australia,Queensland,,,,-28.0167,153.4
+97,adm1,Australia,Queensland,,,,-27.4698,153.0251
 98,adm1,Australia,South Australia,,,,-34.9285,138.6007
-99,adm1,Australia,Tasmania,,,,-41.4545,145.9707
+99,adm1,Australia,Tasmania,,,,-42.8821,147.3272
 100,adm1,Australia,Victoria,,,,-37.8136,144.9631
 101,adm1,Australia,Western Australia,,,,-31.9505,115.8605
 102,adm0,Austria,,,,,47.5162,14.5501
@@ -111,7 +111,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 110,adm1,Austria,Vorarlberg,,,,47.24361,9.89389
 111,adm1,Austria,Wien,,,,48.20833,16.37306
 112,adm0,Azerbaijan,,,,,40.1431,47.5769
-113,adm0,Bahamas,,,,,25.0343,-77.3963
+113,adm0,Bahamas,,,,,25.025885,-78.035889
 114,adm0,Bahrain,,,,,26.0275,50.55
 115,adm0,Bangladesh,,,,,23.685,90.3563
 116,adm1,Bangladesh,Barisal,,,,22.7217,90.3571
@@ -124,11 +124,11 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 123,adm1,Bangladesh,Sylhet,,,,24.9,91.86667
 124,adm0,Barbados,,,,,13.1939,-59.5432
 125,adm0,Belarus,,,,,53.7098,27.9534
-126,adm0,Belgium,,,,,50.8333,4.0
+126,adm0,Belgium,,,,,50.8333,4.469936
 127,adm1,Belgium,Brussels,,,,50.8467,4.3547
 128,adm1,Belgium,Flanders,,,,51.0,5.0
 129,adm1,Belgium,Wallonia,,,,50.4676101,4.1689196000000015
-130,adm0,Belize,,,,,13.1939,-59.5432
+130,adm0,Belize,,,,,17.1899,-88.4976
 131,adm0,Benin,,,,,9.3077,2.3158
 132,adm0,Bhutan,,,,,27.5142,90.4336
 133,adm0,Bolivia,,,,,-16.2902,-63.5887
@@ -172,9 +172,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 171,adm0,Cameroon,,,,,3.848,11.5021
 172,adm0,Canada,,,,,56.0,-109.0
 173,adm1,Canada,Alberta,,,,53.9333,-116.5765
-174,adm1,Canada,British Columbia,,,,49.2827,-123.1207
+174,adm1,Canada,British Columbia,,,,53.7267,-127.6476
 175,adm1,Canada,Diamond Princess,,,,,
-176,adm1,Canada,Grand Princess,,,,37.6489,-122.6655
+176,adm1,Canada,Grand Princess,,,,,
 177,adm1,Canada,Manitoba,,,,53.7609,-98.8139
 178,adm1,Canada,New Brunswick,,,,46.5653,-66.4619
 179,adm1,Canada,Newfoundland and Labrador,,,,53.1355,-57.6604
@@ -209,14 +209,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 208,adm1,China,Beijing,,,,40.1824,116.4142
 209,adm1,China,Chongqing,,,,30.0572,107.874
 210,adm1,China,Fujian,,,,26.0789,117.9874
-211,adm1,China,Gansu,,,,37.8099,101.0583
+211,adm1,China,Gansu,,,,35.7518,104.2861
 212,adm1,China,Guangdong,,,,23.3417,113.4244
 213,adm1,China,Guangxi,,,,23.8298,108.7881
 214,adm1,China,Guizhou,,,,26.8154,106.8748
 215,adm1,China,Hainan,,,,19.1959,109.7453
 216,adm1,China,Hebei,,,,39.549,116.1306
 217,adm1,China,Heilongjiang,,,,47.862,127.7615
-218,adm1,China,Henan,,,,33.882,113.614
+218,adm1,China,Henan,,,,37.8957,114.9042
 219,adm1,China,Hong Kong,,,,22.3,114.2
 220,adm2,China,Hong Kong,Island East,,,53.702439,-8.610885000000001
 221,adm2,China,Hong Kong,Island West,,,53.70000400000001,-8.626315
@@ -726,7 +726,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 725,adm1,Colombia,Vaupes,,,,1.2,-70.16667
 726,adm1,Colombia,Vichada,,,,4.549839,-69.46571899999999
 727,adm0,Comoros,,,,,-11.6455,43.3333
-728,adm0,Congo (Brazzaville),,,,,-4.0383,21.7587
+728,adm0,Congo (Brazzaville),,,,,-0.228,15.8277
 729,adm0,Congo (Kinshasa),,,,,-4.0383,21.7587
 730,adm0,Costa Rica,,,,,9.7489,-83.7534
 731,adm0,Cote d'Ivoire,,,,,8.0,-6.0
@@ -752,7 +752,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 751,adm1,Croatia,Zadarska,,,,45.809516,15.973285
 752,adm1,Croatia,Zagrebačka,,,,44.473469,14.925534
 753,adm1,Croatia,Šibensko-Kninska,,,,45.25,15.46667
-754,adm0,Cuba,,,,,22.0,-80.0
+754,adm0,Cuba,,,,,21.521757,-77.78116700000002
 755,adm0,Cyprus,,,,,35.1264,33.4299
 756,adm0,Czechia,,,,,49.8175,15.473
 757,adm1,Czechia,Central Bohemian,,,,50.091365,14.414927
@@ -808,9 +808,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 807,adm1,Ecuador,Sucumbios,,,,-0.08333,-76.88333
 808,adm1,Ecuador,Tungurahua,,,,-1.23333,-78.61667
 809,adm1,Ecuador,Zamora-Chinchipe,,,,-4.167731,-78.867006
-810,adm0,Egypt,,,,,26.0,30.0
+810,adm0,Egypt,,,,,26.820553000000004,30.802498
 811,adm0,El Salvador,,,,,13.7942,-88.8965
-812,adm0,Equatorial Guinea,,,,,1.5,10.0
+812,adm0,Equatorial Guinea,,,,,1.6508,10.2679
 813,adm0,Eritrea,,,,,15.1794,39.7823
 814,adm0,Estonia,,,,,58.5953,25.0136
 815,adm1,Estonia,Harju,,,,58.7421,22.6185
@@ -831,7 +831,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 830,adm0,Eswatini,,,,,-26.5225,31.4659
 831,adm0,Ethiopia,,,,,9.145,40.4897
 832,adm0,Fiji,,,,,-17.7134,178.065
-833,adm0,Finland,,,,,64.0,26.0
+833,adm0,Finland,,,,,61.92411,25.748151
 834,adm1,Finland,Central Finland Hospital District,,,,62.5,25.5
 835,adm1,Finland,Central Ostrobothnia Hospital District,,,,63.5,24.25
 836,adm1,Finland,Etelä-Savo Hospital District,,,,62.0,27.5
@@ -856,9 +856,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 855,adm0,France,,,,,46.2276,2.2137
 856,adm1,France,French Guiana,,,,3.9339,-53.1258
 857,adm1,France,French Polynesia,,,,-17.6797,149.4068
-858,adm1,France,Guadeloupe,,,,16.25,-61.5833
+858,adm1,France,Guadeloupe,,,,16.265,-61.551
 859,adm1,France,Martinique,,,,14.6415,-61.0242
-860,adm1,France,Mayotte,,,,-12.8275,45.1662
+860,adm1,France,Mayotte,,,,-12.8275,45.166244
 861,adm1,France,Metropolitan France,,,,-33.450759999999995,-70.742439
 862,adm2,France,Metropolitan France,Auvergne-Rhône-Alpes,,,44.06361,0.4280600000000001
 863,adm2,France,Metropolitan France,Bourgogne-Franche-Comté,,,47.2197095,5.965753
@@ -873,7 +873,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 872,adm2,France,Metropolitan France,Pays de la Loire,,,44.06361,0.4280600000000001
 873,adm2,France,Metropolitan France,Provence-Alpes-Côte d'Azur,,,43.551754,7.0133839999999985
 874,adm2,France,Metropolitan France,Île-de-France,,,49.10941,0.705539
-875,adm1,France,New Caledonia,,,,-20.9043,165.618
+875,adm1,France,New Caledonia,,,,-20.904305,165.618042
 876,adm1,France,Overseas France,,,,43.296482,5.36978
 877,adm2,France,Overseas France,French Guiana,,,43.296482,5.36978
 878,adm2,France,Overseas France,French Polynesia,,,-17.53333,-149.56667
@@ -881,14 +881,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 880,adm2,France,Overseas France,Martinique,,,44.06361,0.4280600000000001
 881,adm2,France,Overseas France,Mayotte,,,43.296482,5.36978
 882,adm2,France,Overseas France,Reunion,,,44.06361,0.4280600000000001
-883,adm1,France,Reunion,,,,-21.1351,55.2471
+883,adm1,France,Reunion,,,,-21.1151,55.5364
 884,adm1,France,Saint Barthelemy,,,,17.9,-62.8333
 885,adm1,France,Saint Pierre and Miquelon,,,,46.8852,-56.3159
 886,adm1,France,St Martin,,,,18.0708,-63.0501
 887,adm0,Gabon,,,,,-0.8037,11.6094
 888,adm0,Gambia,,,,,13.4432,-15.3101
 889,adm0,Georgia,,,,,42.3154,43.3569
-890,adm0,Germany,,,,,51.0,9.0
+890,adm0,Germany,,,,,51.165691,10.451526
 891,adm1,Germany,Baden-Württemberg,,,,48.53778,9.04111
 892,adm1,Germany,Bayern,,,,48.7775,11.43111
 893,adm1,Germany,Berlin,,,,52.51667,13.38333
@@ -952,7 +952,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 951,adm0,Guatemala,,,,,15.7835,-90.2308
 952,adm0,Guinea,,,,,9.9456,-9.6966
 953,adm0,Guinea-Bissau,,,,,11.8037,-15.1804
-954,adm0,Guyana,,,,,5.0,-58.75
+954,adm0,Guyana,,,,,4.860416000000002,-58.93018000000001
 955,adm0,Haiti,,,,,18.9712,-72.2852
 956,adm1,Haiti,Artibonite,,,,19.45,-72.6833
 957,adm1,Haiti,Centre,,,,19.15,-72.01666999999998
@@ -988,7 +988,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 987,adm1,Hungary,Veszprém,,,,47.1,17.91667
 988,adm1,Hungary,Zala,,,,46.66667,16.83333
 989,adm0,Iceland,,,,,64.9631,-19.0208
-990,adm0,India,,,,,21.0,78.0
+990,adm0,India,,,,,20.593684,78.96288
 991,adm1,India,Andaman and Nicobar Islands,,,,11.68,92.77
 992,adm1,India,Andhra Pradesh,,,,16.5,80.6
 993,adm1,India,Arunachal Pradesh,,,,27.06,93.37
@@ -1061,7 +1061,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1060,adm1,Indonesia,Sumatera Utara,,,,2.0,99.0
 1061,adm0,International Conveyance,,,,,34.1,-117.27
 1062,adm1,International Conveyance,Diamond Princess,,,,35.451592,139.647085
-1063,adm0,Iran,,,,,32.0,53.0
+1063,adm0,Iran,,,,,32.427908,53.68804599999999
 1064,adm1,Iran,Alborz,,,,35.947536,50.812821
 1065,adm1,Iran,Ardabil,,,,38.2514,48.2973
 1066,adm1,Iran,Bushehr,,,,28.96,50.83
@@ -1093,7 +1093,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1092,adm1,Iran,West Azerbaijan,,,,37.5528,45.0759
 1093,adm1,Iran,Yazd,,,,31.88,54.37
 1094,adm1,Iran,Zanjan,,,,36.69,48.5
-1095,adm0,Iraq,,,,,33.0,44.0
+1095,adm0,Iraq,,,,,33.223191,43.679291
 1096,adm0,Ireland,,,,,53.1424,-7.6921
 1097,adm1,Ireland,Carlow,,,,52.8306,-6.9317
 1098,adm1,Ireland,Cavan,,,,53.99101999999999,-7.360069999999999
@@ -1121,8 +1121,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1120,adm1,Ireland,Westmeath,,,,53.5,-7.5
 1121,adm1,Ireland,Wexford,,,,52.3342,-6.4575
 1122,adm1,Ireland,Wicklow,,,,52.9779,-6.033
-1123,adm0,Israel,,,,,31.0,35.0
-1124,adm0,Italy,,,,,43.0,12.0
+1123,adm0,Israel,,,,,31.046051,34.851612
+1124,adm0,Italy,,,,,41.87194,12.56738
 1125,adm1,Italy,Abruzzo,,,,41.898342,12.482935
 1126,adm2,Italy,Abruzzo,Chieti,,,42.364696,14.148185
 1127,adm2,Italy,Abruzzo,L'Aquila,,,42.57653300000001,14.095631
@@ -1271,7 +1271,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1270,adm2,Italy,Veneto,Verona,,,45.443497,10.999314
 1271,adm2,Italy,Veneto,Vicenza,,,45.506059,11.557733
 1272,adm0,Jamaica,,,,,18.1096,-77.2975
-1273,adm0,Japan,,,,,36.0,138.0
+1273,adm0,Japan,,,,,36.204824,138.252924
 1274,adm1,Japan,Aichi,,,,35.08306,136.98306000000002
 1275,adm1,Japan,Akita,,,,39.71972,140.1025
 1276,adm1,Japan,Aomori,,,,40.82222,140.7475
@@ -1324,8 +1324,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1323,adm0,Kenya,,,,,-0.0236,37.9062
 1324,adm0,Korea, South,,,,36.536236,128.16894399999998
 1325,adm0,Kosovo,,,,,42.602636,20.902977
-1326,adm0,Kuwait,,,,,29.5,47.75
-1327,adm0,Kyrgyzstan,,,,,41.2044,74.7661
+1326,adm0,Kuwait,,,,,29.31166,47.481766
+1327,adm0,Kyrgyzstan,,,,,41.20438,74.766098
 1328,adm0,Laos,,,,,19.85627,102.495496
 1329,adm0,Latvia,,,,,56.8796,24.6032
 1330,adm1,Latvia,Kurzeme,,,,57.0,25.0
@@ -1454,15 +1454,15 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1453,adm2,Latvia,Zemgale,Viesītes novads,,,56.583258,23.55503
 1454,adm0,Lebanon,,,,,33.8547,35.8623
 1455,adm0,Lesotho,,,,,-29.609988,28.233608
-1456,adm0,Liberia,,,,,6.4281,-9.4295
+1456,adm0,Liberia,,,,,6.4280550000000005,-9.429499
 1457,adm0,Libya,,,,,26.3351,17.228331
 1458,adm0,Liechtenstein,,,,,47.14,9.55
 1459,adm0,Lithuania,,,,,55.1694,23.8813
 1460,adm0,Luxembourg,,,,,49.8153,6.1296
 1461,adm0,MS Zaandam,,,,,,
-1462,adm0,Madagascar,,,,,-18.7669,46.8691
-1463,adm0,Malawi,,,,,-13.254307999999998,34.301525
-1464,adm0,Malaysia,,,,,2.5,112.5
+1462,adm0,Madagascar,,,,,-18.766947,46.869107
+1463,adm0,Malawi,,,,,-13.2543,34.3015
+1464,adm0,Malaysia,,,,,4.210483999999999,101.975766
 1465,adm1,Malaysia,Johor,,,,1.48722,103.78111
 1466,adm1,Malaysia,Kedah,,,,6.12833,100.36278
 1467,adm1,Malaysia,Kelantan,,,,5.25,102.0
@@ -1482,8 +1482,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1481,adm0,Maldives,,,,,3.2028,73.2207
 1482,adm0,Mali,,,,,17.570692,-3.996166000000001
 1483,adm0,Malta,,,,,35.9375,14.3754
-1484,adm0,Mauritania,,,,,21.0079,10.9408
-1485,adm0,Mauritius,,,,,-20.2,57.5
+1484,adm0,Mauritania,,,,,21.0079,-10.9408
+1485,adm0,Mauritius,,,,,-20.348404,57.552152
 1486,adm0,Mexico,,,,,23.6345,-102.5528
 1487,adm1,Mexico,Aguascalientes,,,,21.88083,-102.29611
 1488,adm1,Mexico,Baja California,,,,29.95,-115.11667
@@ -1520,7 +1520,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1519,adm0,Moldova,,,,,47.4116,28.3699
 1520,adm0,Monaco,,,,,43.7333,7.4167
 1521,adm0,Mongolia,,,,,46.8625,103.8467
-1522,adm0,Montenegro,,,,,42.5,19.3
+1522,adm0,Montenegro,,,,,42.708678000000006,19.37439
 1523,adm0,Morocco,,,,,31.7917,-7.0926
 1524,adm1,Morocco,Béni Mellal-Khénifra,,,,32.33944,-6.36083
 1525,adm1,Morocco,Casablanca-Settat,,,,32.995835,-7.6206520000000015
@@ -1539,7 +1539,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1538,adm0,Namibia,,,,,-22.9576,18.4904
 1539,adm0,Nepal,,,,,28.1667,84.25
 1540,adm0,Netherlands,,,,,52.1326,5.2913
-1541,adm1,Netherlands,Aruba,,,,12.5186,-70.0358
+1541,adm1,Netherlands,Aruba,,,,12.5211,-69.9683
 1542,adm1,Netherlands,Bonaire, Sint Eustatius and Saba,,,17.48333,-62.96666999999999
 1543,adm1,Netherlands,Curacao,,,,12.1696,-68.99
 1544,adm1,Netherlands,Netherlands,,,,52.498265,5.078999
@@ -1911,8 +1911,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1910,adm2,Netherlands,Netherlands,Zwolle,,,52.51667,6.1
 1911,adm1,Netherlands,Sint Maarten,,,,18.0425,-63.0548
 1912,adm0,New Zealand,,,,,-40.9006,174.886
-1913,adm0,Nicaragua,,,,,12.8654,-85.2072
-1914,adm0,Niger,,,,,17.6078,8.0817
+1913,adm0,Nicaragua,,,,,12.865416,-85.207229
+1914,adm0,Niger,,,,,17.607789,8.081666
 1915,adm0,Nigeria,,,,,9.082,8.6753
 1916,adm1,Nigeria,Abia,,,,5.41667,7.5
 1917,adm1,Nigeria,Adamawa,,,,9.33333,12.5
@@ -1965,7 +1965,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1964,adm1,Norway,Vestfold og Telemark,,,,59.31,10.22
 1965,adm1,Norway,Vestland,,,,42.2978,-83.38799999999998
 1966,adm1,Norway,Viken,,,,63.016575,14.381533
-1967,adm0,Oman,,,,,21.0,57.0
+1967,adm0,Oman,,,,,21.512583,55.92325500000001
 1968,adm0,Pakistan,,,,,30.3753,69.3451
 1969,adm1,Pakistan,Azad Kashmir,,,,33.93808,73.76456
 1970,adm1,Pakistan,Balochistan,,,,30.12,67.01
@@ -1976,7 +1976,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1975,adm1,Pakistan,Sindh,,,,24.87,67.05
 1976,adm0,Palestine,,,,,31.88333,35.2
 1977,adm0,Panama,,,,,8.538,-80.7821
-1978,adm0,Papua New Guinea,,,,,-6.315,143.9555
+1978,adm0,Papua New Guinea,,,,,-6.314993,143.95555
 1979,adm0,Paraguay,,,,,-23.4425,-58.4438
 1980,adm0,Peru,,,,,-9.19,-75.0152
 1981,adm1,Peru,Amazonas,,,,-6.22,-77.85
@@ -2004,7 +2004,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2003,adm1,Peru,Tacna,,,,-18.0139,-70.2512
 2004,adm1,Peru,Tumbes,,,,-3.5557,-80.4256
 2005,adm1,Peru,Ucayali,,,,-9.96,-73.19
-2006,adm0,Philippines,,,,,13.0,122.0
+2006,adm0,Philippines,,,,,12.879721,121.774017
 2007,adm0,Poland,,,,,51.9194,19.1451
 2008,adm1,Poland,Greater Poland,,,,49.85,20.26667
 2009,adm1,Poland,Kuyavian-Pomeranian,,,,53.06667,18.48333
@@ -2076,7 +2076,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2075,adm1,Romania,Vaslui,,,,46.63833,27.72917
 2076,adm1,Romania,Vrancea,,,,45.79,26.97
 2077,adm1,Romania,Vâlcea,,,,45.08,24.11
-2078,adm0,Russia,,,,,60.0,90.0
+2078,adm0,Russia,,,,,61.52401,105.318756
 2079,adm1,Russia,Altai Republic,,,,50.91667,86.91667
 2080,adm1,Russia,Altayskiy Kray,,,,51.96,85.34
 2081,adm1,Russia,Amursk Oblast,,,,53.55,127.83333
@@ -2167,8 +2167,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2166,adm0,Saint Lucia,,,,,13.9094,-60.9789
 2167,adm0,Saint Vincent and the Grenadines,,,,,12.9843,-61.2872
 2168,adm0,San Marino,,,,,43.9424,12.4578
-2169,adm0,Sao Tome and Principe,,,,,0.18636,6.613081
-2170,adm0,Saudi Arabia,,,,,24.0,45.0
+2169,adm0,Sao Tome and Principe,,,,,0.1864,6.6131
+2170,adm0,Saudi Arabia,,,,,23.885942,45.079162
 2171,adm1,Saudi Arabia,Al Bahah,,,,20.0,41.5
 2172,adm1,Saudi Arabia,Asir,,,,19.0,43.0
 2173,adm1,Saudi Arabia,Eastern Province,,,,22.5,51.0
@@ -2436,7 +2436,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2435,adm2,Slovenia,Upper Carniola,Železniki,,,46.0,15.0
 2436,adm2,Slovenia,Upper Carniola,Žiri,,,46.0,15.0
 2437,adm2,Slovenia,Upper Carniola,Žirovnica,,,46.0,15.0
-2438,adm0,Somalia,,,,,5.1521,46.1996
+2438,adm0,Somalia,,,,,5.152149,46.199616
 2439,adm0,South Africa,,,,,-30.5595,22.9375
 2440,adm1,South Africa,Eastern Cape,,,,-32.0,27.0
 2441,adm1,South Africa,Free State,,,,-28.0,27.0
@@ -2468,7 +2468,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2467,adm1,South Korea,Seoul,,,,37.58333,127.0
 2468,adm1,South Korea,Ulsan,,,,35.55,129.31667
 2469,adm0,South Sudan,,,,,6.877000000000002,31.307
-2470,adm0,Spain,,,,,40.0,-4.0
+2470,adm0,Spain,,,,,40.463667,-3.74922
 2471,adm1,Spain,Andalucía,,,,41.395242,2.187077
 2472,adm1,Spain,Aragón,,,,42.435378,0.077574
 2473,adm1,Spain,Asturias,,,,43.33333,-6.0
@@ -2488,10 +2488,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2487,adm1,Spain,Murcia,,,,37.98611,-1.13028
 2488,adm1,Spain,Navarra,,,,42.81667,-1.65
 2489,adm1,Spain,País Vasco,,,,38.98237,-3.921697
-2490,adm0,Sri Lanka,,,,,7.0,81.0
+2490,adm0,Sri Lanka,,,,,7.873054,80.77179699999998
 2491,adm0,Sudan,,,,,12.8628,30.2176
 2492,adm0,Suriname,,,,,3.9193,-56.0278
-2493,adm0,Sweden,,,,,63.0,16.0
+2493,adm0,Sweden,,,,,60.128161,18.643501
 2494,adm1,Sweden,Blekinge,,,,57.904319,14.961735
 2495,adm1,Sweden,Dalarna,,,,58.07357,11.8846
 2496,adm1,Sweden,Gotland,,,,57.62263000000001,18.294921
@@ -2542,9 +2542,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2541,adm1,Switzerland,Zürich,,,,47.37861,8.54
 2542,adm0,Syria,,,,,34.802075,38.99681500000001
 2543,adm0,Taiwan*,,,,,23.7,121.0
-2544,adm0,Tajikistan,,,,,38.861034,71.276093
-2545,adm0,Tanzania,,,,,-6.369,34.8888
-2546,adm0,Thailand,,,,,15.0,101.0
+2544,adm0,Tajikistan,,,,,38.861,71.2761
+2545,adm0,Tanzania,,,,,-6.369028,34.888822
+2546,adm0,Thailand,,,,,15.870032,100.992541
 2547,adm1,Thailand,Amnat Charoen,,,,15.90139,104.62278
 2548,adm1,Thailand,Bangkok,,,,13.75,100.51667
 2549,adm1,Thailand,Buriram,,,,14.99417,103.10222
@@ -2616,10 +2616,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2615,adm0,Timor-Leste,,,,,-8.874217,125.727539
 2616,adm0,Togo,,,,,8.6195,0.8248
 2617,adm0,Trinidad and Tobago,,,,,10.6918,-61.2225
-2618,adm0,Tunisia,,,,,34.0,9.0
+2618,adm0,Tunisia,,,,,33.886917,9.537499
 2619,adm0,Turkey,,,,,38.9637,35.2433
-2620,adm0,US,,,,,37.0902,-95.7129
-2621,adm0,Uganda,,,,,1.0,32.0
+2620,adm0,US,,,,,40.0,-100.0
+2621,adm0,Uganda,,,,,1.373333,32.290275
 2622,adm0,Ukraine,,,,,48.3794,31.1656
 2623,adm1,Ukraine,Cherkasy,,,,49.4448,32.0588
 2624,adm1,Ukraine,Chernihiv,,,,51.4941,31.2943
@@ -2646,7 +2646,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2645,adm1,Ukraine,Zakarpattia,,,,48.41,23.29
 2646,adm1,Ukraine,Zaporizhzhya,,,,47.85,35.12
 2647,adm1,Ukraine,Zhytomyr,,,,50.2598,28.6692
-2648,adm0,United Arab Emirates,,,,,24.0,54.0
+2648,adm0,United Arab Emirates,,,,,23.424076,53.847818
 2649,adm0,United Kingdom,,,,,55.3781,-3.4360000000000004
 2650,adm1,United Kingdom,Anguilla,,,,18.2206,-63.0686
 2651,adm1,United Kingdom,Bermuda,,,,32.3078,-64.7505
@@ -2810,7 +2810,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2809,adm1,United Kingdom,Falkland Islands (Malvinas),,,,-51.7963,-59.5236
 2810,adm1,United Kingdom,Gibraltar,,,,36.1408,-5.3536
 2811,adm1,United Kingdom,Isle of Man,,,,54.2361,-4.5481
-2812,adm1,United Kingdom,Montserrat,,,,16.7425,-62.1874
+2812,adm1,United Kingdom,Montserrat,,,,16.742498,-62.187366
 2813,adm1,United Kingdom,Northern Ireland,,,,54.59093000000001,-5.84
 2814,adm2,United Kingdom,Northern Ireland,Antrim and Newtownabbey,,,54.73,-6.23
 2815,adm2,United Kingdom,Northern Ireland,Ards and North Down,,,54.6575,-5.7271
@@ -2933,7 +2933,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2932,adm2,United States of America,Alabama,Winston,,,34.15030532,-87.37325922
 2933,adm1,United States of America,Alaska,,,,64.0,-150.0
 2934,adm2,United States of America,Alaska,Aleutians East,,,53.8737854,-166.53454130000003
-2935,adm2,United States of America,Alaska,Aleutians West,,,52.72541116,-110.4086433
+2935,adm2,United States of America,Alaska,Aleutians West,,,52.3233,-174.1596
 2936,adm2,United States of America,Alaska,Anchorage,,,61.14998174,-149.14269860000005
 2937,adm2,United States of America,Alaska,Bethel,,,60.90980451,-159.8561831
 2938,adm2,United States of America,Alaska,Bristol Bay,,,58.74513976,-156.701064
@@ -6225,7 +6225,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6224,adm2,United States of America,Wyoming,Weston,,,43.83961191,-104.56748809999999
 6225,adm2,United States of America,Wyoming,unassigned,,,43.0,-107.5
 6226,adm0,Uruguay,,,,,-32.5228,-55.7658
-6227,adm0,Uzbekistan,,,,,41.3775,64.5853
+6227,adm0,Uzbekistan,,,,,41.377491,64.585262
 6228,adm0,Venezuela,,,,,6.4238,-66.5897
 6229,adm1,Venezuela,Amazonas,,,,3.5,-66.0
 6230,adm1,Venezuela,Anzoátegui,,,,10.14442,-64.67736
@@ -6252,12 +6252,12 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6251,adm1,Venezuela,Táchira,,,,7.94,-72.12
 6252,adm1,Venezuela,Yaracuy,,,,10.31,-68.71
 6253,adm1,Venezuela,Zulia,,,,9.84,-72.25
-6254,adm0,Vietnam,,,,,16.0,108.0
+6254,adm0,Vietnam,,,,,14.058324,108.277199
 6255,adm0,West Bank and Gaza,,,,,31.9522,35.2332
 6256,adm0,Western Sahara,,,,,24.2155,-12.8858
 6257,adm0,Yemen,,,,,15.552727,48.516388
-6258,adm0,Zambia,,,,,-15.4167,28.2833
-6259,adm0,Zimbabwe,,,,,-20.0,30.0
+6258,adm0,Zambia,,,,,-13.133897,27.849332
+6259,adm0,Zimbabwe,,,,,-19.015438,29.154857
 6260,adm3,Algeria,Ain Defla,,Ain Defla,,36.25833,1.95833
 6261,adm3,Algeria,Batna,,Batna,,35.55,6.16667
 6262,adm3,Algeria,Bejaia,,Bejaia,,36.75,5.0666699999999985
