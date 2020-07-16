@@ -132,15 +132,15 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 131,adm0,Benin,,,,,9.3077,2.3158
 132,adm0,Bhutan,,,,,27.5142,90.4336
 133,adm0,Bolivia,,,,,-16.2902,-63.5887
-134,adm1,Bolivia,Beni,,,,,
-135,adm1,Bolivia,Chuquisaca,,,,,
-136,adm1,Bolivia,Cochabamba,,,,,
-137,adm1,Bolivia,La Paz,,,,,
-138,adm1,Bolivia,Oruro,,,,,
-139,adm1,Bolivia,Pando,,,,,
-140,adm1,Bolivia,Potosí,,,,,
-141,adm1,Bolivia,Santa Cruz,,,,,
-142,adm1,Bolivia,Tarija,,,,,
+134,adm1,Bolivia,Beni,,,,-14.0,-65.0
+135,adm1,Bolivia,Chuquisaca,,,,-20.0,-64.41667
+136,adm1,Bolivia,Cochabamba,,,,-17.393539999999998,-66.15701
+137,adm1,Bolivia,La Paz,,,,-16.49417,-68.1475
+138,adm1,Bolivia,Oruro,,,,-17.9718,-67.1108
+139,adm1,Bolivia,Pando,,,,-11.18333,-67.18333
+140,adm1,Bolivia,Potosí,,,,-19.5803,-65.7542
+141,adm1,Bolivia,Santa Cruz,,,,-17.789170000000006,-63.1975
+142,adm1,Bolivia,Tarija,,,,-21.53167,-64.73111
 143,adm0,Bosnia and Herzegovina,,,,,43.9159,17.6791
 144,adm0,Botswana,,,,,-22.3285,24.6849
 145,adm0,Brazil,,,,,-14.235,-51.9253

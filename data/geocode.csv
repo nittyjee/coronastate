@@ -1105,7 +1105,7 @@ Bengbu Anhui Mainland China China,117.35312,32.93537
 Bengbu City  Anhui China,117.35312,32.93537
 Bengkulu Indonesia,102.25917,-3.79556
 Benguet Philippines,120.66667,16.5
-Beni Bolivia,-65, -14
+Beni Bolivia,-65.0,-14.0
 Benin,2.3158,9.3077
 Benipatti  Bihar India,85.91667,26.45
 Bennett South Dakota United States of America,-101.6665572,43.19486375
@@ -2463,7 +2463,7 @@ Chungcheongbuk-do South Korea,127.75,36.75
 Chungcheongnam-do South Korea,126.75,36.5
 Chungju  North Chungcheong South Korea,126.993283,37.517872
 Chupaca  Chupaca Peru,-75.2877,-12.0617
-Chuquisaca Bolivia,-64.41667, -20
+Chuquisaca Bolivia,-64.41667,-20.0
 Churachandpur  Manipur India,93.6667,24.3333
 Churachandpur Manipur India,93.6667,24.3333
 Churchill Nevada United States of America,-118.3394607,39.58105744
@@ -2605,7 +2605,7 @@ Coastal-Karst Slovenia,15.0,46.0
 Cobb Georgia United States of America,-84.5761255,33.94243204
 Coburg  Bayern Germany,10.96667,50.26667
 Cochabamba  Cochabamba Bolivia,-66.15701,-17.393539999999998
-Cochabamba Bolivia,-66.15701, -17.39354
+Cochabamba Bolivia,-66.15701,-17.393539999999998
 Cochem-Zell  Rheinland-Pfalz Germany,7.1833,50.0333
 Cochise Arizona United States of America,-109.7516088,31.87934684
 Cochran Texas United States of America,-102.82844990000001,33.60425307
@@ -5093,8 +5093,8 @@ Ingham Michigan United States of America,-84.37472069,42.59716886
 Ingolstadt  Bayern Germany,11.42611,48.76361
 Ingushetia Republic Russia,131.880412,43.111373
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,,
 Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
+Inmates Federal Bureau of Prisons United States of America,,
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Interior Health Region  British Columbia Canada,-125.022796545935,55.1712152811
@@ -6218,7 +6218,7 @@ La Paz  Cesar Colombia,-73.1733,10.3844
 La Paz  Entre Rios Argentina,-59.65,-30.75
 La Paz  La Paz Bolivia,-68.094075,-16.566948999999994
 La Paz Arizona United States of America,-113.98100290000001,33.72854224
-La Paz Bolivia,-68.1475, -16.49417
+La Paz Bolivia,-68.1475,-16.49417
 La Perla  Callao Peru,-77.1081,-12.066
 La Plata  Buenos Aires Argentina,-57.95,-34.93333
 La Plata  Huila Colombia,-75.8923,2.3934
@@ -7204,8 +7204,8 @@ Marikinia  Metro Manila Philippines,121.107235,14.6663
 Marilao  Bulacan Philippines,120.966521,14.765535
 Marilao Bulacan Philippines,120.966521,14.765535
 Marin California United States of America,-122.72106310000001,38.07122463
-Marine Corps US Military United States of America,-83.09782779999998,42.3038203
 Marine Corps US Military United States of America,,
+Marine Corps US Military United States of America,-83.09782779999998,42.3038203
 Marinette Wisconsin United States of America,-88.03324599999998,45.38553432
 Maringa  Parana Brazil,-51.9383,-23.4251
 Marinilla  Antioquia Colombia,-75.3,6.2
@@ -7998,8 +7998,8 @@ Navi Mumbai  Maharashtra India,73.01,19.03
 Navotas  Metro Manila Philippines,120.957272,14.664997
 Navsari  Gujarat India,72.92305999999998,20.95056
 Navsari Gujarat India,72.92305999999998,20.95056
-Navy US Military United States of America,,
 Navy US Military United States of America,-78.8835,42.9507
+Navy US Military United States of America,,
 Nawada  Bihar India,85.53,24.88
 Nawada Bihar India,85.53,24.88
 Nawakothi  Bihar India,86.1889788390678,25.776645585489998
@@ -8483,7 +8483,7 @@ Ormož Drava Slovenia,15.0,46.0
 Ortenau District  Baden-Wurttemberg Germany,8.3373,48.7941
 Ortenaukreis  Baden-Wurttemberg Germany,9.04111,48.53778
 Oruro  Oruro Bolivia,-67.1108,-17.9718
-Oruro Bolivia,-67.1108, -17.9718
+Oruro Bolivia,-67.1108,-17.9718
 Osage Kansas United States of America,-95.72707998,38.65235984
 Osage Missouri United States of America,-91.8613635,38.46036182
 Osage Oklahoma United States of America,-96.39635704,36.62888819
@@ -8825,7 +8825,7 @@ Panchmahal Gujarat India,73.636459,22.779526
 Pandalam  Kerala India,76.664633,9.217621
 Pandan  Antique Philippines,122.1,11.71667
 Pandi  Bulacan Philippines,120.95,14.86667
-Pando Bolivia,-67.18333, -11.18333
+Pando Bolivia,-67.18333,-11.18333
 Panemangalore  Karnataka India,75.78913875835791,14.956702652970002
 Pangasinan Philippines,120.33333,15.916670000000002
 Panipat  Haryana India,76.975555,29.379799
@@ -9250,7 +9250,7 @@ Pothanur  Tamil Nadu India,76.93290999999998,11.018356
 Pothia  Bihar India,87.288164,26.236528000000003
 Potosi  Narino Colombia,-77.4167,0.75
 Potosi  Potosi Bolivia,-65.7542,-19.5803
-Potosí Bolivia,-65.7542, -19.5803
+Potosí Bolivia,-65.7542,-19.5803
 Potsdam  Brandenburg Germany,13.06667,52.4
 Potsdam-Mittelmark  Brandenburg Germany,13.06667,52.4
 Pottawatomie Kansas United States of America,-96.34564657,39.37925655
@@ -10492,7 +10492,7 @@ Santa Cruz  Santa Cruz Bolivia,-63.1975,-17.789170000000006
 Santa Cruz  Santa Cruz Peru,-78.9415,-6.6274
 Santa Cruz Argentina,-69.815,-48.82389000000001
 Santa Cruz Arizona United States of America,-110.8479088,31.52508998
-Santa Cruz Bolivia,-63.1975, -17.78917
+Santa Cruz Bolivia,-63.1975,-17.789170000000006
 Santa Cruz California United States of America,-122.0066524,37.05580291
 Santa Cruz DE COCACHACRA  HUAROCHIRI Peru,-63.181041,-17.758554999999994
 Santa Cruz DE FLORES  Canete Peru,-76.641414,-12.619458
@@ -11228,8 +11228,8 @@ Stade  Niedersachsen Germany,9.47639,53.60083
 Stadskanaal Netherlands Netherlands,6.95,52.98333
 StadtRegion Aachen  Nordrhein-Westfalen Germany,6.0825,50.77417
 Stadtverband Saarbrucken  Saarland Germany,7.0,49.23333
-Staff Federal Bureau of Prisons United States of America,,
 Staff Federal Bureau of Prisons United States of America,-82.013547,28.759773
+Staff Federal Bureau of Prisons United States of America,,
 Stafford Kansas United States of America,-98.71762001,38.03100851
 Stafford Virginia United States of America,-77.45917053,38.41758738
 Staffordshire England United Kingdom,-2.0,52.8333
@@ -11584,7 +11584,7 @@ Taranto Puglia Italy,17.366603,40.353575
 Tarapacá Chile,-69.33333,-20.28333
 Tarapoto  San Martin Peru,-76.36,-6.4877
 Tarapur  Bihar India,85.21834100000002,25.209136
-Tarija Bolivia,-64.73111, -21.53167
+Tarija Bolivia,-64.73111,-21.53167
 Tarlac  Tarlac Philippines,120.595022,15.480735999999998
 Tarlac  Tarlac Province Philippines,120.58333,15.46667
 Tarlac City Tarlac Philippines,120.58333,15.46667
