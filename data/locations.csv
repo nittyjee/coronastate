@@ -975,24 +975,24 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 974,adm1,Haiti,Sud-Est,,,,18.2333,-72.5333
 975,adm0,Holy See,,,,,41.9029,12.4534
 976,adm0,Honduras,,,,,15.2,-86.2419
-977,adm1,Honduras,Atlantida,,,,,
-978,adm1,Honduras,Choluteca,,,,,
-979,adm1,Honduras,Colon,,,,,
-980,adm1,Honduras,Comayagua,,,,,
-981,adm1,Honduras,Copan,,,,,
-982,adm1,Honduras,Cortes,,,,,
-983,adm1,Honduras,El Paraiso,,,,,
-984,adm1,Honduras,Francisco Morazan,,,,,
-985,adm1,Honduras,Gracias a Dios,,,,,
-986,adm1,Honduras,Intibuca,,,,,
-987,adm1,Honduras,Islas de la Bahia,,,,,
-988,adm1,Honduras,La Paz,,,,,
-989,adm1,Honduras,Lempira,,,,,
-990,adm1,Honduras,Ocotepeque,,,,,
-991,adm1,Honduras,Olancho,,,,,
-992,adm1,Honduras,Santa Barbara,,,,,
-993,adm1,Honduras,Valle,,,,,
-994,adm1,Honduras,Yoro,,,,,
+977,adm1,Honduras,Atlantida,,,,15.64333,-87.13167
+978,adm1,Honduras,Choluteca,,,,13.316670000000002,-87.21667
+979,adm1,Honduras,Colon,,,,15.916670000000002,-86.0
+980,adm1,Honduras,Comayagua,,,,14.46,-87.65
+981,adm1,Honduras,Copan,,,,14.76667,-88.78333
+982,adm1,Honduras,Cortes,,,,15.50278,-88.01361
+983,adm1,Honduras,El Paraiso,,,,13.85,-86.55
+984,adm1,Honduras,Francisco Morazan,,,,14.1,-87.21667
+985,adm1,Honduras,Gracias a Dios,,,,15.26667,-83.76666999999998
+986,adm1,Honduras,Intibuca,,,,14.43,-88.17
+987,adm1,Honduras,Islas de la Bahia,,,,16.321342,-86.526872
+988,adm1,Honduras,La Paz,,,,14.3333,-87.6833
+989,adm1,Honduras,Lempira,,,,14.583329999999998,-88.58333
+990,adm1,Honduras,Ocotepeque,,,,14.433329999999998,-89.18333
+991,adm1,Honduras,Olancho,,,,14.6,-86.2
+992,adm1,Honduras,Santa Barbara,,,,14.9,-88.16
+993,adm1,Honduras,Valle,,,,13.53333,-87.48333000000002
+994,adm1,Honduras,Yoro,,,,15.23,-87.23
 995,adm0,Hungary,,,,,47.1625,19.5033
 996,adm1,Hungary,Baranya,,,,46.075455,18.21813
 997,adm1,Hungary,Borsod-Abaúj-Zemplén,,,,47.0,19.0
