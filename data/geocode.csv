@@ -132,6 +132,7 @@ Adolfo Alsina  Rio Negro Argentina,-63.75,-40.75
 Adrar Algeria,-0.29389,27.87417
 "Aegean Bay, Oriental Plaza, Economic Development Zone, Changchun  Jilin China",125.2,43.9
 Aegean Greece,22.979819,40.554142
+Aegean Turkey,27.219202, 38.46531
 Afar  Afar Ethiopia,41.41667,11.81667
 Afghanistan,67.709953,33.93911
 Afzalpura  Karnataka India,76.35,17.2
@@ -507,8 +508,8 @@ Armenia,45.0382,40.0691
 Armenia  Quindio Colombia,-75.6725,4.53889
 Armstrong Pennsylvania United States of America,-79.46290811,40.81665618
 Armstrong Texas United States of America,-101.3574874,34.96507426
-Army US Military United States of America,-73.96884399999998,40.750703
 Army US Military United States of America,,
+Army US Military United States of America,-73.96884399999998,40.750703
 Arnhem Netherlands Netherlands,5.9067935,52.00991550000001
 Aroostook Maine United States of America,-68.59841248,46.65926321
 Arrecifes  Buenos Aires Argentina,-60.11666999999999,-34.06667
@@ -2135,6 +2136,7 @@ Cedar Nebraska United States of America,-97.25311951,42.5988851
 Celje Savinja Slovenia,15.2675,46.23583
 Celle  Niedersachsen Germany,10.0825,52.62556
 Central African Republic,20.9394,6.6111
+Central Anatolia Turkey,34.481245, 38.543433
 Central Bedfordshire England United Kingdom,-0.4215,51.9975
 Central Bohemian Czechia,14.414927,50.091365
 Central Delhi  Delhi India,77.245,28.645
@@ -3417,8 +3419,10 @@ East Singhbhum  Jharkhand India,86.1834,22.8
 East Singhbhum Jharkhand India,86.1834,22.8
 East Sussex England United Kingdom,0.3333,50.9167
 Eastern  Ontario Canada,-79.44851700000002,43.645113
+Eastern Blacksea Turkey,32.437664, 37.884845
 Eastern Cape South Africa,27.0,-32.0
 Eastern Ghana,-0.5,6.5
+Eastern Marmara Turkey,27.55528, 40.5875
 Eastern Province Saudi Arabia,51.0,22.5
 Eastland Texas United States of America,-98.83243566,32.32743996
 Eaton County  Michigan United States,-84.843401,42.581634
@@ -5102,8 +5106,8 @@ Ingham Michigan United States of America,-84.37472069,42.59716886
 Ingolstadt  Bayern Germany,11.42611,48.76361
 Ingushetia Republic Russia,131.880412,43.111373
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,,
 Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
+Inmates Federal Bureau of Prisons United States of America,,
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Interior Health Region  British Columbia Canada,-125.022796545935,55.1712152811
@@ -5168,6 +5172,7 @@ Islington Greater London England United Kingdom,-0.08518200000000001,51.541155
 Isnos  Huila Colombia,-76.2406,1.9356
 Israel,34.851612,31.046051000000002
 Issaquena Mississippi United States of America,-90.97392828,32.72531359
+Istanbul Turkey,28.96028, 41.01
 Istarska Croatia,15.46667,45.25
 Istmina  Choco Colombia,-76.684,5.1605
 Isuapur  Bihar India,86.984943,25.429842
@@ -7217,8 +7222,8 @@ Marikinia  Metro Manila Philippines,121.107235,14.6663
 Marilao  Bulacan Philippines,120.966521,14.765535
 Marilao Bulacan Philippines,120.966521,14.765535
 Marin California United States of America,-122.7210631,38.07122463
-Marine Corps US Military United States of America,,
 Marine Corps US Military United States of America,-83.09782779999998,42.3038203
+Marine Corps US Military United States of America,,
 Marinette Wisconsin United States of America,-88.03324599999998,45.38553432
 Maringa  Parana Brazil,-51.9383,-23.4251
 Marinilla  Antioquia Colombia,-75.3,6.2
@@ -7395,6 +7400,7 @@ Medina Texas United States of America,-99.11030298,29.3557301
 Medinipur East  West Bengal India,88.11,22.07
 Medinipur East West Bengal India,88.11,22.07
 Medio Baudo  Choco Colombia,-76.66667,5.7
+Mediterranean Turkey,35.1795933806353, 39.0604813685019
 Medvode Central Slovenia Slovenia,14.41471,46.13824
 Medway England United Kingdom,0.5271,51.3898
 Meeker Minnesota United States of America,-94.52839455,45.12328869
@@ -7499,6 +7505,7 @@ Middlesex Massachusetts United States of America,-71.39049229,42.48607732
 Middlesex New Jersey United States of America,-74.41426991,40.43629879
 Middlesex Virginia United States of America,-76.55064617,37.63191998
 Middlesex-London  Ontario Canada,-81.24600000000002,42.9881
+Mideastern Anatolia Turkey,34.49937, 36.723984
 Midland Michigan United States of America,-84.38804374,43.64330771
 Midland Texas United States of America,-102.0315682,31.86904128
 Midsayap  Cotabato Philippines,124.53333,7.1916699999999985
@@ -8011,8 +8018,8 @@ Navi Mumbai  Maharashtra India,73.01,19.03
 Navotas  Metro Manila Philippines,120.957272,14.664997
 Navsari  Gujarat India,72.92305999999998,20.95056
 Navsari Gujarat India,72.92305999999998,20.95056
-Navy US Military United States of America,-78.8835,42.9507
 Navy US Military United States of America,,
+Navy US Military United States of America,-78.8835,42.9507
 Nawada  Bihar India,85.53,24.88
 Nawada Bihar India,85.53,24.88
 Nawakothi  Bihar India,86.1889788390678,25.776645585489998
@@ -8262,6 +8269,7 @@ Northampton North Carolina United States of America,-77.39769443,36.41736238
 Northampton Pennsylvania United States of America,-75.30471829,40.75182733
 Northampton Virginia United States of America,-75.87751591,37.34062933
 Northamptonshire England United Kingdom,-0.8333,52.25
+Northeastern Anatolia Turkey,38.792664, 37.16563
 Northeim  Niedersachsen Germany,10.00111,51.70667
 Northern Beaches  New South Wales Australia,151.232952,-33.750954
 Northern Borders Saudi Arabia,44.11667,23.71667
@@ -11155,6 +11163,7 @@ Southampton Virginia United States of America,-77.10642712,36.72231125
 Southeast Fairbanks Alaska United States of America,-143.2127643,63.87692095
 Southeast Slovenia Slovenia,14.026853,46.440359
 Southeast Utah Utah United States of America,-110.7013958,38.99617072
+Southeastern Anatolia Turkey,38.792664, 37.16563
 Southend-on-Sea England United Kingdom,0.71,51.54
 Southern Health  Manitoba Canada,-98.4703457399514,53.4604863996
 Southwark Greater London England United Kingdom,-0.104648,51.505676
@@ -11244,8 +11253,8 @@ Stade  Niedersachsen Germany,9.47639,53.60083
 Stadskanaal Netherlands Netherlands,6.95,52.98333
 StadtRegion Aachen  Nordrhein-Westfalen Germany,6.0825,50.77417
 Stadtverband Saarbrucken  Saarland Germany,7.0,49.23333
-Staff Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Staff Federal Bureau of Prisons United States of America,,
+Staff Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Stafford Kansas United States of America,-98.71762001,38.03100851
 Stafford Virginia United States of America,-77.45917053,38.41758738
 Staffordshire England United Kingdom,-2.0,52.8333
@@ -12789,13 +12798,16 @@ WestVlaanderen  Flanders Belgium,4.633575000000009,50.438696
 Westchester County  Vermont United States,-72.4499066,44.4480872
 Westchester New York United States of America,-73.75741653,41.16278376
 Westerkwartier Netherlands Netherlands,5.078999,52.498265
+Western Anatolia Turkey,38.792664, 37.16563
 Western Australia Australia,115.8605,-31.9505
+Western Blacksea Turkey,29.245908, 40.9782
 Western Cape South Africa,20.0,-34.0
 Western Ghana,-2.5,5.5
 Western Greece  Western Greece and the Ionian Islands Peloponnese Greece,20.5,38.5
 Western Greece and the Ionian Islands Peloponnese Greece,20.5,38.5
 Western Isles Scotland United Kingdom,-6.0645050000000005,56.62362
 Western Macedonia Epirus and Western Macedonia Greece,20.83333,39.5
+Western Marmara Turkey,27.55528, 40.5875
 Western North Ghana,-2.5,5.5
 Western Sahara,-12.8858,24.2155
 Westerveld Netherlands Netherlands,5.078999,52.498265
@@ -13287,7 +13299,7 @@ unassigned Wyoming United States of America,-107.5,43.0
 Ādažu novads Riga Latvia,24.10694,56.9475
 Črenšovci Mura Slovenia,16.176356,46.658736
 Črna na Koroškem Carinthia Slovenia,14.31528,46.26972
-Črna na Koro��kem Carinthia Slovenia,14.31528, 46.26972
+Črna na Koro��kem Carinthia Slovenia,14.31528,46.26972
 Črnomelj Southeast Slovenia Slovenia,14.026853,46.440359
 Ērgļu novads Vidzeme Latvia,25.87549,57.407737
 Ķeguma novads Riga Latvia,24.10694,56.9475
