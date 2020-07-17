@@ -345,6 +345,7 @@ Amite Mississippi United States of America,-90.80501621,31.17467303
 Ammerland  Niedersachsen Germany,7.234713900000001,53.4608491
 Amnat Charoen Thailand,104.62278,15.90139
 Amour  Bihar India,87.721222,25.966344
+Ampara Sri Lanka,81.75, 7.08333
 Amravati  Maharashtra India,77.75,20.93333
 Amravati Maharashtra India,77.75,20.93333
 Amreli  Gujarat India,71.23333000000002,21.61667000000001
@@ -435,6 +436,7 @@ Antrim and Newtownabbey Northern Ireland United Kingdom,-6.23,54.73
 Antwerpen  Flanders Belgium,4.3997081,51.2211097
 Anuppur  Madhya Pradesh India,81.7,23.12
 Anuppur Madhya Pradesh India,81.7,23.12
+Anuradhapura Sri Lanka,80.5, 8.33333
 Anyang Henan Mainland China China,114.3,36.2
 Anzoátegui Venezuela,-64.67736,10.14442
 Aomori Japan,140.7475,40.82222
@@ -688,6 +690,7 @@ Badgam Jammu and Kashmir India,74.76808,34.020204
 Badiadka  Kerala India,75.06667,12.58333
 Badian  Cebu Province Philippines,123.4,9.86667
 Badiya  Bihar India,86.1889788390678,25.776645585489998
+Badulla Sri Lanka,81.05639, 6.98472
 Bag Ha Ii  Bihar India,86.1889788390678,25.776645585489998
 Bagac  Bataan Philippines,120.4,14.6
 Bagalkote  Karnataka India,75.7,16.183329999999998
@@ -981,6 +984,7 @@ Bathinda  Punjab India,74.95,30.23
 Bathinda Punjab India,74.95,30.23
 Batna  Batna Algeria,6.16667,35.55
 Batna Algeria,6.16667,35.55
+Batticoloa Sri Lanka,81.33333, 7.83333
 Batu  Oromia Ethiopia,39.38118,7.98906
 Bauan  Batangas Philippines,120.9705,13.7998
 Bauang  La Union Philippines,120.33333,16.53333
@@ -2644,6 +2648,7 @@ Collin County  Texas United States,-96.704743,33.161165000000004
 Collin Texas United States of America,-96.57264368,33.18820114
 Collingsworth Texas United States of America,-100.2700111,34.96489496
 Colombia,-74.2973,4.5709
+Colombo Sri Lanka,80.01667, 6.86667
 Colon  Buenos Aires Argentina,-64.08333,-30.98333
 Colon  Cordoba Argentina,-64.08333,-30.98333
 Colon  Entre Rios Argentina,-58.13333000000001,-32.21667
@@ -3930,12 +3935,14 @@ Gallatin County  Montana United States,-115.3757139,47.6192847
 Gallatin Illinois United States of America,-88.22953869,37.76430935
 Gallatin Kentucky United States of America,-84.8558382,38.75398691
 Gallatin Montana United States of America,-111.1692571,45.54486106
+Galle Sri Lanka,80.29806, 6.25361
 Gallia Ohio United States of America,-82.31647569,38.82708533
 Galveston Texas United States of America,-94.90469073,29.40167322
 Galway Ireland,-9.0418,53.2729
 Gambia,-15.3101,13.4432
 Gamhariya  Bihar India,84.285457,25.128175
 Gamhria  Bihar India,86.646805,25.910061
+Gampaha Sri Lanka,80, 7.13333
 Ganderbal  Jammu and Kashmir India,74.81,34.15
 Ganderbal Jammu and Kashmir India,74.81,34.15
 Gandha  Bihar India,86.1889788390678,25.776645585489998
@@ -4540,6 +4547,7 @@ Halsi  Bihar India,86.0529,25.0333
 Halton  Ontario Canada,-79.6418,43.721
 Halton England United Kingdom,-2.6932,53.3312
 Hamadan Iran,48.5146,34.7982
+Hambantota Sri Lanka,81.16667, 6.25
 Hamblen Tennessee United States of America,-83.26586179,36.21990035
 Hamburg  Hamburg Germany,9.988933,53.543807
 Hamburg Germany,10.0,53.55
@@ -5106,8 +5114,8 @@ Ingham Michigan United States of America,-84.37472069,42.59716886
 Ingolstadt  Bayern Germany,11.42611,48.76361
 Ingushetia Republic Russia,131.880412,43.111373
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inmates Federal Bureau of Prisons United States of America,,
+Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Interior Health Region  British Columbia Canada,-125.022796545935,55.1712152811
@@ -5266,6 +5274,7 @@ Jackson West Virginia United States of America,-81.68148753,38.84263974
 Jackson Wisconsin United States of America,-90.80566792,44.31864893
 Jaen  Jaen Peru,-75.3111319559783,-10.1510925136244
 Jaen  Nueva Ecija Philippines,120.9,15.333329999999998
+Jaffna Sri Lanka,80.16667, 9.66667
 Jagatsinghpur  Odisha India,86.3,20.2
 Jagatsinghpur Odisha India,86.3,20.2
 Jagdish Tola  Bihar India,86.1889788390678,25.776645585489998
@@ -5642,6 +5651,7 @@ Kalpatta  Kerala India,76.08278,11.61028
 Kaltv'.Or  Bihar India,86.1889788390678,25.776645585489998
 Kaluga Oblast Russia,35.43333,54.43333000000001
 Kaluhai  Bihar India,86.616614,26.445575
+Kalutara Sri Lanka,80.16667, 6.58333
 Kalyan-Dombivali  Maharashtra India,73.122962,19.22917
 Kalyana  Bihar India,86.1889788390678,25.776645585489998
 Kalyana Durgam  Andhra Pradesh India,82.197162,18.001261
@@ -5676,6 +5686,7 @@ Kandhamal  Odisha India,84.23,20.47
 Kandhamal Odisha India,84.23,20.47
 Kandiyohi Minnesota United States of America,-95.00586446,45.1526059
 Kandukuru  Andhra Pradesh India,78.15901099999998,13.741828
+Kandy Sri Lanka,80.75, 7.25
 Kane County  Illinois United States,-88.309292,41.8804205
 Kane Illinois United States of America,-88.42861412,41.93842729
 Kane Utah United States of America,-111.8861752,37.28507306
@@ -5778,6 +5789,7 @@ Kebbi Nigeria,4.0,11.5
 Kedah Malaysia,100.36278,6.12833
 Keelapattu nagari  Andhra Pradesh India,79.36247010684392,15.51803274931
 Keelkattalai  Tamil Nadu India,80.18367099999998,12.957707
+Kegalle Sri Lanka,80.4, 7.3
 Keith Nebraska United States of America,-101.6620164,41.19930341
 Kelantan Malaysia,102.0,5.25
 Kelheim  Bayern Germany,11.86667,48.91667
@@ -5876,6 +5888,7 @@ Kiev City Ukraine,30.471579,50.387507
 Kiev Ukraine,30.5241,50.4501
 Kikonai  Hokkaido Japan,140.4348,41.6803
 Kildare Ireland,-6.90903,53.15686
+Kilinochchi Sri Lanka,80.41667, 9.41667
 Kilkenny Ireland,-7.2561,52.6477
 Kimball Nebraska United States of America,-103.7148131,41.19774275
 Kimble Texas United States of America,-99.74856473,30.48678918
@@ -6111,6 +6124,7 @@ Kursk Oblast Russia,36.01667,51.75
 Kurtha  Bihar India,85.301797,25.251013
 Kurukshetra  Haryana India,76.853061,29.965888
 Kurukshetra Haryana India,76.853061,29.965888
+Kurunegala Sri Lanka,80.25, 7.75
 Kurung Kumey  Arunachal Pradesh India,93.35,27.9
 Kurung Kumey Arunachal Pradesh India,93.35,27.9
 Kurzeme Latvia,25.0,57.0
@@ -7169,6 +7183,7 @@ Maniyarankudy  Kerala India,76.5740323493548,10.20060295315
 Manizales  Caldas Colombia,-75.48472,5.06611
 Manjhauliya  Bihar India,85.062551,26.350284
 Mankatha  Bihar India,86.048889,25.210296
+Mannar Sri Lanka,80.06667, 8.86667
 Mannheim  Baden-Wurttemberg Germany,8.46306,49.48361
 Manolo Fortich  Bukidnon Philippines,124.86667,8.36667
 Manpur  Bihar India,84.11527199999998,26.593337
@@ -7222,8 +7237,8 @@ Marikinia  Metro Manila Philippines,121.107235,14.6663
 Marilao  Bulacan Philippines,120.966521,14.765535
 Marilao Bulacan Philippines,120.966521,14.765535
 Marin California United States of America,-122.7210631,38.07122463
-Marine Corps US Military United States of America,,
 Marine Corps US Military United States of America,-83.09782779999998,42.3038203
+Marine Corps US Military United States of America,,
 Marinette Wisconsin United States of America,-88.03324599999998,45.38553432
 Maringa  Parana Brazil,-51.9383,-23.4251
 Marinilla  Antioquia Colombia,-75.3,6.2
@@ -7302,6 +7317,7 @@ Matam Senegal,-13.63333,15.1
 Matanuska-Susitna Alaska United States of America,-149.5741743,62.31305045
 Matanzas  Havana Cuba,-82.321534,23.101612
 Matanzas  Matanzas Cuba,-81.57361,23.04944
+Matara Sri Lanka,80.5, 6.16667
 Matera Basilicata Italy,16.608072,40.663525
 Mathews Virginia United States of America,-76.34098896,37.44164146
 Mathura  Uttar Pradesh India,77.68333,27.48333
@@ -7623,6 +7639,7 @@ Monagas Venezuela,-63.08,9.43
 Monaghan Ireland,-6.97082,54.24793
 Moncada  Tarlac Province Philippines,120.56667,15.73333
 Monchengladbach  Nordrhein-Westfalen Germany,6.4333300000000015,51.2
+Moneragala Sri Lanka,81.33333, 6.66667
 Mongolia,103.8467,46.8625
 Moniquira  Boyaca Colombia,-73.5728,5.8764
 Moniteau Missouri United States of America,-92.57976951,38.63571781
@@ -7786,6 +7803,7 @@ Muhlenberg Kentucky United States of America,-87.14632053,37.21425819
 Mukdahan Thailand,104.72611,16.546110000000002
 Mulheim  Nordrhein-Westfalen Germany,7.0041699999999985,50.96222
 Mulheim a.d.Ruhr  Nordrhein-Westfalen Germany,7.0041699999999985,50.96222
+Mullativu Sri Lanka,80.53333, 9.23333
 Multnomah County  Oregon United States,-122.71,45.46
 Multnomah Oregon United States of America,-122.4169351,45.54747959
 Mulugu  Telangana India,79.943,18.191
@@ -8333,6 +8351,7 @@ Nurnberg  Bayern Germany,11.07778,49.45278
 Nurnberger Land  Bayern Germany,11.43111,48.7775
 Nusa Tenggara Barat Indonesia,116.11667,-8.58333
 Nusa Tenggara Timur Indonesia,123.58333,-10.18333
+Nuwaraeliya Sri Lanka,80.7047272491285, 7.60808521895433
 Nye Nevada United States of America,-116.4722702,38.04264256
 Nymburk  Central Bohemian Region Czech Republic,15.04175,50.18612
 Nīcas novads Kurzeme Latvia,21.06222,56.34611
@@ -9231,6 +9250,7 @@ Polk Texas United States of America,-94.8276624,30.79472531
 Polk Wisconsin United States of America,-92.44182875,45.46130348
 Pollachi  Tamil Nadu India,77.008,10.659
 Polomolok  South Cotabato Philippines,125.06667,6.21667
+Polonnaruwa Sri Lanka,81, 8
 Polonuevo  Atlantico Colombia,-74.8534,10.777
 Poltava Ukraine,34.5508,49.5897
 Polzela Savinja Slovenia,15.089615,46.30043
@@ -9462,6 +9482,7 @@ Putnam Ohio United States of America,-84.1336111,41.02094889
 Putnam Tennessee United States of America,-85.50646123,36.14005459
 Putnam West Virginia United States of America,-81.9082131,38.50782345
 Putrajaya Malaysia,101.7,2.91667
+Puttalam Sri Lanka,80, 8
 Putten Netherlands Netherlands,5.58333,52.25
 Puttur  Karnataka India,75.22,12.77
 Putumayo Colombia,-76.61667,1.15
@@ -9703,6 +9724,7 @@ Ratlam Madhya Pradesh India,75.06667,23.31667
 Ratn I Faridpur  Bihar India,85.351607,26.256035
 Ratnagiri  Maharashtra India,73.3,16.98333
 Ratnagiri Maharashtra India,73.3,16.98333
+Ratnapura Sri Lanka,80.58333, 6.58333
 Ratni Faridpur  Bihar India,87.690237,25.726925
 Ratni Farispir  Bihar India,87.690237,25.726925
 Ratnifaridpur  Bihar India,86.1889788390678,25.776645585489998
@@ -11909,6 +11931,7 @@ Trier-Saarburg  Rheinland-Pfalz Germany,6.64139,49.75667
 Trieste Friuli V. G. Italy,17.857004999999994,40.290001
 Trigg Kentucky United States of America,-87.87333656,36.80767017
 Trimble Kentucky United States of America,-85.33775972,38.61056487
+Trincomalee Sri Lanka,81.08333, 8.58333
 Trinidad  Havana Cuba,-82.321534,23.101612
 Trinidad  Sancti Spiritus Cuba,-79.96667,21.8
 Trinidad  Sancti Spíritus Cuba,-79.96667,21.8
@@ -12366,6 +12389,7 @@ Vaslui Romania,27.72917,46.63833
 Vaud Switzerland,6.55,46.61667
 Vaughan  Ontario Canada,-79.5055,43.8197
 Vaupes Colombia,-70.16667,1.2
+Vavunia Sri Lanka,80.5, 8.83333
 Vechta  Niedersachsen Germany,8.28861,52.73056
 Vecpiebalgas novads Vidzeme Latvia,25.8108,57.0619
 Vecumnieku novads Zemgale Latvia,24.5222,56.6064
