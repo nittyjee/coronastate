@@ -2516,30 +2516,30 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2515,adm1,Spain,Navarra,,,,42.81667,-1.65
 2516,adm1,Spain,País Vasco,,,,38.98237,-3.921697
 2517,adm0,Sri Lanka,,,,,7.873054,80.77179699999998
-2518,adm1,Sri Lanka,Ampara,,,,,
-2519,adm1,Sri Lanka,Anuradhapura,,,,,
-2520,adm1,Sri Lanka,Badulla,,,,,
-2521,adm1,Sri Lanka,Batticoloa,,,,,
-2522,adm1,Sri Lanka,Colombo,,,,,
-2523,adm1,Sri Lanka,Galle,,,,,
-2524,adm1,Sri Lanka,Gampaha,,,,,
-2525,adm1,Sri Lanka,Hambantota,,,,,
-2526,adm1,Sri Lanka,Jaffna,,,,,
-2527,adm1,Sri Lanka,Kalutara,,,,,
-2528,adm1,Sri Lanka,Kandy,,,,,
-2529,adm1,Sri Lanka,Kegalle,,,,,
-2530,adm1,Sri Lanka,Kilinochchi,,,,,
-2531,adm1,Sri Lanka,Kurunegala,,,,,
-2532,adm1,Sri Lanka,Mannar,,,,,
-2533,adm1,Sri Lanka,Matara,,,,,
-2534,adm1,Sri Lanka,Moneragala,,,,,
-2535,adm1,Sri Lanka,Mullativu,,,,,
-2536,adm1,Sri Lanka,Nuwaraeliya,,,,,
-2537,adm1,Sri Lanka,Polonnaruwa,,,,,
-2538,adm1,Sri Lanka,Puttalam,,,,,
-2539,adm1,Sri Lanka,Ratnapura,,,,,
-2540,adm1,Sri Lanka,Trincomalee,,,,,
-2541,adm1,Sri Lanka,Vavunia,,,,,
+2518,adm1,Sri Lanka,Ampara,,,,7.08333,81.75
+2519,adm1,Sri Lanka,Anuradhapura,,,,8.33333,80.5
+2520,adm1,Sri Lanka,Badulla,,,,6.9847199999999985,81.05639000000002
+2521,adm1,Sri Lanka,Batticoloa,,,,7.83333,81.33333
+2522,adm1,Sri Lanka,Colombo,,,,6.86667,80.01666999999998
+2523,adm1,Sri Lanka,Galle,,,,6.25361,80.29805999999998
+2524,adm1,Sri Lanka,Gampaha,,,,7.13333,80.0
+2525,adm1,Sri Lanka,Hambantota,,,,6.25,81.16667
+2526,adm1,Sri Lanka,Jaffna,,,,9.66667,80.16667
+2527,adm1,Sri Lanka,Kalutara,,,,6.58333,80.16667
+2528,adm1,Sri Lanka,Kandy,,,,7.25,80.75
+2529,adm1,Sri Lanka,Kegalle,,,,7.3,80.4
+2530,adm1,Sri Lanka,Kilinochchi,,,,9.41667,80.41667
+2531,adm1,Sri Lanka,Kurunegala,,,,7.75,80.25
+2532,adm1,Sri Lanka,Mannar,,,,8.86667,80.06667
+2533,adm1,Sri Lanka,Matara,,,,6.16667,80.5
+2534,adm1,Sri Lanka,Moneragala,,,,6.66667,81.33333
+2535,adm1,Sri Lanka,Mullativu,,,,9.23333,80.53333
+2536,adm1,Sri Lanka,Nuwaraeliya,,,,7.608085218954329,80.70472724912851
+2537,adm1,Sri Lanka,Polonnaruwa,,,,8.0,81.0
+2538,adm1,Sri Lanka,Puttalam,,,,8.0,80.0
+2539,adm1,Sri Lanka,Ratnapura,,,,6.58333,80.58333
+2540,adm1,Sri Lanka,Trincomalee,,,,8.58333,81.08333
+2541,adm1,Sri Lanka,Vavunia,,,,8.83333,80.5
 2542,adm0,Sudan,,,,,12.8628,30.2176
 2543,adm0,Suriname,,,,,3.9193,-56.0278
 2544,adm0,Sweden,,,,,60.128161,18.643501
