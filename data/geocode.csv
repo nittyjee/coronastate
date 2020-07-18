@@ -704,7 +704,7 @@ Bagha  Bihar India,86.65781700000002,25.023309
 Baghpat  Uttar Pradesh India,77.22,28.95
 Baghpat Uttar Pradesh India,77.22,28.95
 Baghras  Bihar India,85.981113,25.550633
-Bagmati Nepal,85.41667, 28
+Bagmati Nepal,85.41667,28.0
 Bago  Negros Occidental Philippines,122.83333,10.53333
 Bagua  Bagua Peru,-75.3111319559783,-10.1510925136244
 Bagua GRANDE  UTCUBAMBA Peru,-78.4422,-5.7542
@@ -3944,7 +3944,7 @@ Gambia,-15.3101,13.4432
 Gamhariya  Bihar India,84.285457,25.128175
 Gamhria  Bihar India,86.646805,25.910061
 Gampaha Sri Lanka,80.0,7.13333
-Gandaki Nepal,84.5, 28.16667
+Gandaki Nepal,84.5,28.16667
 Ganderbal  Jammu and Kashmir India,74.81,34.15
 Ganderbal Jammu and Kashmir India,74.81,34.15
 Gandha  Bihar India,86.1889788390678,25.776645585489998
@@ -5116,8 +5116,8 @@ Ingham Michigan United States of America,-84.37472069,42.59716886
 Ingolstadt  Bayern Germany,11.42611,48.76361
 Ingushetia Republic Russia,131.880412,43.111373
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inmates Federal Bureau of Prisons United States of America,,
+Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Interior Health Region  British Columbia Canada,-125.022796545935,55.1712152811
@@ -5743,7 +5743,7 @@ Karlsruhe  Baden-Wurttemberg Germany,8.40417,49.01389
 Karmubegha  Bihar India,86.1889788390678,25.776645585489998
 Karnal  Haryana India,76.98833,29.69
 Karnal Haryana India,76.98833,29.69
-Karnali Nepal,82.16667, 29.58333
+Karnali Nepal,82.16667,29.58333
 Karnataka India,77.56029000000002,12.97021
 Karnes Texas United States of America,-97.85960149,28.90705334
 Karpi  Bihar India,84.7297,25.1613
@@ -8039,8 +8039,8 @@ Navi Mumbai  Maharashtra India,73.01,19.03
 Navotas  Metro Manila Philippines,120.957272,14.664997
 Navsari  Gujarat India,72.92305999999998,20.95056
 Navsari Gujarat India,72.92305999999998,20.95056
-Navy US Military United States of America,-78.8835,42.9507
 Navy US Military United States of America,,
+Navy US Military United States of America,-78.8835,42.9507
 Nawada  Bihar India,85.53,24.88
 Nawada Bihar India,85.53,24.88
 Nawakothi  Bihar India,86.1889788390678,25.776645585489998
@@ -9379,9 +9379,9 @@ Prostejov  Olomouc Region Czech Republic,17.11056,49.47222
 Provence-Alpes-Côte d'Azur Metropolitan France France,7.0133839999999985,43.551754
 Providence Rhode Island United States of America,-71.57753536,41.87064746
 Providencia  Archipielago de San Andres Providencia y Santa Catalina Colombia,-81.699493,12.585158
-Province 1 Nepal,-0.83695, 51.258447
-Province 2 Nepal,-0.836104, 51.258181
-Province 5 Nepal,4.659369, 52.119989
+Province 1 Nepal,-0.83695,51.258447
+Province 2 Nepal,-0.8361040000000001,51.258181
+Province 5 Nepal,4.659369,52.119989
 Prowers Colorado United States of America,-102.3926052,37.95544985
 Pskov Oblast Russia,29.25,57.31667
 Ptuj Drava Slovenia,15.878,46.42100000000001
@@ -11281,8 +11281,8 @@ Stade  Niedersachsen Germany,9.47639,53.60083
 Stadskanaal Netherlands Netherlands,6.95,52.98333
 StadtRegion Aachen  Nordrhein-Westfalen Germany,6.0825,50.77417
 Stadtverband Saarbrucken  Saarland Germany,7.0,49.23333
-Staff Federal Bureau of Prisons United States of America,,
 Staff Federal Bureau of Prisons United States of America,-82.013547,28.759773
+Staff Federal Bureau of Prisons United States of America,,
 Stafford Kansas United States of America,-98.71762001,38.03100851
 Stafford Virginia United States of America,-77.45917053,38.41758738
 Staffordshire England United Kingdom,-2.0,52.8333

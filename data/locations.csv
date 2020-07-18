@@ -1565,12 +1565,12 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1564,adm0,Myanmar,,,,,22.0,96.0
 1565,adm0,Namibia,,,,,-22.9576,18.4904
 1566,adm0,Nepal,,,,,28.1667,84.25
-1567,adm1,Nepal,Bagmati,,,,,
-1568,adm1,Nepal,Gandaki,,,,,
-1569,adm1,Nepal,Karnali,,,,,
-1570,adm1,Nepal,Province 1,,,,,
-1571,adm1,Nepal,Province 2,,,,,
-1572,adm1,Nepal,Province 5,,,,,
+1567,adm1,Nepal,Bagmati,,,,28.0,85.41667
+1568,adm1,Nepal,Gandaki,,,,28.16667,84.5
+1569,adm1,Nepal,Karnali,,,,29.58333,82.16667
+1570,adm1,Nepal,Province 1,,,,51.258447,-0.83695
+1571,adm1,Nepal,Province 2,,,,51.258181,-0.8361040000000001
+1572,adm1,Nepal,Province 5,,,,52.119989,4.659369
 1573,adm1,Nepal,Sudurpashchim,,,,,
 1574,adm0,Netherlands,,,,,52.1326,5.2913
 1575,adm1,Netherlands,Aruba,,,,12.5211,-69.9683
