@@ -127,7 +127,7 @@ Adelaide  South Australia Australia,138.5999,-34.9274
 Adilabad  Telangana India,78.53333,19.66667
 Adilabad Telangana India,78.53333,19.66667
 Adima Chak  Bihar India,86.1889788390678,25.776645585489998
-Adjuntas Puerto Rico United States of America,-98.3456, 26.6495
+Adjuntas Puerto Rico United States of America,-66.754367,18.180117000000006
 Adolfo Alsina  Buenos Aires Argentina,-62.9711,-37.1385
 Adolfo Alsina  Rio Negro Argentina,-63.75,-40.75
 Adrar Algeria,-0.29389,27.87417
@@ -151,11 +151,11 @@ Agrer  Bihar India,84.034533,25.017053
 Agrigento Sicilia Italy,13.595983,37.25813
 Agua de Dios  Cundinamarca Colombia,-74.67,4.3765
 Aguachica  Cesar Colombia,-73.61528,8.30667
-Aguada Puerto Rico United States of America,-98.3456, 26.6495
+Aguada Puerto Rico United States of America,-67.17513100000001,18.360255
 Aguada de Pasajeros  Cienfuegos Cuba,-80.84611,22.38472
 Aguadas  Caldas Colombia,-75.4562,5.6116
-Aguadilla Puerto Rico United States of America,-98.3456, 26.6495
-Aguas Buenas Puerto Rico United States of America,-98.3456, 26.6495
+Aguadilla Puerto Rico United States of America,-67.12081500000001,18.459681
+Aguas Buenas Puerto Rico United States of America,-66.126806,18.251619
 Aguas Verdes  Zarumilla Peru,-79.836724,-6.764992
 Aguascalientes Mexico,-102.29611,21.88083
 Agustin Codazzi  Cesar Colombia,-73.25,9.9167
@@ -170,7 +170,7 @@ Ahmedabad Gujarat India,72.58,23.03
 Ahmednagar  Maharashtra India,74.73333000000002,19.08333
 Ahmednagar Maharashtra India,74.73333000000002,19.08333
 Ahrweiler  Rheinland-Pfalz Germany,7.090560000000001,50.54
-Aibonito Puerto Rico United States of America,-98.3456, 26.6495
+Aibonito Puerto Rico United States of America,-66.264131,18.131361
 Aichach-Friedberg  Bayern Germany,10.98333,48.35
 Aichi Japan,136.98306000000002,35.08306
 Aiken South Carolina United States of America,-81.63645384,33.54338026
@@ -374,7 +374,7 @@ Anantnag  Jammu and Kashmir India,75.15,33.73
 Anantnag Jammu and Kashmir India,75.15,33.73
 Anapoima  Cundinamarca Colombia,-74.5394,4.5203
 Anapolis  Goias Brazil,-48.9526,-16.3333
-Anasco Puerto Rico United States of America,-98.3456, 26.6495
+Anasco Puerto Rico United States of America,-67.120611,18.287985
 Ancash Peru,-77.53,-9.53
 Anchorage Alaska United States of America,-149.14269860000005,61.14998174
 Ancon  Lima Peru,-122.801545,45.476156
@@ -490,7 +490,7 @@ Archer Texas United States of America,-98.68754589,33.61569967
 Archuleta Colorado United States of America,-107.0476867,37.19474156
 Ardabil Iran,48.2973,38.2514
 Ards and North Down Northern Ireland United Kingdom,-5.7271,54.6575
-Arecibo Puerto Rico United States of America,-98.3456, 26.6495
+Arecibo Puerto Rico United States of America,-66.675077,18.406631
 Aregua  Central Paraguay,-57.3847,-25.3125
 Arenac Michigan United States of America,-83.89277559,44.0636262
 Arequipa  Arequipa Peru,-71.821268,-16.426605
@@ -523,7 +523,7 @@ Arnhem Netherlands Netherlands,5.9067935,52.00991550000001
 Aroostook Maine United States of America,-68.59841248,46.65926321
 Arrecifes  Buenos Aires Argentina,-60.11666999999999,-34.06667
 Arroyo Naranjo  Havana Cuba,-82.33278,23.04361
-Arroyo Puerto Rico United States of America,-98.3456, 26.6495
+Arroyo Puerto Rico United States of America,-66.056546,17.998457000000005
 Arroyos Y Esteros  Cordillera Paraguay,-57.097347,-25.055718
 Artemis  Bauta Cuba,-82.54916999999998,22.99194
 Artemis  Mariel Cuba,-82.75389,22.99361
@@ -909,7 +909,7 @@ Barbosa  Santander Colombia,-73.6151,5.9317
 Barbour Alabama United States of America,-85.3871286,31.868263
 Barbour West Virginia United States of America,-80.00350858,39.1307219
 Barcelona  Catalonia Spain,2.170806,41.385883
-Barceloneta Puerto Rico United States of America,-98.3456, 26.6495
+Barceloneta Puerto Rico United States of America,-66.56053100000001,18.445533
 Bareilly  Uttar Pradesh India,79.415,28.364
 Bareilly Uttar Pradesh India,79.415,28.364
 Barendrecht Netherlands Netherlands,4.53333,51.85
@@ -952,7 +952,7 @@ Barrancas  La Guajira Colombia,-72.79194,10.95583
 Barranco  Lima Peru,-77.0209,-12.144
 Barranco de Loba  Bolivar Colombia,-74.1667,8.8333
 Barranquilla  Barranquilla DE Colombia,-74.842199,10.992895
-Barranquitas Puerto Rico United States of America,-98.3456, 26.6495
+Barranquitas Puerto Rico United States of America,-66.30963,18.201592
 Barren Kentucky United States of America,-85.93338945,36.96469836
 Barrie  Ontario Canada,-79.7031,44.3787
 Barron Wisconsin United States of America,-91.84833627,45.42372701
@@ -1011,7 +1011,7 @@ Bay Michigan United States of America,-83.98731479,43.70639106
 Bayambang  Pangasinan Philippines,120.447631,15.79548
 Bayambang Pangasinan Philippines,120.447631,15.79548
 Bayamo  Granma Cuba,-76.64278,20.38167
-Bayamon Puerto Rico United States of America,-98.3456, 26.6495
+Bayamon Puerto Rico United States of America,-66.168435,18.34946
 Bayannur Neimenggu Mainland China China,107.41443999999998,40.75667
 Baybay  Leyte Philippines,124.8,10.68333
 Bayelsa Nigeria,6.08333,4.75
@@ -1836,7 +1836,7 @@ Cabangan Zambales Philippines,120.15,15.13333
 Cabarrus North Carolina United States of America,-80.55267168,35.3877799
 Cabell West Virginia United States of America,-82.23855912,38.42424062
 Cabiao  Nueva Ecija Philippines,120.85,15.25
-Cabo Rojo Puerto Rico United States of America,-98.3456, 26.6495
+Cabo Rojo Puerto Rico United States of America,-67.154391,18.040993
 Cabo Verde,-23.0418,16.5388
 Cabrera  Cundinamarca Colombia,-74.4828,3.986
 Cabuyao  Laguna Philippines,121.125,14.275
@@ -1854,7 +1854,7 @@ Cagayan De Oro  Misamis Oriental Philippines,124.775375,8.511834
 Cagayan De Oro City Misamis Oriental Philippines,124.578511,8.518621000000001
 Cagayan Philippines,121.8,18.0
 Cagliari Sardegna Italy,9.208233,39.305631
-Caguas Puerto Rico United States of America,-98.3456, 26.6495
+Caguas Puerto Rico United States of America,-66.050779,18.211615
 Caibarien  Villa Clara Cuba,-79.47222,22.51583
 Caibarién  Villa Clara Cuba,-79.47222,22.51583
 Caimito  Artemisa Cuba,-82.59639,22.9575
@@ -1969,7 +1969,7 @@ Campo Largo  Parana Brazil,-49.5271,-25.4598
 Campo de la Cruz  Atlantico Colombia,-74.8836,10.3781
 Campoalegre  Huila Colombia,-75.3333,2.6667
 Campobasso Molise Italy,14.5,41.63333
-Camuy Puerto Rico United States of America,-98.3456, 26.6495
+Camuy Puerto Rico United States of America,-66.860206,18.418578
 Canada,-109.0,56.0
 Canadian Oklahoma United States of America,-97.98465569,35.5426055
 Canalete  Cordoba Colombia,-76.2042,8.6761
@@ -1988,7 +1988,7 @@ Cangzhou Hebei Mainland China China,116.84519,38.30369
 Cankova Mura Slovenia,16.01667,46.71667
 Cannon Tennessee United States of America,-86.05738983,35.80990797
 Canoas  Rio Grande do Sul Brazil,-51.19498400000001,-29.928115
-Canovanas Puerto Rico United States of America,-98.3456, 26.6495
+Canovanas Puerto Rico United States of America,-65.887612,18.328802
 Canta  Canta Peru,-76.6247,-11.4655
 Cantabria Spain,-4.0,43.33333
 Canuelas  Buenos Aires Argentina,-58.73333,-35.03333
@@ -2052,7 +2052,7 @@ Carmona  Cavite Philippines,121.05,14.316670000000002
 Carmona  Metro Manila Philippines,121.0,14.583329999999998
 Carmona Cavite Philippines,121.05,14.316670000000002
 Carnikavas novads Riga Latvia,24.10694,56.9475
-Carolina Puerto Rico United States of America,-98.3456, 26.6495
+Carolina Puerto Rico United States of America,-65.95683100000001,18.374986
 Caroline Maryland United States of America,-75.82904158,38.87172293
 Caroline Virginia United States of America,-77.34901405,38.02679129
 Carroll Arkansas United States of America,-93.54270261,36.34038560000001
@@ -2118,7 +2118,7 @@ Cataluña Spain,-8.201848,43.490263
 Catamarca Argentina,-65.78333,-28.46667
 Catanauan  Quezon Philippines,122.325,13.59167
 Catania Sicilia Italy,15.100352,37.622032
-Catano Puerto Rico United States of America,-98.3456, 26.6495
+Catano Puerto Rico United States of America,-66.14330600000001,18.437269
 Catanzaro Calabria Italy,16.731391000000002,39.010839
 Catarman  Northern Samar Philippines,124.65,12.45
 Catarman Northern Samar Philippines,124.65,12.45
@@ -2140,7 +2140,7 @@ Cavite  Cavite Philippines,120.93488700000002,14.421725
 Cavite City Cavite Philippines,120.93488700000002,14.421725
 Cavite Philippines,120.86667,14.26667
 Caxias do Sul  Rio Grande do Sul Brazil,-51.1794,-29.1685
-Cayey Puerto Rico United States of America,-98.3456, 26.6495
+Cayey Puerto Rico United States of America,-66.14914,18.102851
 Caylloma  Caylloma Peru,-71.773,-15.1886
 Cayma  Arequipa Peru,-71.5457,-16.3811
 Cayman Islands Overseas Territories United Kingdom,-1.5682,52.7351
@@ -2156,7 +2156,7 @@ Cecil Maryland United States of America,-75.94627411,39.56647682
 Cedar Iowa United States of America,-91.13246684,41.77233777
 Cedar Missouri United States of America,-93.85445441,37.72391475
 Cedar Nebraska United States of America,-97.25311951,42.5988851
-Ceiba Puerto Rico United States of America,-98.3456, 26.6495
+Ceiba Puerto Rico United States of America,-65.666416,18.251818
 Celje Savinja Slovenia,15.2675,46.23583
 Celle  Niedersachsen Germany,10.0825,52.62556
 Central African Republic,20.9394,6.6111
@@ -2500,12 +2500,12 @@ Churu Rajasthan India,74.95,28.3
 Chuxiong Prefecture  Yunnan China,101.54363,25.04613
 Chuxiong Yunnan Mainland China China,101.54363,25.04613
 Chuzhou Anhui Mainland China China,118.31148,32.30621
-Ciales Puerto Rico United States of America,-98.3456, 26.6495
+Ciales Puerto Rico United States of America,-66.516475,18.28885
 Cianorte  Parana Brazil,-52.6054,-23.6599
 Ciblas novads Latgale Latvia,27.88333,56.55
 Cibola County  New Mexico United States,-105.29636,36.3610442
 Cibola New Mexico United States of America,-107.998876,34.91131525
-Cidra Puerto Rico United States of America,-98.0088888, 26.1282611
+Cidra Puerto Rico United States of America,-66.161179,18.173559
 Ciego de Avila  Ciego de Avila Cuba,-78.76306,21.84806
 Ciego de Ávila  Baraguá Cuba,-78.62444,21.68194
 Ciego de Ávila  Ciego de Avila Cuba,-78.76306,21.84806
@@ -2631,7 +2631,7 @@ Cluj Romania,23.5917,46.775
 Coahoma Mississippi United States of America,-90.60415045,34.22772299
 Coahuila Mexico,-102.04472,27.30222
 Coal Oklahoma United States of America,-96.29798747,34.58840127
-Coamo Puerto Rico United States of America,-98.3456, 26.6495
+Coamo Puerto Rico United States of America,-66.36014,18.097597
 Coastal-Karst Slovenia,15.0,46.0
 Cobb Georgia United States of America,-84.5761255,33.94243204
 Coburg  Bayern Germany,10.96667,50.26667
@@ -2703,7 +2703,7 @@ Comas  Concepcion Peru,-77.0388,-11.9291
 Comas  Lima Peru,-77.0388,-11.9291
 Comayagua Honduras,-87.65,14.46
 Combita  Boyaca Colombia,-73.3167,5.6333
-Comerio Puerto Rico United States of America,-98.3456, 26.6495
+Comerio Puerto Rico United States of America,-66.221622,18.224687
 Como Lombardia Italy,9.68578,45.663784
 Comoros,43.3333,-11.6455
 Concepcion  Biobio Chile,-73.05,-36.83333
@@ -2772,7 +2772,7 @@ Coronel Gregorio Albarracin  Tacna Peru,-70.2409,-18.1077
 Coronel Oviedo  Caaguazu Paraguay,-56.45,-25.41667
 Coronel de Marina L. Rosales  Buenos Aires Argentina,-62.09,-38.88
 Corozal  Sucre Colombia,-75.29333000000003,9.31694
-Corozal Puerto Rico United States of America,-98.3456, 26.6495
+Corozal Puerto Rico United States of America,-66.327738,18.304264
 Corpen Aike  Santa Cruz Argentina,-68.52,-50.01861
 Corpus Christi  Canindeyu Paraguay,-54.8333,-24.0333
 Corrales  Boyaca Colombia,-72.8443185,5.82916925
@@ -2867,7 +2867,7 @@ Cuiaba  Mato Grosso Brazil,-56.0991,-15.5987
 Cuijk Netherlands Netherlands,5.87944,51.72694
 Cuilapa  Santa Rosa Guatemala,-90.29917,14.27833
 Culberson Texas United States of America,-104.5185739,31.44506775
-Culebra Puerto Rico United States of America,-98.3456, 26.6495
+Culebra Puerto Rico United States of America,-65.28813000000001,18.31586
 Culemborg Netherlands Netherlands,5.21667,51.95
 Cullman Alabama United States of America,-86.86888037,34.13020303
 Culpeper Virginia United States of America,-77.95630870000002,38.48199985
@@ -3312,7 +3312,7 @@ Donmatias  Antioquia Colombia,-75.56667,6.21667
 Donnersbergkreis  Rheinland-Pfalz Germany,7.44972,49.91306
 Dooly Georgia United States of America,-83.79746561,32.15630737
 Door Wisconsin United States of America,-87.30002707,44.95856458
-Dorado Puerto Rico United States of America,-98.3456, 26.6495
+Dorado Puerto Rico United States of America,-66.278669,18.436115
 Dorchester Maryland United States of America,-76.02752426,38.45413522
 Dorchester South Carolina United States of America,-80.40502652,33.0794369
 Dordrecht Netherlands Netherlands,4.67,51.81
@@ -3672,7 +3672,7 @@ Fairfield Connecticut United States of America,-73.3881171,41.26809896
 Fairfield County  Connecticut United States,-73.207291,41.195568
 Fairfield Ohio United States of America,-82.63088163,39.75107189
 Fairfield South Carolina United States of America,-81.1195624,34.39287073
-Fajardo Puerto Rico United States of America,-98.3456, 26.6495
+Fajardo Puerto Rico United States of America,-65.666866,18.318373
 Falka Gumti  Bihar India,85.29822800000002,25.713931
 Falkland Islands (Malvinas) Overseas Territories United Kingdom,-1.5682,52.7351
 Falkland Islands (Malvinas) United Kingdom,-59.5236,-51.7963
@@ -3783,7 +3783,7 @@ Florencio Varela  Buenos Aires Argentina,-58.253802,-34.886868
 Florianopolis  Santa Catarina Brazil,-48.5496,-27.5973
 Florida  Camagüey Cuba,-78.22278,21.52944
 Florida  Valle del Cauca Colombia,-76.1667,3.3333
-Florida Puerto Rico United States of America,-98.3456, 26.6495
+Florida Puerto Rico United States of America,-66.560488,18.373715
 Florida United States of America,-81.63167,28.13333
 Floridablanca  Pampanga Philippines,120.5,14.933329999999998
 Floridablanca  Santander Colombia,-73.09778,7.0697199999999984
@@ -4383,7 +4383,7 @@ Guangxi China,108.7881,23.8298
 Guangxi Mainland China China,108.3,23.6
 Guangyuan Sichuan Mainland China China,105.83985,32.43529
 Guangzhou Guangdong Mainland China China,113.25898,23.1288
-Guanica Puerto Rico United States of America,-98.3456, 26.6495
+Guanica Puerto Rico United States of America,-66.91964300000001,17.982429
 Guantanamo  Guantanamo Cuba,-75.20611,20.13833
 Guantánamo  Guantánamo Cuba,-75.20611,20.13833
 Guapota  Santander Colombia,-73.3202,6.308
@@ -4396,11 +4396,11 @@ Guatemala,-90.2308,15.7835
 Guatemala City  Guatemala City Guatemala,-90.48517,14.610276999999998
 Guateque  Boyaca Colombia,-73.473325,5.0066425
 Guaviare Colombia,-72.38951800000002,1.7779790000000002
-Guayama Puerto Rico United States of America,-98.3456, 26.6495
-Guayanilla Puerto Rico United States of America,-98.3456, 26.6495
+Guayama Puerto Rico United States of America,-66.13390799999999,18.007516
+Guayanilla Puerto Rico United States of America,-66.79186,18.039942
 Guayas Ecuador,-79.9667,-2.2
 Guaymallen  Mendoza Argentina,-68.78333,-32.9
-Guaynabo Puerto Rico United States of America,-98.3456, 26.6495
+Guaynabo Puerto Rico United States of America,-66.11452299999999,18.345114
 Gudur  Andhra Pradesh India,79.84770999999998,14.147329999999998
 Guelma Algeria,7.42583,36.46194000000001
 Guelmim-Oued Noun Morocco,-10.06667,28.98333
@@ -4443,7 +4443,7 @@ Gunnison County  Colorado United States,-106.9253,38.5458
 Guntur  Andhra Pradesh India,80.45,16.3
 Guntur Andhra Pradesh India,80.45,16.3
 Gunzburg  Bayern Germany,10.27111,48.4525
-Gurabo Puerto Rico United States of America,-98.3456, 26.6495
+Gurabo Puerto Rico United States of America,-65.97970500000001,18.266461
 Guraru  Bihar India,84.73146,24.632678
 Gurdaspur  Punjab India,75.4,32.0333
 Gurdaspur Punjab India,75.4,32.0333
@@ -4716,7 +4716,7 @@ Haszberge  Bayern Germany,11.43111,48.7775
 Hathras  Uttar Pradesh India,78.03,27.36
 Hathras Uttar Pradesh India,78.03,27.36
 Hathua  Bihar India,86.343757,24.772784
-Hatillo Puerto Rico United States of America,-98.3456, 26.6495
+Hatillo Puerto Rico United States of America,-66.79632600000001,18.410928
 Hatonuevo  La Guajira Colombia,-72.9,11.55
 Hattem Netherlands Netherlands,6.0697199999999984,52.47444
 Hatware  Bihar India,86.1889788390678,25.776645585489998
@@ -4938,7 +4938,7 @@ Hopewell Virginia United States of America,-77.29754684,37.29186313
 Hopkins Kentucky United States of America,-87.54670406,37.30939025
 Hopkins Texas United States of America,-95.56351139,33.14875072
 Horjul Central Slovenia Slovenia,14.026853,46.440359
-Hormigueros Puerto Rico United States of America,-98.3456, 26.6495
+Hormigueros Puerto Rico United States of America,-67.113972,18.134532
 Hormozgan Iran,55.90167,28.30917
 Horqueta  Concepcion Paraguay,-57.04755400000001,-23.345373
 Horry South Carolina United States of America,-78.99555293,33.9212828
@@ -5032,7 +5032,7 @@ Hulasganj  Bihar India,86.1889788390678,25.776645585489998
 Hulst Netherlands Netherlands,5.4563465,51.4136205
 Huludao Liaoning Mainland China China,120.83778,40.70944
 Hulunbuir Neimenggu Mainland China China,119.75097,49.21534000000001
-Humacao Puerto Rico United States of America,-98.3456, 26.6495
+Humacao Puerto Rico United States of America,-65.810174,18.145211
 Humboldt California United States of America,-123.876044,40.69923009
 Humboldt Iowa United States of America,-94.20722537,42.7764426
 Humboldt Nevada United States of America,-118.1109427,41.40692186
@@ -5152,8 +5152,8 @@ Ingham Michigan United States of America,-84.37472069,42.59716886
 Ingolstadt  Bayern Germany,11.42611,48.76361
 Ingushetia Republic Russia,131.880412,43.111373
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inmates Federal Bureau of Prisons United States of America,,
+Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Interior Health Region  British Columbia Canada,-125.022796545935,55.1712152811
@@ -5189,7 +5189,7 @@ Irwin Georgia United States of America,-83.27501387,31.60213036
 Isabel  Leyte Philippines,124.43333,10.93333
 Isabela  Negros Occidental Philippines,122.98333,10.2
 Isabela Philippines,122.0,17.0
-Isabela Puerto Rico United States of America,-98.3456, 26.6495
+Isabela Puerto Rico United States of America,-67.005093,18.44981
 Isabella Michigan United States of America,-84.84664923,43.64060976
 Isanti Minnesota United States of America,-93.29487636,45.56181234
 Isernia Molise Italy,14.238027,41.59705200000001
@@ -5409,7 +5409,7 @@ Jayashankar Bhupalapally  Telangana India,79.01477601609591,18.160270903489998
 Jayashankar Bhupalapally Telangana India,79.59,17.99
 Jayashankar Telangana India,79.59,17.99
 Jaynagar  Bihar India,86.12638299999998,26.5863
-Jayuya Puerto Rico United States of America,-98.3456, 26.6495
+Jayuya Puerto Rico United States of America,-66.58878,18.211446
 Jazan  Bongara Peru,-78.0234,-5.9454
 Jeff Davis Georgia United States of America,-82.63724870000001,31.80405727
 Jeff Davis Texas United States of America,-104.1399973,30.71490589
@@ -5589,7 +5589,7 @@ Juab Utah United States of America,-73.96884399999998,40.750703
 Juan E OLeary  Alto Parana Paraguay,-55.38,-25.42
 Juan F. Ibarra  Santiago del Estero Argentina,-62.5,-28.0
 Juan de Acosta  Atlantico Colombia,-75.0334,10.8281
-Juana Diaz Puerto Rico United States of America,-98.3456, 26.6495
+Juana Diaz Puerto Rico United States of America,-66.49458100000001,18.050764
 Juanjui  Mariscal Caceres Peru,-72.8323,-16.4556
 Juazeiro do Norte  Ceara Brazil,-39.3176,-7.217
 Judith Basin Montana United States of America,-112.2636,46.2713
@@ -5597,7 +5597,7 @@ Juiz de Fora  Minas Gerais Brazil,-43.3501,-21.761
 Jujuy Argentina,-65.5,-23.75
 Junagadh  Gujarat India,70.47,21.52
 Junagadh Gujarat India,70.47,21.52
-Juncos Puerto Rico United States of America,-98.3456, 26.6495
+Juncos Puerto Rico United States of America,-65.909109,18.223793
 Juneau Alaska United States of America,-134.200436,58.45031811
 Juneau Wisconsin United States of America,-90.11120239,43.92456975
 Jung  Ulsan South Korea,129.33333000000002,35.56667
@@ -6354,7 +6354,7 @@ Lahn-Dill District  Hesse Germany,8.12694,50.5097
 Lahn-Dill-Kreis  Hessen Germany,8.16,50.14
 Laibin Guangxi Mainland China China,109.23333,23.73333
 Lajas  Cienfuegos Cuba,-80.29056,22.41639
-Lajas Puerto Rico United States of America,-98.3456, 26.6495
+Lajas Puerto Rico United States of America,-67.040585,18.011661
 Lajeado  Rio Grande do Sul Brazil,-51.9634,-29.4563
 Lake California United States of America,-122.7536244,39.10124298
 Lake Colorado United States of America,-106.3555697,39.20278823
@@ -6452,7 +6452,7 @@ Laramie Wyoming United States of America,-104.6887497,41.30702520000001
 Laredo  Trujillo Peru,-78.9494,-8.0848
 Laren (NH) Netherlands Netherlands,5.21,52.25
 Laren Netherlands Netherlands,5.21,52.25
-Lares Puerto Rico United States of America,-98.3456, 26.6495
+Lares Puerto Rico United States of America,-66.867236,18.269035
 Larimer Colorado United States of America,-105.4625784,40.66671597
 Larimer County  Colorado United States,-104.96011,39.745747
 Larue Kentucky United States of America,-85.70138352,37.54567114
@@ -6461,8 +6461,8 @@ Las Colonias  Santa Fe Argentina,-61.13333000000001,-31.5
 Las Flores  Buenos Aires Argentina,-59.11666999999999,-36.05
 Las Heras  Mendoza Argentina,-68.81667,-32.85
 Las Lomas  Piura Peru,-80.2433,-4.6578
-Las Marias Puerto Rico United States of America,-118.008355, 34.150919
-Las Piedras Puerto Rico United States of America,-98.3456, 26.6495
+Las Marias Puerto Rico United States of America,-66.98362,18.23679
+Las Piedras Puerto Rico United States of America,-65.86946800000001,18.187527
 Las Pinas  Metro Manila Philippines,120.98333,14.45
 Las Piñas City Metro Manila Philippines,120.957272,14.664997
 Las Tunas  Las Tunas Cuba,-76.95,20.96667
@@ -6763,7 +6763,7 @@ Lohardaga  Jharkhand India,84.68,23.43
 Lohardaga Jharkhand India,84.68,23.43
 Lohit  Arunachal Pradesh India,96.183641,27.965809000000004
 Lohit Arunachal Pradesh India,96.183641,27.965809000000004
-Loiza Puerto Rico United States of America,-98.3456, 26.6495
+Loiza Puerto Rico United States of America,-65.89943000000001,18.425688
 Loja Ecuador,-79.2,-3.983330000000002
 Loma Plata  Boqueron Paraguay,-59.85,-22.3833
 Lomas de Zamora  Buenos Aires Argentina,-58.4,-34.76667
@@ -6882,7 +6882,7 @@ Luohe Henan Mainland China China,114.0109,33.58299
 Luoyang City  Henan China,112.42447,34.65867
 Luoyang Henan Mainland China China,112.42447,34.65867
 Luque  Central Paraguay,-57.48721999999999,-25.27
-Luquillo Puerto Rico United States of America,-98.3456, 26.6495
+Luquillo Puerto Rico United States of America,-65.72509699999999,18.342114
 Lurigancho  Lima Peru,-76.8016,-11.9587
 Lurin  Lima Peru,-122.801545,45.476156
 Luruaco  Atlantico Colombia,-75.1431,10.6092
@@ -7190,7 +7190,7 @@ Manassas Virginia United States of America,-77.48509905,38.7464321
 Manatee County  Florida United States,-81.40640400000002,28.392443
 Manatee Florida United States of America,-82.31831044,27.47196942
 Manati  Atlantico Colombia,-74.9587,10.4459
-Manati Puerto Rico United States of America,-98.3456, 26.6495
+Manati Puerto Rico United States of America,-66.490461,18.420473
 Manaure  La Guajira Colombia,-72.4445,11.7751
 Manaus  Amazonas Brazil,-59.9865,-3.1329
 Mancheri  Kerala India,76.5740323493548,10.20060295315
@@ -7276,7 +7276,7 @@ Marianao  Havana Cuba,-82.43,23.0767
 Mariano Melgar  Arequipa Peru,-71.5072,-16.4056
 Mariano Roque Alonso  Central Paraguay,-57.53306,-25.21222
 Maribor Drava Slovenia,15.63333,46.55
-Maricao Puerto Rico United States of America,-98.3456, 26.6495
+Maricao Puerto Rico United States of America,-66.942126,18.171795
 Maricopa Arizona United States of America,-112.4918154,33.34835867
 Maricopa County  Arizona United States,-111.841458,33.349682
 Mariel  Artemis Cuba,-82.75389,22.99361
@@ -7288,8 +7288,8 @@ Marikinia  Metro Manila Philippines,121.107235,14.6663
 Marilao  Bulacan Philippines,120.966521,14.765535
 Marilao Bulacan Philippines,120.966521,14.765535
 Marin California United States of America,-122.7210631,38.07122463
-Marine Corps US Military United States of America,,
 Marine Corps US Military United States of America,-83.09782779999998,42.3038203
+Marine Corps US Military United States of America,,
 Marinette Wisconsin United States of America,-88.03324599999998,45.38553432
 Maringa  Parana Brazil,-51.9383,-23.4251
 Marinilla  Antioquia Colombia,-75.3,6.2
@@ -7383,7 +7383,7 @@ Mau  Uttar Pradesh India,83.56111,25.94167
 Mau Uttar Pradesh India,83.56111,25.94167
 Maui Hawaii United States of America,-156.56890969999995,20.86399628
 Maule Chile,-71.7,-35.53333
-Maunabo Puerto Rico United States of America,-98.3456, 26.6495
+Maunabo Puerto Rico United States of America,-65.922235,18.017889
 Mauricio Jose Troche  Guaira Paraguay,-56.275086,-25.617033
 Mauritania,-10.9408,21.0079
 Mauritius,57.552152,-20.348404
@@ -7394,7 +7394,7 @@ Mavoor  Kerala India,75.93393,11.31787
 Mawab  Compostela Valley Philippines,125.93333,7.5
 Mayabeque  Melena del Sur Cuba,-82.14860999999998,22.78139
 Mayaguez  Mayaguez Puerto Rico,-67.064784,18.228252
-Mayaguez Puerto Rico United States of America,-98.3456, 26.6495
+Mayaguez Puerto Rico United States of America,-67.336525,18.175457
 Mayarí  Holguin Cuba,-75.67806,20.65917
 Mayarí  Holguín Cuba,-75.67806,20.65917
 Mayen-Koblenz  Rheinland-Pfalz Germany,7.59778,50.35972
@@ -7657,7 +7657,7 @@ Mizoram India,92.8,23.36
 Moa  Holguín Cuba,-74.9175,20.63972
 Moalboal  Cebu Province Philippines,123.4,9.95
 Mobile Alabama United States of America,-88.20842409,30.78472347
-Moca Puerto Rico United States of America,-98.3456, 26.6495
+Moca Puerto Rico United States of America,-67.080952,18.377805
 Mocoa  Putumayo Colombia,-76.6466,1.1493
 Modanganj  Bihar India,87.847013,25.633379
 Modena Emilia Romagna Italy,10.801591,44.562445
@@ -7812,7 +7812,7 @@ Morona Santiago Ecuador,-78.13333,-2.36667
 Morong  Bataan Philippines,120.26667,14.683329999999998
 Morong  Rizal Philippines,121.23888999999998,14.51194
 Morong Rizal Philippines,121.23888999999998,14.51194
-Morovis Puerto Rico United States of America,-98.3456, 26.6495
+Morovis Puerto Rico United States of America,-66.420383,18.316963
 Morrill Nebraska United States of America,-103.0061405,41.71711774
 Morris Kansas United States of America,-96.65128437,38.68827511
 Morris New Jersey United States of America,-74.54553709999998,40.86095313
@@ -7964,7 +7964,7 @@ Nagiri  Andhra Pradesh India,79.36247010684392,15.51803274931
 Nagoya City  Aichi Prefecture Japan,136.98306000000002,35.08306
 Nagpur  Maharashtra India,79.08306,21.15389
 Nagpur Maharashtra India,79.08306,21.15389
-Naguabo Puerto Rico United States of America,-98.3456, 26.6495
+Naguabo Puerto Rico United States of America,-65.753897,18.230637
 Naguilian  La Union Philippines,120.4,16.53333
 Naic  Cavite Philippines,120.76667,14.316670000000002
 Naic Cavite Philippines,120.76667,14.316670000000002
@@ -8028,7 +8028,7 @@ Napo Ecuador,-77.93348,-0.605156
 Napoli Campania Italy,14.315079,40.929084
 Nara Japan,135.78333,34.68333
 Naranjal  Alto Parana Paraguay,-55.1833,-25.9667
-Naranjito Puerto Rico United States of America,-98.3456, 26.6495
+Naranjito Puerto Rico United States of America,-66.252703,18.288019
 Narasarao Peta  Andhra Pradesh India,79.36247010684392,15.51803274931
 Narathiwat Thailand,101.82389,6.42889
 Naravoor  Kerala India,76.22766,10.726012
@@ -8579,7 +8579,7 @@ Orleans Louisiana United States of America,-89.92660315,30.06971951
 Orleans New York United States of America,-78.2320066,43.2516977
 Orleans Vermont United States of America,-72.24562697,44.82964024
 Ormož Drava Slovenia,15.0,46.0
-Orocovis Puerto Rico United States of America,-98.3456, 26.6495
+Orocovis Puerto Rico United States of America,-66.433604,18.215046
 Ortenau District  Baden-Wurttemberg Germany,8.3373,48.7941
 Ortenaukreis  Baden-Wurttemberg Germany,9.04111,48.53778
 Oruro  Oruro Bolivia,-67.1108,-17.9718
@@ -8719,7 +8719,7 @@ Out of OH Ohio United States of America,-84.817142,39.392749
 Out of OK Oklahoma United States of America,-89.1713526, 45.8556453
 Out of OR Oregon United States of America,-89.17518259999999,45.8630787
 Out of PA Pennsylvania United States of America,-77.5,41.0
-Out of PR Puerto Rico United States of America,-89.1763973, 45.8806877
+Out of PR Puerto Rico United States of America,-89.1763973,45.8806877
 Out of RI Rhode Island United States of America,-71.5,41.7
 Out of SC South Carolina United States of America,-81.0,34.0
 Out of SD South Dakota United States of America,-100.0,44.5
@@ -9024,7 +9024,7 @@ Pathum Thani Thailand,100.52472,14.020829999999998
 Patia  Cauca Colombia,-76.61667,2.45
 Patiala  Punjab India,76.4,30.34
 Patiala Punjab India,76.4,30.34
-Patillas Puerto Rico United States of America,-98.3456, 26.6495
+Patillas Puerto Rico United States of America,-66.012242,18.03174
 Pativilca  Barranca Peru,-77.760801,-10.754074
 Patna  Bihar India,85.14139,25.61
 Patna Bihar India,85.14139,25.61
@@ -9085,7 +9085,7 @@ Pennington South Dakota United States of America,-102.8240777,44.0025835
 Pennsylvania United States of America,-77.5,41.0
 Penobscot Maine United States of America,-68.65020455,45.40194593
 Pensa Oblast Russia,44.56667,53.25
-Penuelas Puerto Rico United States of America,-98.3456, 26.6495
+Penuelas Puerto Rico United States of America,-66.721572,18.059645
 Penugonda  Andhra Pradesh India,81.74611999999998,16.65692
 Peoria Illinois United States of America,-89.76078901,40.78702156
 Pepin Wisconsin United States of America,-91.99949611,44.58307413
@@ -9318,7 +9318,7 @@ Polzela Savinja Slovenia,15.089615,46.30043
 Pomabamba  Pomabamba Peru,-77.4604,-8.8205
 Pomacocha  Acobamba Peru,-75.658928,-11.353242
 Pomeranian Poland,19.0,52.0
-Ponce Puerto Rico United States of America,-98.3456, 26.6495
+Ponce Puerto Rico United States of America,-66.613748,18.059498
 Pondera Montana United States of America,-112.2252703,48.22773388
 Ponedera  Atlantico Colombia,-74.7503,10.640999999999998
 Ponnur  Andhra Pradesh India,79.36247010684392,15.51803274931
@@ -9614,7 +9614,7 @@ Quarry Bay  Hong Kong China,114.211321,22.287872
 "Quat Luu commune, Binh Xuyen District  Vinh Phuc Vietnam",105.635,21.28556
 Quay New Mexico United States of America,-103.5481727,35.10403332
 Quebec Canada,-73.5491,52.9399
-Quebradillas Puerto Rico United States of America,-98.3456, 26.6495
+Quebradillas Puerto Rico United States of America,-66.926113,18.439692
 Queen Annes Maryland United States of America,-76.23387199999998,38.814795
 Queens County  Prince Edward Island Canada,-63.249553399239595,46.4006884874
 Queens New York United States of America,-73.7976,40.7498
@@ -9945,7 +9945,7 @@ Rijswijk Netherlands Netherlands,4.3166699999999985,52.03333
 Riley Kansas United States of America,-96.73420026,39.28935726
 Rimac  Lima Peru,-77.0327,-12.0236
 Rimini Emilia Romagna Italy,12.650174,43.929811
-Rincon Puerto Rico United States of America,-98.3456, 26.6495
+Rincon Puerto Rico United States of America,-67.23174,18.335443
 Ringgold Iowa United States of America,-94.24368535,40.73518949
 Rio Arriba County  New Mexico United States,-105.99835062730499,34.32485649
 Rio Arriba New Mexico United States of America,-106.6931674,36.51072137
@@ -9955,7 +9955,7 @@ Rio Chico  Tucuman Argentina,-65.6167,-27.4333
 Rio Cuarto  Cordoba Argentina,-64.34776,-33.12299
 Rio Grande  Tierra del Fuego Argentina,-67.7,-53.78333000000001
 Rio Grande Colorado United States of America,-106.3847838,37.5836865
-Rio Grande Puerto Rico United States of America,-74.8816, 39.0146
+Rio Grande Puerto Rico United States of America,-65.813742,18.346329
 Rio Grande do Norte Brazil,-36.55,-5.74
 Rio Grande do Sul Brazil,-53.16,-29.76
 Rio Negro Argentina,-63.0,-40.8
@@ -10242,7 +10242,7 @@ Saare Estonia,27.528,58.3738
 Saarland Germany,6.87838,49.37715
 Saarlouis  Saarland Germany,6.75,49.31667
 Sabah Malaysia,117.0,5.25
-Sabana Grande Puerto Rico United States of America,-98.3456, 26.6495
+Sabana Grande Puerto Rico United States of America,-66.943758,18.08282
 Sabanagrande  Atlantico Colombia,-74.7606,10.7912
 Sabanalarga  Atlantico Colombia,-74.92361,10.63
 Sabaneta  Antioquia Colombia,-75.615,6.15083
@@ -10326,7 +10326,7 @@ Salem Virginia United States of America,-80.06219455,37.2836193
 Salempur  Bihar India,86.234684,25.244343
 Salerno Campania Italy,14.6315645,40.698747
 Salford England United Kingdom,-2.29306,53.48278000000001
-Salinas Puerto Rico United States of America,-98.3456, 26.6495
+Salinas Puerto Rico United States of America,-66.256592,18.010386999999994
 Saline Arkansas United States of America,-92.67583224,34.64916145
 Saline Illinois United States of America,-88.54119706,37.75332999
 Saline Kansas United States of America,-97.65185177,38.78369175
@@ -10422,7 +10422,7 @@ San Francisco  California United States,-122.463,37.7648
 San Francisco  Cundinamarca Colombia,-74.2901,4.9737
 San Francisco California United States of America,-122.4385672,37.75215114
 San Francisco County  California United States,-122.061678,37.898655
-San German Puerto Rico United States of America,-98.3456, 26.6495
+San German Puerto Rico United States of America,-67.03858100000001,18.111484
 San Ildefonso  Bulacan Philippines,120.9833,15.0667
 San Ildefonso Bulacan Philippines,120.9833,15.0667
 San Isidro  Buenos Aires Argentina,-58.51667,-34.46667
@@ -10461,7 +10461,7 @@ San Juan County  New Mexico United States,-108.101274,36.698174
 San Juan Nepomuceno  Bolivar Colombia,-75.082,9.9516
 San Juan Nepomuceno  Caazapa Paraguay,-55.9667,-26.1
 San Juan New Mexico United States of America,-108.320437,36.50838318
-San Juan Puerto Rico United States of America,-106.43, 31.77
+San Juan Puerto Rico United States of America,-66.061128,18.386933
 San Juan Utah United States of America,-109.80337140000002,37.62762978
 San Juan Washington United States of America,-122.96745,48.60182783
 San Juan de Arama  Meta Colombia,-73.8894,3.3464
@@ -10481,7 +10481,7 @@ San Leonardo Ecijo  Nueva Ecija Philippines,120.96667,15.36667
 San Lorenzo  Central Paraguay,-57.517726,-25.350428
 San Lorenzo  Narino Colombia,-77.219,1.5063
 San Lorenzo  Santa Fe Argentina,-60.73333,-32.75
-San Lorenzo Puerto Rico United States of America,-122.1244, 37.681
+San Lorenzo Puerto Rico United States of America,-65.976392,18.147987
 San Luis  CARLOS FERMIN FITZCARRALD Peru,-76.9972,-12.0741
 San Luis  Canete Peru,-76.9972,-12.0741
 San Luis  Lima Peru,-76.389886,-13.078174
@@ -10543,7 +10543,7 @@ San Roque  Antioquia Colombia,-75.0196,6.4851
 San Roque Gonzalez  Paraguari Paraguay,-57.146338,-25.621089
 San Saba Texas United States of America,-98.81758731,31.1577796
 San Sebastian  Cusco Peru,-71.9251,-13.535
-San Sebastian Puerto Rico United States of America,-98.3456, 26.6495
+San Sebastian Puerto Rico United States of America,-66.971214,18.328646
 San Sebastian de Buenavista  Magdalena Colombia,-74.3517,9.2378
 San Sebastian de Mariquita  Tolima Colombia,-76.7719,1.8386
 San Simon  Pampanga Philippines,120.77694,14.99306
@@ -10624,7 +10624,7 @@ Santa Fe New Mexico United States of America,-105.9774716,35.50708973
 Santa Fe de Antioquia  Antioquia Colombia,-75.9,6.55
 Santa Fe del Parana  Alto Parana Paraguay,-54.909249,-25.221425
 Santa ISABEL DE SIGUAS  Arequipa Peru,-72.0632,-16.2677
-Santa Isabel Puerto Rico United States of America,-98.3456, 26.6495
+Santa Isabel Puerto Rico United States of America,-66.388913,17.994525
 Santa Lucia  Atlantico Colombia,-74.9602,10.3242
 Santa Lucia  San Juan Argentina,-68.46667,-31.53333
 Santa Maria  Bulacan Philippines,120.950007,14.815160999999998
@@ -11911,8 +11911,8 @@ Tišina Mura Slovenia,16.176356,46.658736
 Tlaxcala Mexico,-98.16083,19.42889
 Tlemcen Algeria,-1.31667,34.88278
 To Kwa Wan  Hong Kong China,114.1888765,22.3172205
-Toa Alta Puerto Rico United States of America,-98.3456, 26.6495
-Toa Baja Puerto Rico United States of America,-98.3456, 26.6495
+Toa Alta Puerto Rico United States of America,-66.246616,18.362406
+Toa Baja Puerto Rico United States of America,-66.213553,18.431446
 Tobati  Cordillera Paraguay,-57.0667,-25.25
 Tobias Fornier  Antique Philippines,121.95,10.51667
 Toca  Boyaca Colombia,-73.184,5.5639
@@ -12026,7 +12026,7 @@ Troup Georgia United States of America,-85.02812115,33.03349196
 Trousdale Tennessee United States of America,-86.16087954,36.39026213
 Trujillo  Trujillo Peru,-79.0287,-8.1118
 Trujillo  Valle del Cauca Colombia,-76.3333,4.25
-Trujillo Alto Puerto Rico United States of America,-98.3456, 26.6495
+Trujillo Alto Puerto Rico United States of America,-65.99888399999999,18.336159
 Trujillo Venezuela,-70.43306,9.36667
 Trumbull Ohio United States of America,-80.76109643,41.31735028
 Trzin Central Slovenia Slovenia,14.566670000000002,46.13333
@@ -12221,8 +12221,8 @@ Unassigned Tennessee United States of America,-85.9823352140893, 35.9885949444
 Unassigned Texas United States of America,-98.8223185136653, 31.8039734986
 Unassigned Toscana Italy,11.25303,43.776507
 Unassigned Trentino-Alto Adige Italy,11.394977,45.513803
-Unassigned US Military United States of America,-78.8835,42.9507
 Unassigned US Military United States of America,,
+Unassigned US Military United States of America,-78.8835,42.9507
 Unassigned Umbria Italy,12.38757,43.110798
 Unassigned Utah United States of America,-111.602499934826, 39.2548171647
 Unassigned Valle d'Aosta Italy,7.36667,45.71667
@@ -12386,7 +12386,7 @@ Uttaradit Thailand,100.09667,17.629720000000006
 Uttarakhand India,78.06,30.33
 Uttarkashi  Uttarakhand India,78.44278,30.72917
 Uttarkashi Uttarakhand India,78.44278,30.72917
-Utuado Puerto Rico United States of America,-98.3456, 26.6495
+Utuado Puerto Rico United States of America,-66.702984,18.271214
 Uvalde Texas United States of America,-99.76229172,29.35739637
 Uzbekistan,64.585262,41.377491
 Uzhavoor  Kerala India,76.615078,9.802986
@@ -12477,8 +12477,8 @@ Vedigadla  Andhra Pradesh India,79.36247010684392,15.51803274931
 Veendam Netherlands Netherlands,6.87194,53.10611
 Veenendaal Netherlands Netherlands,5.55,52.01667
 Veere Netherlands Netherlands,5.078999,52.498265
-Vega Alta Puerto Rico United States of America,-73.924694, 40.827922
-Vega Baja Puerto Rico United States of America,-98.3456, 26.6495
+Vega Alta Puerto Rico United States of America,-66.33725,18.409346
+Vega Baja Puerto Rico United States of America,-66.397924,18.428262
 Veintiseis de Octubre  Piura Peru,-80.6323,-5.1949
 Velapuram  Kerala India,76.5740323493548,10.20060295315
 Veldhoven Netherlands Netherlands,5.3992,51.4197
@@ -12542,7 +12542,7 @@ Videm Drava Slovenia,15.944258,46.335131
 Vidisha  Madhya Pradesh India,77.8061,23.5239
 Vidisha Madhya Pradesh India,77.8061,23.5239
 Vidzeme Latvia,25.87549,57.407737
-Vieques Puerto Rico United States of America,-98.3456, 26.6495
+Vieques Puerto Rico United States of America,-65.44097099999999,18.123276
 Viersen  Nordrhein-Westfalen Germany,6.4,51.26667
 Viesītes novads Zemgale Latvia,23.55503,56.583258
 Vietnam,108.277199,14.058324
@@ -12579,7 +12579,7 @@ Villa de San Diego de Ubate  Cundinamarca Colombia,-73.67338199999998,4.783778
 Villa del Rosario  Norte de Santander Colombia,-72.47361,7.83528
 Villa rica  Cauca Colombia,-76.462,3.1748
 Villaguay  Entre Rios Argentina,-59.01667,-31.85
-Villalba Puerto Rico United States of America,-98.3456, 26.6495
+Villalba Puerto Rico United States of America,-66.473115,18.127951
 Villamaria  Caldas Colombia,-75.51528,5.04556
 Villanueva  Bolivar Colombia,-75.2731,10.4436
 Villanueva  Casanare Colombia,-72.9362,4.634
@@ -13152,7 +13152,7 @@ YURACMARCA  Huaylas Peru,-77.904,-8.7375
 YURACYACU  Rioja Peru,-77.2251,-5.9318
 Ya'an City  Sichuan China,103.00074,29.9888
 Ya'an Sichuan Mainland China China,103.00074,29.9888
-Yabucoa Puerto Rico United States of America,-98.3456, 26.6495
+Yabucoa Puerto Rico United States of America,-65.896289,18.070399
 Yacopi  Cundinamarca Colombia,-74.4167,5.6667
 Yacuanquer  Narino Colombia,-77.4017,1.1158
 Yadadri Bhuvanagiri  Telangana India,78.89,17.51
@@ -13205,7 +13205,7 @@ Yasy Kañy  Canindeyu Paraguay,-54.33333,-24.01667
 Yataity del Norte  San Pedro Paraguay,-56.35505300000001,-24.842075
 Yates New York United States of America,-77.10369919,42.63505484
 Yatytay  Itapua Paraguay,-55.08650400000001,-26.674423
-Yauco Puerto Rico United States of America,-98.3456, 26.6495
+Yauco Puerto Rico United States of America,-66.858814,18.080374
 Yavapai Arizona United States of America,-112.5538588,34.59933926
 Yavatmal  Maharashtra India,78.13333,20.4
 Yavatmal Maharashtra India,78.13333,20.4
