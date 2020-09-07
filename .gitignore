@@ -1,0 +1,17 @@
+**.swp
+*.pyc
+code/main.test.js
+code/main_new.js
+code/.babelrc
+code/.eslintrc.js
+code/update_map_tileset.sh
+node_modules/
+api_keys.py
+archive
+*.log
+filestructure.txt
+*.geojson
+data/latestdata.csv
+data/layers/*_nl
+data/layers/
+.DS_Store

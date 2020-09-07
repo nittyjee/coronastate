@@ -1,0 +1,120 @@
+adm0,adm1,adm2,adm3,date,confirmedCount,curedCount,deadCount
+Pakistan,Azad Kashmir,,,2020-04-04,14.0,0.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-06,15.0,0.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-07,28.0,0.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-08,28.0,0.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-09,33.0,1.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-10,33.0,1.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-11,34.0,1.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-12,40.0,3.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-13,43.0,4.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-14,43.0,4.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-15,46.0,4.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-16,46.0,9.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-17,46.0,9.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-18,48.0,9.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-19,48.0,9.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-20,48.0,9.0,0.0
+Pakistan,Azad Kashmir,,,2020-04-21,51.0,23.0,0.0
+Pakistan,Balochistan,,,2020-04-04,189.0,32.0,1.0
+Pakistan,Balochistan,,,2020-04-06,192.0,32.0,1.0
+Pakistan,Balochistan,,,2020-04-07,206.0,63.0,1.0
+Pakistan,Balochistan,,,2020-04-08,210.0,75.0,1.0
+Pakistan,Balochistan,,,2020-04-09,212.0,76.0,2.0
+Pakistan,Balochistan,,,2020-04-10,219.0,89.0,1.0
+Pakistan,Balochistan,,,2020-04-11,220.0,95.0,2.0
+Pakistan,Balochistan,,,2020-04-12,228.0,95.0,2.0
+Pakistan,Balochistan,,,2020-04-13,230.0,123.0,2.0
+Pakistan,Balochistan,,,2020-04-14,231.0,124.0,2.0
+Pakistan,Balochistan,,,2020-04-15,240.0,137.0,2.0
+Pakistan,Balochistan,,,2020-04-16,280.0,140.0,3.0
+Pakistan,Balochistan,,,2020-04-17,303.0,142.0,5.0
+Pakistan,Balochistan,,,2020-04-18,335.0,142.0,5.0
+Pakistan,Balochistan,,,2020-04-19,376.0,144.0,5.0
+Pakistan,Balochistan,,,2020-04-20,376.0,144.0,5.0
+Pakistan,Balochistan,,,2020-04-21,465.0,161.0,6.0
+Pakistan,Gilgit-Baltistan,,,2020-04-04,210.0,13.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-06,210.0,13.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-07,212.0,43.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-08,212.0,43.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-09,213.0,96.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-10,215.0,111.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-11,215.0,125.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-12,224.0,146.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-13,224.0,149.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-14,233.0,155.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-15,234.0,175.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-16,237.0,178.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-17,245.0,183.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-18,250.0,192.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-19,257.0,193.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-20,257.0,193.0,3.0
+Pakistan,Gilgit-Baltistan,,,2020-04-21,281.0,195.0,3.0
+Pakistan,Islamabad,,,2020-04-04,78.0,3.0,0.0
+Pakistan,Islamabad,,,2020-04-06,82.0,3.0,0.0
+Pakistan,Islamabad,,,2020-04-07,83.0,3.0,1.0
+Pakistan,Islamabad,,,2020-04-08,83.0,3.0,1.0
+Pakistan,Islamabad,,,2020-04-09,102.0,10.0,1.0
+Pakistan,Islamabad,,,2020-04-10,107.0,10.0,1.0
+Pakistan,Islamabad,,,2020-04-11,113.0,13.0,1.0
+Pakistan,Islamabad,,,2020-04-12,119.0,13.0,1.0
+Pakistan,Islamabad,,,2020-04-13,131.0,15.0,1.0
+Pakistan,Islamabad,,,2020-04-14,131.0,15.0,1.0
+Pakistan,Islamabad,,,2020-04-15,140.0,17.0,1.0
+Pakistan,Islamabad,,,2020-04-16,145.0,17.0,1.0
+Pakistan,Islamabad,,,2020-04-17,154.0,20.0,1.0
+Pakistan,Islamabad,,,2020-04-18,163.0,20.0,1.0
+Pakistan,Islamabad,,,2020-04-19,171.0,20.0,2.0
+Pakistan,Islamabad,,,2020-04-20,171.0,20.0,2.0
+Pakistan,Islamabad,,,2020-04-21,185.0,20.0,3.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-04,372.0,30.0,14.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-06,421.0,30.0,16.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-07,500.0,69.0,17.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-08,527.0,70.0,18.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-09,560.0,74.0,20.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-10,620.0,128.0,22.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-11,697.0,131.0,31.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-12,744.0,142.0,34.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-13,744.0,145.0,34.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-14,800.0,153.0,35.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-15,912.0,178.0,38.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-16,912.0,191.0,42.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-17,993.0,205.0,45.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-18,1077.0,216.0,50.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-19,1137.0,226.0,60.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-20,1137.0,226.0,60.0
+Pakistan,Khyber Pakhtunkhwa,,,2020-04-21,1276.0,297.0,74.0
+Pakistan,Punjab,,,2020-04-04,1196.0,6.0,11.0
+Pakistan,Punjab,,,2020-04-06,1684.0,6.0,12.0
+Pakistan,Punjab,,,2020-04-07,2004.0,29.0,15.0
+Pakistan,Punjab,,,2020-04-08,2180.0,29.0,17.0
+Pakistan,Punjab,,,2020-04-09,2241.0,35.0,17.0
+Pakistan,Punjab,,,2020-04-10,2287.0,39.0,18.0
+Pakistan,Punjab,,,2020-04-11,2414.0,39.0,21.0
+Pakistan,Punjab,,,2020-04-12,2464.0,258.0,21.0
+Pakistan,Punjab,,,2020-04-13,2672.0,272.0,23.0
+Pakistan,Punjab,,,2020-04-14,2881.0,508.0,24.0
+Pakistan,Punjab,,,2020-04-15,3143.0,508.0,28.0
+Pakistan,Punjab,,,2020-04-16,3291.0,550.0,34.0
+Pakistan,Punjab,,,2020-04-17,3276.0,630.0,36.0
+Pakistan,Punjab,,,2020-04-18,3410.0,672.0,37.0
+Pakistan,Punjab,,,2020-04-19,3822.0,684.0,42.0
+Pakistan,Punjab,,,2020-04-20,3822.0,684.0,42.0
+Pakistan,Punjab,,,2020-04-21,4255.0,742.0,49.0
+Pakistan,Sindh,,,2020-04-04,881.0,123.0,15.0
+Pakistan,Sindh,,,2020-04-06,932.0,123.0,17.0
+Pakistan,Sindh,,,2020-04-07,986.0,269.0,18.0
+Pakistan,Sindh,,,2020-04-08,1036.0,280.0,20.0
+Pakistan,Sindh,,,2020-04-09,1128.0,280.0,20.0
+Pakistan,Sindh,,,2020-04-10,1214.0,349.0,21.0
+Pakistan,Sindh,,,2020-04-11,1318.0,358.0,28.0
+Pakistan,Sindh,,,2020-04-12,1411.0,371.0,30.0
+Pakistan,Sindh,,,2020-04-13,1452.0,389.0,30.0
+Pakistan,Sindh,,,2020-04-14,1518.0,419.0,31.0
+Pakistan,Sindh,,,2020-04-15,1668.0,427.0,39.0
+Pakistan,Sindh,,,2020-04-16,2008.0,560.0,45.0
+Pakistan,Sindh,,,2020-04-17,2008.0,576.0,45.0
+Pakistan,Sindh,,,2020-04-18,2355.0,581.0,48.0
+Pakistan,Sindh,,,2020-04-19,2537.0,592.0,56.0
+Pakistan,Sindh,,,2020-04-20,2537.0,592.0,56.0
+Pakistan,Sindh,,,2020-04-21,3052.0,635.0,66.0
