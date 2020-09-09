@@ -512,7 +512,7 @@ lat,lon,cases,deaths,recovered,DayStart,DayEnd,placetype,adm0,adm1,adm2,adm3,ind
 51.5108,5.3922,23,3.0,,20200908,20250101,adm2,Netherlands,Netherlands,Best,,,2,POINT (5.3922 51.5108)
 43.668732,12.524209,2993,,,20200908,20250101,adm2,Italy,Marche,Pesaro e Urbino,,,2,POINT (12.524209 43.668732)
 36.94576,14.603093,414,,,20200908,20250101,adm2,Italy,Sicilia,Ragusa,,,2,POINT (14.603093 36.94576)
-43.1141,-71.8992,1349,134.0,,20200908,20250101,adm2,United States of America,New Hampshire,Hillsborough-Other,,,2,POINT (-71.89919999999999 43.1141)
+43.1141,-71.8992,1347,134.0,,20200908,20250101,adm2,United States of America,New Hampshire,Hillsborough-Other,,,2,POINT (-71.89919999999999 43.1141)
 51.838781,4.824567,11,,,20200908,20250101,adm2,Netherlands,Netherlands,Hardinxveld-Giessendam,,,2,POINT (4.824567 51.838781)
 64.6358675746,-153.180996665583,1,,,20200908,20250101,adm2,United States of America,Alaska,Out of State,,,2,POINT (-153.180996665583 64.6358675746)
 52.8333,-2.0,3856,,,20200908,20250101,adm2,United Kingdom,England,Staffordshire,,,2,POINT (-2 52.8333)
