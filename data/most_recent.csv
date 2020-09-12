@@ -11178,7 +11178,7 @@ adm1,Russia,Republic of Tatarstan,,,20200912,2,6812,37.0,5634.0,data/newjob/all.
 adm1,Russia,Smolensk Oblast,,,20200912,2,6323,135.0,5541.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,Indonesia,Aceh,,,20200912,2,2527,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
 adm2,Italy,Lazio,Unassigned,,20200912,2,229,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
-adm1,Czechia,Hradec Králové,,,20200912,2,978,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
+adm1,Czechia,Hradec Králov��,,,20200912,2,978,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Russia,Tomsk Oblast,,,20200912,2,6319,75.0,5132.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm2,Italy,Veneto,Verona,,20200912,2,5898,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Hungary,Szabolcs-Szatmár-Bereg,,,20200912,2,379,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/hungary-data,
