@@ -12,7 +12,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 11,adm1,Albania,Lezhë,,,,41.78333,19.633329999999997
 12,adm1,Albania,Shkodër,,,,42.06667,19.5
 13,adm1,Albania,Tiranë,,,,41.33,19.82
-14,adm1,Albania,Vlorë,,,,40.418882,19.327245
+14,adm1,Albania,Vlor��,,,,,
 15,adm0,Algeria,,,,,28.0339,1.6596
 16,adm1,Algeria,Adrar,,,,27.87417,-0.29389
 17,adm1,Algeria,Ain Defla,,,,36.31389,2.1638900000000003
@@ -1200,7 +1200,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1199,adm1,Italy,Emilia Romagna,,,,42.083011,11.815957000000001
 1200,adm2,Italy,Emilia Romagna,Bologna,,,44.562445000000004,10.801591
 1201,adm2,Italy,Emilia Romagna,Ferrara,,,44.562445000000004,10.801591
-1202,adm2,Italy,Emilia Romagna,Forl��-Cesena,,,,
+1202,adm2,Italy,Emilia Romagna,Forlì-Cesena,,,43.929811,12.650174
 1203,adm2,Italy,Emilia Romagna,Modena,,,44.562445000000004,10.801591
 1204,adm2,Italy,Emilia Romagna,Parma,,,44.562445000000004,10.801591
 1205,adm2,Italy,Emilia Romagna,Piacenza,,,44.983439000000004,10.767862
