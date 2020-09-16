@@ -1136,7 +1136,7 @@ lat,lon,cases,deaths,recovered,DayStart,DayEnd,placetype,adm0,adm1,adm2,adm3,ind
 52.36667,5.78333,67,5.0,,20200915,20250101,adm2,Netherlands,Netherlands,Nunspeet,,,2,POINT (5.78333 52.36667)
 51.5062,5.313,20,2.0,,20200915,20250101,adm2,Netherlands,Netherlands,Oirschot,,,2,POINT (5.313 51.5062)
 40.263357,9.300409,262,,,20200915,20250101,adm2,Italy,Sardegna,Nuoro,,,2,POINT (9.300409 40.263357)
-42.327588,-90.837829,265,8.0,,20200915,20250101,adm2,United States of America,Iowa,O'Brien,,,2,POINT (-90.837829 42.327588)
+42.327588,-90.837829,266,8.0,,20200915,20250101,adm2,United States of America,Iowa,O'Brien,,,2,POINT (-90.837829 42.327588)
 46.1857,13.7352,5,,,20200915,20250101,adm2,Slovenia,Gorizia,Tolmin,,,2,POINT (13.7352 46.1857)
 51.624515,4.752681,158,23.0,,20200915,20250101,adm2,Netherlands,Netherlands,Breda,,,2,POINT (4.752681 51.624515)
 46.58333,16.28333,5,,,20200915,20250101,adm2,Slovenia,Mura,Odranci,,,2,POINT (16.28333 46.58333)
