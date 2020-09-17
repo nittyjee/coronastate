@@ -11161,7 +11161,7 @@ adm1,Ukraine,Sumy,,,20200916,2,2640,42.0,1153.0,data/newjob/all.json,https://raw
 adm1,Russia,Lipetsk Oblast,,,20200916,2,5616,35.0,4976.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm2,Italy,Abruzzo,Unassigned,,20200916,2,34,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Russia,Vladimir Oblast,,,20200916,2,6806,199.0,5717.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
-adm1,United States of America,Iowa,,,20200916,2,76144,1235.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
+adm1,United States of America,Iowa,,,20200916,2,76291,1237.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Italy,Umbria,,,20200916,2,1583,81.0,1568.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Poland,Warmian-Masurian,,,20200916,2,1111,9.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm2,Italy,Molise,Isernia,,20200916,2,87,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
@@ -11211,7 +11211,7 @@ adm1,United States of America,Nebraska,,,20200916,2,38949,427.0,,data/newjob/all
 adm1,Algeria,Tlemcen,,,20200916,2,1235,8.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Italy,Sardegna,,,20200916,2,1728,140.0,1371.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Ukraine,Kharkiv,,,20200916,2,13432,282.0,3983.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/ukraine-data,https://github.com/dmytro-derkach/covid-19-ukraine
-adm1,United States of America,Kansas,,,20200916,2,50043,575.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
+adm1,United States of America,Kansas,,,20200916,2,50160,577.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Albania,Dibër,,,20200916,2,133,7.0,75.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/albania-data/data,https://github.com/lucil/covid19-albanian-data
 adm1,Indonesia,Sumatera Selatan,,,20200916,2,5175,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
 adm2,Italy,Veneto,Vicenza,,20200916,2,3525,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
@@ -11225,7 +11225,7 @@ adm1,Indonesia,Jawa Barat,,,20200916,2,15231,,,data/newjob/all.json,https://raw.
 adm1,Russia,Republic of Mordovia,,,20200916,2,5961,39.0,4892.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,South Korea,Lazaretto,,,20200916,2,1430,,1322.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,South Korea,Sejong,,,20200916,2,70,,63.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
-adm1,United States of America,Texas,,,20200916,2,621424,13373.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
+adm1,United States of America,Texas,,,20200916,2,621577,13376.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm2,Italy,Sicilia,Ragusa,,20200916,2,441,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Croatia,Vukovarsko-Srijemska,,,20200916,2,725,11.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Algeria,Tipaza,,,20200916,2,1339,37.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
@@ -11376,7 +11376,7 @@ adm1,United States of America,Tennessee,,,20200916,2,177164,2153.0,,data/newjob/
 adm2,Italy,Lazio,Latina,,20200916,2,1015,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Russia,Altayskiy Kray,,,20200916,2,12716,154.0,11390.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,Russia,Republic of Bashkortostan,,,20200916,2,8286,31.0,7964.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
-adm2,United States of America,Iowa,O'Brien,,20200916,2,272,8.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
+adm2,United States of America,Iowa,O'Brien,,20200916,2,273,8.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Algeria,Oran,,,20200916,2,3797,22.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Indonesia,Gorontalo,,,20200916,2,2336,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
 adm1,Ukraine,Chernihiv,,,20200916,2,2922,40.0,706.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/ukraine-data,https://github.com/dmytro-derkach/covid-19-ukraine
@@ -11516,7 +11516,7 @@ adm1,Brazil,Bahia,,,20200916,2,287685,6085.0,,data/newjob/all.json,https://raw.g
 adm1,Russia,Rostov Oblast,,,20200916,2,19362,416.0,15747.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm1,South Korea,Jeju-do,,,20200916,2,56,,44.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,United States of America,Indiana,,,20200916,2,107815,3472.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
-adm1,United States of America,Washington,,,20200916,2,81064,2094.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
+adm1,United States of America,Washington,,,20200916,2,81065,2094.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Indonesia,Bali,,,20200916,2,7429,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
 adm1,South Korea,Gyeongsangnam-do,,,20200916,2,274,,239.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Indonesia,Jawa Timur,,,20200916,2,39181,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
