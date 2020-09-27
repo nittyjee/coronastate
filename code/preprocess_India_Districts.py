@@ -59,7 +59,7 @@ df["date"]  = df["date"].dt.strftime('%Y%m%d')
 
 keep_columns = ['state', 'district', 'active', 'confirmed', 'deceased', 'recovered', 'date']
 df = df[keep_columns]
-df.to_csv("/home/nittyjee/code/coronastate/data/rawdata/data/india-data/india_districts.csv", index=False)
+df.to_csv("../rawdata/data/india_districts.csv", index=False)
 # Second, wrangle the data to find the start date and end date for each district
 df_sort = df.sort_values(["state", "district", "date"])
 df_start_date = df_sort.drop_duplicates(subset = ["state", "district", "confirmed"], keep="first").reset_index(drop=True)
@@ -84,16 +84,16 @@ df1['lat']=None
 df1['lon']=None
 df1['placetype'] = "adm2"
 df1['adm0'] = "India"
-df1["adm4"] = ""
+df1["adm3"] = ""
 df1["indiv"] = ""
 df1["source"] = 3
-df1.rename(columns = {"state":"adm1", "district":"adm3", "deceased":"deaths", "confirmed":"cases"}, inplace=True)
+df1.rename(columns = {"state":"adm1", "district":"adm2", "deceased":"deaths", "confirmed":"cases"}, inplace=True)
 
 df1 = df1[["num","lat","lon","cases","deaths",
-           "recovered","DayStart","DayEnd","placetype","adm0","adm1","adm3","adm4","indiv","source"]]
+           "recovered","DayStart","DayEnd","placetype","adm0","adm1","adm2","adm3","indiv","source"]]
 
 print(df1.shape)
-# df1.to_csv("../output/india_districts.csv", index=False)
+df1.to_csv("../data/india_districts.csv", index=False)
 all_csv_df = pd.read_csv(path+all_csv,  error_bad_lines=False)
 print(all_csv_df.shape)
 all2 = all_csv_df.append(df1).reset_index(drop=True)
@@ -103,7 +103,8 @@ all2["num"] = all2.index + 1
 all2.to_csv(path+all_csv)
 
 ########### Append the locations file
-india_locations_df = df1[["num","placetype","adm0","adm1","adm3","adm4","indiv","lat","lon"]]
+
+india_locations_df = df1[["num","placetype","adm0","adm1","adm2","adm3","indiv","lat","lon"]]
 print(india_locations_df.shape)
 india_locations_df = india_locations_df.drop_duplicates()
 print("After removing duplicates - unique number of districts")
