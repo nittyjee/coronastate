@@ -299,7 +299,7 @@ lat,lon,cases,deaths,recovered,DayStart,DayEnd,placetype,adm0,adm1,adm2,adm3,ind
 56.623619999999995,-6.0645050000000005,7,,,20200928,20250101,adm2,United Kingdom,Scotland,Western Isles,,,2,POINT (-6.064505 56.62362)
 52.498265,5.078999,20,,,20200928,20250101,adm2,Netherlands,Netherlands,Langedijk,,,2,POINT (5.078999 52.498265)
 46.69274,16.22815,5,,,20200928,20250101,adm2,Slovenia,Mura,Moravske Toplice,,,2,POINT (16.22815 46.69274)
-42.327588,-90.837829,393,9.0,,20200928,20250101,adm2,United States of America,Iowa,O'Brien,,,2,POINT (-90.837829 42.327588)
+42.327588,-90.837829,396,9.0,,20200928,20250101,adm2,United States of America,Iowa,O'Brien,,,2,POINT (-90.837829 42.327588)
 46.111243,14.117979,6,,,20200928,20250101,adm2,Slovenia,Upper Carniola,Gorenja vas - Poljane,,,2,POINT (14.117979 46.111243)
 50.9083,6.0297,54,6.0,,20200928,20250101,adm2,Netherlands,Netherlands,Landgraaf,,,2,POINT (6.0297 50.9083)
 46.440359,14.026853,4,,,20200928,20250101,adm2,Slovenia,Central Slovenia,Dobrepolje,,,2,POINT (14.026853 46.440359)
