@@ -10200,7 +10200,7 @@ adm2,United States of America,Arkansas,Poinsett,,20200928,1,660,14.0,,data/all_l
 adm2,United States of America,North Carolina,Brunswick,,20200928,1,1642,27.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,New York,Nassau,,20200928,1,46711,2201.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm1,Ghana,Ashanti,,,20200928,2,10969,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
-adm2,Slovenia,Gorizia,Ajdovščina,,20200928,2,28,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
+adm2,Slovenia,Gorizia,Ajdovš��ina,,20200928,2,28,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
 adm1,Slovenia,Gorizia,,,20200928,2,138,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
 adm2,United States of America,California,Yolo,,20200928,1,2815,55.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Virginia,Manassas,,20200928,1,1919,25.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
