@@ -167,7 +167,7 @@ Donate to our current Gofundme Campaign:
 
 Email us for anything:
 <br>
-info@coronastate.org
+nittyjee@gmail.com
 
 ## Creators
 
