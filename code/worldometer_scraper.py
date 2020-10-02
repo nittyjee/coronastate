@@ -23,7 +23,7 @@ def to_float(x):
 
 url = 'https://www.worldometers.info/coronavirus/#countries'
 r = requests.get(url)
-soup = BeautifulSoup(r.text)
+soup = BeautifulSoup(r.text, 'lxml')
 
 table = soup.find('table', id ='main_table_countries_today')
 table_body =table.find('tbody') 
@@ -86,9 +86,13 @@ cols_num = [x for x in country_columns if (x != 'index') and (x!= 'Country')]
 for col in cols_num:
     df_country[col] = df_country[col].apply(to_float)
 
+df_country['Country'] = df_country.Country.str.encode('ascii',errors = 'replace').str.decode('ascii')
 # df_country.head()
 
 ############################# Save
 
+
 df_world.to_csv(path + global_name, index = False)
+# print('ok')
 df_country.to_csv(path + country_name, index = False)
+# print('ok')
