@@ -12,6 +12,8 @@ python /home/nittyjee/code/coronastate/code/Process2.py > /home/nittyjee/code/co
 python /home/nittyjee/code/coronastate/code/Process4.py > /home/nittyjee/code/coronastate/code/Process4.log
 python /home/nittyjee/code/coronastate/code/Process6.py > /home/nittyjee/code/coronastate/code/Process6.log
 sleep 5
+python /home/nittyjee/code/coronastate/code/worldometer_scraper.py
+sleep 5
 #/usr/local/bin/python3.8 /home/nittyjee/code/coronastate/code/copy_from_source_to_rawdata.py > /home/nittyjee/code/coronastate/code/copy_from_source_to_rawdata.log
 
 ./upload.sh
