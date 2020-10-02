@@ -1,8 +1,11 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 ##################### path
+
+print(datetime.now())
 
 path = '/home/nittyjee/code/coronastate/data/'
 global_name = 'global_worldometer_covid_data.csv'
@@ -95,4 +98,4 @@ df_country['Country'] = df_country.Country.str.encode('ascii',errors = 'replace'
 df_world.to_csv(path + global_name, index = False)
 # print('ok')
 df_country.to_csv(path + country_name, index = False)
-# print('ok')
+print('ok')
