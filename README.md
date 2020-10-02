@@ -167,7 +167,10 @@ Donate to our current Gofundme Campaign:
 
 Email us for anything:
 <br>
-info@coronastate.org
+thecoronastateproject@gmail.com
+<br>
+<br>
+Nitin Gadia (Director): nittyjee@gmail.com
 
 ## Creators
 
