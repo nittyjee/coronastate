@@ -11,7 +11,8 @@ output_path = "/home/nittyjee/code/coronastate/data/"
 # input_path = "/home/himabindu/PycharmProjects/mapbox-geocoding/input/"
 # output_path = "/home/himabindu/PycharmProjects/mapbox-geocoding/data/"
 
-input_file="HIST_PAINEL_COVIDBR_26set2020.xlsx"
+#input_file="HIST_PAINEL_COVIDBR_26set2020.xlsx"
+input_file_csv = "HIST_PAINEL_COVIDBR_01out2020.csv"
 
 output_file= "brazil.csv"
 
@@ -29,7 +30,12 @@ def drop_y(df):
 
 
 
-input_pdf = pd.read_excel(input_path + input_file,
+# input_pdf = pd.read_excel(input_path + input_file,
+#                         usecols=["estado","municipio",	"data"	,
+#                                  "casosAcumulado",		"obitosAcumulado",
+#                                  	"Recuperadosnovos",	"emAcompanhamentoNovos"	])
+
+input_pdf = pd.read_excel(input_path + input_file_csv,
                         usecols=["estado","municipio",	"data"	,
                                  "casosAcumulado",		"obitosAcumulado",
                                  	"Recuperadosnovos",	"emAcompanhamentoNovos"	])
