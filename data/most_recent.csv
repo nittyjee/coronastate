@@ -7795,7 +7795,7 @@ adm1,Guatemala,Peten,,,20201001,2,1995,55.0,,data/newjob/all.json,https://raw.gi
 adm2,Slovenia,Savinja,Laško,,20201001,2,17,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
 adm2,Slovenia,Savinja,Mozirje,,20201001,2,14,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
 adm2,Slovenia,Savinja,Nazarje,,20201001,2,4,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
-adm2,Slovenia,Savinja,Braslovče,,20201001,2,41,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
+adm2,Slovenia,Savinja,Braslov��e,,20201001,2,41,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/slovenia-data,
 adm2,United States of America,Louisiana,Iberville,,20201001,1,1414,58.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Ohio,Harrison,,20201001,1,68,3.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Michigan,Gratiot,,20201001,1,298,15.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
