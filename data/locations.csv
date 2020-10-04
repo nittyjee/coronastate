@@ -2,14 +2,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1,adm0,Afghanistan,,,,,33.93911,67.709953
 2,adm0,Albania,,,,,41.1533,20.1683
 3,adm1,Albania,Berat,,,,40.70494,19.94967
-4,adm1,Albania,Dibër,,,,41.68333,20.43333
+4,adm1,Albania,Dibër,,,,41.68333,20.433329999999998
 5,adm1,Albania,Durrës,,,,41.256344,19.817826
 6,adm1,Albania,Elbasan,,,,41.1125,20.08222
 7,adm1,Albania,Fier,,,,40.71667,19.55
 8,adm1,Albania,Gjirokastër,,,,40.16667,20.16667
 9,adm1,Albania,Korçe,,,,40.61667,20.76667
 10,adm1,Albania,Kukës,,,,41.0,20.0
-11,adm1,Albania,Lezhë,,,,41.78333,19.63333
+11,adm1,Albania,Lezhë,,,,41.78333,19.633329999999997
 12,adm1,Albania,Shkodër,,,,42.06667,19.5
 13,adm1,Albania,Tiranë,,,,41.33,19.82
 14,adm1,Albania,Vlorë,,,,40.418882,19.327245
@@ -22,31 +22,31 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 21,adm1,Algeria,Batna,,,,35.55,6.16667
 22,adm1,Algeria,Biskra,,,,34.85,5.7333300000000005
 23,adm1,Algeria,Blida,,,,36.481054,2.807452
-24,adm1,Algeria,Bordj Bou Arréridj,,,,36.06667,4.76667
+24,adm1,Algeria,Bordj Bou Arréridj,,,,36.06667,4.7666699999999995
 25,adm1,Algeria,Bouira,,,,36.37833,3.8925
-26,adm1,Algeria,Boumerdès,,,,29.3811199,-94.9848391
-27,adm1,Algeria,Béchar,,,,31.63333,-2.2
+26,adm1,Algeria,Boumerdès,,,,29.381119899999998,-94.98483909999999
+27,adm1,Algeria,Béchar,,,,31.633329999999997,-2.2
 28,adm1,Algeria,Béjaïa,,,,28.0,2.0
-29,adm1,Algeria,Chlef,,,,36.16472,1.33472
+29,adm1,Algeria,Chlef,,,,36.16472,1.3347200000000001
 30,adm1,Algeria,Constantine,,,,36.365,6.6147199999999975
 31,adm1,Algeria,Djelfa,,,,34.66667,3.25
-32,adm1,Algeria,El Bayadh,,,,33.68028,1.02028
+32,adm1,Algeria,El Bayadh,,,,33.680279999999996,1.0202799999999999
 33,adm1,Algeria,El Oued,,,,33.36833,6.8675
 34,adm1,Algeria,El Tarf,,,,36.76667,8.31667
 35,adm1,Algeria,Ghardaïa,,,,32.48333,3.66667
 36,adm1,Algeria,Guelma,,,,36.46194000000001,7.42583
-37,adm1,Algeria,Illizi,,,,26.50803,8.48294
-38,adm1,Algeria,Jijel,,,,36.82056,5.76667
+37,adm1,Algeria,Illizi,,,,26.508029999999998,8.48294
+38,adm1,Algeria,Jijel,,,,36.82056,5.7666699999999995
 39,adm1,Algeria,Khenchela,,,,35.41667,7.13333
 40,adm1,Algeria,Laghouat,,,,33.8,2.865
 41,adm1,Algeria,M'Sila,,,,35.7,4.55
 42,adm1,Algeria,Mascara,,,,35.38333,0.15
 43,adm1,Algeria,Mila,,,,36.44806,6.26222
 44,adm1,Algeria,Mostaganem,,,,35.93333,0.09028
-45,adm1,Algeria,Médéa,,,,34.753029999999995,0.98281
+45,adm1,Algeria,Médéa,,,,34.753029999999995,0.9828100000000001
 46,adm1,Algeria,Naâma,,,,33.26778,-0.31111
 47,adm1,Algeria,Oran,,,,35.69694000000001,-0.6330600000000001
-48,adm1,Algeria,Ouargla,,,,31.95,5.3166699999999985
+48,adm1,Algeria,Ouargla,,,,31.95,5.316669999999999
 49,adm1,Algeria,Oum El Bouaghi,,,,35.87056,7.115
 50,adm1,Algeria,Relizane,,,,35.73722,0.55583
 51,adm1,Algeria,Saïda,,,,4.36145440821117,11.439900230616301
@@ -56,7 +56,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 55,adm1,Algeria,Sétif,,,,36.18333,5.4
 56,adm1,Algeria,Tamanrasset,,,,22.785,5.52278
 57,adm1,Algeria,Tiaret,,,,35.36667,1.31667
-58,adm1,Algeria,Tindouf,,,,27.67528,-8.12861
+58,adm1,Algeria,Tindouf,,,,27.675279999999997,-8.12861
 59,adm1,Algeria,Tipaza,,,,36.5951,2.44077
 60,adm1,Algeria,Tissemsilt,,,,35.60722,1.81056
 61,adm1,Algeria,Tizi Ouzou,,,,36.71694,4.04972
@@ -72,12 +72,12 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 71,adm1,Argentina,Chubut,,,,-43.3,-65.1
 72,adm1,Argentina,Ciudad de Buenos Aires,,,,-34.59972,-58.38194
 73,adm1,Argentina,Cordoba,,,,-31.41667,-64.18333
-74,adm1,Argentina,Corrientes,,,,-27.48333,-58.81667
+74,adm1,Argentina,Corrientes,,,,-27.48333,-58.816669999999995
 75,adm1,Argentina,Entre Rios,,,,-32.0477,-60.28100000000001
-76,adm1,Argentina,Formosa,,,,-26.18472,-58.17583000000001
+76,adm1,Argentina,Formosa,,,,-26.184720000000002,-58.17583000000001
 77,adm1,Argentina,Jujuy,,,,-23.75,-65.5
 78,adm1,Argentina,La Pampa,,,,-36.61667,-64.28333
-79,adm1,Argentina,La Rioja,,,,-29.41306,-66.85583000000001
+79,adm1,Argentina,La Rioja,,,,-29.413059999999998,-66.85583000000001
 80,adm1,Argentina,Mendoza,,,,-32.88333,-68.83333
 81,adm1,Argentina,Misiones,,,,-26.92,-54.52
 82,adm1,Argentina,Neuquen,,,,-38.95735,-68.04553
@@ -86,9 +86,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 85,adm1,Argentina,San Juan,,,,-31.5375,-68.53639
 86,adm1,Argentina,San Luis,,,,-33.27722,-66.3525
 87,adm1,Argentina,Santa Cruz,,,,-48.82389000000001,-69.815
-88,adm1,Argentina,Santa Fe,,,,-31.63333,-60.7
+88,adm1,Argentina,Santa Fe,,,,-31.633329999999997,-60.7
 89,adm1,Argentina,Santiago del Estero,,,,-27.784440000000004,-64.26694
-90,adm1,Argentina,Tierra del Fuego,,,,-54.362,-67.638
+90,adm1,Argentina,Tierra del Fuego,,,,-54.361999999999995,-67.638
 91,adm1,Argentina,Tucuman,,,,-27.0,-65.5
 92,adm0,Armenia,,,,,40.0691,45.0382
 93,adm0,Australia,,,,,-25.0,135.0
@@ -102,24 +102,24 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 101,adm1,Australia,Western Australia,,,,-31.9505,115.8605
 102,adm0,Austria,,,,,47.5162,14.5501
 103,adm1,Austria,Burgenland,,,,47.5,16.41667
-104,adm1,Austria,Kärnten,,,,46.76111,13.81889
+104,adm1,Austria,Kärnten,,,,46.761109999999995,13.81889
 105,adm1,Austria,Niederösterreich,,,,48.33333,15.75
 106,adm1,Austria,Oberösterreich,,,,48.2,14.0
 107,adm1,Austria,Salzburg,,,,47.8,13.03333
 108,adm1,Austria,Steiermark,,,,47.25,15.166670000000002
 109,adm1,Austria,Tirol,,,,47.26667,11.4
-110,adm1,Austria,Vorarlberg,,,,47.24361,9.89389
+110,adm1,Austria,Vorarlberg,,,,47.24361,9.893889999999999
 111,adm1,Austria,Wien,,,,48.20833,16.37306
 112,adm0,Azerbaijan,,,,,40.1431,47.5769
 113,adm0,Bahamas,,,,,25.025885,-78.035889
 114,adm0,Bahrain,,,,,26.0275,50.55
 115,adm0,Bangladesh,,,,,23.685,90.3563
 116,adm1,Bangladesh,Barisal,,,,22.7217,90.3571
-117,adm1,Bangladesh,Chittagong,,,,22.31667,91.81667
+117,adm1,Bangladesh,Chittagong,,,,22.316670000000002,91.81667
 118,adm1,Bangladesh,Dhaka,,,,23.7,90.36667
 119,adm1,Bangladesh,Khulna,,,,22.5,89.3333
 120,adm1,Bangladesh,Mymensingh,,,,24.75,90.4
-121,adm1,Bangladesh,Rajshahi,,,,24.374,88.6011
+121,adm1,Bangladesh,Rajshahi,,,,24.374000000000002,88.6011
 122,adm1,Bangladesh,Rangpur,,,,25.6,89.25
 123,adm1,Bangladesh,Sylhet,,,,24.9,91.86667
 124,adm0,Barbados,,,,,13.1939,-59.5432
@@ -140,7 +140,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 139,adm1,Bolivia,Pando,,,,-11.18333,-67.18333
 140,adm1,Bolivia,Potosí,,,,-19.5803,-65.7542
 141,adm1,Bolivia,Santa Cruz,,,,-17.789170000000006,-63.1975
-142,adm1,Bolivia,Tarija,,,,-21.53167,-64.73111
+142,adm1,Bolivia,Tarija,,,,-21.531670000000002,-64.73111
 143,adm0,Bosnia and Herzegovina,,,,,43.9159,17.6791
 144,adm0,Botswana,,,,,-22.3285,24.6849
 145,adm0,Brazil,,,,,-14.235,-51.9253
@@ -154,9 +154,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 153,adm1,Brazil,Espirito Santo,,,,-19.71,-40.48
 154,adm1,Brazil,Goiás,,,,-15.9322,-50.1389
 155,adm1,Brazil,Maranhão,,,,-6.18417,-45.615
-156,adm1,Brazil,Mato Grosso,,,,-15.566670000000002,-56.06667
-157,adm1,Brazil,Mato Grosso do Sul,,,,-20.44278,-54.64583
-158,adm1,Brazil,Minas Gerais,,,,-19.81667,-43.95
+156,adm1,Brazil,Mato Grosso,,,,-15.566670000000002,-56.066669999999995
+157,adm1,Brazil,Mato Grosso do Sul,,,,-20.44278,-54.645830000000004
+158,adm1,Brazil,Minas Gerais,,,,-19.816670000000002,-43.95
 159,adm1,Brazil,Paraná,,,,-24.67,-51.62
 160,adm1,Brazil,Paraíba,,,,-7.1627800000000015,-36.825
 161,adm1,Brazil,Pará,,,,-5.65944,-52.73417
@@ -164,7 +164,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 163,adm1,Brazil,Piauí,,,,-8.23333,-43.1
 164,adm1,Brazil,Rio Grande do Norte,,,,-5.74,-36.55
 165,adm1,Brazil,Rio Grande do Sul,,,,-29.76,-53.16
-166,adm1,Brazil,Rio de Janeiro,,,,-22.911,-43.2094
+166,adm1,Brazil,Rio de Janeiro,,,,-22.910999999999998,-43.2094
 167,adm1,Brazil,Rondônia,,,,-10.9,-62.76
 168,adm1,Brazil,Roraima,,,,2.05,-61.4
 169,adm1,Brazil,Santa Catarina,,,,-27.27,-50.49
@@ -229,11 +229,11 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 228,adm1,China,Hong Kong,,,,22.3,114.2
 229,adm2,China,Hong Kong,Island East,,,53.702439,-8.610885000000001
 230,adm2,China,Hong Kong,Island West,,,53.70000400000001,-8.626315
-231,adm2,China,Hong Kong,Kowloon Central,,,22.3052205,114.167951
-232,adm2,China,Hong Kong,Kowloon East,,,22.3052205,114.167951
-233,adm2,China,Hong Kong,Kowloon West,,,22.3052205,114.167951
+231,adm2,China,Hong Kong,Kowloon Central,,,22.305220499999997,114.167951
+232,adm2,China,Hong Kong,Kowloon East,,,22.305220499999997,114.167951
+233,adm2,China,Hong Kong,Kowloon West,,,22.305220499999997,114.167951
 234,adm2,China,Hong Kong,New Territories East,,,22.285999,114.21614850000002
-235,adm2,China,Hong Kong,New Territories West,,,22.304819,114.1608345
+235,adm2,China,Hong Kong,New Territories West,,,22.304819000000002,114.16083449999999
 236,adm1,China,Hubei,,,,30.9756,112.2707
 237,adm1,China,Hunan,,,,27.6104,111.7088
 238,adm1,China,Inner Mongolia,,,,44.0935,113.9448
@@ -245,180 +245,180 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 244,adm1,China,Mainland China,,,,28.537287,77.238738
 245,adm2,China,Mainland China,Anhui,,,31.83333,117.0
 246,adm3,China,Mainland China,Anhui,Anqing,,30.5,117.03333
-247,adm3,China,Mainland China,Anhui,Bengbu,,32.93537,117.35312
+247,adm3,China,Mainland China,Anhui,Bengbu,,32.93537,117.35311999999999
 248,adm3,China,Mainland China,Anhui,Bozhou,,33.86264,115.77422
 249,adm3,China,Mainland China,Anhui,Chizhou,,30.65826,117.48487
 250,adm3,China,Mainland China,Anhui,Chuzhou,,32.30621,118.31148
-251,adm3,China,Mainland China,Anhui,Fuyang,,32.89856,115.80447
-252,adm3,China,Mainland China,Anhui,Hefei,,31.86361,117.27944
-253,adm3,China,Mainland China,Anhui,Huaibei,,33.95618,116.78904
-254,adm3,China,Mainland China,Anhui,Huainan,,32.483059999999995,117.01639
+251,adm3,China,Mainland China,Anhui,Fuyang,,32.898559999999996,115.80447
+252,adm3,China,Mainland China,Anhui,Hefei,,31.863609999999998,117.27944
+253,adm3,China,Mainland China,Anhui,Huaibei,,33.956179999999996,116.78903999999999
+254,adm3,China,Mainland China,Anhui,Huainan,,32.483059999999995,117.01638999999999
 255,adm3,China,Mainland China,Anhui,Huangshan,,30.29535,118.1295
-256,adm3,China,Mainland China,Anhui,Lu'an,,31.75425,116.50778
-257,adm3,China,Mainland China,Anhui,Ma'anshan,,31.71353,118.36047
-258,adm3,China,Mainland China,Anhui,Suzhou,,33.63328,116.96833
-259,adm3,China,Mainland China,Anhui,Tongling,,30.93333,117.76667
+256,adm3,China,Mainland China,Anhui,Lu'an,,31.75425,116.50778000000001
+257,adm3,China,Mainland China,Anhui,Ma'anshan,,31.71353,118.36046999999999
+258,adm3,China,Mainland China,Anhui,Suzhou,,33.63328,116.96833000000001
+259,adm3,China,Mainland China,Anhui,Tongling,,30.933329999999998,117.76666999999999
 260,adm3,China,Mainland China,Anhui,Wuhu,,31.14728,118.5673
-261,adm3,China,Mainland China,Anhui,Xuancheng,,30.94751,118.75178
-262,adm2,China,Mainland China,Beijing,,,39.905,116.39139
-263,adm3,China,Mainland China,Beijing,Changping District,,40.140933,116.25322
+261,adm3,China,Mainland China,Anhui,Xuancheng,,30.947509999999998,118.75178000000001
+262,adm2,China,Mainland China,Beijing,,,39.905,116.39138999999999
+263,adm3,China,Mainland China,Beijing,Changping District,,40.140933000000004,116.25322
 264,adm3,China,Mainland China,Beijing,Chaoyang District,,40.004443,116.391478
 265,adm3,China,Mainland China,Beijing,Daxing District,,39.7254,116.33543
 266,adm3,China,Mainland China,Beijing,Dongcheng District,,39.92718,116.41006000000002
-267,adm3,China,Mainland China,Beijing,Fangshan District,,39.74655,116.13639
-268,adm3,China,Mainland China,Beijing,Fengtai District,,39.857552,116.426031
+267,adm3,China,Mainland China,Beijing,Fangshan District,,39.74655,116.13638999999999
+268,adm3,China,Mainland China,Beijing,Fengtai District,,39.857552,116.42603100000001
 269,adm3,China,Mainland China,Beijing,Haidian District,,39.9827565,116.3054395
 270,adm3,China,Mainland China,Beijing,Huairou District,,40.31498,116.6259
-271,adm3,China,Mainland China,Beijing,Mentougou District,,39.93907,116.09513
-272,adm3,China,Mainland China,Beijing,Miyun District,,40.37498,116.83648
+271,adm3,China,Mainland China,Beijing,Mentougou District,,39.93907,116.09513000000001
+272,adm3,China,Mainland China,Beijing,Miyun District,,40.37498,116.83648000000001
 273,adm3,China,Mainland China,Beijing,Shijingshan District,,39.90446,116.21693
 274,adm3,China,Mainland China,Beijing,Shunyi District,,40.113331,116.602099
 275,adm3,China,Mainland China,Beijing,Tongzhou District,,39.90858,116.65133
 276,adm3,China,Mainland China,Beijing,Xicheng District,,39.91151,116.36027
 277,adm3,China,Mainland China,Beijing,Yanqing District,,40.45557,115.96893
-278,adm2,China,Mainland China,Chongqing,,,29.55,106.50694
-279,adm3,China,Mainland China,Chongqing,Banan District,,29.3866,106.51208
+278,adm2,China,Mainland China,Chongqing,,,29.55,106.50693999999999
+279,adm3,China,Mainland China,Chongqing,Banan District,,29.3866,106.51208000000001
 280,adm3,China,Mainland China,Chongqing,Bishan District,,29.591040000000003,106.22684
-281,adm3,China,Mainland China,Chongqing,Changshou District,,29.83347,107.06558
+281,adm3,China,Mainland China,Chongqing,Changshou District,,29.833470000000002,107.06558000000001
 282,adm3,China,Mainland China,Chongqing,Chengkou County,,31.94786,108.66015
-283,adm3,China,Mainland China,Chongqing,Chongqing High-tech Zone,,29.55,106.50694
+283,adm3,China,Mainland China,Chongqing,Chongqing High-tech Zone,,29.55,106.50693999999999
 284,adm3,China,Mainland China,Chongqing,Dadukou District,,29.48566,106.4815
 285,adm3,China,Mainland China,Chongqing,Dazu District,,29.70287,105.71673
-286,adm3,China,Mainland China,Chongqing,Dianjiang County,,30.33012,107.34326
+286,adm3,China,Mainland China,Chongqing,Dianjiang County,,30.33012,107.34326000000001
 287,adm3,China,Mainland China,Chongqing,Fengdu County,,29.86719,107.72867
 288,adm3,China,Mainland China,Chongqing,Fengjie County,,31.0234,109.46348
 289,adm3,China,Mainland China,Chongqing,Fuling District,,29.6603,107.285
-290,adm3,China,Mainland China,Chongqing,Hechuan District,,29.99123,106.26353
+290,adm3,China,Mainland China,Chongqing,Hechuan District,,29.991229999999998,106.26353
 291,adm3,China,Mainland China,Chongqing,Jiangbei District,,29.5755,106.5276
 292,adm3,China,Mainland China,Chongqing,Jiangjin District,,29.28437000000001,106.25205
 293,adm3,China,Mainland China,Chongqing,Jiulongpo District,,29.50477,106.50731
 294,adm3,China,Mainland China,Chongqing,Kaizhou District,,31.17232000000001,108.40387
-295,adm3,China,Mainland China,Chongqing,Liangjiang New Area,,29.55,106.50694
+295,adm3,China,Mainland China,Chongqing,Liangjiang New Area,,29.55,106.50693999999999
 296,adm3,China,Mainland China,Chongqing,Liangping District,,30.67098,107.78825
 297,adm3,China,Mainland China,Chongqing,Nan'an District,,29.52601,106.55985
-298,adm3,China,Mainland China,Chongqing,Pengshui Miao and Tujia Autonomous County,,29.294290000000004,108.16358
-299,adm3,China,Mainland China,Chongqing,Qianjiang Tujia and Miao Autonomous County,,28.84441,108.76471
-300,adm3,China,Mainland China,Chongqing,Qijiang District,,29.03259000000001,106.65101
-301,adm3,China,Mainland China,Chongqing,Rongchang District,,29.40704,105.59317
-302,adm3,China,Mainland China,Chongqing,Shapingba District,,29.54377,106.45359
-303,adm3,China,Mainland China,Chongqing,Shizhu Tujia Autonomous County,,29.99618,108.11276
-304,adm3,China,Mainland China,Chongqing,Tongliang District,,29.84007,106.05331
+298,adm3,China,Mainland China,Chongqing,Pengshui Miao and Tujia Autonomous County,,29.294290000000004,108.16358000000001
+299,adm3,China,Mainland China,Chongqing,Qianjiang Tujia and Miao Autonomous County,,28.844409999999996,108.76471000000001
+300,adm3,China,Mainland China,Chongqing,Qijiang District,,29.03259000000001,106.65101000000001
+301,adm3,China,Mainland China,Chongqing,Rongchang District,,29.407040000000002,105.59317
+302,adm3,China,Mainland China,Chongqing,Shapingba District,,29.543770000000002,106.45358999999999
+303,adm3,China,Mainland China,Chongqing,Shizhu Tujia Autonomous County,,29.99618,108.11276000000001
+304,adm3,China,Mainland China,Chongqing,Tongliang District,,29.84007,106.05331000000001
 305,adm3,China,Mainland China,Chongqing,Tongnan District,,30.17879000000001,105.83155
-306,adm3,China,Mainland China,Chongqing,Wansheng District,,29.55,106.50694
-307,adm3,China,Mainland China,Chongqing,Wanzhou District,,29.55,106.50694
-308,adm3,China,Mainland China,Chongqing,Wulong District,,29.32816,107.75828
+306,adm3,China,Mainland China,Chongqing,Wansheng District,,29.55,106.50693999999999
+307,adm3,China,Mainland China,Chongqing,Wanzhou District,,29.55,106.50693999999999
+308,adm3,China,Mainland China,Chongqing,Wulong District,,29.328159999999997,107.75828
 309,adm3,China,Mainland China,Chongqing,Wushan County,,31.07895,109.87454
-310,adm3,China,Mainland China,Chongqing,Wuxi County,,31.39757,109.62151
+310,adm3,China,Mainland China,Chongqing,Wuxi County,,31.39757,109.62151000000001
 311,adm3,China,Mainland China,Chongqing,Xiushan Tujia and Miao Autonomous County,,28.4461,108.99233999999998
 312,adm3,China,Mainland China,Chongqing,Yongchuan District,,29.35636,105.9065
-313,adm3,China,Mainland China,Chongqing,Youyang Tujia and Miao Autonomous County,,28.84441,108.76471
+313,adm3,China,Mainland China,Chongqing,Youyang Tujia and Miao Autonomous County,,28.844409999999996,108.76471000000001
 314,adm3,China,Mainland China,Chongqing,Yubei District,,29.70797,106.61783
-315,adm3,China,Mainland China,Chongqing,Yunyang County,,30.93304,108.69789
+315,adm3,China,Mainland China,Chongqing,Yunyang County,,30.933040000000002,108.69788999999999
 316,adm3,China,Mainland China,Chongqing,Yuzhong District,,29.55588,106.565
-317,adm3,China,Mainland China,Chongqing,Zhong County,,30.29916,108.03568
+317,adm3,China,Mainland China,Chongqing,Zhong County,,30.299159999999997,108.03568
 318,adm2,China,Mainland China,Fujian,,,25.842185,117.932227
 319,adm3,China,Mainland China,Fujian,Fuzhou,,26.07694,119.29167
-320,adm3,China,Mainland China,Fujian,Longyan,,25.08806,117.02443999999998
-321,adm3,China,Mainland China,Fujian,Nanping,,26.64481,118.17282
-322,adm3,China,Mainland China,Fujian,Ningde,,26.66667,119.51667
-323,adm3,China,Mainland China,Fujian,Putian,,25.43944,119.01028
-324,adm3,China,Mainland China,Fujian,Quanzhou,,24.89744,118.59479
-325,adm3,China,Mainland China,Fujian,Sanming,,26.2658,117.63017
+320,adm3,China,Mainland China,Fujian,Longyan,,25.088060000000002,117.02443999999998
+321,adm3,China,Mainland China,Fujian,Nanping,,26.644809999999996,118.17282
+322,adm3,China,Mainland China,Fujian,Ningde,,26.66667,119.51666999999999
+323,adm3,China,Mainland China,Fujian,Putian,,25.43944,119.01028000000001
+324,adm3,China,Mainland China,Fujian,Quanzhou,,24.89744,118.59478999999999
+325,adm3,China,Mainland China,Fujian,Sanming,,26.2658,117.63016999999999
 326,adm3,China,Mainland China,Fujian,Xiamen,,24.673941,118.063851
-327,adm3,China,Mainland China,Fujian,Zhangzhou,,24.50932,117.66117
+327,adm3,China,Mainland China,Fujian,Zhangzhou,,24.509320000000002,117.66117
 328,adm2,China,Mainland China,Gansu,,,38.0,102.0
-329,adm3,China,Mainland China,Gansu,Baiyin,,36.54399,104.17082
-330,adm3,China,Mainland China,Gansu,Dingxi,,35.58061,104.62628
+329,adm3,China,Mainland China,Gansu,Baiyin,,36.54399,104.17081999999999
+330,adm3,China,Mainland China,Gansu,Dingxi,,35.58061,104.62628000000001
 331,adm3,China,Mainland China,Gansu,Gannan,,34.98449,102.90975
 332,adm3,China,Mainland China,Gansu,Jinchang,,38.51676,102.18656
-333,adm3,China,Mainland China,Gansu,Lanzhou,,36.06171,103.83177
+333,adm3,China,Mainland China,Gansu,Lanzhou,,36.06171,103.83176999999999
 334,adm3,China,Mainland China,Gansu,Linxia,,35.49106,102.99615
-335,adm3,China,Mainland China,Gansu,Longnan,,33.535,105.349
-336,adm3,China,Mainland China,Gansu,Pingliang,,35.54123,106.68192
+335,adm3,China,Mainland China,Gansu,Longnan,,33.535,105.34899999999999
+336,adm3,China,Mainland China,Gansu,Pingliang,,35.54123,106.68191999999999
 337,adm3,China,Mainland China,Gansu,Qingyang,,35.73339,107.6342
 338,adm3,China,Mainland China,Gansu,Tianshui,,34.58093,105.73115
 339,adm3,China,Mainland China,Gansu,Zhangye,,38.93545,100.45529
 340,adm2,China,Mainland China,Guangdong,,,23.4,113.5
 341,adm3,China,Mainland China,Guangdong,Chaozhou,,23.67,116.63
 342,adm3,China,Mainland China,Guangdong,Dongguan,,23.04749,113.74928
-343,adm3,China,Mainland China,Guangdong,Foshan,,23.02917,113.10556
-344,adm3,China,Mainland China,Guangdong,Guangzhou,,23.1288,113.25898
-345,adm3,China,Mainland China,Guangdong,Heyuan,,23.75033,114.69229
-346,adm3,China,Mainland China,Guangdong,Huizhou,,23.0904,114.41331
+343,adm3,China,Mainland China,Guangdong,Foshan,,23.02917,113.10556000000001
+344,adm3,China,Mainland China,Guangdong,Guangzhou,,23.1288,113.25898000000001
+345,adm3,China,Mainland China,Guangdong,Heyuan,,23.750329999999998,114.69228999999999
+346,adm3,China,Mainland China,Guangdong,Huizhou,,23.0904,114.41331000000001
 347,adm3,China,Mainland China,Guangdong,Jiangmen,,22.58908,113.07224
 348,adm3,China,Mainland China,Guangdong,Jieyang,,23.55334,116.36495
-349,adm3,China,Mainland China,Guangdong,Maoming,,21.66182,110.91783
-350,adm3,China,Mainland China,Guangdong,Meizhou,,24.29977,116.11913
+349,adm3,China,Mainland China,Guangdong,Maoming,,21.661820000000002,110.91783000000001
+350,adm3,China,Mainland China,Guangdong,Meizhou,,24.299770000000002,116.11913
 351,adm3,China,Mainland China,Guangdong,Qingyuan,,23.68425,113.05075
-352,adm3,China,Mainland China,Guangdong,Shantou,,23.37347,116.69411
-353,adm3,China,Mainland China,Guangdong,Shanwei,,23.064577,115.594005
-354,adm3,China,Mainland China,Guangdong,Shaoguan,,24.80113,113.59271
-355,adm3,China,Mainland China,Guangdong,Shenzhen,,22.535383,114.05471
+352,adm3,China,Mainland China,Guangdong,Shantou,,23.37347,116.69411000000001
+353,adm3,China,Mainland China,Guangdong,Shanwei,,23.064577,115.59400500000001
+354,adm3,China,Mainland China,Guangdong,Shaoguan,,24.80113,113.59271000000001
+355,adm3,China,Mainland China,Guangdong,Shenzhen,,22.535383,114.05471000000001
 356,adm3,China,Mainland China,Guangdong,Yangjiang,,21.86505,111.96778
-357,adm3,China,Mainland China,Guangdong,Zhanjiang,,21.19667,110.40306
+357,adm3,China,Mainland China,Guangdong,Zhanjiang,,21.19667,110.40306000000001
 358,adm3,China,Mainland China,Guangdong,Zhaoqing,,23.05,112.45
 359,adm3,China,Mainland China,Guangdong,Zhongshan,,22.53333,113.35
 360,adm3,China,Mainland China,Guangdong,Zhuhai,,22.26667,113.56667
 361,adm2,China,Mainland China,Guangxi,,,23.6,108.3
-362,adm3,China,Mainland China,Guangxi,Baise,,23.90103,106.61943
+362,adm3,China,Mainland China,Guangxi,Baise,,23.90103,106.61943000000001
 363,adm3,China,Mainland China,Guangxi,Beihai,,21.46667,109.1
 364,adm3,China,Mainland China,Guangxi,Fangchenggang,,21.6,108.3
-365,adm3,China,Mainland China,Guangxi,Guigang,,23.09611,109.60917
+365,adm3,China,Mainland China,Guangxi,Guigang,,23.09611,109.60916999999999
 366,adm3,China,Mainland China,Guangxi,Guilin,,25.26667,110.28333
 367,adm3,China,Mainland China,Guangxi,Hechi,,24.69278,108.085
 368,adm3,China,Mainland China,Guangxi,Hezhou,,24.41639,111.54778
-369,adm3,China,Mainland China,Guangxi,Laibin,,23.73333,109.23333
+369,adm3,China,Mainland China,Guangxi,Laibin,,23.73333,109.23333000000001
 370,adm3,China,Mainland China,Guangxi,Liuzhou,,24.31814,109.40693
 371,adm3,China,Mainland China,Guangxi,Nanning,,22.81918,108.31501000000002
 372,adm3,China,Mainland China,Guangxi,Qinzhou,,21.95,108.61667
 373,adm3,China,Mainland China,Guangxi,Wuzhou,,23.48333,111.31667
-374,adm3,China,Mainland China,Guangxi,Yulin,,22.6293,110.15067
+374,adm3,China,Mainland China,Guangxi,Yulin,,22.6293,110.15066999999999
 375,adm2,China,Mainland China,Guizhou,,,26.83333,106.83333
-376,adm3,China,Mainland China,Guizhou,Anshun,,26.24562,105.93401
+376,adm3,China,Mainland China,Guizhou,Anshun,,26.245620000000002,105.93401000000001
 377,adm3,China,Mainland China,Guizhou,Bijie,,27.30947,105.28092
-378,adm3,China,Mainland China,Guizhou,Guiyang,,26.57942,106.70786
-379,adm3,China,Mainland China,Guizhou,Liupanshui,,26.59444,104.83333
+378,adm3,China,Mainland China,Guizhou,Guiyang,,26.579420000000002,106.70786000000001
+379,adm3,China,Mainland China,Guizhou,Liupanshui,,26.594440000000002,104.83333
 380,adm3,China,Mainland China,Guizhou,Qiandongnan,,26.5869,107.97458
 381,adm3,China,Mainland China,Guizhou,Qiannan,,26.27065,107.51233
 382,adm3,China,Mainland China,Guizhou,Qianxinan,,25.09312000000001,104.89645
-383,adm3,China,Mainland China,Guizhou,Tongren,,27.723340000000004,109.18851
-384,adm3,China,Mainland China,Guizhou,Zunyi,,27.70498,106.93363
+383,adm3,China,Mainland China,Guizhou,Tongren,,27.723340000000004,109.18851000000001
+384,adm3,China,Mainland China,Guizhou,Zunyi,,27.70498,106.93363000000001
 385,adm2,China,Mainland China,Hainan,,,39.43735,106.87905
 386,adm3,China,Mainland China,Hainan,Baoting Li and Miao Autonomous County,,18.65,109.66667
-387,adm3,China,Mainland China,Hainan,Changjiang Li Autonomous County,,19.196298,109.040967
-388,adm3,China,Mainland China,Hainan,Chengmai County,,19.69111,109.98611
+387,adm3,China,Mainland China,Hainan,Changjiang Li Autonomous County,,19.196298000000002,109.040967
+388,adm3,China,Mainland China,Hainan,Chengmai County,,19.691110000000002,109.98611000000001
 389,adm3,China,Mainland China,Hainan,Danzhou,,19.5,109.58333
-390,adm3,China,Mainland China,Hainan,Ding'an County,,19.70185,110.32946
+390,adm3,China,Mainland China,Hainan,Ding'an County,,19.70185,110.32946000000001
 391,adm3,China,Mainland China,Hainan,Dongfang,,19.1,108.65
-392,adm3,China,Mainland China,Hainan,Haikou,,20.04667,110.33889
-393,adm3,China,Mainland China,Hainan,Ledong Li Autonomous County,,18.65028,109.04917
-394,adm3,China,Mainland China,Hainan,Lingao County,,19.80167,109.71278
+392,adm3,China,Mainland China,Hainan,Haikou,,20.046670000000002,110.33888999999999
+393,adm3,China,Mainland China,Hainan,Ledong Li Autonomous County,,18.65028,109.04916999999999
+394,adm3,China,Mainland China,Hainan,Lingao County,,19.80167,109.71278000000001
 395,adm3,China,Mainland China,Hainan,Lingshui Li Autonomous County,,18.5053,110.038
 396,adm3,China,Mainland China,Hainan,Qionghai,,19.24306,110.46417
 397,adm3,China,Mainland China,Hainan,Qiongzhong Li and Miao Autonomous County,,19.03278,109.85111
-398,adm3,China,Mainland China,Hainan,Sanya,,18.25361,109.50194
+398,adm3,China,Mainland China,Hainan,Sanya,,18.253610000000002,109.50193999999999
 399,adm3,China,Mainland China,Hainan,Wanning,,18.8,110.4
 400,adm3,China,Mainland China,Hainan,Wenchang,,19.616670000000006,110.75
 401,adm2,China,Mainland China,Hebei,,,39.15984,117.19616
-402,adm3,China,Mainland China,Hebei,Baoding,,38.86712,115.48452
-403,adm3,China,Mainland China,Hebei,Cangzhou,,38.30369,116.84519
+402,adm3,China,Mainland China,Hebei,Baoding,,38.86712,115.48451999999999
+403,adm3,China,Mainland China,Hebei,Cangzhou,,38.30369,116.84518999999999
 404,adm3,China,Mainland China,Hebei,Chengde,,40.76694000000001,118.1672
 405,adm3,China,Mainland China,Hebei,Handan,,36.61161,114.48937
-406,adm3,China,Mainland China,Hebei,Hengshui,,37.73484000000001,115.68599
-407,adm3,China,Mainland China,Hebei,Langfang,,39.51962,116.70056
-408,adm3,China,Mainland China,Hebei,Qinhuangdao,,39.93978,119.58812
+406,adm3,China,Mainland China,Hebei,Hengshui,,37.73484000000001,115.68598999999999
+407,adm3,China,Mainland China,Hebei,Langfang,,39.51962,116.70056000000001
+408,adm3,China,Mainland China,Hebei,Qinhuangdao,,39.93978,119.58811999999999
 409,adm3,China,Mainland China,Hebei,Shijiazhuang,,38.04222,114.50861
-410,adm3,China,Mainland China,Hebei,Tangshan,,39.62917,118.17417
-411,adm3,China,Mainland China,Hebei,Xingtai,,37.09833,114.37333
-412,adm3,China,Mainland China,Hebei,Zhangjiakou,,40.81078,114.88114
+410,adm3,China,Mainland China,Hebei,Tangshan,,39.62917,118.17416999999999
+411,adm3,China,Mainland China,Hebei,Xingtai,,37.09833,114.37333000000001
+412,adm3,China,Mainland China,Hebei,Zhangjiakou,,40.81078,114.88113999999999
 413,adm2,China,Mainland China,Heilongjiang,,,48.0,129.0
 414,adm3,China,Mainland China,Heilongjiang,Daqing,,46.59791,125.00798
 415,adm3,China,Mainland China,Heilongjiang,Daxinganling,,52.5,123.9
 416,adm3,China,Mainland China,Heilongjiang,Harbin,,45.75,126.63333
 417,adm3,China,Mainland China,Heilongjiang,Hegang,,47.31389,130.2775
-418,adm3,China,Mainland China,Heilongjiang,Heihe,,50.24583,127.48861
+418,adm3,China,Mainland China,Heilongjiang,Heihe,,50.24583,127.48861000000001
 419,adm3,China,Mainland China,Heilongjiang,Jiamusi,,46.80808,130.36531000000002
-420,adm3,China,Mainland China,Heilongjiang,Jixi,,45.29366,130.96496000000002
+420,adm3,China,Mainland China,Heilongjiang,Jixi,,45.293659999999996,130.96496000000002
 421,adm3,China,Mainland China,Heilongjiang,Mudanjiang,,44.58611,129.59972
 422,adm3,China,Mainland China,Heilongjiang,Qiqihar,,47.33981,123.95123999999998
 423,adm3,China,Mainland China,Heilongjiang,Qitaihe,,45.76802,131.00635
@@ -433,185 +433,185 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 432,adm3,China,Mainland China,Henan,Kaifeng,,34.79357,114.34034
 433,adm3,China,Mainland China,Henan,Luohe,,33.58299,114.0109
 434,adm3,China,Mainland China,Henan,Luoyang,,34.65867,112.42447
-435,adm3,China,Mainland China,Henan,Nanyang,,32.99871,112.52921
+435,adm3,China,Mainland China,Henan,Nanyang,,32.998709999999996,112.52921
 436,adm3,China,Mainland China,Henan,Pingdingshan,,33.73499,113.29992
-437,adm3,China,Mainland China,Henan,Puyang,,35.70523,115.01746
+437,adm3,China,Mainland China,Henan,Puyang,,35.70523,115.01746000000001
 438,adm3,China,Mainland China,Henan,Sanmenxia,,34.77362,111.19497
 439,adm3,China,Mainland China,Henan,Shangqiu,,34.42592,115.64673
-440,adm3,China,Mainland China,Henan,Xinxiang,,35.222631,113.790064
-441,adm3,China,Mainland China,Henan,Xinyang,,32.12641,114.06722
+440,adm3,China,Mainland China,Henan,Xinxiang,,35.222631,113.79006399999999
+441,adm3,China,Mainland China,Henan,Xinyang,,32.12641,114.06721999999999
 442,adm3,China,Mainland China,Henan,Xuchang,,34.02444000000001,113.82014
 443,adm3,China,Mainland China,Henan,Zhengzhou,,34.74919000000001,113.66051000000002
 444,adm3,China,Mainland China,Henan,Zhoukou,,33.62502,114.6418
-445,adm3,China,Mainland China,Henan,Zhumadian,,32.97729,114.02528
+445,adm3,China,Mainland China,Henan,Zhumadian,,32.97729,114.02528000000001
 446,adm2,China,Mainland China,Hubei,,,31.2,112.3
-447,adm3,China,Mainland China,Hubei,Enshi Tujia and Miao Autonomous Prefecture,,30.29106,109.47499
+447,adm3,China,Mainland China,Hubei,Enshi Tujia and Miao Autonomous Prefecture,,30.291059999999998,109.47498999999999
 448,adm3,China,Mainland China,Hubei,Ezhou,,30.397240000000004,114.88418
-449,adm3,China,Mainland China,Hubei,Huanggang,,30.45246,114.87991
+449,adm3,China,Mainland China,Hubei,Huanggang,,30.45246,114.87991000000001
 450,adm3,China,Mainland China,Hubei,Huangshi,,30.20178,115.03262
-451,adm3,China,Mainland China,Hubei,Jingmen,,31.03806,112.21139
+451,adm3,China,Mainland China,Hubei,Jingmen,,31.038059999999998,112.21139
 452,adm3,China,Mainland China,Hubei,Jingzhou,,30.3534,112.19006
 453,adm3,China,Mainland China,Hubei,Qianjiang,,30.41667,112.85
-454,adm3,China,Mainland China,Hubei,Shennongjia,,31.74572,110.67456
+454,adm3,China,Mainland China,Hubei,Shennongjia,,31.745720000000002,110.67456000000001
 455,adm3,China,Mainland China,Hubei,Shiyan,,32.63507,110.7755
 456,adm3,China,Mainland China,Hubei,Suizhou,,31.71755,113.3658
 457,adm3,China,Mainland China,Hubei,Tianmen,,30.66667,113.16667
 458,adm3,China,Mainland China,Hubei,Wuhan,,30.5725,114.27917
 459,adm3,China,Mainland China,Hubei,Xiangyang,,32.06536,112.15307
 460,adm3,China,Mainland China,Hubei,Xianning,,29.83411,114.32882
-461,adm3,China,Mainland China,Hubei,Xiantao,,30.38333,113.4
+461,adm3,China,Mainland China,Hubei,Xiantao,,30.383329999999997,113.4
 462,adm3,China,Mainland China,Hubei,Xiaogan,,30.92731,113.91096
 463,adm3,China,Mainland China,Hubei,Yichang,,30.70833,111.28028
 464,adm2,China,Mainland China,Hunan,,,27.4,111.8
-465,adm3,China,Mainland China,Hunan,Changde,,29.03966,111.6839
+465,adm3,China,Mainland China,Hunan,Changde,,29.039659999999998,111.6839
 466,adm3,China,Mainland China,Hunan,Changsha,,28.2439,113.132
 467,adm3,China,Mainland China,Hunan,Chenzhou,,25.79893,113.02667
 468,adm3,China,Mainland China,Hunan,Hengyang,,26.96725,112.37155
 469,adm3,China,Mainland China,Hunan,Huaihua,,27.54944,109.95917
-470,adm3,China,Mainland China,Hunan,Loudi,,27.73776,111.99742
-471,adm3,China,Mainland China,Hunan,Shaoyang,,26.99373,111.27182
-472,adm3,China,Mainland China,Hunan,Xiangtan,,27.78256,112.94551
-473,adm3,China,Mainland China,Hunan,Xiangxi,,28.31248,109.73666
+470,adm3,China,Mainland China,Hunan,Loudi,,27.737759999999998,111.99741999999999
+471,adm3,China,Mainland China,Hunan,Shaoyang,,26.99373,111.27181999999999
+472,adm3,China,Mainland China,Hunan,Xiangtan,,27.782559999999997,112.94551000000001
+473,adm3,China,Mainland China,Hunan,Xiangxi,,28.312479999999997,109.73666000000001
 474,adm3,China,Mainland China,Hunan,Yiyang,,28.58333,112.33333
 475,adm3,China,Mainland China,Hunan,Yongzhou,,26.4515,111.59527
 476,adm3,China,Mainland China,Hunan,Yueyang,,29.14653,113.11105
 477,adm3,China,Mainland China,Hunan,Zhangjiajie,,29.12548,110.48442
-478,adm3,China,Mainland China,Hunan,Zhuzhou,,27.7084,113.14093
+478,adm3,China,Mainland China,Hunan,Zhuzhou,,27.7084,113.14093000000001
 479,adm2,China,Mainland China,Jiangsu,,,33.0,120.0
 480,adm3,China,Mainland China,Jiangsu,Changzhou,,31.78353,119.95071000000002
 481,adm3,China,Mainland China,Jiangsu,Huainan,,33.505320000000005,119.13993
 482,adm3,China,Mainland China,Jiangsu,Lianyungang,,34.59057,119.1801
-483,adm3,China,Mainland China,Jiangsu,Nanjing,,32.05,118.76667
-484,adm3,China,Mainland China,Jiangsu,Nantong,,31.98288,120.8873
+483,adm3,China,Mainland China,Jiangsu,Nanjing,,32.05,118.76666999999999
+484,adm3,China,Mainland China,Jiangsu,Nantong,,31.982879999999998,120.8873
 485,adm3,China,Mainland China,Jiangsu,Suqian,,33.93306,118.28306
-486,adm3,China,Mainland China,Jiangsu,Suzhou,,31.30401,120.61642
+486,adm3,China,Mainland China,Jiangsu,Suzhou,,31.304009999999998,120.61641999999999
 487,adm3,China,Mainland China,Jiangsu,Taizhou,,32.483059999999995,119.9
-488,adm3,China,Mainland China,Jiangsu,Wuxi,,31.56667,120.28333
+488,adm3,China,Mainland China,Jiangsu,Wuxi,,31.566670000000002,120.28333
 489,adm3,China,Mainland China,Jiangsu,Xuzhou,,34.26104,117.18587
-490,adm3,China,Mainland China,Jiangsu,Yancheng,,33.38389,120.13306
+490,adm3,China,Mainland China,Jiangsu,Yancheng,,33.38389,120.13306000000001
 491,adm3,China,Mainland China,Jiangsu,Yangzhou,,32.39117,119.43625
-492,adm3,China,Mainland China,Jiangsu,Zhenjiang,,32.2061,119.44326
+492,adm3,China,Mainland China,Jiangsu,Zhenjiang,,32.2061,119.44326000000001
 493,adm2,China,Mainland China,Jiangxi,,,27.3,116.0
 494,adm3,China,Mainland China,Jiangxi,Fuzhou,,27.98139,116.35775
 495,adm3,China,Mainland China,Jiangxi,Ganjiang New District,,27.3,116.0
 496,adm3,China,Mainland China,Jiangxi,Ganzhou,,25.82917,114.93361000000002
 497,adm3,China,Mainland China,Jiangxi,Ji'an,,27.026940000000003,114.63611000000002
-498,adm3,China,Mainland China,Jiangxi,Jingdezhen,,29.29417,117.20361
-499,adm3,China,Mainland China,Jiangxi,Jiujiang,,29.73806,115.98722
+498,adm3,China,Mainland China,Jiangxi,Jingdezhen,,29.29417,117.20361000000001
+499,adm3,China,Mainland China,Jiangxi,Jiujiang,,29.738059999999997,115.98722
 500,adm3,China,Mainland China,Jiangxi,Nanchang,,28.618242,116.143074
-501,adm3,China,Mainland China,Jiangxi,Pingxiang,,27.63333,113.85
+501,adm3,China,Mainland China,Jiangxi,Pingxiang,,27.633329999999997,113.85
 502,adm3,China,Mainland China,Jiangxi,Shangrao,,28.4,117.86667
-503,adm3,China,Mainland China,Jiangxi,Xinyu,,27.795,114.92417
+503,adm3,China,Mainland China,Jiangxi,Xinyu,,27.795,114.92416999999999
 504,adm3,China,Mainland China,Jiangxi,Yichun,,27.80412,114.38303
 505,adm3,China,Mainland China,Jiangxi,Yingtan,,28.23333,117.0
 506,adm2,China,Mainland China,Jilin,,,43.88417000000001,125.30833
-507,adm3,China,Mainland China,Jilin,Baicheng,,45.6148,122.832
+507,adm3,China,Mainland China,Jilin,Baicheng,,45.6148,122.83200000000001
 508,adm3,China,Mainland China,Jilin,Changchun,,43.9,125.2
 509,adm3,China,Mainland China,Jilin,Gongzhuling,,43.50359,124.80883
-510,adm3,China,Mainland China,Jilin,Jilin,,43.8461,126.56157
+510,adm3,China,Mainland China,Jilin,Jilin,,43.8461,126.56156999999999
 511,adm3,China,Mainland China,Jilin,Liaoyuan,,42.89757,125.13805
 512,adm3,China,Mainland China,Jilin,Meihekou,,42.5279,125.678
-513,adm3,China,Mainland China,Jilin,Siping,,43.17154,124.36438
-514,adm3,China,Mainland China,Jilin,Songyuan,,45.1388,124.808
+513,adm3,China,Mainland China,Jilin,Siping,,43.17154,124.36438000000001
+514,adm3,China,Mainland China,Jilin,Songyuan,,45.1388,124.80799999999999
 515,adm3,China,Mainland China,Jilin,Tonghua,,41.67548,125.75273
 516,adm3,China,Mainland China,Jilin,Yanbian,,42.89393,129.50465
 517,adm2,China,Mainland China,Liaoning,,,41.80389,123.42583
 518,adm3,China,Mainland China,Liaoning,Anshan,,41.10662,122.98945
 519,adm3,China,Mainland China,Liaoning,Benxi,,41.29204,123.76097
 520,adm3,China,Mainland China,Liaoning,Chaoyang,,41.413353,120.435107
-521,adm3,China,Mainland China,Liaoning,Dalian,,38.91306,121.61
+521,adm3,China,Mainland China,Liaoning,Dalian,,38.913059999999994,121.61
 522,adm3,China,Mainland China,Liaoning,Dandong,,40.11667,124.38333
-523,adm3,China,Mainland China,Liaoning,Fushun,,41.761354,124.242596
+523,adm3,China,Mainland China,Liaoning,Fushun,,41.761354,124.24259599999999
 524,adm3,China,Mainland China,Liaoning,Fuxin,,42.01267,121.64855
-525,adm3,China,Mainland China,Liaoning,Huludao,,40.70944,120.83778
+525,adm3,China,Mainland China,Liaoning,Huludao,,40.70944,120.83778000000001
 526,adm3,China,Mainland China,Liaoning,Jinzhou,,39.0994,121.7138
-527,adm3,China,Mainland China,Liaoning,Liaoyang,,41.2121,123.07426
+527,adm3,China,Mainland China,Liaoning,Liaoyang,,41.2121,123.07426000000001
 528,adm3,China,Mainland China,Liaoning,Panjin,,41.11983,122.06338999999998
 529,adm3,China,Mainland China,Liaoning,Shenyang,,41.80389,123.42583
-530,adm3,China,Mainland China,Liaoning,Tieling,,42.26166,123.633011
+530,adm3,China,Mainland China,Liaoning,Tieling,,42.26166,123.63301100000001
 531,adm3,China,Mainland China,Liaoning,Yingkou,,40.66525,122.22972
 532,adm2,China,Mainland China,Neimenggu,,,40.815,111.66306000000002
-533,adm3,China,Mainland China,Neimenggu,Baotou,,40.65621,109.83454
+533,adm3,China,Mainland China,Neimenggu,Baotou,,40.656209999999994,109.83453999999999
 534,adm3,China,Mainland China,Neimenggu,Bayannur,,40.75667,107.41443999999998
-535,adm3,China,Mainland China,Neimenggu,Chifeng,,42.26626,118.92234
+535,adm3,China,Mainland China,Neimenggu,Chifeng,,42.266259999999996,118.92233999999999
 536,adm3,China,Mainland China,Neimenggu,Hohhot,,40.81507,111.66293
 537,adm3,China,Mainland China,Neimenggu,Hulunbuir,,49.21534000000001,119.75097
 538,adm3,China,Mainland China,Neimenggu,Linguolexi,,40.815,111.66306000000002
 539,adm3,China,Mainland China,Neimenggu,Ordos,,39.815,109.9975
 540,adm3,China,Mainland China,Neimenggu,Tongliao,,43.61723,122.26398
-541,adm3,China,Mainland China,Neimenggu,Ulanqab,,40.99194,113.12444
-542,adm3,China,Mainland China,Neimenggu,Wuhai,,39.67083,106.81139
+541,adm3,China,Mainland China,Neimenggu,Ulanqab,,40.99194,113.12443999999999
+542,adm3,China,Mainland China,Neimenggu,Wuhai,,39.67083,106.81138999999999
 543,adm3,China,Mainland China,Neimenggu,Xinganmeng,,40.815,111.66306000000002
 544,adm2,China,Mainland China,Ningxia,,,38.46654,106.27056
-545,adm3,China,Mainland China,Ningxia,Guyuan,,36.00801,106.27816
+545,adm3,China,Mainland China,Ningxia,Guyuan,,36.00801,106.27816000000001
 546,adm3,China,Mainland China,Ningxia,Ningdong County,,38.46654,106.27056
 547,adm3,China,Mainland China,Ningxia,Shizuishan,,39.00985,106.36944
-548,adm3,China,Mainland China,Ningxia,Wuzhong,,37.98742,106.19189
-549,adm3,China,Mainland China,Ningxia,Yinchuan,,38.47947,106.22536
-550,adm3,China,Mainland China,Ningxia,Zhongwei,,37.51386,105.18838
+548,adm3,China,Mainland China,Ningxia,Wuzhong,,37.98742,106.19188999999999
+549,adm3,China,Mainland China,Ningxia,Yinchuan,,38.47947,106.22536000000001
+550,adm3,China,Mainland China,Ningxia,Zhongwei,,37.51386,105.18838000000001
 551,adm2,China,Mainland China,Qinghai,,,35.0,96.0
-552,adm3,China,Mainland China,Qinghai,Haibei,,36.95804,100.89982
+552,adm3,China,Mainland China,Qinghai,Haibei,,36.958040000000004,100.89981999999999
 553,adm3,China,Mainland China,Qinghai,Xining,,36.62386,101.77866
 554,adm2,China,Mainland China,Shaanxi,,,34.26667,108.9
-555,adm3,China,Mainland China,Shaanxi,Ankang,,32.687740000000005,109.02352
-556,adm3,China,Mainland China,Shaanxi,Baoji,,34.36094,107.17507
-557,adm3,China,Mainland China,Shaanxi,Hancheng,,35.47685,110.44191
+555,adm3,China,Mainland China,Shaanxi,Ankang,,32.687740000000005,109.02351999999999
+556,adm3,China,Mainland China,Shaanxi,Baoji,,34.36094,107.17506999999999
+557,adm3,China,Mainland China,Shaanxi,Hancheng,,35.47685,110.44191000000001
 558,adm3,China,Mainland China,Shaanxi,Hanzhong,,33.07938,107.02598
 559,adm3,China,Mainland China,Shaanxi,Shangluo,,33.86805,109.92445
 560,adm3,China,Mainland China,Shaanxi,Tongchuan,,34.90574,108.94219
-561,adm3,China,Mainland China,Shaanxi,Weinan,,34.49962,109.46838
+561,adm3,China,Mainland China,Shaanxi,Weinan,,34.49962,109.46838000000001
 562,adm3,China,Mainland China,Shaanxi,Xi'an,,34.26667,108.9
 563,adm3,China,Mainland China,Shaanxi,Xianyang,,34.35,108.71667
-564,adm3,China,Mainland China,Shaanxi,Yan'an,,36.59523,109.48628
+564,adm3,China,Mainland China,Shaanxi,Yan'an,,36.59523,109.48628000000001
 565,adm3,China,Mainland China,Shaanxi,Yangling District in Xianyang,,34.27248,108.0725
 566,adm3,China,Mainland China,Shaanxi,Yulin,,38.26548,109.73881000000002
 567,adm2,China,Mainland China,Shandong,,,36.4,118.4
-568,adm3,China,Mainland China,Shandong,Binzhou,,37.38056,118.0125
-569,adm3,China,Mainland China,Shandong,Dezhou,,37.43306,116.26639
+568,adm3,China,Mainland China,Shandong,Binzhou,,37.380559999999996,118.0125
+569,adm3,China,Mainland China,Shandong,Dezhou,,37.43306,116.26638999999999
 570,adm3,China,Mainland China,Shandong,Heze,,35.23333,115.43333
-571,adm3,China,Mainland China,Shandong,Jinan,,36.66667,116.98333
+571,adm3,China,Mainland China,Shandong,Jinan,,36.66667,116.98333000000001
 572,adm3,China,Mainland China,Shandong,Jining,,35.4,116.56667
-573,adm3,China,Mainland China,Shandong,Liaocheng,,36.45,115.98333
+573,adm3,China,Mainland China,Shandong,Liaocheng,,36.45,115.98333000000001
 574,adm3,China,Mainland China,Shandong,Linyi,,37.18958,116.8611
 575,adm3,China,Mainland China,Shandong,Qingdao,,36.11667,120.4
-576,adm3,China,Mainland China,Shandong,Rizhao,,35.41639,119.43306
+576,adm3,China,Mainland China,Shandong,Rizhao,,35.41639,119.43306000000001
 577,adm3,China,Mainland China,Shandong,Tai'an,,36.1881,117.12697
 578,adm3,China,Mainland China,Shandong,Weifang,,36.71667,119.1
 579,adm3,China,Mainland China,Shandong,Weihai,,37.5,122.1
-580,adm3,China,Mainland China,Shandong,Yantai,,37.39972,121.26639
+580,adm3,China,Mainland China,Shandong,Yantai,,37.39972,121.26638999999999
 581,adm3,China,Mainland China,Shandong,Zaozhuang,,34.86667,117.55
 582,adm3,China,Mainland China,Shandong,Zibo,,36.78306,118.04972
 583,adm2,China,Mainland China,Shanghai,,,31.16667,121.46667
 584,adm3,China,Mainland China,Shanghai,Baoshan District,,31.4,121.4
-585,adm3,China,Mainland China,Shanghai,Changning District,,31.22224000000001,121.41947
-586,adm3,China,Mainland China,Shanghai,Chongming District,,31.62825,121.39831
-587,adm3,China,Mainland China,Shanghai,Fengxian District,,30.920040000000004,121.46969
+585,adm3,China,Mainland China,Shanghai,Changning District,,31.22224000000001,121.41946999999999
+586,adm3,China,Mainland China,Shanghai,Chongming District,,31.62825,121.39831000000001
+587,adm3,China,Mainland China,Shanghai,Fengxian District,,30.920040000000004,121.46968999999999
 588,adm3,China,Mainland China,Shanghai,Hongkou District,,31.26639,121.48
 589,adm3,China,Mainland China,Shanghai,Huangpu District,,31.2331,121.485
-590,adm3,China,Mainland China,Shanghai,Jiading District,,31.33745,121.23359
-591,adm3,China,Mainland China,Shanghai,Jing'an District,,31.2314,121.453
+590,adm3,China,Mainland China,Shanghai,Jiading District,,31.33745,121.23358999999999
+591,adm3,China,Mainland China,Shanghai,Jing'an District,,31.2314,121.45299999999999
 592,adm3,China,Mainland China,Shanghai,Jinshan District,,31.16667,121.46667
-593,adm3,China,Mainland China,Shanghai,Minhang District,,31.11444,121.37712
+593,adm3,China,Mainland China,Shanghai,Minhang District,,31.114440000000002,121.37711999999999
 594,adm3,China,Mainland China,Shanghai,Pudong District,,35.0,103.0
 595,adm3,China,Mainland China,Shanghai,Putuo District,,31.25137,121.39248
-596,adm3,China,Mainland China,Shanghai,Qingpu District,,31.15168,121.11966
-597,adm3,China,Mainland China,Shanghai,Songjiang District,,31.00583,121.23333
-598,adm3,China,Mainland China,Shanghai,Xuhui District,,31.19021,121.4322
-599,adm3,China,Mainland China,Shanghai,Yangpu District,,31.307302000000004,121.507917
-600,adm2,China,Mainland China,Shanxi,,,37.87333,112.56444
+596,adm3,China,Mainland China,Shanghai,Qingpu District,,31.15168,121.11966000000001
+597,adm3,China,Mainland China,Shanghai,Songjiang District,,31.00583,121.23333000000001
+598,adm3,China,Mainland China,Shanghai,Xuhui District,,31.190209999999997,121.4322
+599,adm3,China,Mainland China,Shanghai,Yangpu District,,31.307302000000004,121.50791699999999
+600,adm2,China,Mainland China,Shanxi,,,37.873329999999996,112.56443999999999
 601,adm3,China,Mainland China,Shanxi,Changzhi,,36.05027000000001,113.05162
-602,adm3,China,Mainland China,Shanxi,Datong,,40.03963,113.60833999999998
+602,adm3,China,Mainland China,Shanxi,Datong,,40.039629999999995,113.60833999999998
 603,adm3,China,Mainland China,Shanxi,Jincheng,,35.49055999999999,112.8483
-604,adm3,China,Mainland China,Shanxi,Jinzhong,,37.69332,112.74164
+604,adm3,China,Mainland China,Shanxi,Jinzhong,,37.69332,112.74163999999999
 605,adm3,China,Mainland China,Shanxi,Linfen,,36.08121,111.50865
 606,adm3,China,Mainland China,Shanxi,Lüliang,,37.52028,111.13545
 607,adm3,China,Mainland China,Shanxi,Shuozhou,,39.34078,112.42923
-608,adm3,China,Mainland China,Shanxi,Taiyuan,,37.87326,112.54245
+608,adm3,China,Mainland China,Shanxi,Taiyuan,,37.873259999999995,112.54245
 609,adm3,China,Mainland China,Shanxi,Xinzhou,,38.41778,112.7233
-610,adm3,China,Mainland China,Shanxi,Yangquan,,37.8576,113.57623
+610,adm3,China,Mainland China,Shanxi,Yangquan,,37.8576,113.57623000000001
 611,adm3,China,Mainland China,Shanxi,Yuncheng,,35.03042,110.99796
 612,adm2,China,Mainland China,Sichuan,,,30.0,103.0
-613,adm3,China,Mainland China,Sichuan,Bazhong,,31.857640000000004,106.75586
+613,adm3,China,Mainland China,Sichuan,Bazhong,,31.857640000000004,106.75586000000001
 614,adm3,China,Mainland China,Sichuan,Chengdu,,30.66361,104.06667
 615,adm3,China,Mainland China,Sichuan,Dazhou,,31.2152,107.49472
 616,adm3,China,Mainland China,Sichuan,Deyang,,31.12892,104.39499
@@ -620,72 +620,72 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 619,adm3,China,Mainland China,Sichuan,Guangyuan,,32.43529,105.83985
 620,adm3,China,Mainland China,Sichuan,Leshan,,29.5854,103.75755
 621,adm3,China,Mainland China,Sichuan,Liangshan Yi Autonomous Prefecture,,27.89,102.26343
-622,adm3,China,Mainland China,Sichuan,Luzhou,,28.89182000000001,105.44093
+622,adm3,China,Mainland China,Sichuan,Luzhou,,28.89182000000001,105.44093000000001
 623,adm3,China,Mainland China,Sichuan,Meishan,,30.05746,103.83806
-624,adm3,China,Mainland China,Sichuan,Mianyang,,31.46688,104.73847
-625,adm3,China,Mainland China,Sichuan,Nanchong,,30.79913,106.07843
-626,adm3,China,Mainland China,Sichuan,Neijiang,,29.58716,105.0635
+624,adm3,China,Mainland China,Sichuan,Mianyang,,31.46688,104.73846999999999
+625,adm3,China,Mainland China,Sichuan,Nanchong,,30.799129999999998,106.07843000000001
+626,adm3,China,Mainland China,Sichuan,Neijiang,,29.587159999999997,105.0635
 627,adm3,China,Mainland China,Sichuan,Ngawa Tibetan and Qiang Autonomous Prefecture,,32.90502,101.70192
-628,adm3,China,Mainland China,Sichuan,Panzhihua,,26.58487,101.71487
+628,adm3,China,Mainland China,Sichuan,Panzhihua,,26.584870000000002,101.71486999999999
 629,adm3,China,Mainland China,Sichuan,Suining,,30.509840000000004,105.57373
-630,adm3,China,Mainland China,Sichuan,Ya'an,,29.9888,103.00074
-631,adm3,China,Mainland China,Sichuan,Yibin,,28.69656,104.53476
+630,adm3,China,Mainland China,Sichuan,Ya'an,,29.9888,103.00074000000001
+631,adm3,China,Mainland China,Sichuan,Yibin,,28.696559999999998,104.53475999999999
 632,adm3,China,Mainland China,Sichuan,Zigong,,29.349840000000004,104.76451
 633,adm3,China,Mainland China,Sichuan,Ziyang,,30.12562,104.63974
 634,adm2,China,Mainland China,Tianjin,,,39.14667,117.20556
-635,adm3,China,Mainland China,Tianjin,Baodi District,,39.71636,117.30394
-636,adm3,China,Mainland China,Tianjin,Beichen District,,39.22014,117.12582
+635,adm3,China,Mainland China,Tianjin,Baodi District,,39.716359999999995,117.30394
+636,adm3,China,Mainland China,Tianjin,Beichen District,,39.22014,117.12581999999999
 637,adm3,China,Mainland China,Tianjin,Binhai New Area,,39.00333,117.71083
-638,adm3,China,Mainland China,Tianjin,Dongli District,,39.08534,117.30799
+638,adm3,China,Mainland China,Tianjin,Dongli District,,39.08534,117.30798999999999
 639,adm3,China,Mainland China,Tianjin,Hebei District,,39.15984,117.19616
 640,adm3,China,Mainland China,Tianjin,Hedong District,,39.12198,117.21945
-641,adm3,China,Mainland China,Tianjin,Heping District,,39.12444,117.19806
+641,adm3,China,Mainland China,Tianjin,Heping District,,39.12444,117.19806000000001
 642,adm3,China,Mainland China,Tianjin,Hexi District,,39.10862,117.2173
-643,adm3,China,Mainland China,Tianjin,Hongqiao District,,39.17803,117.14909
+643,adm3,China,Mainland China,Tianjin,Hongqiao District,,39.17803,117.14908999999999
 644,adm3,China,Mainland China,Tianjin,Jinnan District,,38.99033,117.3789
 645,adm3,China,Mainland China,Tianjin,Nankai District,,39.13684,117.1443
 646,adm3,China,Mainland China,Tianjin,Ninghe District,,39.3295,117.81936
 647,adm3,China,Mainland China,Tianjin,Wuqing District,,39.38297,117.03815
 648,adm3,China,Mainland China,Tianjin,Xiqing District,,39.14026,117.0032
-649,adm2,China,Mainland China,Xinjiang,,,35.61562,111.21634
+649,adm2,China,Mainland China,Xinjiang,,,35.61562,111.21633999999999
 650,adm3,China,Mainland China,Xinjiang,"Shihezi, Xinjiang Production and Construction Corps 8th Division",,42.55833,1.55528
 651,adm3,China,Mainland China,Xinjiang,Akesu,,41.16639,80.25
 652,adm3,China,Mainland China,Xinjiang,Bayingolin Mongol Autonomous Prefecture,,41.73345,86.17315
 653,adm3,China,Mainland China,Xinjiang,Changji,,44.215914,87.299334
 654,adm3,China,Mainland China,Xinjiang,Tacheng,,46.74682,82.97898
 655,adm3,China,Mainland China,Xinjiang,Turpan,,42.94513,89.17918
-656,adm3,China,Mainland China,Xinjiang,Urumqi,,43.47386,87.41019
+656,adm3,China,Mainland China,Xinjiang,Urumqi,,43.473859999999995,87.41019
 657,adm3,China,Mainland China,Xinjiang,Xinjiang Production and Construction Corps 4th Division,,43.8253,87.61379000000002
 658,adm3,China,Mainland China,Xinjiang,Yili,,43.8253,87.61379000000002
-659,adm2,China,Mainland China,Xizang,,,31.53331,88.04913
+659,adm2,China,Mainland China,Xizang,,,31.533309999999997,88.04913
 660,adm3,China,Mainland China,Xizang,Lhasa,,29.65,91.1
 661,adm2,China,Mainland China,Yunnan,,,24.5,101.5
 662,adm3,China,Mainland China,Yunnan,Baoshan,,25.12105,99.16905
-663,adm3,China,Mainland China,Yunnan,Chuxiong,,25.04613,101.54363
+663,adm3,China,Mainland China,Yunnan,Chuxiong,,25.046129999999998,101.54363000000001
 664,adm3,China,Mainland China,Yunnan,Dali,,25.70028,100.15639
 665,adm3,China,Mainland China,Yunnan,Dehong,,24.43546,98.58488
 666,adm3,China,Mainland China,Yunnan,Honghe,,23.36905,102.41945
 667,adm3,China,Mainland China,Yunnan,Kunming,,25.04691,102.71043
 668,adm3,China,Mainland China,Yunnan,Lijiang,,26.87505,100.22514
-669,adm3,China,Mainland China,Yunnan,Lincang,,23.88643,100.0871
-670,adm3,China,Mainland China,Yunnan,Pu'er,,22.78028,100.96981
+669,adm3,China,Mainland China,Yunnan,Lincang,,23.886429999999997,100.0871
+670,adm3,China,Mainland China,Yunnan,Pu'er,,22.780279999999998,100.96981
 671,adm3,China,Mainland China,Yunnan,Qujing,,25.51018,103.80287
-672,adm3,China,Mainland China,Yunnan,Wenshan,,23.37147,104.24367
+672,adm3,China,Mainland China,Yunnan,Wenshan,,23.371470000000002,104.24367
 673,adm3,China,Mainland China,Yunnan,Xishuangbanna,,22.0,100.8
-674,adm3,China,Mainland China,Yunnan,Yuxi,,24.34953,102.54317
+674,adm3,China,Mainland China,Yunnan,Yuxi,,24.349529999999998,102.54316999999999
 675,adm3,China,Mainland China,Yunnan,Zhaotong,,27.33284,103.71445
 676,adm2,China,Mainland China,Zhejiang,,,30.26667,120.15
 677,adm3,China,Mainland China,Zhejiang,Hangzhou,,30.2741,120.15507
-678,adm3,China,Mainland China,Zhejiang,Huzhou,,30.86945,120.09581
-679,adm3,China,Mainland China,Zhejiang,Jiaxing,,30.76613,120.75284
-680,adm3,China,Mainland China,Zhejiang,Jinhua,,29.10462,119.64937
+678,adm3,China,Mainland China,Zhejiang,Huzhou,,30.86945,120.09581000000001
+679,adm3,China,Mainland China,Zhejiang,Jiaxing,,30.76613,120.75283999999999
+680,adm3,China,Mainland China,Zhejiang,Jinhua,,29.10462,119.64936999999999
 681,adm3,China,Mainland China,Zhejiang,Lishui,,28.45,119.91667
-682,adm3,China,Mainland China,Zhejiang,Ningbo,,29.875,121.54917
+682,adm3,China,Mainland China,Zhejiang,Ningbo,,29.875,121.54916999999999
 683,adm3,China,Mainland China,Zhejiang,Quzhou,,28.95445,118.8763
 684,adm3,China,Mainland China,Zhejiang,Shaoxing,,30.0,120.58333
 685,adm3,China,Mainland China,Zhejiang,Shilifeng Prison,,30.26667,120.15
-686,adm3,China,Mainland China,Zhejiang,Taizhou,,28.6583,121.42213
-687,adm3,China,Mainland China,Zhejiang,Wenzhou,,27.99913,120.65608
+686,adm3,China,Mainland China,Zhejiang,Taizhou,,28.6583,121.42213000000001
+687,adm3,China,Mainland China,Zhejiang,Wenzhou,,27.999129999999997,120.65608
 688,adm3,China,Mainland China,Zhejiang,Zhoushan,,30.01619,122.09885
 689,adm1,China,Ningxia,,,,37.2692,106.1655
 690,adm1,China,Qinghai,,,,35.7452,95.9956
@@ -716,9 +716,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 715,adm1,Colombia,Choco,,,,5.7,-76.66667
 716,adm1,Colombia,Cordoba,,,,8.75,-75.88333
 717,adm1,Colombia,Cundinamarca,,,,4.7615440000000016,-73.667759
-718,adm1,Colombia,Guainia,,,,3.86528,-67.92389
+718,adm1,Colombia,Guainia,,,,3.8652800000000003,-67.92389
 719,adm1,Colombia,Guaviare,,,,1.7779790000000002,-72.38951800000002
-720,adm1,Colombia,Huila,,,,2.99861,-75.30444
+720,adm1,Colombia,Huila,,,,2.9986099999999998,-75.30444
 721,adm1,Colombia,La Guajira,,,,11.55,-72.9
 722,adm1,Colombia,Magdalena,,,,11.24194,-74.20528
 723,adm1,Colombia,Meta,,,,4.15,-73.63333
@@ -726,14 +726,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 725,adm1,Colombia,Norte de Santander,,,,7.9,-72.5
 726,adm1,Colombia,Putumayo,,,,1.15,-76.61667
 727,adm1,Colombia,Quindio,,,,4.53333,-75.7
-728,adm1,Colombia,Risaralda,,,,4.8166699999999985,-75.7
+728,adm1,Colombia,Risaralda,,,,4.816669999999999,-75.7
 729,adm1,Colombia,San Andres y Providencia,,,,12.55,-81.71667
 730,adm1,Colombia,Santander,,,,7.13333,-73.0
 731,adm1,Colombia,Sucre,,,,9.3,-75.4
 732,adm1,Colombia,Tolima,,,,4.4333300000000015,-75.23333000000002
 733,adm1,Colombia,Valle del Cauca,,,,3.41667,-76.51666999999998
 734,adm1,Colombia,Vaupes,,,,1.2,-70.16667
-735,adm1,Colombia,Vichada,,,,4.549839,-69.46571899999999
+735,adm1,Colombia,Vichada,,,,4.5498389999999995,-69.46571899999999
 736,adm0,Comoros,,,,,-11.6455,43.3333
 737,adm0,Congo (Brazzaville),,,,,-0.228,15.8277
 738,adm0,Congo (Kinshasa),,,,,-4.0383,21.7587
@@ -758,33 +758,33 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 757,adm1,Croatia,Varaždinska,,,,45.664952196837596,16.6791068850861
 758,adm1,Croatia,Virovitičko-Podravska,,,,46.16695,16.823248
 759,adm1,Croatia,Vukovarsko-Srijemska,,,,45.664952196837596,16.6791068850861
-760,adm1,Croatia,Zadarska,,,,45.809516,15.973285
-761,adm1,Croatia,Zagrebačka,,,,44.473469,14.925534
+760,adm1,Croatia,Zadarska,,,,45.809515999999995,15.973285
+761,adm1,Croatia,Zagrebačka,,,,44.473469,14.925533999999999
 762,adm1,Croatia,Šibensko-Kninska,,,,45.25,15.46667
 763,adm0,Cuba,,,,,21.521757,-77.78116700000002
 764,adm0,Cyprus,,,,,35.1264,33.4299
 765,adm0,Czechia,,,,,49.8175,15.473
-766,adm1,Czechia,Central Bohemian,,,,50.091365,14.414927
+766,adm1,Czechia,Central Bohemian,,,,50.091365,14.414926999999999
 767,adm1,Czechia,Hradec Králové,,,,50.20917,15.83194
 768,adm1,Czechia,Karlovy Vary,,,,50.23056,12.8725
 769,adm1,Czechia,Liberec,,,,50.76444,15.04694
-770,adm1,Czechia,Moravian-Silesian,,,,50.091365,14.414927
-771,adm1,Czechia,Olomouc,,,,49.59611,17.260279999999998
-772,adm1,Czechia,Pardubice,,,,50.01667,15.76667
+770,adm1,Czechia,Moravian-Silesian,,,,50.091365,14.414926999999999
+771,adm1,Czechia,Olomouc,,,,49.596109999999996,17.260279999999998
+772,adm1,Czechia,Pardubice,,,,50.01667,15.766670000000001
 773,adm1,Czechia,Plzeň,,,,49.74139,13.3825
-774,adm1,Czechia,Prague,,,,50.091365,14.414927
-775,adm1,Czechia,South Bohemian,,,,50.091365,14.414927
-776,adm1,Czechia,South Moravian,,,,50.091365,14.414927
-777,adm1,Czechia,Unassigned,,,,43.7487094,-79.6386925
-778,adm1,Czechia,Vysočina,,,,49.58935,15.65552
+774,adm1,Czechia,Prague,,,,50.091365,14.414926999999999
+775,adm1,Czechia,South Bohemian,,,,50.091365,14.414926999999999
+776,adm1,Czechia,South Moravian,,,,50.091365,14.414926999999999
+777,adm1,Czechia,Unassigned,,,,43.748709399999996,-79.6386925
+778,adm1,Czechia,Vysočina,,,,49.58935,15.655520000000001
 779,adm1,Czechia,Zlín,,,,53.110093000000006,17.129143
 780,adm1,Czechia,Ústí nad Labem,,,,50.65917,14.041670000000002
 781,adm0,Denmark,,,,,56.2639,9.5018
 782,adm1,Denmark,Denmark,,,,-34.960109625,117.355125
-783,adm2,Denmark,Denmark,Hovedstaden,,,55.638021,12.656203
+783,adm2,Denmark,Denmark,Hovedstaden,,,55.638020999999995,12.656203
 784,adm2,Denmark,Denmark,Midtjylland,,,56.44868425,9.39932175
 785,adm2,Denmark,Denmark,Nordjylland,,,57.18,9.67
-786,adm2,Denmark,Denmark,Sjælland,,,-34.959406,117.354264
+786,adm2,Denmark,Denmark,Sjælland,,,-34.959406,117.35426399999999
 787,adm2,Denmark,Denmark,Syddanmark,,,55.46541975,8.5780275
 788,adm1,Denmark,Faroe Islands,,,,61.8926,-6.9118
 789,adm1,Denmark,Greenland,,,,71.7069,-42.6043
@@ -798,7 +798,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 797,adm1,Ecuador,Canar,,,,-2.5606,-78.9394
 798,adm1,Ecuador,Carchi,,,,0.75,-78.08333
 799,adm1,Ecuador,Chimborazo,,,,-1.66667,-78.65
-800,adm1,Ecuador,Cotopaxi,,,,-0.93333,-78.61667
+800,adm1,Ecuador,Cotopaxi,,,,-0.9333299999999999,-78.61667
 801,adm1,Ecuador,El Oro,,,,-3.26667,-79.9667
 802,adm1,Ecuador,Esmeraldas,,,,0.807848,-79.63544499999998
 803,adm1,Ecuador,Galapagos,,,,-0.56028,-91.04083
@@ -825,14 +825,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 824,adm1,Estonia,Harju,,,,58.7421,22.6185
 825,adm1,Estonia,Hiiu,,,,58.9941,22.751755
 826,adm1,Estonia,Ida-Viru,,,,59.21666999999999,27.3
-827,adm1,Estonia,Järva,,,,58.35841800000001,24.561893
+827,adm1,Estonia,Järva,,,,58.35841800000001,24.561892999999998
 828,adm1,Estonia,Jõgeva,,,,58.7441,26.3872
 829,adm1,Estonia,Lääne,,,,58.3476,25.2699
 830,adm1,Estonia,Lääne-Viru,,,,59.25,26.33333
 831,adm1,Estonia,Pärnu,,,,58.3801,24.52
 832,adm1,Estonia,Põlva,,,,58.0536,27.0583
 833,adm1,Estonia,Rapla,,,,58.9961,24.7996
-834,adm1,Estonia,Saare,,,,58.3738,27.528
+834,adm1,Estonia,Saare,,,,58.3738,27.528000000000002
 835,adm1,Estonia,Tartu,,,,58.3727,26.7238
 836,adm1,Estonia,Valga,,,,57.783,26.0418
 837,adm1,Estonia,Viljandi,,,,58.36600000000001,25.5877
@@ -844,23 +844,23 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 843,adm1,Finland,Central Finland Hospital District,,,,62.5,25.5
 844,adm1,Finland,Central Ostrobothnia Hospital District,,,,63.5,24.25
 845,adm1,Finland,Etelä-Savo Hospital District,,,,62.0,27.5
-846,adm1,Finland,Helsinki and Uusimaa Hospital District,,,,60.17333000000001,24.94861
-847,adm1,Finland,Itä-Savo Hospital District,,,,43.892893,11.043921
+846,adm1,Finland,Helsinki and Uusimaa Hospital District,,,,60.17333000000001,24.948610000000002
+847,adm1,Finland,Itä-Savo Hospital District,,,,43.892893,11.043921000000001
 848,adm1,Finland,Kainuu Hospital District,,,,64.5,28.0
-849,adm1,Finland,Kanta-Häme Hospital District,,,,60.83333,24.25
+849,adm1,Finland,Kanta-Häme Hospital District,,,,60.833330000000004,24.25
 850,adm1,Finland,Kymenlaakso Hospital District,,,,60.5,27.0
 851,adm1,Finland,Lappi Hospital District,,,,67.70620699999999,26.705623
 852,adm1,Finland,Länsi-Pohja Hospital District,,,,59.949383,30.465369
 853,adm1,Finland,North Karelia Hospital District,,,,63.0,30.0
-854,adm1,Finland,North Ostrobothnia Hospital District,,,,60.174167,24.9317035
+854,adm1,Finland,North Ostrobothnia Hospital District,,,,60.174167000000004,24.9317035
 855,adm1,Finland,Pirkanmaa Hospital District,,,,61.7,23.71667
 856,adm1,Finland,Pohjois-Savo Hospital District,,,,63.0,27.0
 857,adm1,Finland,Päijät-Häme Hospital District,,,,61.25,25.83333
-858,adm1,Finland,Satakunta Hospital District,,,,60.454263,22.295608
+858,adm1,Finland,Satakunta Hospital District,,,,60.454263,22.295607999999998
 859,adm1,Finland,South Karelia Hospital District,,,,61.0,28.0
-860,adm1,Finland,South Ostrobothnia Hospital District,,,,60.174167,24.9317035
-861,adm1,Finland,Vaasa Hospital District,,,,63.085634,21.61377
-862,adm1,Finland,Varsinais-Suomi Hospital District,,,,60.454263,22.295608
+860,adm1,Finland,South Ostrobothnia Hospital District,,,,60.174167000000004,24.9317035
+861,adm1,Finland,Vaasa Hospital District,,,,63.085634,21.613770000000002
+862,adm1,Finland,Varsinais-Suomi Hospital District,,,,60.454263,22.295607999999998
 863,adm1,Finland,Åland,,,,64.0,26.0
 864,adm0,France,,,,,46.2276,2.2137
 865,adm1,France,French Guiana,,,,3.9339,-53.1258
@@ -880,7 +880,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 879,adm2,France,Metropolitan France,Nouvelle-Aquitaine,,,47.0,2.0
 880,adm2,France,Metropolitan France,Occitanie,,,44.06361,0.4280600000000001
 881,adm2,France,Metropolitan France,Pays de la Loire,,,44.06361,0.4280600000000001
-882,adm2,France,Metropolitan France,Provence-Alpes-Côte d'Azur,,,43.551754,7.0133839999999985
+882,adm2,France,Metropolitan France,Provence-Alpes-Côte d'Azur,,,43.551753999999995,7.013383999999999
 883,adm2,France,Metropolitan France,Île-de-France,,,49.10941,0.705539
 884,adm1,France,New Caledonia,,,,-20.904305,165.618042
 885,adm1,France,Overseas France,,,,43.296482,5.36978
@@ -900,20 +900,20 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 899,adm0,Germany,,,,,51.165691,10.451526
 900,adm1,Germany,Baden-Württemberg,,,,48.53778,9.04111
 901,adm1,Germany,Bayern,,,,48.7775,11.43111
-902,adm1,Germany,Berlin,,,,52.51667,13.38333
-903,adm1,Germany,Brandenburg,,,,52.36194,13.00806
+902,adm1,Germany,Berlin,,,,52.51667,13.383329999999999
+903,adm1,Germany,Brandenburg,,,,52.361940000000004,13.00806
 904,adm1,Germany,Bremen,,,,53.07694,8.80889
 905,adm1,Germany,Evacuation,,,,51.0,10.0
 906,adm1,Germany,Hamburg,,,,53.55,10.0
-907,adm1,Germany,Hessen,,,,50.66611,8.59111
+907,adm1,Germany,Hessen,,,,50.666109999999996,8.59111
 908,adm1,Germany,Mecklenburg-Vorpommern,,,,53.61666999999999,12.7
 909,adm1,Germany,Niedersachsen,,,,52.75611,9.39306
 910,adm1,Germany,Nordrhein-Westfalen,,,,51.46667,7.55
-911,adm1,Germany,Rheinland-Pfalz,,,,49.91306,7.44972
+911,adm1,Germany,Rheinland-Pfalz,,,,49.913059999999994,7.44972
 912,adm1,Germany,Saarland,,,,49.37715,6.87838
-913,adm1,Germany,Sachsen,,,,51.02694,13.35889
-914,adm1,Germany,Sachsen-Anhalt,,,,51.97111,11.47
-915,adm1,Germany,Schleswig-Holstein,,,,54.47004,9.51416
+913,adm1,Germany,Sachsen,,,,51.02694,13.358889999999999
+914,adm1,Germany,Sachsen-Anhalt,,,,51.971109999999996,11.47
+915,adm1,Germany,Schleswig-Holstein,,,,54.470040000000004,9.51416
 916,adm1,Germany,Thüringen,,,,50.86111,11.05194
 917,adm0,Ghana,,,,,7.9465,-1.0232
 918,adm1,Ghana,Ahafo,,,,6.17686187706028,-0.469632251188159
@@ -923,7 +923,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 922,adm1,Ghana,Central,,,,5.5,-1.0
 923,adm1,Ghana,Eastern,,,,6.5,-0.5
 924,adm1,Ghana,Greater Accra,,,,,
-925,adm1,Ghana,North East,,,,1.386549,103.931716
+925,adm1,Ghana,North East,,,,1.386549,103.93171600000001
 926,adm1,Ghana,Northern,,,,9.5,-1.0
 927,adm1,Ghana,Oti,,,,8.0,-1.0
 928,adm1,Ghana,Savannah,,,,8.0,-1.0
@@ -949,7 +949,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 948,adm1,Greece,Mount Athos,,,,40.257865,24.246238
 949,adm2,Greece,Mount Athos,Mount Athos,,,40.257865,24.246238
 950,adm1,Greece,No Location Provided,,,,39.0,22.0
-951,adm1,Greece,Non-Residents,,,,40.628215,22.947344
+951,adm1,Greece,Non-Residents,,,,40.628215000000004,22.947344
 952,adm1,Greece,Peloponnese, Western Greece and the Ionian Islands,,,38.5,20.5
 953,adm2,Greece,Peloponnese, Western Greece and the Ionian Islands,Ionian Islands,,38.5,20.5
 954,adm2,Greece,Peloponnese, Western Greece and the Ionian Islands,Peloponnese,,38.5,20.5
@@ -960,26 +960,26 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 959,adm0,Grenada,,,,,12.1165,-61.679
 960,adm0,Guatemala,,,,,15.7835,-90.2308
 961,adm1,Guatemala,Alta Verapaz,,,,15.5,-90.33333
-962,adm1,Guatemala,Baja Verapaz,,,,15.10139,-90.31861
-963,adm1,Guatemala,Chimaltenango,,,,14.66222,-90.82083
+962,adm1,Guatemala,Baja Verapaz,,,,15.101389999999999,-90.31860999999999
+963,adm1,Guatemala,Chimaltenango,,,,14.662220000000001,-90.82083
 964,adm1,Guatemala,Chiquimula,,,,14.78333,-89.53333
 965,adm1,Guatemala,El Progreso,,,,14.85389,-90.06860999999998
 966,adm1,Guatemala,Escuintla,,,,14.41,-90.68
-967,adm1,Guatemala,Guatemala,,,,14.62278,-90.53139
+967,adm1,Guatemala,Guatemala,,,,14.622779999999999,-90.53139
 968,adm1,Guatemala,Huehuetenango,,,,15.3247,-91.4669
-969,adm1,Guatemala,Izabal,,,,15.73333,-88.6
+969,adm1,Guatemala,Izabal,,,,15.733329999999999,-88.6
 970,adm1,Guatemala,Jalapa,,,,14.63786,-89.99042
-971,adm1,Guatemala,Jutiapa,,,,14.28278,-89.8925
+971,adm1,Guatemala,Jutiapa,,,,14.282779999999999,-89.8925
 972,adm1,Guatemala,Peten,,,,16.9,-89.9
-973,adm1,Guatemala,Quetzaltenango,,,,14.833329999999998,-91.51667
+973,adm1,Guatemala,Quetzaltenango,,,,14.833329999999998,-91.51666999999999
 974,adm1,Guatemala,Quiche,,,,15.03,-91.15
 975,adm1,Guatemala,Retalhuleu,,,,14.53333,-91.68333
 976,adm1,Guatemala,Sacatepequez,,,,14.55667,-90.73389
-977,adm1,Guatemala,San Marcos,,,,14.965279999999998,-91.79583
-978,adm1,Guatemala,Santa Rosa,,,,14.27833,-90.3
-979,adm1,Guatemala,Solola,,,,14.76667,-91.18333
-980,adm1,Guatemala,Suchitepequez,,,,14.534,-91.503
-981,adm1,Guatemala,Totonicapan,,,,14.91083,-91.36056
+977,adm1,Guatemala,San Marcos,,,,14.965279999999998,-91.79583000000001
+978,adm1,Guatemala,Santa Rosa,,,,14.278329999999999,-90.3
+979,adm1,Guatemala,Solola,,,,14.766670000000001,-91.18333
+980,adm1,Guatemala,Suchitepequez,,,,14.534,-91.50299999999999
+981,adm1,Guatemala,Totonicapan,,,,14.910829999999999,-91.36055999999999
 982,adm1,Guatemala,Zacapa,,,,14.96667,-89.53333
 983,adm0,Guinea,,,,,9.9456,-9.6966
 984,adm0,Guinea-Bissau,,,,,11.8037,-15.1804
@@ -997,15 +997,15 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 996,adm1,Haiti,Sud-Est,,,,18.2333,-72.5333
 997,adm0,Holy See,,,,,41.9029,12.4534
 998,adm0,Honduras,,,,,15.2,-86.2419
-999,adm1,Honduras,Atlantida,,,,15.64333,-87.13167
+999,adm1,Honduras,Atlantida,,,,15.643329999999999,-87.13167
 1000,adm1,Honduras,Choluteca,,,,13.316670000000002,-87.21667
 1001,adm1,Honduras,Colon,,,,15.916670000000002,-86.0
 1002,adm1,Honduras,Comayagua,,,,14.46,-87.65
-1003,adm1,Honduras,Copan,,,,14.76667,-88.78333
+1003,adm1,Honduras,Copan,,,,14.766670000000001,-88.78333
 1004,adm1,Honduras,Cortes,,,,15.50278,-88.01361
 1005,adm1,Honduras,El Paraiso,,,,13.85,-86.55
 1006,adm1,Honduras,Francisco Morazan,,,,14.1,-87.21667
-1007,adm1,Honduras,Gracias a Dios,,,,15.26667,-83.76666999999998
+1007,adm1,Honduras,Gracias a Dios,,,,15.266670000000001,-83.76666999999998
 1008,adm1,Honduras,Intibuca,,,,14.43,-88.17
 1009,adm1,Honduras,Islas de la Bahia,,,,16.321342,-86.526872
 1010,adm1,Honduras,La Paz,,,,14.3333,-87.6833
@@ -1018,10 +1018,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1017,adm0,Hungary,,,,,47.1625,19.5033
 1018,adm1,Hungary,Baranya,,,,46.075455,18.21813
 1019,adm1,Hungary,Borsod-Abaúj-Zemplén,,,,47.0,19.0
-1020,adm1,Hungary,Budapest,,,,47.49833,19.04083
+1020,adm1,Hungary,Budapest,,,,47.498329999999996,19.04083
 1021,adm1,Hungary,Bács-Kiskun,,,,46.5,19.41667
 1022,adm1,Hungary,Békés,,,,47.33297,17.35316
-1023,adm1,Hungary,Csongrád-Csanád,,,,46.71111,20.14028
+1023,adm1,Hungary,Csongrád-Csanád,,,,46.71111,20.140279999999997
 1024,adm1,Hungary,Fejér,,,,47.16667,18.58333
 1025,adm1,Hungary,Győr-Moson-Sopron,,,,47.62833,17.16889
 1026,adm1,Hungary,Hajdú-Bihar,,,,47.0,19.0
@@ -1059,27 +1059,27 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1058,adm1,India,Lakshadweep,,,,10.57,72.63
 1059,adm1,India,Madhya Pradesh,,,,23.25,77.417
 1060,adm1,India,Maharashtra,,,,18.96,72.82
-1061,adm1,India,Manipur,,,,24.80668,93.94169
+1061,adm1,India,Manipur,,,,24.80668,93.94169000000001
 1062,adm1,India,Meghalaya,,,,25.57,91.88
 1063,adm1,India,Mizoram,,,,23.36,92.8
 1064,adm1,India,Nagaland,,,,26.22917,94.6525
 1065,adm1,India,Odisha,,,,20.15,85.5
 1066,adm1,India,Puducherry,,,,11.93,79.83
 1067,adm1,India,Punjab,,,,31.036428000000004,75.593571
-1068,adm1,India,Rajasthan,,,,26.57278,73.83889
+1068,adm1,India,Rajasthan,,,,26.572779999999998,73.83889
 1069,adm1,India,Sikkim,,,,27.33,88.62
 1070,adm1,India,Tamil Nadu,,,,13.09,80.27
 1071,adm1,India,Telangana,,,,17.99,79.59
 1072,adm1,India,Tripura,,,,23.84,91.28
 1073,adm1,India,Uttar Pradesh,,,,26.85,80.91
 1074,adm1,India,Uttarakhand,,,,30.33,78.06
-1075,adm1,India,West Bengal,,,,22.56667,88.36667
+1075,adm1,India,West Bengal,,,,22.566670000000002,88.36667
 1076,adm0,Indonesia,,,,,-0.7893,113.9213
 1077,adm1,Indonesia,Aceh,,,,5.55,95.31667
-1078,adm1,Indonesia,Bali,,,,-8.36917,115.13833
+1078,adm1,Indonesia,Bali,,,,-8.36917,115.13833000000001
 1079,adm1,Indonesia,Banten,,,,-6.5,106.25
 1080,adm1,Indonesia,Bengkulu,,,,-3.79556,102.25917
-1081,adm1,Indonesia,DI Yogyakarta,,,,-7.80139,110.36444
+1081,adm1,Indonesia,DI Yogyakarta,,,,-7.80139,110.36443999999999
 1082,adm1,Indonesia,DKI Jakarta,,,,-6.220519,106.782279
 1083,adm1,Indonesia,Gorontalo,,,,0.55,123.05
 1084,adm1,Indonesia,Jambi,,,,-1.59,103.61
@@ -1093,7 +1093,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1092,adm1,Indonesia,Kalimantan Utara,,,,-2.34,110.98
 1093,adm1,Indonesia,Kepulauan Bangka Belitung,,,,-2.13333,106.11667
 1094,adm1,Indonesia,Kepulauan Riau,,,,0.9,104.45
-1095,adm1,Indonesia,Lampung,,,,-5.45,105.26667
+1095,adm1,Indonesia,Lampung,,,,-5.45,105.26666999999999
 1096,adm1,Indonesia,Maluku,,,,-3.705,128.17
 1097,adm1,Indonesia,Maluku Utara,,,,0.78333,127.36667
 1098,adm1,Indonesia,Nusa Tenggara Barat,,,,-8.58333,116.11667
@@ -1101,9 +1101,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1100,adm1,Indonesia,Papua,,,,-2.53333,140.71694
 1101,adm1,Indonesia,Papua Barat,,,,-0.883459,134.050538
 1102,adm1,Indonesia,Riau,,,,0.53333,101.45
-1103,adm1,Indonesia,Sulawesi Barat,,,,-2.68333,118.9
+1103,adm1,Indonesia,Sulawesi Barat,,,,-2.6833299999999998,118.9
 1104,adm1,Indonesia,Sulawesi Selatan,,,,-4.33333,120.25
-1105,adm1,Indonesia,Sulawesi Tengah,,,,-0.945041,122.399544
+1105,adm1,Indonesia,Sulawesi Tengah,,,,-0.945041,122.39954399999999
 1106,adm1,Indonesia,Sulawesi Tenggara,,,,-3.95,122.5
 1107,adm1,Indonesia,Sulawesi Utara,,,,1.25,124.83333
 1108,adm1,Indonesia,Sumatera Barat,,,,-1.0,100.5
@@ -1121,14 +1121,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1120,adm1,Iran,Gilan,,,,37.2774,49.589
 1121,adm1,Iran,Golestan,,,,36.8393,54.4444
 1122,adm1,Iran,Hamadan,,,,34.7982,48.5146
-1123,adm1,Iran,Hormozgan,,,,28.30917,55.90167
+1123,adm1,Iran,Hormozgan,,,,28.30917,55.901669999999996
 1124,adm1,Iran,Ilam,,,,33.63333,46.43333
 1125,adm1,Iran,Isfahan,,,,32.65139,51.67917
 1126,adm1,Iran,Kerman,,,,30.2832,57.0788
 1127,adm1,Iran,Kermanshah,,,,34.3142,47.065
-1128,adm1,Iran,Khuzestan,,,,31.3273,48.694
+1128,adm1,Iran,Khuzestan,,,,31.3273,48.693999999999996
 1129,adm1,Iran,Kohgiluyeh and Boyer-Ahmad,,,,30.67,51.6
-1130,adm1,Iran,Kordestan,,,,35.72778,46.96722000000001
+1130,adm1,Iran,Kordestan,,,,35.727779999999996,46.96722000000001
 1131,adm1,Iran,Lorestan,,,,33.4871,48.3538
 1132,adm1,Iran,Markazi,,,,34.61861,49.94444
 1133,adm1,Iran,Mazandaran,,,,36.5656,53.0588
@@ -1153,7 +1153,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1152,adm1,Ireland,Dublin,,,,53.3425,-6.26583
 1153,adm1,Ireland,Galway,,,,53.2729,-9.0418
 1154,adm1,Ireland,Kerry,,,,52.16667,-9.75
-1155,adm1,Ireland,Kildare,,,,53.15686,-6.90903
+1155,adm1,Ireland,Kildare,,,,53.156859999999995,-6.9090300000000004
 1156,adm1,Ireland,Kilkenny,,,,52.6477,-7.2561
 1157,adm1,Ireland,Laois,,,,53.0,-7.4
 1158,adm1,Ireland,Leitrim,,,,53.14,-8.46
@@ -1161,30 +1161,30 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1160,adm1,Ireland,Longford,,,,53.727,-7.7998
 1161,adm1,Ireland,Louth,,,,53.95,-6.53333
 1162,adm1,Ireland,Mayo,,,,53.75,-9.1167
-1163,adm1,Ireland,Meath,,,,53.66667,-6.66667
-1164,adm1,Ireland,Monaghan,,,,54.24793,-6.97082
+1163,adm1,Ireland,Meath,,,,53.666669999999996,-6.66667
+1164,adm1,Ireland,Monaghan,,,,54.247930000000004,-6.97082
 1165,adm1,Ireland,Offaly,,,,53.25,-7.5
 1166,adm1,Ireland,Roscommon,,,,53.6333,-8.1833
 1167,adm1,Ireland,Sligo,,,,54.2667,-8.4833
-1168,adm1,Ireland,Tipperary,,,,52.47442,-8.16198
+1168,adm1,Ireland,Tipperary,,,,52.474419999999995,-8.16198
 1169,adm1,Ireland,Waterford,,,,52.2583,-7.119
 1170,adm1,Ireland,Westmeath,,,,53.5,-7.5
 1171,adm1,Ireland,Wexford,,,,52.3342,-6.4575
-1172,adm1,Ireland,Wicklow,,,,52.9779,-6.033
+1172,adm1,Ireland,Wicklow,,,,52.9779,-6.0329999999999995
 1173,adm0,Israel,,,,,31.046051,34.851612
 1174,adm0,Italy,,,,,41.87194,12.56738
-1175,adm1,Italy,Abruzzo,,,,41.898342,12.482935
+1175,adm1,Italy,Abruzzo,,,,41.898342,12.482935000000001
 1176,adm2,Italy,Abruzzo,Chieti,,,42.364696,14.148185
 1177,adm2,Italy,Abruzzo,L'Aquila,,,42.57653300000001,14.095631
-1178,adm2,Italy,Abruzzo,Pescara,,,42.46876,14.201589000000002
+1178,adm2,Italy,Abruzzo,Pescara,,,42.468759999999996,14.201589000000002
 1179,adm2,Italy,Abruzzo,Teramo,,,42.57653300000001,14.095631
-1180,adm2,Italy,Abruzzo,Unassigned,,,41.898342,12.482935
+1180,adm2,Italy,Abruzzo,Unassigned,,,41.898342,12.482935000000001
 1181,adm1,Italy,Basilicata,,,,40.663525,16.608072
 1182,adm2,Italy,Basilicata,Matera,,,40.663525,16.608072
 1183,adm2,Italy,Basilicata,Potenza,,,40.749355,15.884204
 1184,adm2,Italy,Basilicata,Unassigned,,,40.663525,16.608072
 1185,adm1,Italy,Calabria,,,,38.798096,16.219210999999998
-1186,adm2,Italy,Calabria,Catanzaro,,,39.010839,16.731391000000002
+1186,adm2,Italy,Calabria,Catanzaro,,,39.010839000000004,16.731391000000002
 1187,adm2,Italy,Calabria,Cosenza,,,39.571337,16.636127
 1188,adm2,Italy,Calabria,Crotone,,,39.034545,16.976899
 1189,adm2,Italy,Calabria,Reggio Calabria,,,38.254953,15.716697
@@ -1193,31 +1193,31 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1192,adm1,Italy,Campania,,,,40.698747,14.6315645
 1193,adm2,Italy,Campania,Avellino,,,40.902904,15.429815
 1194,adm2,Italy,Campania,Benevento,,,40.698747,14.6315645
-1195,adm2,Italy,Campania,Caserta,,,41.06525900000001,14.357986
+1195,adm2,Italy,Campania,Caserta,,,41.06525900000001,14.357985999999999
 1196,adm2,Italy,Campania,Napoli,,,40.929084,14.315079
 1197,adm2,Italy,Campania,Salerno,,,40.698747,14.6315645
 1198,adm2,Italy,Campania,Unassigned,,,43.0,12.0
-1199,adm1,Italy,Emilia Romagna,,,,42.083011,11.815957
-1200,adm2,Italy,Emilia Romagna,Bologna,,,44.562445,10.801591
-1201,adm2,Italy,Emilia Romagna,Ferrara,,,44.562445,10.801591
+1199,adm1,Italy,Emilia Romagna,,,,42.083011,11.815957000000001
+1200,adm2,Italy,Emilia Romagna,Bologna,,,44.562445000000004,10.801591
+1201,adm2,Italy,Emilia Romagna,Ferrara,,,44.562445000000004,10.801591
 1202,adm2,Italy,Emilia Romagna,Forlì-Cesena,,,43.929811,12.650174
-1203,adm2,Italy,Emilia Romagna,Modena,,,44.562445,10.801591
-1204,adm2,Italy,Emilia Romagna,Parma,,,44.562445,10.801591
-1205,adm2,Italy,Emilia Romagna,Piacenza,,,44.983439,10.767862
-1206,adm2,Italy,Emilia Romagna,Ravenna,,,44.372792,12.028913
+1203,adm2,Italy,Emilia Romagna,Modena,,,44.562445000000004,10.801591
+1204,adm2,Italy,Emilia Romagna,Parma,,,44.562445000000004,10.801591
+1205,adm2,Italy,Emilia Romagna,Piacenza,,,44.983439000000004,10.767862
+1206,adm2,Italy,Emilia Romagna,Ravenna,,,44.372792,12.028913000000001
 1207,adm2,Italy,Emilia Romagna,Reggio Emilia,,,44.67582,10.693727
 1208,adm2,Italy,Emilia Romagna,Rimini,,,43.929811,12.650174
-1209,adm2,Italy,Emilia Romagna,Unassigned,,,42.083011,11.815957
-1210,adm1,Italy,Friuli V. G.,,,,40.290001,17.857004999999994
+1209,adm2,Italy,Emilia Romagna,Unassigned,,,42.083011,11.815957000000001
+1210,adm1,Italy,Friuli V. G.,,,,40.290001000000004,17.857004999999994
 1211,adm2,Italy,Friuli V. G.,Gorizia,,,40.284959,17.841682000000006
-1212,adm2,Italy,Friuli V. G.,Pordenone,,,40.290001,17.857004999999994
-1213,adm2,Italy,Friuli V. G.,Trieste,,,40.290001,17.857004999999994
-1214,adm2,Italy,Friuli V. G.,Udine,,,37.933045,14.091093
-1215,adm2,Italy,Friuli V. G.,Unassigned,,,40.290001,17.857004999999994
+1212,adm2,Italy,Friuli V. G.,Pordenone,,,40.290001000000004,17.857004999999994
+1213,adm2,Italy,Friuli V. G.,Trieste,,,40.290001000000004,17.857004999999994
+1214,adm2,Italy,Friuli V. G.,Udine,,,37.933045,14.091092999999999
+1215,adm2,Italy,Friuli V. G.,Unassigned,,,40.290001000000004,17.857004999999994
 1216,adm1,Italy,Lazio,,,,41.010062,28.88696
 1217,adm2,Italy,Lazio,Frosinone,,,41.83527700000001,13.089915
 1218,adm2,Italy,Lazio,Latina,,,41.499218,13.056702
-1219,adm2,Italy,Lazio,Rieti,,,42.34271500000001,13.419693
+1219,adm2,Italy,Lazio,Rieti,,,42.34271500000001,13.419692999999999
 1220,adm2,Italy,Lazio,Roma,,,41.010062,28.88696
 1221,adm2,Italy,Lazio,Unassigned,,,41.956554,12.521554
 1222,adm2,Italy,Lazio,Viterbo,,,42.368302,12.125895
@@ -1227,47 +1227,47 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1226,adm2,Italy,Liguria,La Spezia,,,44.117525,9.849857
 1227,adm2,Italy,Liguria,Savona,,,44.088694,8.206424
 1228,adm2,Italy,Liguria,Unassigned,,,44.088694,8.206424
-1229,adm1,Italy,Lombardia,,,,40.351691,17.735573000000006
-1230,adm2,Italy,Lombardia,Bergamo,,,45.74332,9.616589
+1229,adm1,Italy,Lombardia,,,,40.351690999999995,17.735573000000006
+1230,adm2,Italy,Lombardia,Bergamo,,,45.743320000000004,9.616589
 1231,adm2,Italy,Lombardia,Brescia,,,45.463549,10.175338
-1232,adm2,Italy,Lombardia,Como,,,45.663784,9.68578
-1233,adm2,Italy,Lombardia,Cremona,,,44.564384,10.806445
-1234,adm2,Italy,Lombardia,Lecco,,,46.137226,9.602832
-1235,adm2,Italy,Lombardia,Lodi,,,45.121658,10.531334
+1232,adm2,Italy,Lombardia,Como,,,45.663784,9.685780000000001
+1233,adm2,Italy,Lombardia,Cremona,,,44.564384000000004,10.806445
+1234,adm2,Italy,Lombardia,Lecco,,,46.137226,9.602832000000001
+1235,adm2,Italy,Lombardia,Lodi,,,45.121658000000004,10.531334
 1236,adm2,Italy,Lombardia,Mantova,,,45.178503000000006,10.837315
 1237,adm2,Italy,Lombardia,Milano,,,45.519174,9.01623
 1238,adm2,Italy,Lombardia,Monza e Brianza,,,45.60412700000001,9.456133
-1239,adm2,Italy,Lombardia,Pavia,,,45.19557,9.174936
+1239,adm2,Italy,Lombardia,Pavia,,,45.195570000000004,9.174936
 1240,adm2,Italy,Lombardia,Sondrio,,,45.363165,10.420929
 1241,adm2,Italy,Lombardia,Unassigned,,,41.05035,16.697674
 1242,adm2,Italy,Lombardia,Varese,,,45.729432,9.709379
 1243,adm1,Italy,Marche,,,,46.629606,14.094899
-1244,adm2,Italy,Marche,Ancona,,,43.705958,13.219297
+1244,adm2,Italy,Marche,Ancona,,,43.705958,13.219297000000001
 1245,adm2,Italy,Marche,Ascoli Piceno,,,42.970991,13.872997
 1246,adm2,Italy,Marche,Fermo,,,43.196054,13.787704000000002
-1247,adm2,Italy,Marche,Macerata,,,43.30573,13.735333
-1248,adm2,Italy,Marche,Pesaro e Urbino,,,43.668732,12.524209
+1247,adm2,Italy,Marche,Macerata,,,43.30573,13.735332999999999
+1248,adm2,Italy,Marche,Pesaro e Urbino,,,43.668732,12.524208999999999
 1249,adm2,Italy,Marche,Unassigned,,,43.0,12.0
 1250,adm1,Italy,Molise,,,,41.63333,14.5
 1251,adm2,Italy,Molise,Campobasso,,,41.63333,14.5
-1252,adm2,Italy,Molise,Isernia,,,41.59705200000001,14.238027
+1252,adm2,Italy,Molise,Isernia,,,41.59705200000001,14.238026999999999
 1253,adm2,Italy,Molise,Unassigned,,,41.63333,14.5
 1254,adm1,Italy,Piemonte,,,,40.67361,14.5125
 1255,adm2,Italy,Piemonte,Alessandria,,,44.906201,8.870019000000003
 1256,adm2,Italy,Piemonte,Asti,,,44.89951,8.206299000000001
 1257,adm2,Italy,Piemonte,Biella,,,45.673828,8.254578
 1258,adm2,Italy,Piemonte,Cuneo,,,44.61590225,7.484197
-1259,adm2,Italy,Piemonte,Novara,,,45.800653,8.385314
+1259,adm2,Italy,Piemonte,Novara,,,45.800653000000004,8.385314
 1260,adm2,Italy,Piemonte,Torino,,,45.161448,7.890853
 1261,adm2,Italy,Piemonte,Unassigned,,,40.67361,14.5125
-1262,adm2,Italy,Piemonte,Verbano Cusio Ossola,,,45.800653,8.385314
-1263,adm2,Italy,Piemonte,Vercelli,,,45.800653,8.385314
+1262,adm2,Italy,Piemonte,Verbano Cusio Ossola,,,45.800653000000004,8.385314
+1263,adm2,Italy,Piemonte,Vercelli,,,45.800653000000004,8.385314
 1264,adm1,Italy,Puglia,,,,40.353575,17.366603
-1265,adm2,Italy,Puglia,Bari,,,40.78509,17.236874
+1265,adm2,Italy,Puglia,Bari,,,40.785090000000004,17.236874
 1266,adm2,Italy,Puglia,Barletta-Andria-Trani,,,41.320332,16.28591
 1267,adm2,Italy,Puglia,Brindisi,,,40.496921,17.643210999999994
 1268,adm2,Italy,Puglia,Foggia,,,41.506562,15.325731
-1269,adm2,Italy,Puglia,Lecce,,,40.351603,18.166104
+1269,adm2,Italy,Puglia,Lecce,,,40.351603000000004,18.166104
 1270,adm2,Italy,Puglia,Taranto,,,40.353575,17.366603
 1271,adm2,Italy,Puglia,Unassigned,,,40.353575,17.366603
 1272,adm1,Italy,Sardegna,,,,40.263357,9.300409
@@ -1277,44 +1277,44 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1276,adm2,Italy,Sardegna,Sassari,,,41.151092,9.527759
 1277,adm2,Italy,Sardegna,Sud Sardegna,,,39.250725,9.571887
 1278,adm2,Italy,Sardegna,Unassigned,,,40.263357,9.300409
-1279,adm1,Italy,Sicilia,,,,37.509726,14.084473
-1280,adm2,Italy,Sicilia,Agrigento,,,37.25813,13.595983
-1281,adm2,Italy,Sicilia,Caltanissetta,,,37.509726,14.084473
-1282,adm2,Italy,Sicilia,Catania,,,37.622032,15.100352
+1279,adm1,Italy,Sicilia,,,,37.509726,14.084473000000001
+1280,adm2,Italy,Sicilia,Agrigento,,,37.25813,13.595982999999999
+1281,adm2,Italy,Sicilia,Caltanissetta,,,37.509726,14.084473000000001
+1282,adm2,Italy,Sicilia,Catania,,,37.622032,15.100351999999999
 1283,adm2,Italy,Sicilia,Enna,,,37.566497,14.280543
-1284,adm2,Italy,Sicilia,Messina,,,38.227262,15.390247
+1284,adm2,Italy,Sicilia,Messina,,,38.227261999999996,15.390247
 1285,adm2,Italy,Sicilia,Palermo,,,38.194407,13.249787
 1286,adm2,Italy,Sicilia,Ragusa,,,36.94576,14.603093
 1287,adm2,Italy,Sicilia,Siracusa,,,37.28816,15.16097
-1288,adm2,Italy,Sicilia,Trapani,,,37.725487,12.895865
-1289,adm2,Italy,Sicilia,Unassigned,,,37.509726,14.084473
+1288,adm2,Italy,Sicilia,Trapani,,,37.725487,12.895864999999999
+1289,adm2,Italy,Sicilia,Unassigned,,,37.509726,14.084473000000001
 1290,adm1,Italy,Toscana,,,,43.776507,11.25303
 1291,adm2,Italy,Toscana,Arezzo,,,43.639588,11.508645
 1292,adm2,Italy,Toscana,Firenze,,,43.776507,11.25303
-1293,adm2,Italy,Toscana,Grosseto,,,42.922121,11.026597
+1293,adm2,Italy,Toscana,Grosseto,,,42.922121000000004,11.026597
 1294,adm2,Italy,Toscana,Livorno,,,43.578401,10.346762
 1295,adm2,Italy,Toscana,Lucca,,,43.1005365,10.53935825
 1296,adm2,Italy,Toscana,Massa-Carrara,,,43.1005365,10.53935825
 1297,adm2,Italy,Toscana,Pisa,,,43.71667,10.4
-1298,adm2,Italy,Toscana,Pistoia,,,43.88071400000001,10.783546
-1299,adm2,Italy,Toscana,Prato,,,43.851106,11.060204
-1300,adm2,Italy,Toscana,Siena,,,43.31833,11.33139
+1298,adm2,Italy,Toscana,Pistoia,,,43.88071400000001,10.783546000000001
+1299,adm2,Italy,Toscana,Prato,,,43.851106,11.060203999999999
+1300,adm2,Italy,Toscana,Siena,,,43.318329999999996,11.331389999999999
 1301,adm2,Italy,Toscana,Unassigned,,,43.776507,11.25303
 1302,adm1,Italy,Trentino-Alto Adige,,,,43.457675,11.113916
 1303,adm2,Italy,Trentino-Alto Adige,Bolzano,,,41.1186,16.786684
 1304,adm2,Italy,Trentino-Alto Adige,Trento,,,40.540714,17.43679
 1305,adm2,Italy,Trentino-Alto Adige,Unassigned,,,45.513803,11.394977
-1306,adm1,Italy,Umbria,,,,43.110798,12.38757
-1307,adm2,Italy,Umbria,Perugia,,,43.110798,12.38757
-1308,adm2,Italy,Umbria,Terni,,,42.56887,12.658435
-1309,adm2,Italy,Umbria,Unassigned,,,43.110798,12.38757
+1306,adm1,Italy,Umbria,,,,43.110797999999996,12.38757
+1307,adm2,Italy,Umbria,Perugia,,,43.110797999999996,12.38757
+1308,adm2,Italy,Umbria,Terni,,,42.568870000000004,12.658435
+1309,adm2,Italy,Umbria,Unassigned,,,43.110797999999996,12.38757
 1310,adm1,Italy,Valle d'Aosta,,,,45.71667,7.36667
 1311,adm2,Italy,Valle d'Aosta,Aosta,,,45.73722,7.32056
 1312,adm2,Italy,Valle d'Aosta,Unassigned,,,45.71667,7.36667
-1313,adm1,Italy,Veneto,,,,45.54705,11.543477
+1313,adm1,Italy,Veneto,,,,45.54705,11.543477000000001
 1314,adm2,Italy,Veneto,Belluno,,,46.113282,12.401369
-1315,adm2,Italy,Veneto,Padova,,,45.49164,11.75218
-1316,adm2,Italy,Veneto,Rovigo,,,45.54705,11.543477
+1315,adm2,Italy,Veneto,Padova,,,45.491640000000004,11.752180000000001
+1316,adm2,Italy,Veneto,Rovigo,,,45.54705,11.543477000000001
 1317,adm2,Italy,Veneto,Treviso,,,45.91725,12.162878
 1318,adm2,Italy,Veneto,Unassigned,,,43.0,12.0
 1319,adm2,Italy,Veneto,Venezia,,,45.433802,12.330441
@@ -1322,12 +1322,12 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1321,adm2,Italy,Veneto,Vicenza,,,45.506059,11.557733
 1322,adm0,Jamaica,,,,,18.1096,-77.2975
 1323,adm0,Japan,,,,,36.204824,138.252924
-1324,adm1,Japan,Aichi,,,,35.08306,136.98306000000002
+1324,adm1,Japan,Aichi,,,,35.083059999999996,136.98306000000002
 1325,adm1,Japan,Akita,,,,39.71972,140.1025
 1326,adm1,Japan,Aomori,,,,40.82222,140.7475
 1327,adm1,Japan,Chiba,,,,35.6,140.1
 1328,adm1,Japan,Ehime,,,,33.83333,132.83333000000002
-1329,adm1,Japan,Fukui,,,,36.06417,136.21972
+1329,adm1,Japan,Fukui,,,,36.064170000000004,136.21972
 1330,adm1,Japan,Fukuoka,,,,34.171338,132.22383200000002
 1331,adm1,Japan,Fukushima,,,,37.76083,140.47333
 1332,adm1,Japan,Gifu,,,,35.41667,136.76667
@@ -1338,7 +1338,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1337,adm1,Japan,Ibaraki,,,,36.23333,140.28333
 1338,adm1,Japan,Ishikawa,,,,35.680066,139.374833
 1339,adm1,Japan,Iwate,,,,39.70361,141.1525
-1340,adm1,Japan,Kagawa,,,,34.34011,134.04328
+1340,adm1,Japan,Kagawa,,,,34.340109999999996,134.04328
 1341,adm1,Japan,Kagoshima,,,,31.59667,130.55722
 1342,adm1,Japan,Kanagawa,,,,35.44751,139.64234
 1343,adm1,Japan,Kochi,,,,33.56667,133.53333
@@ -1350,10 +1350,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1349,adm1,Japan,Nagano,,,,35.609883,139.685576
 1350,adm1,Japan,Nagasaki,,,,32.78333,129.86667
 1351,adm1,Japan,Nara,,,,34.68333,135.78333
-1352,adm1,Japan,Niigata,,,,37.91611,139.01972
+1352,adm1,Japan,Niigata,,,,37.916109999999996,139.01972
 1353,adm1,Japan,Oita,,,,33.23333,131.60667
 1354,adm1,Japan,Okayama,,,,34.65,133.91666999999998
-1355,adm1,Japan,Okinawa,,,,26.528176,127.939561
+1355,adm1,Japan,Okinawa,,,,26.528176000000002,127.93956100000001
 1356,adm1,Japan,Osaka,,,,34.691790999999995,135.4920315
 1357,adm1,Japan,Saga,,,,33.26667,130.3
 1358,adm1,Japan,Saitama,,,,35.86167000000001,139.64528
@@ -1372,7 +1372,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1371,adm0,Jordan,,,,,31.24,36.51
 1372,adm0,Kazakhstan,,,,,48.0196,66.9237
 1373,adm0,Kenya,,,,,-0.0236,37.9062
-1374,adm0,Korea, South,,,,36.536236,128.16894399999998
+1374,adm0,Korea, South,,,,36.536235999999995,128.16894399999998
 1375,adm0,Kosovo,,,,,42.602636,20.902977
 1376,adm0,Kuwait,,,,,29.31166,47.481766
 1377,adm0,Kyrgyzstan,,,,,41.20438,74.766098
@@ -1380,87 +1380,87 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1379,adm0,Latvia,,,,,56.8796,24.6032
 1380,adm1,Latvia,Kurzeme,,,,57.0,25.0
 1381,adm2,Latvia,Kurzeme,Aizputes novads,,,56.71666999999999,21.6
-1382,adm2,Latvia,Kurzeme,Alsungas novads,,,56.98167,21.56694
+1382,adm2,Latvia,Kurzeme,Alsungas novads,,,56.981669999999994,21.56694
 1383,adm2,Latvia,Kurzeme,Brocēnu novads,,,56.73333,22.65
 1384,adm2,Latvia,Kurzeme,Dundagas novads,,,57.51667,22.35
 1385,adm2,Latvia,Kurzeme,Durbes novads,,,56.61666999999999,21.366670000000006
 1386,adm2,Latvia,Kurzeme,Grobiņas novads,,,56.505141,21.200311
 1387,adm2,Latvia,Kurzeme,Kuldīgas novads,,,56.96666999999999,21.96667
-1388,adm2,Latvia,Kurzeme,Liepāja,,,56.50833000000001,21.01111
+1388,adm2,Latvia,Kurzeme,Liepāja,,,56.50833000000001,21.011110000000002
 1389,adm2,Latvia,Kurzeme,Mērsraga novads,,,57.311496,23.02445100000001
-1390,adm2,Latvia,Kurzeme,Nīcas novads,,,56.34611,21.06222
+1390,adm2,Latvia,Kurzeme,Nīcas novads,,,56.346109999999996,21.06222
 1391,adm2,Latvia,Kurzeme,Priekules novads,,,56.45,21.58333
 1392,adm2,Latvia,Kurzeme,Pāvilostas novads,,,56.88333000000001,21.16667
 1393,adm2,Latvia,Kurzeme,Rojas novads,,,57.50833000000001,22.80917
-1394,adm2,Latvia,Kurzeme,Rucavas novads,,,56.15917,21.16194
-1395,adm2,Latvia,Kurzeme,Saldus novads,,,56.66667,22.5
-1396,adm2,Latvia,Kurzeme,Skrundas novads,,,56.66667,22.0
+1394,adm2,Latvia,Kurzeme,Rucavas novads,,,56.159169999999996,21.161939999999998
+1395,adm2,Latvia,Kurzeme,Saldus novads,,,56.666669999999996,22.5
+1396,adm2,Latvia,Kurzeme,Skrundas novads,,,56.666669999999996,22.0
 1397,adm2,Latvia,Kurzeme,Talsu novads,,,57.25,22.6
 1398,adm2,Latvia,Kurzeme,Vaiņodes novads,,,56.4183,21.8522
 1399,adm2,Latvia,Kurzeme,Ventspils,,,57.38972,21.56444
-1400,adm2,Latvia,Kurzeme,Ventspils novads,,,57.346529,21.884143
+1400,adm2,Latvia,Kurzeme,Ventspils novads,,,57.346529000000004,21.884142999999998
 1401,adm1,Latvia,Latgale,,,,57.0,25.0
 1402,adm2,Latvia,Latgale,Aglonas novads,,,56.12613,27.01427
 1403,adm2,Latvia,Latgale,Baltinavas novads,,,56.95,27.65
 1404,adm2,Latvia,Latgale,Balvu novads,,,57.13333000000001,27.25
-1405,adm2,Latvia,Latgale,Ciblas novads,,,56.55,27.88333
-1406,adm2,Latvia,Latgale,Dagdas novads,,,56.16667,27.66667
-1407,adm2,Latvia,Latgale,Daugavpils,,,55.87139000000001,26.51611
+1405,adm2,Latvia,Latgale,Ciblas novads,,,56.55,27.883329999999997
+1406,adm2,Latvia,Latgale,Dagdas novads,,,56.166669999999996,27.66667
+1407,adm2,Latvia,Latgale,Daugavpils,,,55.87139000000001,26.516109999999998
 1408,adm2,Latvia,Latgale,Daugavpils novads,,,55.88333000000001,26.53333
 1409,adm2,Latvia,Latgale,Ilūkstes novads,,,55.98333,26.3
 1410,adm2,Latvia,Latgale,Krāslavas novads,,,55.9,27.16667
-1411,adm2,Latvia,Latgale,Kārsavas novads,,,56.78389,27.68472
+1411,adm2,Latvia,Latgale,Kārsavas novads,,,56.78389,27.684720000000002
 1412,adm2,Latvia,Latgale,Ludzas novads,,,56.55,27.71667
-1413,adm2,Latvia,Latgale,Līvānu novads,,,56.36666999999999,26.18333
+1413,adm2,Latvia,Latgale,Līvānu novads,,,56.36666999999999,26.183329999999998
 1414,adm2,Latvia,Latgale,Preiļu novads,,,57.0,25.0
-1415,adm2,Latvia,Latgale,Riebiņu novads,,,56.34139,26.80111
-1416,adm2,Latvia,Latgale,Rugāju novads,,,57.00083000000001,27.12972
+1415,adm2,Latvia,Latgale,Riebiņu novads,,,56.341390000000004,26.801109999999998
+1416,adm2,Latvia,Latgale,Rugāju novads,,,57.00083000000001,27.129720000000002
 1417,adm2,Latvia,Latgale,Rēzekne,,,56.50666999999999,27.33083
-1418,adm2,Latvia,Latgale,Rēzeknes novads,,,56.51278000000001,27.34278
+1418,adm2,Latvia,Latgale,Rēzeknes novads,,,56.51278000000001,27.342779999999998
 1419,adm2,Latvia,Latgale,Viļakas novads,,,57.0,25.0
 1420,adm2,Latvia,Latgale,Viļānu novads,,,57.0,25.0
 1421,adm2,Latvia,Latgale,Vārkavas novads,,,56.275,26.65833
 1422,adm2,Latvia,Latgale,Zilupes novads,,,56.3873,28.1212
-1423,adm1,Latvia,Riga,,,,56.9475,24.10694
-1424,adm2,Latvia,Riga,Alojas novads,,,57.78222,24.83
-1425,adm2,Latvia,Riga,Babītes novads,,,56.9475,24.10694
-1426,adm2,Latvia,Riga,Baldones novads,,,56.9475,24.10694
-1427,adm2,Latvia,Riga,Carnikavas novads,,,56.9475,24.10694
-1428,adm2,Latvia,Riga,Engures novads,,,56.955,23.33806
-1429,adm2,Latvia,Riga,Garkalnes novads,,,56.9475,24.10694
-1430,adm2,Latvia,Riga,Ikšķiles novads,,,56.9475,24.10694
-1431,adm2,Latvia,Riga,Inčukalna novads,,,56.9475,24.10694
+1423,adm1,Latvia,Riga,,,,56.9475,24.106939999999998
+1424,adm2,Latvia,Riga,Alojas novads,,,57.782219999999995,24.83
+1425,adm2,Latvia,Riga,Babītes novads,,,56.9475,24.106939999999998
+1426,adm2,Latvia,Riga,Baldones novads,,,56.9475,24.106939999999998
+1427,adm2,Latvia,Riga,Carnikavas novads,,,56.9475,24.106939999999998
+1428,adm2,Latvia,Riga,Engures novads,,,56.955,23.338060000000002
+1429,adm2,Latvia,Riga,Garkalnes novads,,,56.9475,24.106939999999998
+1430,adm2,Latvia,Riga,Ikšķiles novads,,,56.9475,24.106939999999998
+1431,adm2,Latvia,Riga,Inčukalna novads,,,56.9475,24.106939999999998
 1432,adm2,Latvia,Riga,Jaunpils novads,,,56.73333,23.0175
-1433,adm2,Latvia,Riga,Jūrmala,,,56.9475,24.10694
+1433,adm2,Latvia,Riga,Jūrmala,,,56.9475,24.106939999999998
 1434,adm2,Latvia,Riga,Kandavas novads,,,57.04139,22.77306
 1435,adm2,Latvia,Riga,Krimuldas novads,,,57.21471999999999,24.77056
-1436,adm2,Latvia,Riga,Lielvārdes novads,,,56.9475,24.10694
-1437,adm2,Latvia,Riga,Limbažu novads,,,56.9475,24.10694
-1438,adm2,Latvia,Riga,Mālpils novads,,,56.9475,24.10694
-1439,adm2,Latvia,Riga,Mārupes novads,,,56.9475,24.10694
-1440,adm2,Latvia,Riga,Ogres novads,,,56.9475,24.10694
-1441,adm2,Latvia,Riga,Olaines novads,,,56.9475,24.10694
-1442,adm2,Latvia,Riga,Ropažu novads,,,56.9475,24.10694
-1443,adm2,Latvia,Riga,Rīga,,,56.9475,24.10694
-1444,adm2,Latvia,Riga,Salacgrīvas novads,,,56.9475,24.10694
-1445,adm2,Latvia,Riga,Salaspils novads,,,56.9475,24.10694
-1446,adm2,Latvia,Riga,Saulkrastu novads,,,56.9475,24.10694
-1447,adm2,Latvia,Riga,Siguldas novads,,,56.9475,24.10694
-1448,adm2,Latvia,Riga,Stopiņu novads,,,56.9475,24.10694
-1449,adm2,Latvia,Riga,Sējas novads,,,56.9475,24.10694
+1436,adm2,Latvia,Riga,Lielvārdes novads,,,56.9475,24.106939999999998
+1437,adm2,Latvia,Riga,Limbažu novads,,,56.9475,24.106939999999998
+1438,adm2,Latvia,Riga,Mālpils novads,,,56.9475,24.106939999999998
+1439,adm2,Latvia,Riga,Mārupes novads,,,56.9475,24.106939999999998
+1440,adm2,Latvia,Riga,Ogres novads,,,56.9475,24.106939999999998
+1441,adm2,Latvia,Riga,Olaines novads,,,56.9475,24.106939999999998
+1442,adm2,Latvia,Riga,Ropažu novads,,,56.9475,24.106939999999998
+1443,adm2,Latvia,Riga,Rīga,,,56.9475,24.106939999999998
+1444,adm2,Latvia,Riga,Salacgrīvas novads,,,56.9475,24.106939999999998
+1445,adm2,Latvia,Riga,Salaspils novads,,,56.9475,24.106939999999998
+1446,adm2,Latvia,Riga,Saulkrastu novads,,,56.9475,24.106939999999998
+1447,adm2,Latvia,Riga,Siguldas novads,,,56.9475,24.106939999999998
+1448,adm2,Latvia,Riga,Stopiņu novads,,,56.9475,24.106939999999998
+1449,adm2,Latvia,Riga,Sējas novads,,,56.9475,24.106939999999998
 1450,adm2,Latvia,Riga,Tukuma novads,,,56.9667,23.15
-1451,adm2,Latvia,Riga,Ādažu novads,,,56.9475,24.10694
-1452,adm2,Latvia,Riga,Ķeguma novads,,,56.9475,24.10694
-1453,adm2,Latvia,Riga,Ķekavas novads,,,56.9475,24.10694
+1451,adm2,Latvia,Riga,Ādažu novads,,,56.9475,24.106939999999998
+1452,adm2,Latvia,Riga,Ķeguma novads,,,56.9475,24.106939999999998
+1453,adm2,Latvia,Riga,Ķekavas novads,,,56.9475,24.106939999999998
 1454,adm1,Latvia,Vidzeme,,,,57.407737,25.87549
 1455,adm2,Latvia,Vidzeme,Alūksnes novads,,,57.407737,25.87549
-1456,adm2,Latvia,Vidzeme,Amatas novads,,,57.161562,25.321679
+1456,adm2,Latvia,Vidzeme,Amatas novads,,,57.161561999999996,25.321679
 1457,adm2,Latvia,Vidzeme,Apes novads,,,57.4667,26.6167
 1458,adm2,Latvia,Vidzeme,Beverīnas novads,,,57.407737,25.87549
 1459,adm2,Latvia,Vidzeme,Burtnieku novads,,,57.692837,25.352227
 1460,adm2,Latvia,Vidzeme,Cesvaines novads,,,56.9706,26.3054
 1461,adm2,Latvia,Vidzeme,Cēsu novads,,,57.407737,25.87549
-1462,adm2,Latvia,Vidzeme,Gulbenes novads,,,57.18194,26.763890000000004
+1462,adm2,Latvia,Vidzeme,Gulbenes novads,,,57.181940000000004,26.763890000000004
 1463,adm2,Latvia,Vidzeme,Jaunpiebalgas novads,,,57.407737,25.87549
 1464,adm2,Latvia,Vidzeme,Kocēnu novads,,,57.407737,25.87549
 1465,adm2,Latvia,Vidzeme,Lubānas novads,,,56.9,26.71667
@@ -1469,39 +1469,39 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1468,adm2,Latvia,Vidzeme,Mazsalacas novads,,,57.86666999999999,25.05
 1469,adm2,Latvia,Vidzeme,Naukšēnu novads,,,57.407737,25.87549
 1470,adm2,Latvia,Vidzeme,Priekuļu novads,,,57.407737,25.87549
-1471,adm2,Latvia,Vidzeme,Pārgaujas novads,,,57.37083000000001,25.03083
+1471,adm2,Latvia,Vidzeme,Pārgaujas novads,,,57.37083000000001,25.030829999999998
 1472,adm2,Latvia,Vidzeme,Raunas novads,,,57.33221999999999,25.60972000000001
 1473,adm2,Latvia,Vidzeme,Rūjienas novads,,,57.407737,25.87549
 1474,adm2,Latvia,Vidzeme,Smiltenes novads,,,57.407737,25.87549
 1475,adm2,Latvia,Vidzeme,Strenču novads,,,57.407737,25.87549
 1476,adm2,Latvia,Vidzeme,Valkas novads,,,57.71200200000001,26.017106
-1477,adm2,Latvia,Vidzeme,Valmiera,,,57.53806,25.42306
+1477,adm2,Latvia,Vidzeme,Valmiera,,,57.538059999999994,25.42306
 1478,adm2,Latvia,Vidzeme,Varakļānu novads,,,57.407737,25.87549
 1479,adm2,Latvia,Vidzeme,Vecpiebalgas novads,,,57.0619,25.8108
 1480,adm2,Latvia,Vidzeme,Ērgļu novads,,,57.407737,25.87549
-1481,adm1,Latvia,Zemgale,,,,56.583258,23.55503
-1482,adm2,Latvia,Zemgale,Aizkraukles novads,,,56.60417,25.25389
-1483,adm2,Latvia,Zemgale,Aknīstes novads,,,56.583258,23.55503
+1481,adm1,Latvia,Zemgale,,,,56.583257999999994,23.55503
+1482,adm2,Latvia,Zemgale,Aizkraukles novads,,,56.604169999999996,25.25389
+1483,adm2,Latvia,Zemgale,Aknīstes novads,,,56.583257999999994,23.55503
 1484,adm2,Latvia,Zemgale,Auces novads,,,56.5,22.95
-1485,adm2,Latvia,Zemgale,Bauskas novads,,,56.41667,24.28333
+1485,adm2,Latvia,Zemgale,Bauskas novads,,,56.416669999999996,24.28333
 1486,adm2,Latvia,Zemgale,Dobeles novads,,,56.65,23.23333
-1487,adm2,Latvia,Zemgale,Iecavas novads,,,56.58333,24.18333
+1487,adm2,Latvia,Zemgale,Iecavas novads,,,56.583330000000004,24.183329999999998
 1488,adm2,Latvia,Zemgale,Jaunjelgavas novads,,,56.51481,25.30426
-1489,adm2,Latvia,Zemgale,Jelgava,,,56.583258,23.55503
-1490,adm2,Latvia,Zemgale,Jelgavas novads,,,56.583258,23.55503
-1491,adm2,Latvia,Zemgale,Jēkabpils,,,56.583258,23.55503
-1492,adm2,Latvia,Zemgale,Jēkabpils novads,,,56.583258,23.55503
-1493,adm2,Latvia,Zemgale,Kokneses novads,,,56.65,25.43333
-1494,adm2,Latvia,Zemgale,Krustpils novads,,,56.571583,25.81528
-1495,adm2,Latvia,Zemgale,Neretas novads,,,56.20444000000001,25.30778
+1489,adm2,Latvia,Zemgale,Jelgava,,,56.583257999999994,23.55503
+1490,adm2,Latvia,Zemgale,Jelgavas novads,,,56.583257999999994,23.55503
+1491,adm2,Latvia,Zemgale,Jēkabpils,,,56.583257999999994,23.55503
+1492,adm2,Latvia,Zemgale,Jēkabpils novads,,,56.583257999999994,23.55503
+1493,adm2,Latvia,Zemgale,Kokneses novads,,,56.65,25.433329999999998
+1494,adm2,Latvia,Zemgale,Krustpils novads,,,56.571583,25.815279999999998
+1495,adm2,Latvia,Zemgale,Neretas novads,,,56.20444000000001,25.307779999999998
 1496,adm2,Latvia,Zemgale,Ozolnieku novads,,,56.69083000000001,23.78806
-1497,adm2,Latvia,Zemgale,Pļaviņu novads,,,56.583258,23.55503
+1497,adm2,Latvia,Zemgale,Pļaviņu novads,,,56.583257999999994,23.55503
 1498,adm2,Latvia,Zemgale,Rundāles novads,,,56.42,24.00972
-1499,adm2,Latvia,Zemgale,Salas novads,,,56.50417,25.76222000000001
-1500,adm2,Latvia,Zemgale,Skrīveru novads,,,56.583258,23.55503
-1501,adm2,Latvia,Zemgale,Tērvetes novads,,,56.583258,23.55503
+1499,adm2,Latvia,Zemgale,Salas novads,,,56.504169999999995,25.76222000000001
+1500,adm2,Latvia,Zemgale,Skrīveru novads,,,56.583257999999994,23.55503
+1501,adm2,Latvia,Zemgale,Tērvetes novads,,,56.583257999999994,23.55503
 1502,adm2,Latvia,Zemgale,Vecumnieku novads,,,56.6064,24.5222
-1503,adm2,Latvia,Zemgale,Viesītes novads,,,56.583258,23.55503
+1503,adm2,Latvia,Zemgale,Viesītes novads,,,56.583257999999994,23.55503
 1504,adm0,Lebanon,,,,,33.8547,35.8623
 1505,adm0,Lesotho,,,,,-29.61,28.2336
 1506,adm0,Liberia,,,,,6.4280550000000005,-9.429499
@@ -1518,7 +1518,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1517,adm1,Malaysia,Kelantan,,,,5.25,102.0
 1518,adm1,Malaysia,Kuala Lumpur,,,,3.15972,101.7
 1519,adm1,Malaysia,Labuan,,,,5.28,115.24
-1520,adm1,Malaysia,Melaka,,,,2.18889,102.25111
+1520,adm1,Malaysia,Melaka,,,,2.1888900000000002,102.25111
 1521,adm1,Malaysia,Negeri Sembilan,,,,2.75,102.25
 1522,adm1,Malaysia,Pahang,,,,3.75,102.5
 1523,adm1,Malaysia,Perak,,,,4.75,101.0
@@ -1526,7 +1526,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1525,adm1,Malaysia,Pulau Pinang,,,,5.438184,100.209709
 1526,adm1,Malaysia,Putrajaya,,,,2.91667,101.7
 1527,adm1,Malaysia,Sabah,,,,5.25,117.0
-1528,adm1,Malaysia,Sarawak,,,,3.03806,113.78111
+1528,adm1,Malaysia,Sarawak,,,,3.0380599999999998,113.78111000000001
 1529,adm1,Malaysia,Selangor,,,,3.33333,101.5
 1530,adm1,Malaysia,Terengganu,,,,4.75,103.0
 1531,adm0,Maldives,,,,,3.2028,73.2207
@@ -1540,31 +1540,31 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1539,adm1,Mexico,Baja California Sur,,,,25.84611,-111.97278
 1540,adm1,Mexico,Campeche,,,,19.596477,-90.254384
 1541,adm1,Mexico,Chiapas,,,,16.41,-92.40861
-1542,adm1,Mexico,Chihuahua,,,,28.63528,-106.08889
+1542,adm1,Mexico,Chihuahua,,,,28.635279999999998,-106.08888999999999
 1543,adm1,Mexico,Ciudad de Mexico,,,,19.41958,-99.161316
-1544,adm1,Mexico,Coahuila,,,,27.30222,-102.04472
-1545,adm1,Mexico,Colima,,,,19.24361,-103.73083
-1546,adm1,Mexico,Durango,,,,23.950469,-104.972437
+1544,adm1,Mexico,Coahuila,,,,27.302220000000002,-102.04472
+1545,adm1,Mexico,Colima,,,,19.24361,-103.73083000000001
+1546,adm1,Mexico,Durango,,,,23.950469000000002,-104.97243700000001
 1547,adm1,Mexico,Guanajuato,,,,21.01778,-101.25667
 1548,adm1,Mexico,Guerrero,,,,17.61306,-99.95
 1549,adm1,Mexico,Hidalgo,,,,20.47833,-98.86361
-1550,adm1,Mexico,Jalisco,,,,20.56667,-103.67639
+1550,adm1,Mexico,Jalisco,,,,20.566670000000002,-103.67639
 1551,adm1,Mexico,Michoacan,,,,19.16861,-101.89972
 1552,adm1,Mexico,Morelos,,,,18.731845,-99.102816
 1553,adm1,Mexico,México,,,,19.35417,-99.63083
 1554,adm1,Mexico,Nayarit,,,,21.74389,-105.22833
-1555,adm1,Mexico,Nuevo Leon,,,,25.56667,-99.97056
+1555,adm1,Mexico,Nuevo Leon,,,,25.566670000000002,-99.97055999999999
 1556,adm1,Mexico,Oaxaca,,,,16.89806,-96.41417
-1557,adm1,Mexico,Puebla,,,,19.05139,-98.21778
-1558,adm1,Mexico,Queretaro,,,,20.58806,-100.38806
+1557,adm1,Mexico,Puebla,,,,19.051389999999998,-98.21778
+1558,adm1,Mexico,Queretaro,,,,20.588060000000002,-100.38806
 1559,adm1,Mexico,Quintana Roo,,,,19.6,-87.91667
-1560,adm1,Mexico,San Luis Potosi,,,,22.14972,-100.975
+1560,adm1,Mexico,San Luis Potosi,,,,22.149720000000002,-100.975
 1561,adm1,Mexico,Sinaloa,,,,25.82,-108.22
-1562,adm1,Mexico,Sonora,,,,29.64611,-110.86889
+1562,adm1,Mexico,Sonora,,,,29.646109999999997,-110.86889
 1563,adm1,Mexico,Tabasco,,,,17.97222,-92.58889
-1564,adm1,Mexico,Tamaulipas,,,,24.28722,-98.56333
+1564,adm1,Mexico,Tamaulipas,,,,24.28722,-98.56333000000001
 1565,adm1,Mexico,Tlaxcala,,,,19.42889,-98.16083
-1566,adm1,Mexico,Veracruz,,,,19.19028,-96.15333
+1566,adm1,Mexico,Veracruz,,,,19.190279999999998,-96.15333000000001
 1567,adm1,Mexico,Yucatan,,,,20.83333,-89.0
 1568,adm1,Mexico,Zacatecas,,,,22.77167,-102.57528
 1569,adm0,Moldova,,,,,47.4116,28.3699
@@ -1576,11 +1576,11 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1575,adm1,Morocco,Casablanca-Settat,,,,32.995835,-7.6206520000000015
 1576,adm1,Morocco,Dakhla-Oued Ed-Dahab,,,,23.71667,-15.95
 1577,adm1,Morocco,Drâa-Tafilalet,,,,33.899931,-5.543839
-1578,adm1,Morocco,Fès-Meknès,,,,32.7435827,-96.9103326
+1578,adm1,Morocco,Fès-Meknès,,,,32.7435827,-96.91033259999999
 1579,adm1,Morocco,Guelmim-Oued Noun,,,,28.98333,-10.06667
-1580,adm1,Morocco,Laâyoune-Sakia El Hamra,,,,26.13333,-14.5
+1580,adm1,Morocco,Laâyoune-Sakia El Hamra,,,,26.133329999999997,-14.5
 1581,adm1,Morocco,Marrakesh-Safi,,,,31.62947,-7.98108
-1582,adm1,Morocco,Oriental,,,,33.82023,-2.55981
+1582,adm1,Morocco,Oriental,,,,33.82023,-2.5598099999999997
 1583,adm1,Morocco,Rabat-Salé-Kénitra,,,,34.25,-6.58333
 1584,adm1,Morocco,Souss-Massa,,,,29.9607,-9.6588
 1585,adm1,Morocco,Tanger-Tetouan-Al Hoceima,,,,35.76667,-5.8
@@ -1593,7 +1593,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1592,adm1,Nepal,Karnali,,,,29.58333,82.16667
 1593,adm1,Nepal,Province 1,,,,51.258447,-0.83695
 1594,adm1,Nepal,Province 2,,,,51.258181,-0.8361040000000001
-1595,adm1,Nepal,Province 5,,,,52.119989,4.659369
+1595,adm1,Nepal,Province 5,,,,52.119989000000004,4.659369
 1596,adm1,Nepal,Sudurpashchim,,,,28.2530072798101,83.9385480132428
 1597,adm0,Netherlands,,,,,52.1326,5.2913
 1598,adm1,Netherlands,Aruba,,,,12.5211,-69.9683
@@ -1620,7 +1620,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1619,adm2,Netherlands,Netherlands,Amstelveen,,,52.3,4.83333
 1620,adm2,Netherlands,Netherlands,Amsterdam,,,52.38372675,4.901597
 1621,adm2,Netherlands,Netherlands,Apeldoorn,,,52.21,5.97
-1622,adm2,Netherlands,Netherlands,Appingedam,,,53.31667,6.86667
+1622,adm2,Netherlands,Netherlands,Appingedam,,,53.316669999999995,6.86667
 1623,adm2,Netherlands,Netherlands,Arnhem,,,52.00991550000001,5.9067935
 1624,adm2,Netherlands,Netherlands,Assen,,,53.0,6.55
 1625,adm2,Netherlands,Netherlands,Asten,,,51.4,5.75
@@ -1636,7 +1636,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1635,adm2,Netherlands,Netherlands,Beesel,,,52.498265,5.078999
 1636,adm2,Netherlands,Netherlands,Berg en Dal,,,51.8197,5.9197
 1637,adm2,Netherlands,Netherlands,Bergeijk,,,52.498265,5.078999
-1638,adm2,Netherlands,Netherlands,Bergen (L),,,51.59917,6.03361
+1638,adm2,Netherlands,Netherlands,Bergen (L),,,51.59917,6.0336099999999995
 1639,adm2,Netherlands,Netherlands,Bergen (NH),,,52.6703,4.7054
 1640,adm2,Netherlands,Netherlands,Bergen op Zoom,,,51.5,4.3
 1641,adm2,Netherlands,Netherlands,Berkelland,,,52.498265,5.078999
@@ -1662,9 +1662,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1661,adm2,Netherlands,Netherlands,Bunnik,,,52.0672,5.1969
 1662,adm2,Netherlands,Netherlands,Bunschoten,,,52.2481,5.3736
 1663,adm2,Netherlands,Netherlands,Buren,,,52.498265,5.078999
-1664,adm2,Netherlands,Netherlands,Capelle aan den IJssel,,,51.9137,4.546967
+1664,adm2,Netherlands,Netherlands,Capelle aan den IJssel,,,51.9137,4.5469669999999995
 1665,adm2,Netherlands,Netherlands,Castricum,,,52.5517,4.6583
-1666,adm2,Netherlands,Netherlands,Coevorden,,,52.66667,6.75
+1666,adm2,Netherlands,Netherlands,Coevorden,,,52.666669999999996,6.75
 1667,adm2,Netherlands,Netherlands,Cranendonck,,,52.498265,5.078999
 1668,adm2,Netherlands,Netherlands,Cuijk,,,51.72694,5.87944
 1669,adm2,Netherlands,Netherlands,Culemborg,,,51.95,5.21667
@@ -1675,8 +1675,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1674,adm2,Netherlands,Netherlands,De Ronde Venen,,,52.498265,5.078999
 1675,adm2,Netherlands,Netherlands,De Wolden,,,52.498265,5.078999
 1676,adm2,Netherlands,Netherlands,Delft,,,52.01194,4.35944
-1677,adm2,Netherlands,Netherlands,Delfzijl,,,53.33333,6.91667
-1678,adm2,Netherlands,Netherlands,Den Helder,,,52.95833,4.75889
+1677,adm2,Netherlands,Netherlands,Delfzijl,,,53.333330000000004,6.91667
+1678,adm2,Netherlands,Netherlands,Den Helder,,,52.958330000000004,4.75889
 1679,adm2,Netherlands,Netherlands,Deurne,,,51.4639,5.7947
 1680,adm2,Netherlands,Netherlands,Deventer,,,52.25,6.15
 1681,adm2,Netherlands,Netherlands,Diemen,,,52.3439,4.9625
@@ -1702,7 +1702,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1701,adm2,Netherlands,Netherlands,Enkhuizen,,,52.7,5.28333
 1702,adm2,Netherlands,Netherlands,Enschede,,,52.221582,6.891066
 1703,adm2,Netherlands,Netherlands,Epe,,,52.3464,5.9842
-1704,adm2,Netherlands,Netherlands,Ermelo,,,52.3,5.63306
+1704,adm2,Netherlands,Netherlands,Ermelo,,,52.3,5.6330599999999995
 1705,adm2,Netherlands,Netherlands,Etten-Leur,,,51.5706,4.6356
 1706,adm2,Netherlands,Netherlands,Geertruidenberg,,,52.498265,5.078999
 1707,adm2,Netherlands,Netherlands,Geldrop-Mierlo,,,51.430923,5.570398
@@ -1710,7 +1710,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1709,adm2,Netherlands,Netherlands,Gennep,,,52.498265,5.078999
 1710,adm2,Netherlands,Netherlands,Gilze en Rijen,,,51.5894,4.9189
 1711,adm2,Netherlands,Netherlands,Goeree-Overflakkee,,,51.752971,4.149753
-1712,adm2,Netherlands,Netherlands,Goes,,,51.5,3.88333
+1712,adm2,Netherlands,Netherlands,Goes,,,51.5,3.8833300000000004
 1713,adm2,Netherlands,Netherlands,Goirle,,,51.5203,5.0671
 1714,adm2,Netherlands,Netherlands,Gooise Meren,,,52.498265,5.078999
 1715,adm2,Netherlands,Netherlands,Gorinchem,,,51.83333,4.96667
@@ -1725,7 +1725,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1724,adm2,Netherlands,Netherlands,Haarlemmermeer,,,52.498265,5.078999
 1725,adm2,Netherlands,Netherlands,Halderberge,,,52.498265,5.078999
 1726,adm2,Netherlands,Netherlands,Hardenberg,,,52.5667,6.6
-1727,adm2,Netherlands,Netherlands,Harderwijk,,,52.35056,5.61722
+1727,adm2,Netherlands,Netherlands,Harderwijk,,,52.350559999999994,5.61722
 1728,adm2,Netherlands,Netherlands,Hardinxveld-Giessendam,,,51.838781,4.824567
 1729,adm2,Netherlands,Netherlands,Harlingen,,,53.1736,5.4272
 1730,adm2,Netherlands,Netherlands,Hattem,,,52.47444,6.0697199999999984
@@ -1746,7 +1746,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1745,adm2,Netherlands,Netherlands,Het Hogeland,,,52.009688,4.581798
 1746,adm2,Netherlands,Netherlands,Heumen,,,52.498265,5.078999
 1747,adm2,Netherlands,Netherlands,Heusden,,,52.498265,5.078999
-1748,adm2,Netherlands,Netherlands,Hillegom,,,52.28333,4.5666699999999985
+1748,adm2,Netherlands,Netherlands,Hillegom,,,52.28333,4.566669999999999
 1749,adm2,Netherlands,Netherlands,Hilvarenbeek,,,52.498265,5.078999
 1750,adm2,Netherlands,Netherlands,Hilversum,,,52.23,5.18
 1751,adm2,Netherlands,Netherlands,Hoeksche Waard,,,51.748942,4.414765
@@ -1757,15 +1757,15 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1756,adm2,Netherlands,Netherlands,Horst aan de Maas,,,50.9271465,5.7334999
 1757,adm2,Netherlands,Netherlands,Houten,,,52.0261,5.1728
 1758,adm2,Netherlands,Netherlands,Huizen,,,52.2994,5.2531
-1759,adm2,Netherlands,Netherlands,Hulst,,,51.4136205,5.4563465
+1759,adm2,Netherlands,Netherlands,Hulst,,,51.4136205,5.4563464999999995
 1760,adm2,Netherlands,Netherlands,IJsselstein,,,52.02,5.0422
-1761,adm2,Netherlands,Netherlands,Kaag en Braassem,,,52.214961,4.624867
+1761,adm2,Netherlands,Netherlands,Kaag en Braassem,,,52.214960999999995,4.624867
 1762,adm2,Netherlands,Netherlands,Kampen,,,52.555,5.91972
 1763,adm2,Netherlands,Netherlands,Kapelle,,,52.498265,5.078999
 1764,adm2,Netherlands,Netherlands,Katwijk,,,52.2008,4.4153
-1765,adm2,Netherlands,Netherlands,Kerkrade,,,50.86667,6.0666699999999985
+1765,adm2,Netherlands,Netherlands,Kerkrade,,,50.86667,6.066669999999999
 1766,adm2,Netherlands,Netherlands,Koggenland,,,52.498265,5.078999
-1767,adm2,Netherlands,Netherlands,Krimpen aan den IJssel,,,51.9137,4.546967
+1767,adm2,Netherlands,Netherlands,Krimpen aan den IJssel,,,51.9137,4.5469669999999995
 1768,adm2,Netherlands,Netherlands,Krimpenerwaard,,,52.498265,5.078999
 1769,adm2,Netherlands,Netherlands,Laarbeek,,,52.498265,5.078999
 1770,adm2,Netherlands,Netherlands,Landerd,,,52.498265,5.078999
@@ -1788,7 +1788,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1787,adm2,Netherlands,Netherlands,Loon op Zand,,,51.6275,5.0758
 1788,adm2,Netherlands,Netherlands,Lopik,,,51.97314,4.94599
 1789,adm2,Netherlands,Netherlands,Loppersum,,,52.498265,5.078999
-1790,adm2,Netherlands,Netherlands,Losser,,,52.26301,7.004
+1790,adm2,Netherlands,Netherlands,Losser,,,52.263009999999994,7.004
 1791,adm2,Netherlands,Netherlands,Maasdriel,,,52.498265,5.078999
 1792,adm2,Netherlands,Netherlands,Maasgouw,,,52.498265,5.078999
 1793,adm2,Netherlands,Netherlands,Maassluis,,,51.91667,4.25
@@ -1796,7 +1796,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1795,adm2,Netherlands,Netherlands,Medemblik,,,52.498265,5.078999
 1796,adm2,Netherlands,Netherlands,Meerssen,,,50.8858,5.7508
 1797,adm2,Netherlands,Netherlands,Meierijstad,,,52.498265,5.078999
-1798,adm2,Netherlands,Netherlands,Meppel,,,52.70333,6.1916699999999985
+1798,adm2,Netherlands,Netherlands,Meppel,,,52.70333,6.191669999999999
 1799,adm2,Netherlands,Netherlands,Middelburg,,,51.49972,3.61361
 1800,adm2,Netherlands,Netherlands,Middelburg (Z),,,51.49972,3.61361
 1801,adm2,Netherlands,Netherlands,Midden-Delfland,,,51.946757,4.370928
@@ -1836,7 +1836,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1835,adm2,Netherlands,Netherlands,Oostzaan,,,52.4406,4.8789
 1836,adm2,Netherlands,Netherlands,Opmeer,,,52.498265,5.078999
 1837,adm2,Netherlands,Netherlands,Opsterland,,,52.498265,5.078999
-1838,adm2,Netherlands,Netherlands,Oss,,,51.76667,5.51667
+1838,adm2,Netherlands,Netherlands,Oss,,,51.76667,5.5166699999999995
 1839,adm2,Netherlands,Netherlands,Other,,,52.498265,5.078999
 1840,adm2,Netherlands,Netherlands,Oude IJsselstreek,,,52.498265,5.078999
 1841,adm2,Netherlands,Netherlands,Ouder-Amstel,,,52.297435,4.904313
@@ -1853,11 +1853,11 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1852,adm2,Netherlands,Netherlands,Renkum,,,52.498265,5.078999
 1853,adm2,Netherlands,Netherlands,Renswoude,,,52.498265,5.078999
 1854,adm2,Netherlands,Netherlands,Reusel-De Mierden,,,51.3617,5.16306
-1855,adm2,Netherlands,Netherlands,Rheden,,,52.0,6.01667
+1855,adm2,Netherlands,Netherlands,Rheden,,,52.0,6.0166699999999995
 1856,adm2,Netherlands,Netherlands,Rhenen,,,51.9597,5.5689
 1857,adm2,Netherlands,Netherlands,Ridderkerk,,,51.86667,4.6
-1858,adm2,Netherlands,Netherlands,Rijssen-Holten,,,52.3,6.51667
-1859,adm2,Netherlands,Netherlands,Rijswijk,,,52.03333,4.3166699999999985
+1858,adm2,Netherlands,Netherlands,Rijssen-Holten,,,52.3,6.5166699999999995
+1859,adm2,Netherlands,Netherlands,Rijswijk,,,52.03333,4.316669999999999
 1860,adm2,Netherlands,Netherlands,Rijswijk (ZH),,,52.0344165,4.3171335
 1861,adm2,Netherlands,Netherlands,Roerdalen,,,52.498265,5.078999
 1862,adm2,Netherlands,Netherlands,Roermond,,,51.2,5.9833300000000005
@@ -1873,8 +1873,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1872,adm2,Netherlands,Netherlands,Simpelveld,,,52.498265,5.078999
 1873,adm2,Netherlands,Netherlands,Sint Anthonis,,,51.62583,5.88111
 1874,adm2,Netherlands,Netherlands,Sint-Michielsgestel,,,51.6433,5.3586
-1875,adm2,Netherlands,Netherlands,Sittard-Geleen,,,50.998783,5.868121
-1876,adm2,Netherlands,Netherlands,Sliedrecht,,,51.81667,4.76667
+1875,adm2,Netherlands,Netherlands,Sittard-Geleen,,,50.998783,5.8681209999999995
+1876,adm2,Netherlands,Netherlands,Sliedrecht,,,51.81667,4.7666699999999995
 1877,adm2,Netherlands,Netherlands,Sluis,,,52.498265,5.078999
 1878,adm2,Netherlands,Netherlands,Smallingerland,,,52.498265,5.078999
 1879,adm2,Netherlands,Netherlands,Soest,,,52.18333,5.28333
@@ -1888,7 +1888,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1887,adm2,Netherlands,Netherlands,Stein,,,52.498265,5.078999
 1888,adm2,Netherlands,Netherlands,Stein (L),,,52.498265,5.078999
 1889,adm2,Netherlands,Netherlands,Stichtse Vecht,,,52.144749,5.033146
-1890,adm2,Netherlands,Netherlands,Súdwest-Fryslân,,,53.032497,5.6591809999999985
+1890,adm2,Netherlands,Netherlands,Súdwest-Fryslân,,,53.032497,5.659180999999999
 1891,adm2,Netherlands,Netherlands,Terneuzen,,,51.33333,3.83333
 1892,adm2,Netherlands,Netherlands,Terschelling,,,52.498265,5.078999
 1893,adm2,Netherlands,Netherlands,Texel,,,52.498265,5.078999
@@ -1910,7 +1910,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1909,adm2,Netherlands,Netherlands,Vaals,,,52.498265,5.078999
 1910,adm2,Netherlands,Netherlands,Valkenburg aan de Geul,,,50.85,5.83333
 1911,adm2,Netherlands,Netherlands,Valkenswaard,,,51.35,5.4592
-1912,adm2,Netherlands,Netherlands,Veendam,,,53.10611,6.87194
+1912,adm2,Netherlands,Netherlands,Veendam,,,53.10611,6.8719399999999995
 1913,adm2,Netherlands,Netherlands,Veenendaal,,,52.01667,5.55
 1914,adm2,Netherlands,Netherlands,Veere,,,52.498265,5.078999
 1915,adm2,Netherlands,Netherlands,Veldhoven,,,51.4197,5.3992
@@ -1944,7 +1944,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1943,adm2,Netherlands,Netherlands,Weststellingwerf,,,52.498265,5.078999
 1944,adm2,Netherlands,Netherlands,Westvoorne,,,52.498265,5.078999
 1945,adm2,Netherlands,Netherlands,Wierden,,,52.35,6.5833
-1946,adm2,Netherlands,Netherlands,Wijchen,,,51.8067,5.72111
+1946,adm2,Netherlands,Netherlands,Wijchen,,,51.8067,5.7211099999999995
 1947,adm2,Netherlands,Netherlands,Wijdemeren,,,52.498265,5.078999
 1948,adm2,Netherlands,Netherlands,Wijk bij Duurstede,,,51.9761,5.3369
 1949,adm2,Netherlands,Netherlands,Winterswijk,,,51.96667,6.71667
@@ -1955,9 +1955,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 1954,adm2,Netherlands,Netherlands,Zaanstad,,,52.498265,5.078999
 1955,adm2,Netherlands,Netherlands,Zaltbommel,,,51.8167,5.25
 1956,adm2,Netherlands,Netherlands,Zandvoort,,,52.36667,4.53333
-1957,adm2,Netherlands,Netherlands,Zeewolde,,,52.33333,5.51667
+1957,adm2,Netherlands,Netherlands,Zeewolde,,,52.33333,5.5166699999999995
 1958,adm2,Netherlands,Netherlands,Zeist,,,52.08333,5.2333300000000005
-1959,adm2,Netherlands,Netherlands,Zevenaar,,,51.92944,6.07056
+1959,adm2,Netherlands,Netherlands,Zevenaar,,,51.92944,6.0705599999999995
 1960,adm2,Netherlands,Netherlands,Zoetermeer,,,52.06111,4.49333
 1961,adm2,Netherlands,Netherlands,Zoeterwoude,,,52.1136,4.5058
 1962,adm2,Netherlands,Netherlands,Zuidplas,,,52.498265,5.078999
@@ -2028,10 +2028,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2027,adm1,Pakistan,Balochistan,,,,30.12,67.01
 2028,adm1,Pakistan,Gilgit-Baltistan,,,,35.35,75.9
 2029,adm1,Pakistan,Islamabad,,,,33.719361,73.07414399999998
-2030,adm1,Pakistan,Khyber Pakhtunkhwa,,,,34.074122,72.438939
+2030,adm1,Pakistan,Khyber Pakhtunkhwa,,,,34.074121999999996,72.438939
 2031,adm1,Pakistan,Punjab,,,,31.33,74.21
 2032,adm1,Pakistan,Sindh,,,,24.87,67.05
-2033,adm0,Palestine,,,,,31.88333,35.2
+2033,adm0,Palestine,,,,,31.883329999999997,35.2
 2034,adm0,Panama,,,,,8.538,-80.7821
 2035,adm0,Papua New Guinea,,,,,-6.314993,143.95555
 2036,adm0,Paraguay,,,,,-23.4425,-58.4438
@@ -2049,7 +2049,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2048,adm1,Peru,Ica,,,,-14.2139,-75.9067
 2049,adm1,Peru,Junin,,,,-11.48,-74.98
 2050,adm1,Peru,La Libertad,,,,-8.0,-78.5
-2051,adm1,Peru,Lambayeque,,,,-6.7029999999999985,-79.9065
+2051,adm1,Peru,Lambayeque,,,,-6.702999999999999,-79.9065
 2052,adm1,Peru,Lima,,,,-12.0,-76.8333
 2053,adm1,Peru,Loreto,,,,-4.0,-74.32
 2054,adm1,Peru,Madre de Dios,,,,-11.99,-70.59
@@ -2064,18 +2064,18 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2063,adm0,Philippines,,,,,12.879721,121.774017
 2064,adm0,Poland,,,,,51.9194,19.1451
 2065,adm1,Poland,Greater Poland,,,,49.85,20.26667
-2066,adm1,Poland,Kuyavian-Pomeranian,,,,53.06667,18.48333
+2066,adm1,Poland,Kuyavian-Pomeranian,,,,53.066669999999995,18.48333
 2067,adm1,Poland,Lesser Poland,,,,49.85,20.26667
-2068,adm1,Poland,Lower Silesian,,,,50.244571,19.029054
-2069,adm1,Poland,Lublin,,,,51.23333,22.56667
+2068,adm1,Poland,Lower Silesian,,,,50.244571,19.029054000000002
+2069,adm1,Poland,Lublin,,,,51.23333,22.566670000000002
 2070,adm1,Poland,Lubusz,,,,52.18333,15.333329999999998
 2071,adm1,Poland,Masovian,,,,52.33333,21.1
 2072,adm1,Poland,Opole,,,,50.66667,17.933329999999994
 2073,adm1,Poland,Podkarpackie,,,,49.95,22.16667
-2074,adm1,Poland,Podlaskie,,,,53.26722,22.93194
+2074,adm1,Poland,Podlaskie,,,,53.267219999999995,22.93194
 2075,adm1,Poland,Pomeranian,,,,52.0,19.0
 2076,adm1,Poland,Silesian,,,,50.953679,15.915079
-2077,adm1,Poland,Warmian-Masurian,,,,53.85,20.81667
+2077,adm1,Poland,Warmian-Masurian,,,,53.85,20.816670000000002
 2078,adm1,Poland,West Pomeranian,,,,52.0,19.0
 2079,adm1,Poland,Łódź,,,,51.75949,19.45851
 2080,adm1,Poland,Świętokrzyskie,,,,50.75,20.76667
@@ -2091,7 +2091,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2090,adm0,Qatar,,,,,25.3548,51.1839
 2091,adm0,Romania,,,,,45.9432,24.9668
 2092,adm1,Romania,Alba,,,,46.1333,23.5333
-2093,adm1,Romania,Arad,,,,46.16667,21.31667
+2093,adm1,Romania,Arad,,,,46.16667,21.316670000000002
 2094,adm1,Romania,Argeș,,,,45.0,24.82
 2095,adm1,Romania,Bacău,,,,46.58333,26.91667
 2096,adm1,Romania,Bihor,,,,47.0722,21.9211
@@ -2100,7 +2100,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2099,adm1,Romania,Brașov,,,,45.65,25.6
 2100,adm1,Romania,Brăila,,,,45.26917,27.9575
 2101,adm1,Romania,București,,,,44.4,26.08333
-2102,adm1,Romania,Buzău,,,,45.15167,26.81667
+2102,adm1,Romania,Buzău,,,,45.15167,26.816670000000002
 2103,adm1,Romania,Caraș-Severin,,,,45.15,22.07
 2104,adm1,Romania,Cluj,,,,46.775,23.5917
 2105,adm1,Romania,Constanța,,,,44.17333,28.63833
@@ -2112,7 +2112,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2111,adm1,Romania,Giurgiu,,,,43.9,25.96667
 2112,adm1,Romania,Gorj,,,,45.04,23.3
 2113,adm1,Romania,Harghita,,,,46.36,25.8
-2114,adm1,Romania,Hunedoara,,,,45.76972,22.92028
+2114,adm1,Romania,Hunedoara,,,,45.76972,22.920279999999998
 2115,adm1,Romania,Ialomița,,,,44.64,27.3
 2116,adm1,Romania,Iași,,,,47.16222,27.58889000000001
 2117,adm1,Romania,Ilfov,,,,44.61,26.12
@@ -2127,10 +2127,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2126,adm1,Romania,Sibiu,,,,45.8,24.15
 2127,adm1,Romania,Suceava,,,,47.65139,26.25556
 2128,adm1,Romania,Sălaj,,,,47.2,23.05
-2129,adm1,Romania,Teleorman,,,,43.65694000000001,25.35694
+2129,adm1,Romania,Teleorman,,,,43.65694000000001,25.356939999999998
 2130,adm1,Romania,Timiș,,,,45.78,21.35
 2131,adm1,Romania,Tulcea,,,,45.19,28.8
-2132,adm1,Romania,Vaslui,,,,46.63833,27.72917
+2132,adm1,Romania,Vaslui,,,,46.638329999999996,27.72917
 2133,adm1,Romania,Vrancea,,,,45.79,26.97
 2134,adm1,Romania,Vâlcea,,,,45.08,24.11
 2135,adm0,Russia,,,,,61.52401,105.318756
@@ -2142,14 +2142,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2141,adm1,Russia,Belgorod Oblast,,,,50.76667,37.45
 2142,adm1,Russia,Briansk Oblast,,,,52.95,33.4
 2143,adm1,Russia,Chechen Republic,,,,43.4,45.7167
-2144,adm1,Russia,Cheliabinsk Oblast,,,,54.53333000000001,60.33333
+2144,adm1,Russia,Cheliabinsk Oblast,,,,54.53333000000001,60.333330000000004
 2145,adm1,Russia,Chukotskiy Autonomous Oblast,,,,65.907191,-170.955
 2146,adm1,Russia,Habarovskiy Kray,,,,60.13333000000001,64.78333
-2147,adm1,Russia,Hanty-Mansiyskiy AO,,,,48.210872,16.373761
+2147,adm1,Russia,Hanty-Mansiyskiy AO,,,,48.210871999999995,16.373761
 2148,adm1,Russia,Ingushetia Republic,,,,43.111373,131.880412
 2149,adm1,Russia,Irkutsk Oblast,,,,57.36666999999999,106.0
 2150,adm1,Russia,Ivanovo Oblast,,,,57.01667,41.51667
-2151,adm1,Russia,Jewish Autonomous Oblast,,,,48.47861,132.13917
+2151,adm1,Russia,Jewish Autonomous Oblast,,,,48.478609999999996,132.13917
 2152,adm1,Russia,Kaliningrad Oblast,,,,54.8,21.41667
 2153,adm1,Russia,Kaluga Oblast,,,,54.43333000000001,35.43333
 2154,adm1,Russia,Kamchatskiy Kray,,,,60.13333000000001,64.78333
@@ -2159,12 +2159,12 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2158,adm1,Russia,Kostroma Oblast,,,,58.55,43.68333
 2159,adm1,Russia,Krasnodarskiy Kray,,,,52.056924,83.732783
 2160,adm1,Russia,Krasnoyarskiy Kray,,,,54.88,55.88
-2161,adm1,Russia,Kurgan Oblast,,,,55.56667,64.75
+2161,adm1,Russia,Kurgan Oblast,,,,55.566669999999995,64.75
 2162,adm1,Russia,Kursk Oblast,,,,51.75,36.01667
 2163,adm1,Russia,Leningradskaya Oblast,,,,55.75,37.61667
 2164,adm1,Russia,Lipetsk Oblast,,,,52.7,39.15
 2165,adm1,Russia,Magadan Oblast,,,,62.9,153.7
-2166,adm1,Russia,Moscow,,,,55.75583,37.61778
+2166,adm1,Russia,Moscow,,,,55.75583,37.617779999999996
 2167,adm1,Russia,Moscow Oblast,,,,55.608498,38.923297
 2168,adm1,Russia,Murmansk Oblast,,,,68.03333,34.56667
 2169,adm1,Russia,Nenetskiy Autonomous Oblast,,,,55.75,37.61667
@@ -2177,18 +2177,18 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2176,adm1,Russia,Pensa Oblast,,,,53.25,44.56667
 2177,adm1,Russia,Perm Oblast,,,,58.01389,56.24889
 2178,adm1,Russia,Primorskiy Kray,,,,45.33333,134.66666999999998
-2179,adm1,Russia,Pskov Oblast,,,,57.31667,29.25
+2179,adm1,Russia,Pskov Oblast,,,,57.316669999999995,29.25
 2180,adm1,Russia,Republic of Adygeia,,,,44.65,40.0
 2181,adm1,Russia,Republic of Bashkortostan,,,,54.46666999999999,56.26667
-2182,adm1,Russia,Republic of Buriatia,,,,51.808471,107.5371735
-2183,adm1,Russia,Republic of Chuvashia,,,,55.45944,47.09611
+2182,adm1,Russia,Republic of Buriatia,,,,51.808471000000004,107.53717350000001
+2183,adm1,Russia,Republic of Chuvashia,,,,55.45944,47.096109999999996
 2184,adm1,Russia,Republic of Crimea,,,,59.936967,30.275003
 2185,adm1,Russia,Republic of Dagestan,,,,43.1,46.88333
 2186,adm1,Russia,Republic of Hakassia,,,,53.5,90.0
 2187,adm1,Russia,Republic of Kabardino-Balkaria,,,,43.58333,43.4
 2188,adm1,Russia,Republic of Kalmykia,,,,46.56667,45.31667
 2189,adm1,Russia,Republic of Karachaevo-Cherkessia,,,,59.936967,30.275003
-2190,adm1,Russia,Republic of Karelia,,,,63.81667,33.0
+2190,adm1,Russia,Republic of Karelia,,,,63.816669999999995,33.0
 2191,adm1,Russia,Republic of Mariy El,,,,56.7,47.86667
 2192,adm1,Russia,Republic of Mordovia,,,,54.43333000000001,44.45
 2193,adm1,Russia,Republic of North Osetia-Alania,,,,43.18333,44.23333
@@ -2198,7 +2198,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2197,adm1,Russia,Rostov Oblast,,,,47.86667,41.18333
 2198,adm1,Russia,Ryazan Oblast,,,,54.4,40.6
 2199,adm1,Russia,Saha Republic,,,,66.4,129.16666999999998
-2200,adm1,Russia,Saint Petersburg,,,,59.95,30.31667
+2200,adm1,Russia,Saint Petersburg,,,,59.95,30.316670000000002
 2201,adm1,Russia,Sakhalin Oblast,,,,50.55,142.6
 2202,adm1,Russia,Samara Oblast,,,,53.45,50.45
 2203,adm1,Russia,Saratov Oblast,,,,51.78333,46.73333
@@ -2208,15 +2208,15 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2207,adm1,Russia,Sverdlov Oblast,,,,56.6336125,36.615508
 2208,adm1,Russia,Tambov Oblast,,,,52.71666999999999,41.56667
 2209,adm1,Russia,Tomsk Oblast,,,,58.75,82.13333
-2210,adm1,Russia,Tula Oblast,,,,53.91667,37.58333
-2211,adm1,Russia,Tumen Oblast,,,,57.83333,69.0
+2210,adm1,Russia,Tula Oblast,,,,53.916669999999996,37.58333
+2211,adm1,Russia,Tumen Oblast,,,,57.833330000000004,69.0
 2212,adm1,Russia,Tver Oblast,,,,57.15,34.61667
 2213,adm1,Russia,Ulianovsk Oblast,,,,53.95,47.91667
-2214,adm1,Russia,Vladimir Oblast,,,,56.08333,40.61667
+2214,adm1,Russia,Vladimir Oblast,,,,56.083330000000004,40.61667
 2215,adm1,Russia,Volgograd Oblast,,,,49.73333,44.11667
-2216,adm1,Russia,Vologda Oblast,,,,60.08333,40.45
+2216,adm1,Russia,Vologda Oblast,,,,60.083330000000004,40.45
 2217,adm1,Russia,Voronezh Oblast,,,,51.05,40.15
-2218,adm1,Russia,Yamalo-Nenetskiy AO,,,,48.210872,16.373761
+2218,adm1,Russia,Yamalo-Nenetskiy AO,,,,48.210871999999995,16.373761
 2219,adm1,Russia,Yaroslavl Oblast,,,,57.86666999999999,39.2
 2220,adm1,Russia,Zabaykalskiy Kray,,,,54.0,118.0
 2221,adm0,Rwanda,,,,,-1.9403,29.8739
@@ -2241,13 +2241,13 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2240,adm0,Senegal,,,,,14.4974,-14.4524
 2241,adm1,Senegal,Dakar,,,,14.712019,-17.457171
 2242,adm1,Senegal,Diourbel,,,,14.75,-16.25
-2243,adm1,Senegal,Fatick,,,,14.36667,-16.133329999999994
-2244,adm1,Senegal,Kaffrine,,,,14.11667,-15.7
-2245,adm1,Senegal,Kaolack,,,,13.979095,-16.000691
+2243,adm1,Senegal,Fatick,,,,14.366670000000001,-16.133329999999994
+2244,adm1,Senegal,Kaffrine,,,,14.116670000000001,-15.7
+2245,adm1,Senegal,Kaolack,,,,13.979095000000001,-16.000691
 2246,adm1,Senegal,Kolda,,,,13.08333,-14.816670000000002
 2247,adm1,Senegal,Kédougou,,,,12.55,-12.18333
-2248,adm1,Senegal,Louga,,,,15.26667,-15.51667
-2249,adm1,Senegal,Matam,,,,15.1,-13.63333
+2248,adm1,Senegal,Louga,,,,15.266670000000001,-15.516670000000001
+2249,adm1,Senegal,Matam,,,,15.1,-13.633329999999999
 2250,adm1,Senegal,Saint-Louis,,,,16.21667,-14.8
 2251,adm1,Senegal,Sédhiou,,,,12.7,-15.55
 2252,adm1,Senegal,Tambacounda,,,,13.3,-12.81667
@@ -2262,7 +2262,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2261,adm1,Slovakia,Bratislava,,,,48.14472,17.112779999999994
 2262,adm1,Slovakia,Košice,,,,48.71667,21.25
 2263,adm1,Slovakia,Nitra,,,,48.31472,18.0875
-2264,adm1,Slovakia,Prešov,,,,49.00167,21.24
+2264,adm1,Slovakia,Prešov,,,,49.001670000000004,21.24
 2265,adm1,Slovakia,Trenčín,,,,48.891908,18.037083
 2266,adm1,Slovakia,Trnava,,,,48.36667,17.58333
 2267,adm1,Slovakia,Žilina,,,,48.70753086878271,19.4916510938648
@@ -2270,92 +2270,92 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2269,adm1,Slovenia,Carinthia,,,,46.0,15.0
 2270,adm2,Slovenia,Carinthia,Dravograd,,,46.5833,15.0333
 2271,adm2,Slovenia,Carinthia,Mežica,,,46.0,15.0
-2272,adm2,Slovenia,Carinthia,Mislinja,,,46.45574000000001,15.26756
+2272,adm2,Slovenia,Carinthia,Mislinja,,,46.45574000000001,15.267560000000001
 2273,adm2,Slovenia,Carinthia,Muta,,,46.6128,15.1587
 2274,adm2,Slovenia,Carinthia,Podvelka,,,46.58333,15.333329999999998
-2275,adm2,Slovenia,Carinthia,Prevalje,,,46.555311,14.881557
-2276,adm2,Slovenia,Carinthia,Radlje ob Dravi,,,46.61518,15.22641
-2277,adm2,Slovenia,Carinthia,Ravne na Koroškem,,,46.54374,14.96423
+2275,adm2,Slovenia,Carinthia,Prevalje,,,46.555310999999996,14.881557
+2276,adm2,Slovenia,Carinthia,Radlje ob Dravi,,,46.61518,15.226410000000001
+2277,adm2,Slovenia,Carinthia,Ravne na Koroškem,,,46.54374,14.964229999999999
 2278,adm2,Slovenia,Carinthia,Ribnica na Pohorju,,,46.53722,15.27333
 2279,adm2,Slovenia,Carinthia,Slovenj Gradec,,,46.51028,15.08056
 2280,adm2,Slovenia,Carinthia,Vuzenica,,,46.59666,15.168779999999998
 2281,adm2,Slovenia,Carinthia,Črna na Koroškem,,,46.26972,14.31528
-2282,adm1,Slovenia,Central Sava,,,,46.367203,14.108089
-2283,adm2,Slovenia,Central Sava,Hrastnik,,,46.367203,14.108089
-2284,adm2,Slovenia,Central Sava,Litija,,,46.05647,14.83031
+2282,adm1,Slovenia,Central Sava,,,,46.367203,14.108089000000001
+2283,adm2,Slovenia,Central Sava,Hrastnik,,,46.367203,14.108089000000001
+2284,adm2,Slovenia,Central Sava,Litija,,,46.056470000000004,14.83031
 2285,adm2,Slovenia,Central Sava,Trbovlje,,,46.15,15.05
 2286,adm2,Slovenia,Central Sava,Zagorje ob Savi,,,46.13417000000001,14.99417
 2287,adm1,Slovenia,Central Slovenia,,,,46.440359,14.026853
 2288,adm2,Slovenia,Central Slovenia,Borovnica,,,46.440359,14.026853
-2289,adm2,Slovenia,Central Slovenia,Brezovica,,,45.947868,14.418007
+2289,adm2,Slovenia,Central Slovenia,Brezovica,,,45.947868,14.418007000000001
 2290,adm2,Slovenia,Central Slovenia,Dobrepolje,,,46.440359,14.026853
 2291,adm2,Slovenia,Central Slovenia,Dobrova - Polhov Gradec,,,46.05,14.3
-2292,adm2,Slovenia,Central Slovenia,Dol pri Ljubljani,,,46.08844000000001,14.64248
+2292,adm2,Slovenia,Central Slovenia,Dol pri Ljubljani,,,46.08844000000001,14.642479999999999
 2293,adm2,Slovenia,Central Slovenia,Domžale,,,46.440359,14.026853
 2294,adm2,Slovenia,Central Slovenia,Grosuplje,,,45.95513,14.6562
 2295,adm2,Slovenia,Central Slovenia,Horjul,,,46.440359,14.026853
 2296,adm2,Slovenia,Central Slovenia,Ig,,,45.96919000000001,14.539370000000002
 2297,adm2,Slovenia,Central Slovenia,Ivančna Gorica,,,46.440359,14.026853
-2298,adm2,Slovenia,Central Slovenia,Kamnik,,,46.22583,14.61194
+2298,adm2,Slovenia,Central Slovenia,Kamnik,,,46.22583,14.611939999999999
 2299,adm2,Slovenia,Central Slovenia,Komenda,,,46.2048,14.5384
 2300,adm2,Slovenia,Central Slovenia,Ljubljana,,,46.071243,14.515369
 2301,adm2,Slovenia,Central Slovenia,Log - Dragomer,,,46.01139000000001,14.375
 2302,adm2,Slovenia,Central Slovenia,Logatec,,,45.9167,14.229729999999998
 2303,adm2,Slovenia,Central Slovenia,Lukovica,,,46.16833,14.68917
-2304,adm2,Slovenia,Central Slovenia,Medvode,,,46.13824,14.41471
+2304,adm2,Slovenia,Central Slovenia,Medvode,,,46.13824,14.414710000000001
 2305,adm2,Slovenia,Central Slovenia,Mengeš,,,46.440359,14.026853
 2306,adm2,Slovenia,Central Slovenia,Moravče,,,46.440359,14.026853
 2307,adm2,Slovenia,Central Slovenia,Trzin,,,46.13333,14.566670000000002
 2308,adm2,Slovenia,Central Slovenia,Velike Lašče,,,46.440359,14.026853
-2309,adm2,Slovenia,Central Slovenia,Vodice,,,46.18333,14.48333
+2309,adm2,Slovenia,Central Slovenia,Vodice,,,46.18333,14.483329999999999
 2310,adm2,Slovenia,Central Slovenia,Vrhnika,,,45.9661,14.2956
 2311,adm2,Slovenia,Central Slovenia,Škofljica,,,46.440359,14.026853
-2312,adm2,Slovenia,Central Slovenia,Šmartno pri Litiji,,,46.04408,14.84664
+2312,adm2,Slovenia,Central Slovenia,Šmartno pri Litiji,,,46.04408,14.846639999999999
 2313,adm1,Slovenia,Coastal-Karst,,,,46.0,15.0
-2314,adm2,Slovenia,Coastal-Karst,Ankaran,,,45.57931,13.73793
+2314,adm2,Slovenia,Coastal-Karst,Ankaran,,,45.57931,13.737929999999999
 2315,adm2,Slovenia,Coastal-Karst,Divača,,,45.6814,13.9678
-2316,adm2,Slovenia,Coastal-Karst,Hrpelje - Kozina,,,45.58333,13.98333
-2317,adm2,Slovenia,Coastal-Karst,Izola,,,45.53444,13.6675
+2316,adm2,Slovenia,Coastal-Karst,Hrpelje - Kozina,,,45.58333,13.983329999999999
+2317,adm2,Slovenia,Coastal-Karst,Izola,,,45.534440000000004,13.6675
 2318,adm2,Slovenia,Coastal-Karst,Komen,,,45.8168,13.7455
-2319,adm2,Slovenia,Coastal-Karst,Koper,,,45.54653,13.72944
-2320,adm2,Slovenia,Coastal-Karst,Piran,,,45.52611,13.57028
+2319,adm2,Slovenia,Coastal-Karst,Koper,,,45.54653,13.729439999999999
+2320,adm2,Slovenia,Coastal-Karst,Piran,,,45.526109999999996,13.570279999999999
 2321,adm2,Slovenia,Coastal-Karst,Sežana,,,46.0,15.0
 2322,adm1,Slovenia,Drava,,,,46.0,15.0
-2323,adm2,Slovenia,Drava,Benedikt,,,46.60528,15.89167
-2324,adm2,Slovenia,Drava,Cerkvenjak,,,46.56598,15.94287
-2325,adm2,Slovenia,Drava,Cirkulane,,,46.34359,15.99411
-2326,adm2,Slovenia,Drava,Destrnik,,,46.49226,15.8801
+2323,adm2,Slovenia,Drava,Benedikt,,,46.60528,15.891670000000001
+2324,adm2,Slovenia,Drava,Cerkvenjak,,,46.565979999999996,15.942870000000001
+2325,adm2,Slovenia,Drava,Cirkulane,,,46.34359,15.994110000000001
+2326,adm2,Slovenia,Drava,Destrnik,,,46.492259999999995,15.8801
 2327,adm2,Slovenia,Drava,Dornava,,,46.43333,15.95
-2328,adm2,Slovenia,Drava,Duplek,,,46.51667,15.76667
+2328,adm2,Slovenia,Drava,Duplek,,,46.51667,15.766670000000001
 2329,adm2,Slovenia,Drava,Gorišnica,,,46.41472,16.01389
 2330,adm2,Slovenia,Drava,Hajdina,,,46.41667,15.85
 2331,adm2,Slovenia,Drava,Hoče - Slivnica,,,46.48333,15.666670000000002
-2332,adm2,Slovenia,Drava,Juršinci,,,46.48528,15.97389
+2332,adm2,Slovenia,Drava,Juršinci,,,46.485279999999996,15.973889999999999
 2333,adm2,Slovenia,Drava,Kidričevo,,,46.40361,15.79111
-2334,adm2,Slovenia,Drava,Kungota,,,46.63889,15.61417
-2335,adm2,Slovenia,Drava,Lenart,,,46.575,15.83083
-2336,adm2,Slovenia,Drava,Lovrenc na Pohorju,,,46.5381,15.38436
+2334,adm2,Slovenia,Drava,Kungota,,,46.63889,15.614170000000001
+2335,adm2,Slovenia,Drava,Lenart,,,46.575,15.830829999999999
+2336,adm2,Slovenia,Drava,Lovrenc na Pohorju,,,46.5381,15.384360000000001
 2337,adm2,Slovenia,Drava,Majšperk,,,46.35167,15.73361
-2338,adm2,Slovenia,Drava,Makole,,,46.31667,15.67139
-2339,adm2,Slovenia,Drava,Maribor,,,46.55,15.63333
-2340,adm2,Slovenia,Drava,Markovci,,,46.39541,15.93133
-2341,adm2,Slovenia,Drava,Miklavž na Dravskem polju,,,46.50556,15.69917
-2342,adm2,Slovenia,Drava,Oplotnica,,,46.38722,15.44583
+2338,adm2,Slovenia,Drava,Makole,,,46.31667,15.671389999999999
+2339,adm2,Slovenia,Drava,Maribor,,,46.55,15.633329999999999
+2340,adm2,Slovenia,Drava,Markovci,,,46.39541,15.931329999999999
+2341,adm2,Slovenia,Drava,Miklavž na Dravskem polju,,,46.505559999999996,15.69917
+2342,adm2,Slovenia,Drava,Oplotnica,,,46.38722,15.445829999999999
 2343,adm2,Slovenia,Drava,Ormož,,,46.0,15.0
 2344,adm2,Slovenia,Drava,Pesnica,,,46.6258,15.7128
-2345,adm2,Slovenia,Drava,Podlehnik,,,46.33333,15.88333
+2345,adm2,Slovenia,Drava,Podlehnik,,,46.33333,15.883329999999999
 2346,adm2,Slovenia,Drava,Poljčane,,,46.31333,15.57889
 2347,adm2,Slovenia,Drava,Ptuj,,,46.42100000000001,15.878
-2348,adm2,Slovenia,Drava,Rače - Fram,,,46.45611,15.629170000000002
-2349,adm2,Slovenia,Drava,Ruše,,,46.53833,15.51528
+2348,adm2,Slovenia,Drava,Rače - Fram,,,46.456109999999995,15.629170000000002
+2349,adm2,Slovenia,Drava,Ruše,,,46.53833,15.515279999999999
 2350,adm2,Slovenia,Drava,Selnica ob Dravi,,,46.55,15.5
-2351,adm2,Slovenia,Drava,Slovenska Bistrica,,,46.38972,15.57028
+2351,adm2,Slovenia,Drava,Slovenska Bistrica,,,46.389720000000004,15.570279999999999
 2352,adm2,Slovenia,Drava,Središče ob Dravi,,,46.0,15.0
-2353,adm2,Slovenia,Drava,Starše,,,46.46662,15.76771
+2353,adm2,Slovenia,Drava,Starše,,,46.46662,15.767710000000001
 2354,adm2,Slovenia,Drava,Sveta Ana,,,46.64917,15.844170000000002
-2355,adm2,Slovenia,Drava,Sveta Trojica v Slovenskih goricah,,,46.56806,15.882220000000002
-2356,adm2,Slovenia,Drava,Sveti Andraž v Slovenskih goricah,,,46.575,15.83083
-2357,adm2,Slovenia,Drava,Sveti Jurij v Slovenskih goricah,,,46.60083,15.78417
+2355,adm2,Slovenia,Drava,Sveta Trojica v Slovenskih goricah,,,46.568059999999996,15.882220000000002
+2356,adm2,Slovenia,Drava,Sveti Andraž v Slovenskih goricah,,,46.575,15.830829999999999
+2357,adm2,Slovenia,Drava,Sveti Jurij v Slovenskih goricah,,,46.60083,15.784170000000001
 2358,adm2,Slovenia,Drava,Sveti Tomaž,,,46.164153000000006,14.306813
 2359,adm2,Slovenia,Drava,Trnovska vas,,,46.5231,15.8978
 2360,adm2,Slovenia,Drava,Videm,,,46.335131,15.944258
@@ -2367,30 +2367,30 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2366,adm2,Slovenia,Gorizia,Bovec,,,46.33333,13.55
 2367,adm2,Slovenia,Gorizia,Brda,,,45.99778,13.52861
 2368,adm2,Slovenia,Gorizia,Cerkno,,,46.12828,13.99153
-2369,adm2,Slovenia,Gorizia,Idrija,,,46.00132,14.02211
-2370,adm2,Slovenia,Gorizia,Kanal,,,46.08796,13.63471
-2371,adm2,Slovenia,Gorizia,Kobarid,,,46.24639000000001,13.57861
-2372,adm2,Slovenia,Gorizia,Miren - Kostanjevica,,,45.85,13.63333
+2369,adm2,Slovenia,Gorizia,Idrija,,,46.00132,14.022110000000001
+2370,adm2,Slovenia,Gorizia,Kanal,,,46.087959999999995,13.63471
+2371,adm2,Slovenia,Gorizia,Kobarid,,,46.24639000000001,13.578610000000001
+2372,adm2,Slovenia,Gorizia,Miren - Kostanjevica,,,45.85,13.633329999999999
 2373,adm2,Slovenia,Gorizia,Nova Gorica,,,45.96667,13.65
 2374,adm2,Slovenia,Gorizia,Renče - Vogrsko,,,45.89,13.6686
 2375,adm2,Slovenia,Gorizia,Tolmin,,,46.1857,13.7352
-2376,adm2,Slovenia,Gorizia,Vipava,,,45.84756,13.96236
+2376,adm2,Slovenia,Gorizia,Vipava,,,45.847559999999994,13.96236
 2377,adm2,Slovenia,Gorizia,Šempeter - Vrtojba,,,45.91667,13.65
 2378,adm1,Slovenia,Imported,,,,46.0,15.0
 2379,adm1,Slovenia,Littoral-Inner Carniola,,,,46.0,15.0
-2380,adm2,Slovenia,Littoral-Inner Carniola,Bloke,,,45.78333,14.48333
-2381,adm2,Slovenia,Littoral-Inner Carniola,Cerknica,,,45.8,14.36667
-2382,adm2,Slovenia,Littoral-Inner Carniola,Ilirska Bistrica,,,45.56667,14.23333
-2383,adm2,Slovenia,Littoral-Inner Carniola,Loška dolina,,,45.71222,14.42833
+2380,adm2,Slovenia,Littoral-Inner Carniola,Bloke,,,45.78333,14.483329999999999
+2381,adm2,Slovenia,Littoral-Inner Carniola,Cerknica,,,45.8,14.366670000000001
+2382,adm2,Slovenia,Littoral-Inner Carniola,Ilirska Bistrica,,,45.56667,14.233329999999999
+2383,adm2,Slovenia,Littoral-Inner Carniola,Loška dolina,,,45.71222,14.428329999999999
 2384,adm2,Slovenia,Littoral-Inner Carniola,Pivka,,,45.6833,14.2
 2385,adm2,Slovenia,Littoral-Inner Carniola,Postojna,,,45.78333,14.21667
-2386,adm1,Slovenia,Lower Sava,,,,46.367203,14.108089
-2387,adm2,Slovenia,Lower Sava,Bistrica ob Sotli,,,46.134523,15.563793
-2388,adm2,Slovenia,Lower Sava,Brežice,,,46.367203,14.108089
+2386,adm1,Slovenia,Lower Sava,,,,46.367203,14.108089000000001
+2387,adm2,Slovenia,Lower Sava,Bistrica ob Sotli,,,46.134523,15.563792999999999
+2388,adm2,Slovenia,Lower Sava,Brežice,,,46.367203,14.108089000000001
 2389,adm2,Slovenia,Lower Sava,Kostanjevica na Krki,,,45.84633,15.42487
-2390,adm2,Slovenia,Lower Sava,Krško,,,46.367203,14.108089
-2391,adm2,Slovenia,Lower Sava,Radeče,,,46.367203,14.108089
-2392,adm2,Slovenia,Lower Sava,Sevnica,,,46.00917000000001,15.30389
+2390,adm2,Slovenia,Lower Sava,Krško,,,46.367203,14.108089000000001
+2391,adm2,Slovenia,Lower Sava,Radeče,,,46.367203,14.108089000000001
+2392,adm2,Slovenia,Lower Sava,Sevnica,,,46.00917000000001,15.303889999999999
 2393,adm1,Slovenia,Mura,,,,46.658736,16.176356
 2394,adm2,Slovenia,Mura,Apače,,,46.658736,16.176356
 2395,adm2,Slovenia,Mura,Beltinci,,,46.60611,16.2375
@@ -2408,7 +2408,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2407,adm2,Slovenia,Mura,Moravske Toplice,,,46.69274,16.22815
 2408,adm2,Slovenia,Mura,Murska Sobota,,,46.658736,16.176356
 2409,adm2,Slovenia,Mura,Odranci,,,46.58333,16.28333
-2410,adm2,Slovenia,Mura,Puconci,,,46.70383,16.157239999999998
+2410,adm2,Slovenia,Mura,Puconci,,,46.703829999999996,16.157239999999998
 2411,adm2,Slovenia,Mura,Radenci,,,46.64278,16.045
 2412,adm2,Slovenia,Mura,Razkrižje,,,46.658736,16.176356
 2413,adm2,Slovenia,Mura,Rogašovci,,,46.658736,16.176356
@@ -2426,25 +2426,25 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2425,adm2,Slovenia,Savinja,Dobrna,,,46.33806,15.229170000000002
 2426,adm2,Slovenia,Savinja,Gornji Grad,,,46.29612,14.80517
 2427,adm2,Slovenia,Savinja,Kozje,,,46.09758,15.52387
-2428,adm2,Slovenia,Savinja,Laško,,,46.1563,15.23862
+2428,adm2,Slovenia,Savinja,Laško,,,46.1563,15.238620000000001
 2429,adm2,Slovenia,Savinja,Ljubno,,,46.3436,14.8338
 2430,adm2,Slovenia,Savinja,Luče,,,46.35611,14.746670000000002
 2431,adm2,Slovenia,Savinja,Mozirje,,,46.33778,14.95694
-2432,adm2,Slovenia,Savinja,Nazarje,,,46.282756,14.90936
+2432,adm2,Slovenia,Savinja,Nazarje,,,46.282756,14.909360000000001
 2433,adm2,Slovenia,Savinja,Podčetrtek,,,46.15722,15.597220000000002
 2434,adm2,Slovenia,Savinja,Polzela,,,46.30043,15.089615
 2435,adm2,Slovenia,Savinja,Prebold,,,46.23649,15.09179
 2436,adm2,Slovenia,Savinja,Rečica ob Savinji,,,46.31667,14.916670000000002
-2437,adm2,Slovenia,Savinja,Rogatec,,,46.22429,15.70516
+2437,adm2,Slovenia,Savinja,Rogatec,,,46.22429,15.705160000000001
 2438,adm2,Slovenia,Savinja,Rogaška Slatina,,,46.23151,15.638
-2439,adm2,Slovenia,Savinja,Slovenske Konjice,,,46.33833,15.42306
+2439,adm2,Slovenia,Savinja,Slovenske Konjice,,,46.33833,15.423060000000001
 2440,adm2,Slovenia,Savinja,Solčava,,,46.4196195,14.693079999999998
-2441,adm2,Slovenia,Savinja,Tabor,,,46.23611,15.01833
-2442,adm2,Slovenia,Savinja,Velenje,,,46.36667,15.11667
-2443,adm2,Slovenia,Savinja,Vitanje,,,46.38056,15.29694
+2441,adm2,Slovenia,Savinja,Tabor,,,46.23611,15.018329999999999
+2442,adm2,Slovenia,Savinja,Velenje,,,46.36667,15.116670000000001
+2443,adm2,Slovenia,Savinja,Vitanje,,,46.380559999999996,15.29694
 2444,adm2,Slovenia,Savinja,Vojnik,,,46.3,15.3
 2445,adm2,Slovenia,Savinja,Vransko,,,46.25107,14.94459
-2446,adm2,Slovenia,Savinja,Zreče,,,46.37542,15.38816
+2446,adm2,Slovenia,Savinja,Zreče,,,46.37542,15.388160000000001
 2447,adm2,Slovenia,Savinja,Šentjur,,,46.21722000000001,15.3975
 2448,adm2,Slovenia,Savinja,Šmarje pri Jelšah,,,46.0,15.0
 2449,adm2,Slovenia,Savinja,Šmartno ob Paki,,,46.32972,15.0325
@@ -2459,14 +2459,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2458,adm2,Slovenia,Southeast Slovenia,Metlika,,,46.440359,14.026853
 2459,adm2,Slovenia,Southeast Slovenia,Mirna,,,46.440359,14.026853
 2460,adm2,Slovenia,Southeast Slovenia,Mirna Peč,,,46.440359,14.026853
-2461,adm2,Slovenia,Southeast Slovenia,Mokronog - Trebelno,,,45.93333,15.13333
+2461,adm2,Slovenia,Southeast Slovenia,Mokronog - Trebelno,,,45.93333,15.133329999999999
 2462,adm2,Slovenia,Southeast Slovenia,Novo mesto,,,45.79806,15.16278
 2463,adm2,Slovenia,Southeast Slovenia,Osilnica,,,46.440359,14.026853
 2464,adm2,Slovenia,Southeast Slovenia,Ribnica,,,46.440359,14.026853
 2465,adm2,Slovenia,Southeast Slovenia,Semič,,,46.440359,14.026853
 2466,adm2,Slovenia,Southeast Slovenia,Sodražica,,,46.440359,14.026853
 2467,adm2,Slovenia,Southeast Slovenia,Straža,,,46.440359,14.026853
-2468,adm2,Slovenia,Southeast Slovenia,Trebnje,,,45.91038,15.008629999999998
+2468,adm2,Slovenia,Southeast Slovenia,Trebnje,,,45.910379999999996,15.008629999999998
 2469,adm2,Slovenia,Southeast Slovenia,Črnomelj,,,46.440359,14.026853
 2470,adm2,Slovenia,Southeast Slovenia,Šentjernej,,,46.440359,14.026853
 2471,adm2,Slovenia,Southeast Slovenia,Šentrupert,,,46.440359,14.026853
@@ -2474,8 +2474,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2473,adm2,Slovenia,Southeast Slovenia,Šmarješke Toplice,,,46.440359,14.026853
 2474,adm2,Slovenia,Southeast Slovenia,Žužemberk,,,46.440359,14.026853
 2475,adm1,Slovenia,Upper Carniola,,,,46.0,15.0
-2476,adm2,Slovenia,Upper Carniola,Bled,,,46.36667,14.11667
-2477,adm2,Slovenia,Upper Carniola,Bohinj,,,46.27111,13.95194
+2476,adm2,Slovenia,Upper Carniola,Bled,,,46.36667,14.116670000000001
+2477,adm2,Slovenia,Upper Carniola,Bohinj,,,46.27111,13.951939999999999
 2478,adm2,Slovenia,Upper Carniola,Cerklje na Gorenjskem,,,46.24861,14.48528
 2479,adm2,Slovenia,Upper Carniola,Gorenja vas - Poljane,,,46.111243,14.117979
 2480,adm2,Slovenia,Upper Carniola,Gorje,,,46.0,15.0
@@ -2502,9 +2502,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2501,adm1,South Africa,Mpumalanga,,,,-26.0,30.0
 2502,adm1,South Africa,North West,,,,-27.0,26.0
 2503,adm1,South Africa,Northern Cape,,,,-30.0,22.0
-2504,adm1,South Africa,Unknown,,,,-27.777511,30.833618
+2504,adm1,South Africa,Unknown,,,,-27.777510999999997,30.833617999999998
 2505,adm1,South Africa,Western Cape,,,,-34.0,20.0
-2506,adm0,South Korea,,,,,36.536236,128.16894399999998
+2506,adm0,South Korea,,,,,36.536235999999995,128.16894399999998
 2507,adm1,South Korea,Busan,,,,35.1,129.04028
 2508,adm1,South Korea,Chungcheongbuk-do,,,,36.75,127.75
 2509,adm1,South Korea,Chungcheongnam-do,,,,36.5,126.75
@@ -2519,23 +2519,23 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2518,adm1,South Korea,Jeju-do,,,,33.36667,126.53333
 2519,adm1,South Korea,Jeollabuk-do,,,,35.81667,127.15
 2520,adm1,South Korea,Jeollanam-do,,,,34.75,127.0
-2521,adm1,South Korea,Lazaretto,,,,36.536236,128.16894399999998
-2522,adm1,South Korea,Sejong,,,,36.499063,127.268315
+2521,adm1,South Korea,Lazaretto,,,,36.536235999999995,128.16894399999998
+2522,adm1,South Korea,Sejong,,,,36.499063,127.26831499999999
 2523,adm1,South Korea,Seoul,,,,37.58333,127.0
 2524,adm1,South Korea,Ulsan,,,,35.55,129.31667
 2525,adm0,South Sudan,,,,,6.877000000000002,31.307
 2526,adm0,Spain,,,,,40.463667,-3.74922
-2527,adm1,Spain,Andalucía,,,,41.395242,2.187077
+2527,adm1,Spain,Andalucía,,,,41.395241999999996,2.187077
 2528,adm1,Spain,Aragón,,,,42.435378,0.077574
 2529,adm1,Spain,Asturias,,,,43.33333,-6.0
 2530,adm1,Spain,Baleares,,,,39.353331,3.199859
 2531,adm1,Spain,C. Valenciana,,,,41.506924,-5.740988
 2532,adm1,Spain,Canarias,,,,37.328312,-3.590618
 2533,adm1,Spain,Cantabria,,,,43.33333,-4.0
-2534,adm1,Spain,Castilla y León,,,,40.273743,-3.92168
+2534,adm1,Spain,Castilla y León,,,,40.273742999999996,-3.9216800000000003
 2535,adm1,Spain,Castilla-La Mancha,,,,40.841525,-1.876364
 2536,adm1,Spain,Cataluña,,,,43.490263,-8.201848
-2537,adm1,Spain,Ceuta,,,,35.888861,-5.304096
+2537,adm1,Spain,Ceuta,,,,35.888861,-5.3040959999999995
 2538,adm1,Spain,Extremadura,,,,38.684731,-6.4070620000000025
 2539,adm1,Spain,Galicia,,,,40.192995,-3.684052
 2540,adm1,Spain,La Rioja,,,,42.25,-2.5
@@ -2547,7 +2547,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2546,adm0,Sri Lanka,,,,,7.873054,80.77179699999998
 2547,adm1,Sri Lanka,Ampara,,,,7.08333,81.75
 2548,adm1,Sri Lanka,Anuradhapura,,,,8.33333,80.5
-2549,adm1,Sri Lanka,Badulla,,,,6.9847199999999985,81.05639000000002
+2549,adm1,Sri Lanka,Badulla,,,,6.984719999999999,81.05639000000002
 2550,adm1,Sri Lanka,Batticoloa,,,,7.83333,81.33333
 2551,adm1,Sri Lanka,Colombo,,,,6.86667,80.01666999999998
 2552,adm1,Sri Lanka,Galle,,,,6.25361,80.29805999999998
@@ -2572,14 +2572,14 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2571,adm0,Sudan,,,,,12.8628,30.2176
 2572,adm0,Suriname,,,,,3.9193,-56.0278
 2573,adm0,Sweden,,,,,60.128161,18.643501
-2574,adm1,Sweden,Blekinge,,,,57.904319,14.961735
+2574,adm1,Sweden,Blekinge,,,,57.904318999999994,14.961735000000001
 2575,adm1,Sweden,Dalarna,,,,58.07357,11.8846
 2576,adm1,Sweden,Gotland,,,,57.62263000000001,18.294921
 2577,adm1,Sweden,Gävleborg,,,,60.78061999999999,16.65527
-2578,adm1,Sweden,Halland,,,,58.676672,11.885339
+2578,adm1,Sweden,Halland,,,,58.676671999999996,11.885339
 2579,adm1,Sweden,Jämtland,,,,64.023064,19.935955
 2580,adm1,Sweden,Jönköping,,,,57.78278,14.16056
-2581,adm1,Sweden,Kalmar,,,,56.66667,16.366670000000006
+2581,adm1,Sweden,Kalmar,,,,56.666669999999996,16.366670000000006
 2582,adm1,Sweden,Kronoberg,,,,57.546136,16.131885
 2583,adm1,Sweden,Norrbotten,,,,67.13583,18.50098
 2584,adm1,Sweden,Skåne,,,,55.6167,13.9833
@@ -2589,17 +2589,17 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2588,adm1,Sweden,Värmland,,,,65.096214,16.839522
 2589,adm1,Sweden,Västerbotten,,,,64.34467,18.31421
 2590,adm1,Sweden,Västernorrland,,,,62.73972,16.93
-2591,adm1,Sweden,Västmanland,,,,59.64554,16.42456
+2591,adm1,Sweden,Västmanland,,,,59.645540000000004,16.42456
 2592,adm1,Sweden,Västra Götaland,,,,58.21702,11.7334
 2593,adm1,Sweden,Örebro,,,,59.26667,15.21667
-2594,adm1,Sweden,Östergötland,,,,58.41056,15.61361
+2594,adm1,Sweden,Östergötland,,,,58.41056,15.613610000000001
 2595,adm0,Switzerland,,,,,46.8182,8.2275
 2596,adm1,Switzerland,Aargau,,,,47.38036500000001,8.213096
 2597,adm1,Switzerland,Appenzell Ausserrhoden,,,,47.357985,9.279323
 2598,adm1,Switzerland,Appenzell Innerrhoden,,,,47.3,9.4
-2599,adm1,Switzerland,Basel-Landschaft,,,,47.451881,7.823377000000002
+2599,adm1,Switzerland,Basel-Landschaft,,,,47.451881,7.8233770000000025
 2600,adm1,Switzerland,Basel-Stadt,,,,47.56667,7.6
-2601,adm1,Switzerland,Bern,,,,46.95083,7.4386100000000015
+2601,adm1,Switzerland,Bern,,,,46.950829999999996,7.4386100000000015
 2602,adm1,Switzerland,Fribourg,,,,46.8,7.15
 2603,adm1,Switzerland,Genève,,,,46.2,6.15
 2604,adm1,Switzerland,Glarus,,,,47.03333,9.06667
@@ -2611,7 +2611,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2610,adm1,Switzerland,Obwalden,,,,46.864697,8.200503999999999
 2611,adm1,Switzerland,Schaffhausen,,,,47.7,8.63306
 2612,adm1,Switzerland,Schwyz,,,,47.02028,8.65806
-2613,adm1,Switzerland,Solothurn,,,,47.20806,7.5375
+2613,adm1,Switzerland,Solothurn,,,,47.208059999999996,7.5375
 2614,adm1,Switzerland,St. Gallen,,,,47.42333,9.37722
 2615,adm1,Switzerland,Thurgau,,,,47.58333,9.06667
 2616,adm1,Switzerland,Ticino,,,,46.31667,8.81667
@@ -2619,24 +2619,24 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2618,adm1,Switzerland,Valais,,,,46.06667,7.6
 2619,adm1,Switzerland,Vaud,,,,46.61667,6.55
 2620,adm1,Switzerland,Zug,,,,47.16917,8.51639
-2621,adm1,Switzerland,Zürich,,,,47.37861,8.54
+2621,adm1,Switzerland,Zürich,,,,47.378609999999995,8.54
 2622,adm0,Syria,,,,,34.802075,38.99681500000001
 2623,adm0,Taiwan*,,,,,23.7,121.0
 2624,adm0,Tajikistan,,,,,38.861,71.2761
 2625,adm0,Tanzania,,,,,-6.369028,34.888822
 2626,adm0,Thailand,,,,,15.870032,100.992541
 2627,adm1,Thailand,Amnat Charoen,,,,15.90139,104.62278
-2628,adm1,Thailand,Bangkok,,,,13.75,100.51667
-2629,adm1,Thailand,Buriram,,,,14.99417,103.10222
-2630,adm1,Thailand,Chachoengsao,,,,13.6875,101.07028
-2631,adm1,Thailand,Chaiyaphum,,,,15.80778,102.03306
-2632,adm1,Thailand,Chanthaburi,,,,12.61028,102.10278
-2633,adm1,Thailand,Chiang Mai,,,,18.83722,98.97056
+2628,adm1,Thailand,Bangkok,,,,13.75,100.51666999999999
+2629,adm1,Thailand,Buriram,,,,14.99417,103.10221999999999
+2630,adm1,Thailand,Chachoengsao,,,,13.6875,101.07028000000001
+2631,adm1,Thailand,Chaiyaphum,,,,15.80778,102.03305999999999
+2632,adm1,Thailand,Chanthaburi,,,,12.61028,102.10278000000001
+2633,adm1,Thailand,Chiang Mai,,,,18.837220000000002,98.97055999999999
 2634,adm1,Thailand,Chiang Rai,,,,19.9,99.81667
 2635,adm1,Thailand,Chonburi,,,,13.287021,100.932547
 2636,adm1,Thailand,Chumphon,,,,10.49278,99.17917
 2637,adm1,Thailand,Kalasin,,,,16.4325,103.50694
-2638,adm1,Thailand,Kanchanaburi,,,,14.004170000000002,99.54917
+2638,adm1,Thailand,Kanchanaburi,,,,14.004170000000002,99.54916999999999
 2639,adm1,Thailand,Khon Kaen,,,,16.44472,102.83361
 2640,adm1,Thailand,Krabi,,,,8.057780000000001,98.91694
 2641,adm1,Thailand,Lampang,,,,18.69568,99.72565
@@ -2645,52 +2645,52 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2644,adm1,Thailand,Lopburi,,,,14.80056,100.65139
 2645,adm1,Thailand,Mae Hong Son,,,,19.28806,97.96444
 2646,adm1,Thailand,Maha Sarakham,,,,16.184720000000002,103.30056
-2647,adm1,Thailand,Mukdahan,,,,16.546110000000002,104.72611
+2647,adm1,Thailand,Mukdahan,,,,16.546110000000002,104.72610999999999
 2648,adm1,Thailand,Nakhon Nayok,,,,14.21222,101.20167
 2649,adm1,Thailand,Nakhon Pathom,,,,13.819720000000002,100.06583
 2650,adm1,Thailand,Nakhon Phanom,,,,17.40806,104.78222
 2651,adm1,Thailand,Nakhon Ratchasima,,,,14.972220000000002,102.1
-2652,adm1,Thailand,Nakhon Sawan,,,,15.69056,100.11389
+2652,adm1,Thailand,Nakhon Sawan,,,,15.690560000000001,100.11389
 2653,adm1,Thailand,Nakhon Si Thammarat,,,,8.418610000000001,99.96361
 2654,adm1,Thailand,Narathiwat,,,,6.42889,101.82389
 2655,adm1,Thailand,Nong Bua Lamphu,,,,17.16667,102.38333
 2656,adm1,Thailand,Nong Khai,,,,17.86806,102.74444
-2657,adm1,Thailand,Nonthaburi,,,,13.8625,100.51444
+2657,adm1,Thailand,Nonthaburi,,,,13.8625,100.51444000000001
 2658,adm1,Thailand,Pathum Thani,,,,14.020829999999998,100.52472
 2659,adm1,Thailand,Pattani,,,,6.8677800000000016,101.25
 2660,adm1,Thailand,Phang Nga,,,,8.4426,98.5194
-2661,adm1,Thailand,Phatthalung,,,,7.61556,100.07278
-2662,adm1,Thailand,Phayao,,,,19.19167,99.87944
+2661,adm1,Thailand,Phatthalung,,,,7.61556,100.07278000000001
+2662,adm1,Thailand,Phayao,,,,19.191670000000002,99.87944
 2663,adm1,Thailand,Phetchabun,,,,16.43477,101.15593
-2664,adm1,Thailand,Phetchaburi,,,,13.11056,99.94639
-2665,adm1,Thailand,Phitsanulok,,,,16.82639,100.26028
+2664,adm1,Thailand,Phetchaburi,,,,13.110560000000001,99.94639000000001
+2665,adm1,Thailand,Phitsanulok,,,,16.82639,100.26028000000001
 2666,adm1,Thailand,Phra Nakhon Si Ayutthaya,,,,14.35222,100.57667
 2667,adm1,Thailand,Phrae,,,,18.145,100.14056
 2668,adm1,Thailand,Phuket,,,,7.88806,98.3975
 2669,adm1,Thailand,Prachinburi,,,,14.04778,101.3725
 2670,adm1,Thailand,Prachuap Khiri Khan,,,,11.8,99.78333
-2671,adm1,Thailand,Ratchaburi,,,,13.52889,99.81444
-2672,adm1,Thailand,Rayong,,,,12.67556,101.27833
+2671,adm1,Thailand,Ratchaburi,,,,13.528889999999999,99.81444
+2672,adm1,Thailand,Rayong,,,,12.67556,101.27833000000001
 2673,adm1,Thailand,Roi Et,,,,16.05333,103.6525
 2674,adm1,Thailand,Sa Kaeo,,,,13.79694,102.13722
 2675,adm1,Thailand,Sakon Nakhon,,,,17.15417,104.13611
-2676,adm1,Thailand,Samut Prakan,,,,13.60056,100.59667
-2677,adm1,Thailand,Samut Sakhon,,,,13.54722,100.27361
-2678,adm1,Thailand,Samut Songkhram,,,,13.41278,100.00167
-2679,adm1,Thailand,Saraburi,,,,14.52833,100.90972
-2680,adm1,Thailand,Satun,,,,6.6238899999999985,100.06694
-2681,adm1,Thailand,Sisaket,,,,15.108909,104.3314855
+2676,adm1,Thailand,Samut Prakan,,,,13.60056,100.59666999999999
+2677,adm1,Thailand,Samut Sakhon,,,,13.547220000000001,100.27360999999999
+2678,adm1,Thailand,Samut Songkhram,,,,13.41278,100.00166999999999
+2679,adm1,Thailand,Saraburi,,,,14.528329999999999,100.90972
+2680,adm1,Thailand,Satun,,,,6.623889999999999,100.06694
+2681,adm1,Thailand,Sisaket,,,,15.108908999999999,104.3314855
 2682,adm1,Thailand,Songkhla,,,,7.20528,100.59694
 2683,adm1,Thailand,Sukhothai,,,,17.00583,99.82639
 2684,adm1,Thailand,Suphan Buri,,,,14.47444,100.11833
-2685,adm1,Thailand,Surat Thani,,,,9.13333,99.33167
+2685,adm1,Thailand,Surat Thani,,,,9.13333,99.33166999999999
 2686,adm1,Thailand,Surin,,,,14.88,103.49
 2687,adm1,Thailand,Tak,,,,16.88389,99.125
-2688,adm1,Thailand,Trang,,,,7.55806,99.61167
-2689,adm1,Thailand,Ubon Ratchathani,,,,15.22944,104.85111
+2688,adm1,Thailand,Trang,,,,7.55806,99.61166999999999
+2689,adm1,Thailand,Ubon Ratchathani,,,,15.229439999999999,104.85110999999999
 2690,adm1,Thailand,Udon Thani,,,,17.42941,102.98961
-2691,adm1,Thailand,Uthai Thani,,,,15.37333,100.03861
-2692,adm1,Thailand,Uttaradit,,,,17.629720000000006,100.09667
+2691,adm1,Thailand,Uthai Thani,,,,15.37333,100.03860999999999
+2692,adm1,Thailand,Uttaradit,,,,17.629720000000006,100.09666999999999
 2693,adm1,Thailand,Yala,,,,6.54,101.28111
 2694,adm1,Thailand,Yasothon,,,,15.802220000000002,104.13972
 2695,adm0,Timor-Leste,,,,,-8.874217,125.727539
@@ -2698,11 +2698,11 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2697,adm0,Trinidad and Tobago,,,,,10.6918,-61.2225
 2698,adm0,Tunisia,,,,,33.886917,9.537499
 2699,adm0,Turkey,,,,,38.9637,35.2433
-2700,adm1,Turkey,Aegean,,,,38.46531,27.21920200000001
+2700,adm1,Turkey,Aegean,,,,38.465309999999995,27.21920200000001
 2701,adm1,Turkey,Central Anatolia,,,,38.543433,34.481245
 2702,adm1,Turkey,Eastern Blacksea,,,,37.884845,32.437664
 2703,adm1,Turkey,Eastern Marmara,,,,40.5875,27.55528
-2704,adm1,Turkey,Istanbul,,,,41.01,28.96028
+2704,adm1,Turkey,Istanbul,,,,41.01,28.960279999999997
 2705,adm1,Turkey,Mediterranean,,,,39.0604813685019,35.179593380635296
 2706,adm1,Turkey,Mideastern Anatolia,,,,36.723984,34.49937
 2707,adm1,Turkey,Northeastern Anatolia,,,,37.16563,38.792664
@@ -2745,17 +2745,17 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2744,adm1,United Kingdom,British Virgin Islands,,,,18.4207,-64.64
 2745,adm1,United Kingdom,Cayman Islands,,,,19.3133,-81.2546
 2746,adm1,United Kingdom,Channel Islands,,,,49.3723,-2.3644
-2747,adm1,United Kingdom,Crown Dependencies,,,,51.488865,-0.477734
+2747,adm1,United Kingdom,Crown Dependencies,,,,51.488865000000004,-0.477734
 2748,adm2,United Kingdom,Crown Dependencies,Channel Islands,,,54.0,-2.0
 2749,adm2,United Kingdom,Crown Dependencies,Isle of Man,,,54.25,-4.5
-2750,adm1,United Kingdom,England,,,,51.5,-0.11667
+2750,adm1,United Kingdom,England,,,,51.5,-0.11667000000000001
 2751,adm2,United Kingdom,England,Barnsley,,,53.55361,-1.47889
 2752,adm2,United Kingdom,England,Bath and North East Somerset,,,51.3333,-2.5
 2753,adm2,United Kingdom,England,Bedford,,,52.13444000000001,-0.46306
 2754,adm2,United Kingdom,England,Birmingham,,,52.48333,-1.9
 2755,adm2,United Kingdom,England,Blackburn with Darwen,,,53.7313,-2.4839
-2756,adm2,United Kingdom,England,Blackpool,,,53.81667,-3.05
-2757,adm2,United Kingdom,England,Bolton,,,53.58333,-2.43333
+2756,adm2,United Kingdom,England,Blackpool,,,53.816669999999995,-3.05
+2757,adm2,United Kingdom,England,Bolton,,,53.583330000000004,-2.4333299999999998
 2758,adm2,United Kingdom,England,Bournemouth, Christchurch and Poole,,50.71667,-1.98333
 2759,adm2,United Kingdom,England,Bracknell Forest,,,51.4136,-0.7505
 2760,adm2,United Kingdom,England,Bradford,,,53.794,-1.751
@@ -2771,8 +2771,8 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2770,adm2,United Kingdom,England,Cornwall and Isles of Scilly,,,49.920153000000006,-6.292715
 2771,adm2,United Kingdom,England,Coventry,,,52.41667,-1.51667
 2772,adm2,United Kingdom,England,Cumbria,,,54.5833,-2.8333
-2773,adm2,United Kingdom,England,Darlington,,,54.52278,-1.55722
-2774,adm2,United Kingdom,England,Derby,,,52.91667,-1.46667
+2773,adm2,United Kingdom,England,Darlington,,,54.522780000000004,-1.55722
+2774,adm2,United Kingdom,England,Derby,,,52.916669999999996,-1.4666700000000001
 2775,adm2,United Kingdom,England,Derbyshire,,,53.1667,-1.5833
 2776,adm2,United Kingdom,England,Devon,,,50.75,-3.75
 2777,adm2,United Kingdom,England,Doncaster,,,53.51600000000001,-1.133
@@ -2785,41 +2785,41 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2784,adm2,United Kingdom,England,Gateshead,,,54.95,-1.6
 2785,adm2,United Kingdom,England,Gloucestershire,,,51.8333,-2.1667
 2786,adm2,United Kingdom,England,Greater London,,,51.5,-0.1667
-2787,adm3,United Kingdom,England,Greater London,Barking and Dagenham,,51.5208645,0.117865
+2787,adm3,United Kingdom,England,Greater London,Barking and Dagenham,,51.5208645,0.11786500000000001
 2788,adm3,United Kingdom,England,Greater London,Barnet,,51.658724,-0.190878
 2789,adm3,United Kingdom,England,Greater London,Bexley,,51.441,0.149
-2790,adm3,United Kingdom,England,Greater London,Brent,,51.585119,-0.21947
+2790,adm3,United Kingdom,England,Greater London,Brent,,51.585119,-0.21946999999999997
 2791,adm3,United Kingdom,England,Greater London,Bromley,,51.407,0.021
 2792,adm3,United Kingdom,England,Greater London,Camden,,51.5391955,-0.14210050000000002
 2793,adm3,United Kingdom,England,Greater London,Croydon,,51.3727,-0.1099
 2794,adm3,United Kingdom,England,Greater London,Ealing,,51.4913815,-0.214385
 2795,adm3,United Kingdom,England,Greater London,Enfield,,51.645,-0.06
 2796,adm3,United Kingdom,England,Greater London,Greenwich,,51.4821,-0.0045
-2797,adm3,United Kingdom,England,Greater London,Hackney and City of London,,51.5110275,-0.098687
-2798,adm3,United Kingdom,England,Greater London,Hammersmith and Fulham,,51.4949,-0.226033
+2797,adm3,United Kingdom,England,Greater London,Hackney and City of London,,51.511027500000004,-0.098687
+2798,adm3,United Kingdom,England,Greater London,Hammersmith and Fulham,,51.4949,-0.22603299999999998
 2799,adm3,United Kingdom,England,Greater London,Haringey,,51.568937,-0.129724
 2800,adm3,United Kingdom,England,Greater London,Harrow,,51.5836,-0.3464
 2801,adm3,United Kingdom,England,Greater London,Havering,,51.6156,0.1861
 2802,adm3,United Kingdom,England,Greater London,Hillingdon,,51.54,-0.45
 2803,adm3,United Kingdom,England,Greater London,Hounslow,,51.4668,-0.3507
-2804,adm3,United Kingdom,England,Greater London,Islington,,51.541155,-0.08518200000000001
+2804,adm3,United Kingdom,England,Greater London,Islington,,51.541154999999996,-0.08518200000000001
 2805,adm3,United Kingdom,England,Greater London,Kensington and Chelsea,,51.4819495,-0.1854355
 2806,adm3,United Kingdom,England,Greater London,Kingston upon Thames,,51.4103,-0.2995
 2807,adm3,United Kingdom,England,Greater London,Lambeth,,51.496689,-0.110581
 2808,adm3,United Kingdom,England,Greater London,Lewisham,,51.4624,-0.0101
 2809,adm3,United Kingdom,England,Greater London,Merton,,51.572133,-0.351121
 2810,adm3,United Kingdom,England,Greater London,Newham,,51.583267,-0.083726
-2811,adm3,United Kingdom,England,Greater London,Redbridge,,51.58281,0.048644
+2811,adm3,United Kingdom,England,Greater London,Redbridge,,51.582809999999995,0.048644
 2812,adm3,United Kingdom,England,Greater London,Richmond upon Thames,,51.456,-0.301
 2813,adm3,United Kingdom,England,Greater London,Southwark,,51.505676,-0.104648
 2814,adm3,United Kingdom,England,Greater London,Sutton,,51.3656,-0.1963
 2815,adm3,United Kingdom,England,Greater London,Tower Hamlets,,51.5087275,-0.0172025
-2816,adm3,United Kingdom,England,Greater London,Waltham Forest,,51.5911395,-0.010092
+2816,adm3,United Kingdom,England,Greater London,Waltham Forest,,51.591139500000004,-0.010092
 2817,adm3,United Kingdom,England,Greater London,Wandsworth,,51.430713,-0.17485
 2818,adm3,United Kingdom,England,Greater London,Westminster,,51.533509,-0.173062
 2819,adm2,United Kingdom,England,Halton,,,53.3312,-2.6932
 2820,adm2,United Kingdom,England,Hampshire,,,51.0833,-1.1667
-2821,adm2,United Kingdom,England,Hartlepool,,,54.68333000000001,-1.21667
+2821,adm2,United Kingdom,England,Hartlepool,,,54.68333000000001,-1.2166700000000001
 2822,adm2,United Kingdom,England,Herefordshire,,,52.0833,-2.75
 2823,adm2,United Kingdom,England,Hertfordshire,,,51.8333,-0.25
 2824,adm2,United Kingdom,England,Isle of Wight,,,50.6888,-1.2799
@@ -2832,7 +2832,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2831,adm2,United Kingdom,England,Leicester,,,52.63333000000001,-1.13333
 2832,adm2,United Kingdom,England,Leicestershire,,,52.6667,-1.0
 2833,adm2,United Kingdom,England,Lincolnshire,,,53.1667,-0.25
-2834,adm2,United Kingdom,England,Liverpool,,,53.41667,-3.0
+2834,adm2,United Kingdom,England,Liverpool,,,53.416669999999996,-3.0
 2835,adm2,United Kingdom,England,Luton,,,51.9,-0.43333
 2836,adm2,United Kingdom,England,Manchester,,,53.46666999999999,-2.23333
 2837,adm2,United Kingdom,England,Medway,,,51.3898,0.5271
@@ -2851,7 +2851,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2850,adm2,United Kingdom,England,Nottinghamshire,,,53.1667,-1.0
 2851,adm2,United Kingdom,England,Oldham,,,53.54472,-2.11833
 2852,adm2,United Kingdom,England,Oxfordshire,,,51.8333,-1.25
-2853,adm2,United Kingdom,England,Peterborough,,,52.58333,-0.25
+2853,adm2,United Kingdom,England,Peterborough,,,52.583330000000004,-0.25
 2854,adm2,United Kingdom,England,Plymouth,,,50.37139000000001,-4.14222
 2855,adm2,United Kingdom,England,Portsmouth,,,50.79528,-1.08889
 2856,adm2,United Kingdom,England,Reading,,,51.45417,-0.97306
@@ -2860,22 +2860,22 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2859,adm2,United Kingdom,England,Rotherham,,,53.43,-1.35722
 2860,adm2,United Kingdom,England,Rutland,,,52.6625,-0.6709
 2861,adm2,United Kingdom,England,Saint Helens,,,53.4535,-2.7273
-2862,adm2,United Kingdom,England,Salford,,,53.48278000000001,-2.29306
-2863,adm2,United Kingdom,England,Sandwell,,,52.51895500000001,-1.994349
+2862,adm2,United Kingdom,England,Salford,,,53.48278000000001,-2.2930599999999997
+2863,adm2,United Kingdom,England,Sandwell,,,52.51895500000001,-1.9943490000000001
 2864,adm2,United Kingdom,England,Sefton,,,53.5034,-2.9715
 2865,adm2,United Kingdom,England,Sheffield,,,53.3825,-1.47194
 2866,adm2,United Kingdom,England,Shropshire,,,52.6667,-2.75
 2867,adm2,United Kingdom,England,Slough,,,51.50972,-0.59306
-2868,adm2,United Kingdom,England,Solihull,,,52.38591,-1.775221
+2868,adm2,United Kingdom,England,Solihull,,,52.385909999999996,-1.775221
 2869,adm2,United Kingdom,England,Somerset,,,51.0833,-3.0
 2870,adm2,United Kingdom,England,South Gloucestershire,,,51.5358,-2.4201
-2871,adm2,United Kingdom,England,South Tyneside,,,54.972227,-1.363151
+2871,adm2,United Kingdom,England,South Tyneside,,,54.972227000000004,-1.363151
 2872,adm2,United Kingdom,England,Southampton,,,50.90694000000001,-1.40472
 2873,adm2,United Kingdom,England,Southend-on-Sea,,,51.54,0.71
 2874,adm2,United Kingdom,England,Staffordshire,,,52.8333,-2.0
-2875,adm2,United Kingdom,England,Stockport,,,53.40833000000001,-2.14944
+2875,adm2,United Kingdom,England,Stockport,,,53.40833000000001,-2.1494400000000002
 2876,adm2,United Kingdom,England,Stockton-on-Tees,,,54.55,-1.33333
-2877,adm2,United Kingdom,England,Stoke-on-Trent,,,53.0,-2.18333
+2877,adm2,United Kingdom,England,Stoke-on-Trent,,,53.0,-2.1833299999999998
 2878,adm2,United Kingdom,England,Suffolk,,,52.1667,1.0
 2879,adm2,United Kingdom,England,Sunderland,,,54.9,-1.38028
 2880,adm2,United Kingdom,England,Surrey,,,51.25,-0.3333
@@ -2884,7 +2884,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2883,adm2,United Kingdom,England,Telford and Wrekin,,,52.6759,-2.4702
 2884,adm2,United Kingdom,England,Thurrock,,,51.4893,0.3195
 2885,adm2,United Kingdom,England,Torbay,,,50.4369,-3.5453
-2886,adm2,United Kingdom,England,Trafford,,,53.437051,-2.3680060000000003
+2886,adm2,United Kingdom,England,Trafford,,,53.437051000000004,-2.3680060000000003
 2887,adm2,United Kingdom,England,Wakefield,,,53.6801,-1.492
 2888,adm2,United Kingdom,England,Walsall,,,52.58,-1.98
 2889,adm2,United Kingdom,England,Warrington,,,53.38889,-2.59611
@@ -2908,7 +2908,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2907,adm2,United Kingdom,Northern Ireland,Ards and North Down,,,54.6575,-5.7271
 2908,adm2,United Kingdom,Northern Ireland,Armagh City, Banbridge and Craigavon,,54.37913199999999,-6.330419
 2909,adm2,United Kingdom,Northern Ireland,Armagh, Banbridge and Craigavon,,54.4507,-6.3922
-2910,adm2,United Kingdom,Northern Ireland,Belfast,,,54.59667,-5.9383300000000006
+2910,adm2,United Kingdom,Northern Ireland,Belfast,,,54.596669999999996,-5.9383300000000006
 2911,adm2,United Kingdom,Northern Ireland,Causeway Coast and Glens,,,55.240603,-6.5115415
 2912,adm2,United Kingdom,Northern Ireland,Derry City and Strabane,,,54.99166999999999,-7.34167
 2913,adm2,United Kingdom,Northern Ireland,Derry and Strabane,,,54.99166999999999,-7.34167
@@ -2933,24 +2933,24 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2932,adm2,United Kingdom,Scotland,Dumfries and Galloway,,,55.0833,-3.8333
 2933,adm2,United Kingdom,Scotland,Fife,,,56.3333,-3.0
 2934,adm2,United Kingdom,Scotland,Forth Valley,,,55.7671,-3.688
-2935,adm2,United Kingdom,Scotland,Grampian,,,55.779326,-3.936538
+2935,adm2,United Kingdom,Scotland,Grampian,,,55.779326,-3.9365379999999996
 2936,adm2,United Kingdom,Scotland,Greater Glasgow and Clyde,,,55.8567,-4.2436
 2937,adm2,United Kingdom,Scotland,Highland,,,57.5066,-5.0038
-2938,adm2,United Kingdom,Scotland,Lanarkshire,,,55.726483,-3.840957
+2938,adm2,United Kingdom,Scotland,Lanarkshire,,,55.726482999999995,-3.840957
 2939,adm2,United Kingdom,Scotland,Lothian,,,56.059266,-3.235702
 2940,adm2,United Kingdom,Scotland,Orkney,,,59.01,-3.12
 2941,adm2,United Kingdom,Scotland,Shetland,,,60.3038,-1.2689
 2942,adm2,United Kingdom,Scotland,Tayside,,,55.87391700000001,-3.989287000000002
-2943,adm2,United Kingdom,Scotland,Western Isles,,,56.62362,-6.0645050000000005
+2943,adm2,United Kingdom,Scotland,Western Isles,,,56.623619999999995,-6.0645050000000005
 2944,adm1,United Kingdom,Turks and Caicos Islands,,,,21.69400000000001,-71.7979
 2945,adm1,United Kingdom,Wales,,,,52.3496,-3.63785
 2946,adm2,United Kingdom,Wales,Aneurin Bevan,,,51.481533,-3.179002
-2947,adm2,United Kingdom,Wales,Betsi Cadwaladr,,,53.304582,-3.5162190000000004
+2947,adm2,United Kingdom,Wales,Betsi Cadwaladr,,,53.304581999999996,-3.5162190000000004
 2948,adm2,United Kingdom,Wales,Cardiff and Vale,,,51.48,-3.18
 2949,adm2,United Kingdom,Wales,Cwm Taf,,,53.2853,-3.4067
 2950,adm2,United Kingdom,Wales,Hywel Dda,,,51.671174,-4.917489
 2951,adm2,United Kingdom,Wales,Powys,,,52.3333,-3.4167
-2952,adm2,United Kingdom,Wales,Swansea Bay,,,51.612281,-3.958318
+2952,adm2,United Kingdom,Wales,Swansea Bay,,,51.612281,-3.9583180000000002
 2953,adm0,United States of America,,,,,40.0,-100.0
 2954,adm1,United States of America,Alabama,,,,32.7,-86.7
 2955,adm2,United States of America,Alabama,Autauga,,,32.53952745,-86.64408227
@@ -3005,7 +3005,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 3004,adm2,United States of America,Alabama,Monroe,,,31.56729412,-87.36995001
 3005,adm2,United States of America,Alabama,Montgomery,,,32.2206831,-86.20969272
 3006,adm2,United States of America,Alabama,Morgan,,,34.45500589,-86.85475946
-3007,adm2,United States of America,Alabama,Out of AL,,,31.436490999999997,-87.326678
+3007,adm2,United States of America,Alabama,Out of AL,,,31.436491,-87.326678
 3008,adm2,United States of America,Alabama,Perry,,,32.64048341,-87.29770589
 3009,adm2,United States of America,Alabama,Pickens,,,33.28094866,-88.08818103
 3010,adm2,United States of America,Alabama,Pike,,,31.80396383,-85.9408295
@@ -3060,7 +3060,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 3059,adm2,United States of America,Alaska,Yakutat plus Hoonah-Angoon,,,58.1097,-135.4435
 3060,adm2,United States of America,Alaska,Yukon-Koyukuk,,,65.50815459,-151.3907387
 3061,adm1,United States of America,American Samoa,,,,40.8187,-124.1865
-3062,adm1,United States of America,Arizona,,,,34.28667,-111.65694
+3062,adm1,United States of America,Arizona,,,,34.28667,-111.65693999999999
 3063,adm2,United States of America,Arizona,Apache,,,35.39465006,-109.4892383
 3064,adm2,United States of America,Arizona,Cochise,,,31.87934684,-109.7516088
 3065,adm2,United States of America,Arizona,Coconino,,,35.83883429,-111.7707178
@@ -3071,7 +3071,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 3070,adm2,United States of America,Arizona,Maricopa,,,33.34835867,-112.4918154
 3071,adm2,United States of America,Arizona,Mohave,,,35.70471703,-113.7577902
 3072,adm2,United States of America,Arizona,Navajo,,,35.3997715,-110.3218983
-3073,adm2,United States of America,Arizona,Out of AZ,,,34.28667,-111.65694
+3073,adm2,United States of America,Arizona,Out of AZ,,,34.28667,-111.65693999999999
 3074,adm2,United States of America,Arizona,Pima,,,32.0971334,-111.7890033
 3075,adm2,United States of America,Arizona,Pinal,,,32.90525627,-111.3449483
 3076,adm2,United States of America,Arizona,Santa Cruz,,,31.52508998,-110.8479088
@@ -3267,7 +3267,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 3266,adm2,United States of America,Colorado,Morgan,,,40.26279810000001,-103.8093302
 3267,adm2,United States of America,Colorado,Otero,,,37.9014485,-103.7173385
 3268,adm2,United States of America,Colorado,Ouray,,,38.14717457,-107.7675136
-3269,adm2,United States of America,Colorado,Out of CO,,,38.204292,-87.000279
+3269,adm2,United States of America,Colorado,Out of CO,,,38.204291999999995,-87.000279
 3270,adm2,United States of America,Colorado,Out of state,,,39.0,-105.5
 3271,adm2,United States of America,Colorado,Park,,,39.120926,-105.7182065
 3272,adm2,United States of America,Colorado,Phillips,,,40.59414277,-102.3577703
@@ -3309,7 +3309,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 3308,adm2,United States of America,District of Columbia,District of Columbia,,,38.90417773,-77.01655992
 3309,adm2,United States of America,District of Columbia,Out of DC,,,38.895,-77.03667
 3310,adm2,United States of America,District of Columbia,Unassigned,,,38.895,-77.03667
-3311,adm1,United States of America,Florida,,,,28.13333,-81.63167
+3311,adm1,United States of America,Florida,,,,28.133329999999997,-81.63167
 3312,adm2,United States of America,Florida,Alachua,,,29.67866525,-82.35928158
 3313,adm2,United States of America,Florida,Baker,,,30.33060121,-82.28467476
 3314,adm2,United States of America,Florida,Bay,,,30.26548745,-85.62122584
@@ -3359,7 +3359,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 3358,adm2,United States of America,Florida,Okeechobee,,,27.386336199999995,-80.88944347
 3359,adm2,United States of America,Florida,Orange,,,28.51367621,-81.31799498
 3360,adm2,United States of America,Florida,Osceola,,,28.06312234,-81.14882926
-3361,adm2,United States of America,Florida,Out of FL,,,28.13333,-81.63167
+3361,adm2,United States of America,Florida,Out of FL,,,28.133329999999997,-81.63167
 3362,adm2,United States of America,Florida,Palm Beach,,,26.64676272,-80.46536002
 3363,adm2,United States of America,Florida,Pasco,,,28.30810945,-82.40227529
 3364,adm2,United States of America,Florida,Pinellas,,,27.93130349,-82.72239666
@@ -4224,7 +4224,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4223,adm2,United States of America,Maine,Kennebec,,,44.40759555,-69.76738544
 4224,adm2,United States of America,Maine,Knox,,,44.11486325,-69.10529169
 4225,adm2,United States of America,Maine,Lincoln,,,44.05996956,-69.54227124
-4226,adm2,United States of America,Maine,Out of ME,,,45.8807558,-89.17580140000004
+4226,adm2,United States of America,Maine,Out of ME,,,45.880755799999996,-89.17580140000004
 4227,adm2,United States of America,Maine,Oxford,,,44.49952995,-70.75682123
 4228,adm2,United States of America,Maine,Penobscot,,,45.40194593,-68.65020455
 4229,adm2,United States of America,Maine,Piscataquis,,,45.83839062,-69.2860223
@@ -4253,9 +4253,9 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4252,adm2,United States of America,Maryland,Montgomery,,,39.13676329,-77.20358245
 4253,adm2,United States of America,Maryland,Out of MD,,,38.63208,-77.011763
 4254,adm2,United States of America,Maryland,Prince Georges,,,38.8884135,-76.8249735
-4255,adm2,United States of America,Maryland,Queen Annes,,,38.814795,-76.23387199999998
+4255,adm2,United States of America,Maryland,Queen Annes,,,38.814795000000004,-76.23387199999998
 4256,adm2,United States of America,Maryland,Somerset,,,38.1163542,-75.75118623
-4257,adm2,United States of America,Maryland,St Marys,,,38.187521,-76.428901
+4257,adm2,United States of America,Maryland,St Marys,,,38.187521000000004,-76.428901
 4258,adm2,United States of America,Maryland,Talbot,,,38.76618159,-76.10882561
 4259,adm2,United States of America,Maryland,Unassigned,,,,
 4260,adm2,United States of America,Maryland,Washington,,,39.60835778,-77.82002295
@@ -4647,10 +4647,10 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4646,adm2,United States of America,Missouri,Shannon,,,37.15772072,-91.40190382
 4647,adm2,United States of America,Missouri,Shelby,,,39.79742518,-92.07634971
 4648,adm2,United States of America,Missouri,St Charles,,,38.7821,-90.533169
-4649,adm2,United States of America,Missouri,St Clair,,,38.3453,-90.981
-4650,adm2,United States of America,Missouri,St Francois,,,39.100119,-94.373282
+4649,adm2,United States of America,Missouri,St Clair,,,38.3453,-90.98100000000001
+4650,adm2,United States of America,Missouri,St Francois,,,39.100119,-94.37328199999999
 4651,adm2,United States of America,Missouri,St Louis,,,38.63,-90.19
-4652,adm2,United States of America,Missouri,St Louis City,,,38.626867,-90.199305
+4652,adm2,United States of America,Missouri,St Louis City,,,38.626867,-90.19930500000001
 4653,adm2,United States of America,Missouri,St. Charles,,,38.77875681,-90.66662425
 4654,adm2,United States of America,Missouri,St. Clair,,,38.03699437,-93.77631447
 4655,adm2,United States of America,Missouri,St. Francois,,,37.81214171,-90.47598685
@@ -4708,7 +4708,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4707,adm2,United States of America,Montana,Musselshell,,,46.49684637,-108.39498
 4708,adm2,United States of America,Montana,Out of MT,,,47.0,-110.0
 4709,adm2,United States of America,Montana,Park,,,45.48965095,-110.52643940000002
-4710,adm2,United States of America,Montana,Petroleum,,,47.1202972,-104.6823116
+4710,adm2,United States of America,Montana,Petroleum,,,47.1202972,-104.68231159999999
 4711,adm2,United States of America,Montana,Phillips,,,48.25936577,-107.9128511
 4712,adm2,United States of America,Montana,Pondera,,,48.22773388,-112.2252703
 4713,adm2,United States of America,Montana,Powder River,,,45.39617714,-105.636738
@@ -4774,7 +4774,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 4773,adm2,United States of America,Nebraska,Hall,,,40.87257079,-98.50218293
 4774,adm2,United States of America,Nebraska,Hamilton,,,40.87349452,-98.02099117
 4775,adm2,United States of America,Nebraska,Harlan,,,40.17658508,-99.40438879
-4776,adm2,United States of America,Nebraska,Hayes,,,40.8184745,-96.724196
+4776,adm2,United States of America,Nebraska,Hayes,,,40.8184745,-96.72419599999999
 4777,adm2,United States of America,Nebraska,Hitchcock,,,40.17609175,-101.0416477
 4778,adm2,United States of America,Nebraska,Holt,,,42.45522056,-98.78402558
 4779,adm2,United States of America,Nebraska,Hooker,,,41.91586243,-101.1354293
@@ -5127,7 +5127,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 5126,adm2,United States of America,North Dakota,Mountrail,,,48.20197971,-102.3555315
 5127,adm2,United States of America,North Dakota,Nelson,,,47.9226426,-98.19038437
 5128,adm2,United States of America,North Dakota,Oliver,,,47.11530482,-101.3406158
-5129,adm2,United States of America,North Dakota,Out of ND,,,45.8807558,-89.17580140000004
+5129,adm2,United States of America,North Dakota,Out of ND,,,45.880755799999996,-89.17580140000004
 5130,adm2,United States of America,North Dakota,Pembina,,,48.76623521,-97.5523809
 5131,adm2,United States of America,North Dakota,Pierce,,,48.24977025,-99.96407787
 5132,adm2,United States of America,North Dakota,Ramsey,,,48.26886249,-98.72223879
@@ -5314,7 +5314,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 5313,adm2,United States of America,Oklahoma,Pottawatomie,,,35.20614018,-96.94923008
 5314,adm2,United States of America,Oklahoma,Pushmataha,,,34.41635232,-95.37603505
 5315,adm2,United States of America,Oklahoma,Roger Mills,,,35.68711719,-99.69666167
-5316,adm2,United States of America,Oklahoma,Roger mills,,,35.477673,-98.3596925
+5316,adm2,United States of America,Oklahoma,Roger mills,,,35.477672999999996,-98.35969250000001
 5317,adm2,United States of America,Oklahoma,Rogers,,,36.37004357,-95.60406759
 5318,adm2,United States of America,Oklahoma,Seminole,,,35.16478725,-96.61686741
 5319,adm2,United States of America,Oklahoma,Sequoyah,,,35.49447108,-94.75463785
@@ -5328,7 +5328,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 5327,adm2,United States of America,Oklahoma,Washita,,,35.29071824,-98.99180434
 5328,adm2,United States of America,Oklahoma,Woods,,,36.76705782,-98.86573064
 5329,adm2,United States of America,Oklahoma,Woodward,,,36.42316318,-99.26283045
-5330,adm1,United States of America,Oregon,,,,43.93583,-120.575
+5330,adm1,United States of America,Oregon,,,,43.935829999999996,-120.575
 5331,adm2,United States of America,Oregon,Baker,,,44.70915557,-117.6749883
 5332,adm2,United States of America,Oregon,Benton,,,44.49167306,-123.4316987
 5333,adm2,United States of America,Oregon,Clackamas,,,45.18787398,-122.2179634
@@ -5877,7 +5877,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 5876,adm2,United States of America,Texas,Kent,,,33.18104136,-100.7780939
 5877,adm2,United States of America,Texas,Kerr,,,30.06040006,-99.34930144
 5878,adm2,United States of America,Texas,Kimble,,,30.48678918,-99.74856473
-5879,adm2,United States of America,Texas,King,,,32.7433155,-96.8260055
+5879,adm2,United States of America,Texas,King,,,32.7433155,-96.82600550000001
 5880,adm2,United States of America,Texas,Kinney,,,29.34967888,-100.4186638
 5881,adm2,United States of America,Texas,Kleberg,,,27.42435506,-97.69894948
 5882,adm2,United States of America,Texas,Knox,,,33.60519951,-99.7422906
@@ -6002,7 +6002,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6001,adm1,United States of America,Utah,,,,39.5,-111.5
 6002,adm2,United States of America,Utah,Bear River,,,41.52106798,-113.0832816
 6003,adm2,United States of America,Utah,Beaver,,,38.35657051,-113.2342232
-6004,adm2,United States of America,Utah,Box Elder,,,41.52106798,-113.0832816
+6004,adm2,United States of America,Utah,Box Elder,,,41.52106798,-113.08328159999999
 6005,adm2,United States of America,Utah,Cache,,,41.72330587,-111.7443667
 6006,adm2,United States of America,Utah,Carbon,,,39.64834818,-110.5872512
 6007,adm2,United States of America,Utah,Central Utah,,,39.37231946,-111.5758676
@@ -6219,7 +6219,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6218,adm2,United States of America,Washington,Lincoln,,,47.57705241,-118.4194388
 6219,adm2,United States of America,Washington,Mason,,,47.35007586,-123.1863685
 6220,adm2,United States of America,Washington,Okanogan,,,48.54855019,-119.7387224
-6221,adm2,United States of America,Washington,Out of WA,,,45.8807558,-89.17580140000004
+6221,adm2,United States of America,Washington,Out of WA,,,45.880755799999996,-89.17580140000004
 6222,adm2,United States of America,Washington,Pacific,,,46.55418369,-123.7285716
 6223,adm2,United States of America,Washington,Pend Oreille,,,48.53234021,-117.2741804
 6224,adm2,United States of America,Washington,Pierce,,,47.03892768,-122.1405958
@@ -6272,7 +6272,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6271,adm2,United States of America,West Virginia,Morgan,,,39.55439028,-78.26311676
 6272,adm2,United States of America,West Virginia,Nicholas,,,38.29617706,-80.79759588
 6273,adm2,United States of America,West Virginia,Ohio,,,40.0955451,-80.62203992
-6274,adm2,United States of America,West Virginia,Out of WV,,,45.8807558,-89.17580140000004
+6274,adm2,United States of America,West Virginia,Out of WV,,,45.880755799999996,-89.17580140000004
 6275,adm2,United States of America,West Virginia,Pendleton,,,38.68314479,-79.35084086
 6276,adm2,United States of America,West Virginia,Pleasants,,,39.37091679,-81.16771771
 6277,adm2,United States of America,West Virginia,Pocahontas,,,38.32758728,-80.00993811
@@ -6385,7 +6385,7 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 6384,adm2,United States of America,Wyoming,Lincoln,,,42.26376367,-110.6563997
 6385,adm2,United States of America,Wyoming,Natrona,,,42.96180148,-106.797885
 6386,adm2,United States of America,Wyoming,Niobrara,,,43.05607708,-104.4758896
-6387,adm2,United States of America,Wyoming,Out of WY,,,31.436491,-87.326678
+6387,adm2,United States of America,Wyoming,Out of WY,,,31.436490999999997,-87.326678
 6388,adm2,United States of America,Wyoming,Park,,,44.52157546,-109.5852825
 6389,adm2,United States of America,Wyoming,Platte,,,42.13299116,-104.966331
 6390,adm2,United States of America,Wyoming,Sheridan,,,44.79048913,-106.8862389
