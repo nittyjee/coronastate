@@ -59,7 +59,7 @@ df["date"]  = df["date"].dt.strftime('%Y%m%d')
 
 keep_columns = ['state', 'district', 'active', 'confirmed', 'deceased', 'recovered', 'date']
 df = df[keep_columns]
-df.to_csv("../rawdata/data/india_districts.csv", index=False)
+df.to_csv("../data/india_districts.csv", index=False)
 # Second, wrangle the data to find the start date and end date for each district
 df_sort = df.sort_values(["state", "district", "date"])
 df_start_date = df_sort.drop_duplicates(subset = ["state", "district", "confirmed"], keep="first").reset_index(drop=True)
