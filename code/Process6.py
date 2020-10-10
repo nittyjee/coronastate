@@ -9,6 +9,9 @@ input_path = "/home/nittyjee/code/coronastate/data/layers/"
 
 overall_summary_csv = "../data/overall_summary.csv"
 country_summary_csv = "../data/country_summary.csv"
+overall_rate_summary_csv = "../data/overall_rate_summary.csv"
+country_rate_summary_csv = "../data/country_rate_summary.csv"
+
 ###################### No changes below ######################
 
 
@@ -36,6 +39,9 @@ pdf2 = pdf.groupby("date").agg({"cases":"sum", "deaths":"sum", "recovered":"sum"
 pdf2["deaths"] = pdf2["deaths"].astype(int)
 pdf2["recovered"] = pdf2["recovered"].astype(int)
 pdf2["active"] = pdf2["cases"] - pdf2["recovered"]
+pdf2.to_csv(overall_summary_csv)
+
+
 pdf2['cases_prev'] = pdf2['cases'].shift(1)
 pdf2['daily_cases'] = pdf2['cases'] - pdf2['cases_prev']
 print(pdf2.head())
@@ -43,7 +49,7 @@ pdf2['roll_cases'] = pdf2["daily_cases"].rolling(window=7).mean()
 pdf2['roll_cases_prev'] = pdf2['roll_cases'].shift(1)
 pdf2["case_rate"]  = pdf2['roll_cases']/pdf2['roll_cases_prev'] - 1
 pdf2 = pdf2.drop(columns=['roll_cases','roll_cases_prev', "cases_prev"] )
-pdf2.to_csv(overall_summary_csv)
+pdf2.to_csv(overall_rate_summary_csv)
 print(pdf.columns)
 pdf3 = pdf.groupby(["date","adm0"]).agg({"cases":"sum", "recovered":"sum", "deaths":"sum"})
 pdf3 = pd.DataFrame(pdf3).reset_index()
@@ -55,6 +61,11 @@ pdf3 = pdf3.rename(columns={"date":"Date",
                             "cases":"Confirmed",
                             "recovered":"Recovered",
                             "deaths":"Deaths"})
+# pdf3 = pdf3.sort_values(["Date","Country"])
+print(pdf3.head(10))
+pdf3.to_csv(country_summary_csv)
+
+
 pdf3 = pdf3.sort_values(["Country", "Date"]).reset_index(drop=True)
 
 pdf3['cases_prev'] = pdf3.groupby(['Country'])['Confirmed'].shift(1)
@@ -66,4 +77,4 @@ pdf3['cases_rate'] = pdf3['moving']/pdf3['prev_value'] - 1
 pdf3 = pdf3.drop(columns=["prev_value", "cases_prev"])
 # pdf3 = pdf3.sort_values(["Date","Country"])
 print(pdf3.head(10))
-pdf3.to_csv(country_summary_csv)
+pdf3.to_csv(country_rate_summary_csv)
