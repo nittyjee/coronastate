@@ -11213,7 +11213,7 @@ adm2,Italy,Abruzzo,Teramo,,20201018,2,1278,,,data/newjob/all.json,https://raw.gi
 adm1,Ukraine,Cherkasy,,,20201018,2,6762,69.0,2626.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/ukraine-data,https://github.com/dmytro-derkach/covid-19-ukraine
 adm1,Italy,Emilia Romagna,,,20201018,2,40859,4515.0,27181.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
 adm1,Indonesia,Jawa Tengah,,,20201018,2,29079,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/indonesia-data,
-adm1,Albania,Tiran��,,,20201018,2,8047,206.0,4665.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/albania-data/data,https://github.com/lucil/covid19-albanian-data
+adm1,Albania,Tiranë,,,20201018,2,8047,206.0,4665.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/albania-data/data,https://github.com/lucil/covid19-albanian-data
 adm1,Poland,Greater Poland,,,20201018,2,15363,419.0,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,Russia,Republic of Chuvashia,,,20201018,2,9191,113.0,7705.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/russia-data/data,https://github.com/PhtRaveller/covid19-ru
 adm2,Italy,Abruzzo,Unassigned,,20201018,2,94,,,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,data/italy-dpc-data,https://github.com/pcm-dpc/COVID-19
