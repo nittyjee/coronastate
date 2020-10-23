@@ -368,7 +368,7 @@ lat,lon,cases,deaths,recovered,DayStart,DayEnd,placetype,adm0,adm1,adm2,adm3,ind
 55.01,-1.6,928,,,20201022,20250101,adm2,United Kingdom,England,North Tyneside,,,2,POINT (-1.6 55.01)
 53.5727,-0.6295,736,,,20201022,20250101,adm2,United Kingdom,England,North Lincolnshire,,,2,POINT (-0.6294999999999999 53.5727)
 40.656209999999994,109.83453999999999,11,,11.0,20201022,20250101,adm2,China,Neimenggu,Baotou,,,2,POINT (109.83454 40.65620999999999)
-47.5,-120.5,9802,202.0,,20201022,20250101,adm2,United States of America,Washington,Benton and Franklin,,,2,POINT (-120.5 47.5)
+47.5,-120.5,9802,201.0,,20201022,20250101,adm2,United States of America,Washington,Benton and Franklin,,,2,POINT (-120.5 47.5)
 39.3295,117.81936,4,,4.0,20201022,20250101,adm2,China,Tianjin,Ninghe District,,,2,POINT (117.81936 39.3295)
 46.45574000000001,15.267560000000001,10,,,20201022,20250101,adm2,Slovenia,Carinthia,Mislinja,,,2,POINT (15.26756 46.45574000000001)
 46.440359,14.026853,5,,,20201022,20250101,adm2,Slovenia,Southeast Slovenia,Mirna,,,2,POINT (14.026853 46.440359)
