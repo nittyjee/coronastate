@@ -14,4 +14,6 @@ filestructure.txt
 data/latestdata.csv
 data/layers/*_nl
 data/layers/
+data/all.csv
+data/all_locations.csv
 .DS_Store

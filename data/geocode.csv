@@ -2845,7 +2845,7 @@ Camden North Carolina United States of America,-76.15568396,36.33804939
 Cameron Louisiana United States of America,-93.19310676,29.87592238
 Cameron Pennsylvania United States of America,-78.20376845,41.43625568
 Cameron Texas United States of America,-97.48140372,26.14524221
-Cameroon,11.5021,3.8480000000000003
+Cameroon,11.5021,3.848
 Cametá PA Brazil,-49.4958,-2.2444
 Camiling  Tarlac Philippines,120.41667,15.7
 Camiling  Tarlac Province Philippines,120.41667,15.7
@@ -3317,6 +3317,7 @@ Caçu GO Brazil,-48.594533,-16.28201
 Caém BA Brazil,-40.143545,-14.792519
 Ceará Brazil,-39.65,-5.08
 Ceará-Mirim RN Brazil,-35.4247,-5.6432
+Cear�� Brazil,-51.6197890205486,-9.58890301712257
 Cebu  Cebu Philippines,123.640707,10.10464
 Cebu  Cebu Province Philippines,123.893107,10.30984
 Cebu City  Cebu Philippines,123.893107,10.30984
@@ -4396,7 +4397,7 @@ Cuyahoga Ohio United States of America,-81.65918339,41.424119
 Cuyapo  Nueva Ecija Philippines,120.66667,15.78333
 Cwm Taf Wales United Kingdom,-3.4067,53.2853
 Cyprus,33.4299,35.1264
-Czechia,15.472999999999999,49.8175
+Czechia,15.473,49.8175
 Cáceres MT Brazil,-57.6847,-16.0661
 Cárdenas  Havana Cuba,-82.321534,23.101612
 Cárdenas  Matanzas Cuba,-81.20361,23.04278
@@ -5111,7 +5112,7 @@ Eemnes Netherlands Netherlands,5.2572,52.2539
 Eersel Netherlands Netherlands,5.3147,51.3572
 Effingham Georgia United States of America,-81.34280942,32.36616021
 Effingham Illinois United States of America,-88.58969584,39.05935711
-Egypt,30.802497999999996,26.820553000000004
+Egypt,30.802498,26.820553000000004
 Ehime Japan,132.83333000000002,33.83333
 Eichsfeld  Thuringen Germany,10.997084,51.1107348
 Eichstatt  Bayern Germany,11.18389,48.89194000000001
@@ -5982,7 +5983,7 @@ Georgia,43.3569,42.3154
 Georgia United States of America,-83.5,33.0
 Gera  Thuringen Germany,12.08333,50.88056
 Gerabadi  Bihar India,86.1889788390678,25.776645585489998
-Germany,10.451526,51.165690999999995
+Germany,10.451526,51.165691
 Germersheim  Rheinland-Pfalz Germany,8.36667,49.21667
 Gerona  Tarlac Philippines,120.6,15.6
 Gerona  Tarlac Province Philippines,120.6,15.6
@@ -6282,7 +6283,7 @@ Greer Oklahoma United States of America,-99.56056120000001,34.93535801
 Gregg Texas United States of America,-94.81591935,32.47940482
 Gregory South Dakota United States of America,-99.18883902,43.19419064
 Greiz  Thuringen Germany,12.19972,50.65472000000001
-Grenada,-61.678999999999995,12.1165
+Grenada,-61.679,12.1165
 Grenada Mississippi United States of America,-89.80245083,33.77036166
 Grenoble  Auvergne-Rhone-Alpes France,5.72639,45.18694
 Grey Bruce  Ontario Canada,-81.0733135,44.3452746
@@ -6812,7 +6813,7 @@ Heidenheim District  Baden-Wurttemberg Germany,10.15444,48.67611
 Heihe Heilongjiang Mainland China China,127.48861,50.24583
 Heilbronn  Baden-Wurttemberg Germany,9.21667,49.15
 Heilbronn District  Baden-Wurttemberg Germany,9.21667,49.15
-Heilongjiang China,127.7615,47.861999999999995
+Heilongjiang China,127.7615,47.862
 Heilongjiang Mainland China China,129.0,48.0
 Heiloo Netherlands Netherlands,4.7019,52.6011
 Heinsberg  Nordrhein-Westfalen Germany,6.09639,51.06306
@@ -7353,8 +7354,8 @@ Inhuma PI Brazil,-41.7088,-6.6671
 Inhumas GO Brazil,-49.5001,-16.3611
 Inimutaba MG Brazil,-43.709643,-20.362734
 Inirida  Guainia Colombia,-67.92,3.87
-Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inmates Federal Bureau of Prisons United States of America,,
+Inmates Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Inner Mongolia China,113.9448,44.0935
 Innlandet Norway,8.0,61.0
 Inocência MS Brazil,-51.18813400000001,-19.678052
@@ -7486,7 +7487,7 @@ Isle of Wight Virginia United States of America,-76.70842863,36.90579348
 Isles of Scilly England United Kingdom,-6.292715,49.920153000000006
 Islington Greater London England United Kingdom,-0.08518200000000001,51.541155
 Isnos  Huila Colombia,-76.2406,1.9356
-Israel,34.851612,31.046051000000002
+Israel,34.851612,31.046051
 Israelândia GO Brazil,-50.9044,-16.3165
 Issaquena Mississippi United States of America,-90.97392828,32.72531359
 Istanbul Turkey,28.96028,41.01
@@ -8849,7 +8850,7 @@ Kusumbha  Bihar India,84.157942,24.763771
 Kutch  Gujarat India,70.367,23.915
 Kutch Gujarat India,70.367,23.915
 Kutna Hora  Central Bohemian Region Czech Republic,15.26823,49.94844000000001
-Kuwait,47.481766,29.311659999999996
+Kuwait,47.481766,29.31166
 Kuyavian-Pomeranian Poland,18.48333,53.06667
 Kuzma Mura Slovenia,16.08333,46.83333
 KwaZulu-Natal South Africa,31.0,-29.0
@@ -9173,7 +9174,7 @@ Lanzhou Gansu Mainland China China,103.83177,36.06171
 Laoac  Pangasinan Philippines,120.55,16.03333
 Laoag  Ilocos Norte Philippines,120.6,18.2
 Laois Ireland,-7.4,53.0
-Laos,102.495496,19.856270000000002
+Laos,102.495496,19.85627
 Lapa PR Brazil,-51.21845,-30.133303
 Lapeer Michigan United States of America,-83.22153148,43.09052506
 Lappi Hospital District Finland,26.705623,67.70620699999999
@@ -9858,7 +9859,7 @@ Macoupin Illinois United States of America,-89.92424028,39.26119767
 Macquarie Park  New South Wales Australia,151.12412,-33.7772
 Macuco RJ Brazil,-46.31,-23.96
 Macururé BA Brazil,-40.143545,-14.792519
-Madagascar,46.869107,-18.766947000000002
+Madagascar,46.869107,-18.766947
 Madalena CE Brazil,-46.688197,-23.556124
 Madanpur  Bihar India,87.50508,26.211686
 Madarganj  Bihar India,87.227593,25.169446
@@ -10023,7 +10024,7 @@ Malawi,34.3015,-13.2543
 Malay  Aklan Philippines,121.91667,11.9
 Malay Aklan Philippines,121.91667,11.9
 Malayalapuzha  Kerala India,76.835166,9.288535
-Malaysia,101.97576600000001,4.210483999999999
+Malaysia,101.975766,4.210483999999999
 Malda  West Bengal India,88.0,25.0
 Malda West Bengal India,88.0,25.0
 Maldives,73.2207,3.2028
@@ -10252,8 +10253,8 @@ Mariluz PR Brazil,-53.144995,-24.004061
 Marilândia ES Brazil,-40.5443,-19.4118
 Marilândia do Sul PR Brazil,-51.307738,-23.745186
 Marin California United States of America,-122.72106310000001,38.07122463
-Marine Corps US Military United States of America,,
 Marine Corps US Military United States of America,-83.09782779999998,42.3038203
+Marine Corps US Military United States of America,,
 Marinette Wisconsin United States of America,-88.03324599999998,45.38553432
 Maringa  Parana Brazil,-51.9383,-23.4251
 Maringá PR Brazil,-51.175513,-29.92957800000001
@@ -10305,6 +10306,7 @@ Marshall Alabama United States of America,-86.30486727,34.36975964
 Marshall Illinois United States of America,-89.34510444,41.0327901
 Marshall Indiana United States of America,-86.26185087,41.32467367
 Marshall Iowa United States of America,-92.99908190000001,42.03586837
+Marshall Islands,171.1845,7.1315
 Marshall Kansas United States of America,-96.52278974,39.78359669
 Marshall Kentucky United States of America,-88.32803576,36.88007070000001
 Marshall Minnesota United States of America,-96.37017407,48.35825983
@@ -10415,7 +10417,7 @@ Maurilândia GO Brazil,-50.3388,-17.9719
 Maurilândia do Tocantins TO Brazil,-47.5125,-5.9517
 Mauritania,-10.9408,21.0079
 Mauriti CE Brazil,-38.7738,-7.387
-Mauritius,57.552152,-20.348404000000002
+Mauritius,57.552152,-20.348404
 Maury Tennessee United States of America,-87.07462444,35.618741299999996
 Mauze Kahla  Bihar India,86.1889788390678,25.776645585489998
 Mauá SP Brazil,-46.45758,-23.688679
@@ -10937,7 +10939,7 @@ Montour Pennsylvania United States of America,-76.66345939,41.03023987
 Montreal  Quebec Canada,-73.554,45.5088
 Montrose Colorado United States of America,-108.26390220000002,38.40214114
 Montserrat Overseas Territories United Kingdom,-1.5682,52.7351
-Montserrat United Kingdom,-62.187366000000004,16.742498
+Montserrat United Kingdom,-62.187366,16.742498
 Monza e Brianza Lombardia Italy,9.456133,45.60412700000001
 Monção MA Brazil,-47.473509,-5.552434
 Monções SP Brazil,-47.412774,-22.75022
@@ -11349,8 +11351,8 @@ Naviraí MS Brazil,-51.18813400000001,-19.678052
 Navotas  Metro Manila Philippines,120.957272,14.664997
 Navsari  Gujarat India,72.92305999999998,20.95056
 Navsari Gujarat India,72.92305999999998,20.95056
-Navy US Military United States of America,-78.8835,42.9507
 Navy US Military United States of America,,
+Navy US Military United States of America,-78.8835,42.9507
 Nawada  Bihar India,85.53,24.88
 Nawada Bihar India,85.53,24.88
 Nawakothi  Bihar India,86.1889788390678,25.776645585489998
@@ -11436,7 +11438,7 @@ Nevada United States of America,-117.0,39.0
 Neves Paulista SP Brazil,-49.6358,-20.843000000000004
 New Bhojpur  Bihar India,84.66533000000003,25.55625
 New Brunswick Canada,-66.4619,46.5653
-New Caledonia France,165.618042,-20.904304999999997
+New Caledonia France,165.618042,-20.904305
 New Caledonia Overseas France France,165.3,-21.25
 New Castle County  Delaware United States,-75.601111,39.68548300000001
 New Castle Delaware United States of America,-75.64054974,39.57992638
@@ -11758,7 +11760,7 @@ Nova Santa Helena MT Brazil,-55.1781,-10.8497
 Nova Santa Rita PI Brazil,-51.2764,-29.849
 Nova Santa Rita RS Brazil,-51.2764,-29.849
 Nova Santa Rosa PR Brazil,-53.9548,-24.4681
-Nova Scotia Canada,-63.7443,44.681999999999995
+Nova Scotia Canada,-63.7443,44.682
 Nova Serrana MG Brazil,-44.9842,-19.8758
 Nova Soure BA Brazil,-48.527224,-0.716874
 Nova Tebas PR Brazil,-51.9454,-24.438
@@ -12927,7 +12929,7 @@ Pherzawl Manipur India,93.94169,24.80668
 Phetchabun Thailand,101.15593,16.43477
 Phetchaburi Thailand,99.94639,13.11056
 Philadelphia Pennsylvania United States of America,-75.1379271,40.00338507
-Philippines,121.77401699999999,12.879721
+Philippines,121.774017,12.879721
 Philips Colorado United States of America,-104.981324,39.760703
 Phillips Arkansas United States of America,-90.84800154,34.43268455
 Phillips Colorado United States of America,-102.3577703,40.59414277
@@ -14416,7 +14418,7 @@ Russell Alabama United States of America,-85.18415324,32.28725256
 Russell Kansas United States of America,-98.76254297,38.91462787
 Russell Kentucky United States of America,-85.06070117,36.99308373
 Russell Virginia United States of America,-82.10095486,36.93028320000001
-Russia,105.31875600000001,61.52401
+Russia,105.318756,61.52401
 Rutherford North Carolina United States of America,-81.92112099,35.40114178
 Rutherford Tennessee United States of America,-86.4107263,35.84591405
 Rutland England United Kingdom,-0.6709,52.6625
@@ -15623,7 +15625,7 @@ Shamli  Uttar Pradesh India,77.32,29.45
 Shamli Uttar Pradesh India,77.32,29.45
 Shandong China,118.1498,36.3427
 Shandong Mainland China China,118.4,36.4
-Shanghai China,121.4491,31.201999999999998
+Shanghai China,121.4491,31.202
 Shanghai Mainland China China,121.46667,31.16667
 Shangluo City  Shaanxi China,109.92445,33.86805
 Shangluo Shaanxi Mainland China China,109.92445,33.86805
@@ -16017,7 +16019,7 @@ South Salmara Mankachar  Assam India,93.0102659776342,26.344366793570003
 South Salmara Mankachar Assam India,91.77,26.14
 South Sikkim  Sikkim India,88.375283,27.304312
 South Sikkim Sikkim India,88.375283,27.304312
-South Sudan,31.307,6.8770000000000024
+South Sudan,31.307,6.877000000000002
 South Tripura  Tripura India,91.65353,23.183439
 South Tripura Tripura India,91.65353,23.183439
 South Tyneside England United Kingdom,-1.363151,54.972227
@@ -16039,7 +16041,7 @@ Southwark Greater London England United Kingdom,-0.104648,51.505676
 Southwest Utah United States of America,-119.49715,45.8919428674084
 Southwest Utah Utah United States of America,-111.4418764,37.85447192
 Souto Soares BA Brazil,-41.6495,-12.0878
-Spain,-3.7492199999999998,40.463667
+Spain,-3.74922,40.463667
 Spalding Georgia United States of America,-84.28013991,33.26310031
 Spartanburg South Carolina United States of America,-81.99225984,34.92960077
 Special  Isla de la Juventud Cuba,-82.85,21.75
@@ -16123,8 +16125,8 @@ Stade  Niedersachsen Germany,9.47639,53.60083
 Stadskanaal Netherlands Netherlands,6.95,52.98333
 StadtRegion Aachen  Nordrhein-Westfalen Germany,6.0825,50.77417
 Stadtverband Saarbrucken  Saarland Germany,7.0,49.23333
-Staff Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Staff Federal Bureau of Prisons United States of America,,
+Staff Federal Bureau of Prisons United States of America,-82.013547,28.759773
 Stafford Kansas United States of America,-98.71762001,38.03100851
 Stafford Virginia United States of America,-77.45917053,38.41758738
 Staffordshire England United Kingdom,-2.0,52.8333
@@ -16336,6 +16338,7 @@ Sveta Ana Drava Slovenia,15.844170000000002,46.64917
 Sveta Trojica v Slovenskih goricah Drava Slovenia,15.882220000000002,46.56806
 Sveti Andraž v Slovenskih goricah Drava Slovenia,15.83083,46.575
 Sveti Jurij ob Ščavnici Mura Slovenia,16.02603,46.56284
+Sveti Jurij ob Š��avnici Mura Slovenia,16.02603,46.56284
 Sveti Jurij v Slovenskih goricah Drava Slovenia,15.78417,46.60083
 Sveti Tomaž Drava Slovenia,14.306813,46.164153000000006
 Svitavy  Pardubice Region Czech Republic,16.468339999999998,49.75597
@@ -17445,7 +17448,7 @@ Turiúba SP Brazil,-47.412774,-22.75022
 Turkauliya  Bihar India,84.8243,26.6064
 Turkey,35.2433,38.9637
 Turks and Caicos Islands Overseas Territories United Kingdom,-71.58333,21.75
-Turks and Caicos Islands United Kingdom,-71.7979,21.69400000000001
+Turks and Caicos Islands United Kingdom,-71.7979,21.694000000000006
 Turmalina MG Brazil,-42.7315,-17.2861
 Turmalina SP Brazil,-47.412774,-22.75022
 Turmeque  Boyaca Colombia,-73.49018199999998,5.3239800000000015
@@ -17631,8 +17634,8 @@ Unassigned Tennessee United States of America,-85.9823352140893, 35.9885949444
 Unassigned Texas United States of America,-98.8223185136653, 31.8039734986
 Unassigned Toscana Italy,11.25303,43.776507
 Unassigned Trentino-Alto Adige Italy,11.394977,45.513803
-Unassigned US Military United States of America,,
 Unassigned US Military United States of America,-78.8835,42.9507
+Unassigned US Military United States of America,,
 Unassigned Umbria Italy,12.38757,43.110798
 Unassigned Utah United States of America,-111.602499934826, 39.2548171647
 Unassigned Valle d'Aosta Italy,7.36667,45.71667
@@ -17670,7 +17673,7 @@ Union South Dakota United States of America,-96.6557828,42.83112163
 Union Tennessee United States of America,-83.83651902,36.28590426
 Unisan  Quezon Philippines,121.98333,13.833329999999998
 Unistalda RS Brazil,-53.373430000000006,-29.814607
-United Arab Emirates,53.847818000000004,23.424076
+United Arab Emirates,53.847818,23.424076
 United Kingdom,-3.4360000000000004,55.3781
 United States of America,-100.0,40.0
 União PI Brazil,-42.866161,-4.582944
@@ -17923,6 +17926,7 @@ Vanderburgh Indiana United States of America,-87.58763124,38.02658833
 Vanini RS Brazil,-53.373430000000006,-29.814607
 Vaqueria  Caaguazu Paraguay,-55.820811,-24.997284
 Varakļānu novads Vidzeme Latvia,25.87549,57.407737
+Varak��ānu novads Vidzeme Latvia,25.87549,57.407737
 Varanasi  Uttar Pradesh India,83.00610999999998,25.30694
 Varanasi Uttar Pradesh India,83.00610999999998,25.30694
 Varaždinska Croatia,16.6791068850861,45.664952196837596
@@ -18070,7 +18074,7 @@ Vieirópolis PB Brazil,-35.958263,-7.221978
 Vieques Puerto Rico United States of America,-65.44097099999999,18.123276
 Viersen  Nordrhein-Westfalen Germany,6.4,51.26667
 Viesītes novads Zemgale Latvia,23.55503,56.583258
-Vietnam,108.277199,14.058323999999999
+Vietnam,108.277199,14.058324
 Vigia PA Brazil,-48.1417,-0.8583
 Vigo Indiana United States of America,-87.39169027,39.42944561
 Vijaipur  Bihar India,84.987346,26.076768
@@ -18825,7 +18829,7 @@ Yell Arkansas United States of America,-93.41171338,35.00292371
 Yellow Medicine Minnesota United States of America,-95.86842453,44.71710183
 Yellowstone County  Montana United States,-108.537678,45.802339
 Yellowstone Montana United States of America,-108.26914860000001,45.93955949
-Yemen,48.516388,15.552726999999999
+Yemen,48.516388,15.552727
 Yeonseo-myeon  Sejong South Korea,127.25,36.5833
 Yerba Buena  Tucuman Argentina,-65.31667,-26.81667
 Yhu  Caaguazu Paraguay,-55.92262,-25.059929
@@ -18880,7 +18884,7 @@ Yuma Arizona United States of America,-113.90666740000002,32.76895712
 Yuma Colorado United States of America,-102.4258673,40.00346839
 Yumbo  Valle del Cauca Colombia,-76.49444,3.57778
 Yuncheng Shanxi Mainland China China,110.99796,35.03042
-Yunnan China,101.48700000000001,24.974
+Yunnan China,101.487,24.974
 Yunnan Mainland China China,101.5,24.5
 Yunyang County Chongqing Mainland China China,108.69789,30.93304
 Yurimaguas  Alto Amazonas Peru,-77.85,-6.22
@@ -19087,6 +19091,7 @@ unassigned Wyoming United States of America,-107.5,43.0
 Šmartno ob Paki Savinja Slovenia,15.0325,46.32972
 Šmartno pri Litiji Central Slovenia Slovenia,14.84664,46.04408
 Šoštanj Savinja Slovenia,15.0,46.0
+Šo��tanj Savinja Slovenia,126.892923,37.484656
 Štore Savinja Slovenia,11.4754741,51.88532160000001
 Žalec Savinja Slovenia,15.0,46.0
 Železniki Upper Carniola Slovenia,15.0,46.0
