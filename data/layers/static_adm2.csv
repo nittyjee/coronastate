@@ -795,7 +795,7 @@ lat,lon,cases,deaths,recovered,DayStart,DayEnd,placetype,adm0,adm1,adm2,adm3,ind
 38.3453,-90.98100000000001,128,1.0,,20201031,20250101,adm2,United States of America,Missouri,St Clair,,,2,POINT (-90.98100000000001 38.3453)
 42.8209,-82.486,1726,65.0,,20201031,20250101,adm2,United States of America,Michigan,St Clair,,,2,POINT (-82.486 42.8209)
 46.440359,14.026853,36,,,20201031,20250101,adm2,Slovenia,Southeast Slovenia,Kočevje,,,2,POINT (14.026853 46.440359)
-42.8209,-82.486,8342,224.0,,20201031,20250101,adm2,United States of America,Illinois,St Clair,,,2,POINT (-82.486 42.8209)
+42.8209,-82.486,8405,224.0,,20201031,20250101,adm2,United States of America,Illinois,St Clair,,,2,POINT (-82.486 42.8209)
 56.12613,27.01427,41,,,20201031,20250101,adm2,Latvia,Latgale,Aglonas novads,,,2,POINT (27.01427 56.12613)
 53.651493,-1.906553,876,,,20201031,20250101,adm2,United Kingdom,England,Calderdale,,,2,POINT (-1.906553 53.651493)
 46.09758,15.52387,9,,,20201031,20250101,adm2,Slovenia,Savinja,Kozje,,,2,POINT (15.52387 46.09758)
