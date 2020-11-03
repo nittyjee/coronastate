@@ -9600,7 +9600,7 @@ adm1,China,Zhejiang,,,20201102,1,1287,1.0,1279.0,data/all_locations.csv,https://
 adm2,United States of America,Georgia,Toombs,,20201102,1,1526,58.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm1,China,Xinjiang,,,20201102,1,964,3.0,899.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm1,China,Tianjin,,,20201102,1,273,3.0,251.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
-adm0,US,,,,20201102,1,9291064,231490.0,3674981.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
+adm0,US,,,,20201102,1,9291087,231490.0,3674981.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm1,Bolivia,Beni,,,20201102,2,7289,373.0,4953.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,China,Taiwan,,,20201102,2,563,7.0,519.0,data/newjob/all.json,https://raw.githubusercontent.com/stevenliuyi/covid19/master/public/data/all.json,,
 adm1,China,Sichuan,,,20201102,1,754,3.0,713.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
