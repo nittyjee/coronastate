@@ -8,7 +8,7 @@ python /home/nittyjee/code/coronastate/code/preprocess_India_Districts.py 2>&1> 
 /usr/local/bin/python3.8 /home/nittyjee/code/coronastate/code/process_brazil.py 2>&1> /home/nittyjee/code/coronastate/code/process_brazil.log
 python /home/nittyjee/code/coronastate/code/Process1.py > /home/nittyjee/code/coronastate/code/Process1.log
 sleep 5
-python /home/nittyjee/code/coronastate/code/Process2.py > /home/nittyjee/code/coronastate/code/Process2.log
+#python /home/nittyjee/code/coronastate/code/Process2.py > /home/nittyjee/code/coronastate/code/Process2.log
 python /home/nittyjee/code/coronastate/code/Process4.py > /home/nittyjee/code/coronastate/code/Process4.log
 python /home/nittyjee/code/coronastate/code/Process6.py > /home/nittyjee/code/coronastate/code/Process6.log
 sleep 5
