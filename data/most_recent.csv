@@ -9649,7 +9649,7 @@ adm2,United States of America,Indiana,Boone,,20201109,1,1647,51.0,,data/all_loca
 adm2,United States of America,Indiana,Blackford,,20201109,1,330,8.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Indiana,Benton,,20201109,1,160,1.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Iowa,Clay,,20201109,1,750,4.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
-adm0,US,,,,20201109,1,10111077,238256.0,3928845.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
+adm0,US,,,,20201109,1,10110552,238256.0,3928845.0,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Georgia,Peach,,20201109,1,929,26.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Colorado,Rio Grande,,20201109,1,147,3.0,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
 adm2,United States of America,Alaska,North Slope,,20201109,1,325,,,data/all_locations.csv,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/,,
