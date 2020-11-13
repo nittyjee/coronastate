@@ -23,7 +23,9 @@ curl -X POST "https://api.mapbox.com/tilesets/v1/sources/coronastate/adm1_bunch2
 curl -X POST "https://api.mapbox.com/tilesets/v1/coronastate.adm1_bunch2-test?access_token=sk.eyJ1IjoiY29yb25hc3RhdGUiLCJhIjoiY2s5amVwNnJzMDJqODNuc2MxdDBwZGV0NyJ9.e8ftqhU0EuCVz5T4EYMShw"  -d @/home/nittyjee/code/coronastate/data/layers/recipe_adm1_bunch2.json  --header "Content-Type:application/json"
 curl -X POST "https://api.mapbox.com/tilesets/v1/coronastate.adm1_bunch2-test/publish?access_token=sk.eyJ1IjoiY29yb25hc3RhdGUiLCJhIjoiY2s5amVwNnJzMDJqODNuc2MxdDBwZGV0NyJ9.e8ftqhU0EuCVz5T4EYMShw"
 sleep 2m
-cat /home/nittyjee/code/coronastate/data/layers/adm2.geojson | jq -c ".features[]" > /home/nittyjee/code/coronastate/data/layers/adm2_nl
+#adm2 is a big file, and jq didn't work.
+geojson2ndjson /home/nittyjee/code/coronastate/data/layers/adm2.geojson > /home/nittyjee/code/coronastate/data/layers/adm2_nl
+#cat /home/nittyjee/code/coronastate/data/layers/adm2.geojson | jq -c ".features[]" > /home/nittyjee/code/coronastate/data/layers/adm2_nl
 curl -X DELETE "https://api.mapbox.com/tilesets/v1/sources/coronastate/adm2-test?access_token=sk.eyJ1IjoiY29yb25hc3RhdGUiLCJhIjoiY2s5amVwNnJzMDJqODNuc2MxdDBwZGV0NyJ9.e8ftqhU0EuCVz5T4EYMShw"
 
 curl -X POST "https://api.mapbox.com/tilesets/v1/sources/coronastate/adm2-test?access_token=sk.eyJ1IjoiY29yb25hc3RhdGUiLCJhIjoiY2s5amVwNnJzMDJqODNuc2MxdDBwZGV0NyJ9.e8ftqhU0EuCVz5T4EYMShw"    -F file=@/home/nittyjee/code/coronastate/data/layers/adm2_nl    --header "Content-Type: multipart/form-data"
